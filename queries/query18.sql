@@ -24,7 +24,7 @@ select  i_item_id,
        d_year = 2001 and
        ca_state in ('ND','WI','AL'
                    ,'NC','OK','MS','TN')
- group by (i_item_id, ca_country, ca_state, ca_county) with rollup
+ group by i_item_id, ca_country, ca_state, ca_county with rollup
  order by ca_country,
         ca_state, 
         ca_county,

@@ -22,4 +22,4 @@ fi
 
 set -e
 
-ls $QUERY_DIR/query*.sql | xargs -P $CORES -n 1 $SCRIPT_DIR/mysql_execute_query.sh $SCALE $OUTPUT_DIR $DB_NAME
+ls $QUERY_DIR/query*.sql | xargs -P $CORES -n 1 $SCRIPT_DIR/mysql_execute_query.sh $OUTPUT_DIR $DB_NAME

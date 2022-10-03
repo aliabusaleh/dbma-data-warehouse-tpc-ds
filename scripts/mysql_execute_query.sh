@@ -7,4 +7,4 @@
 # USAGE: ./mysql_execute_query.sh <OUTPUT_DIR> <DB_NAME> <QUERY_FILE>
 # EXAMPLE ./mysql_execute_query query_results/ tpcds query1.sql
 
-/usr/bin/time -o "$1/`basename ${3%.*}`.log" mysql -uroot -pTemp/123 $2 < $3 > "$1/`basename ${3%.*}`.res" 2> "$1/`basename ${3%.*}`.err"
+/usr/bin/time -o "$1/`basename ${3%.*}`.log" mysql -uroot -pTemp/123 -D$2 < $3 > "$1/`basename ${3%.*}`.res" 2> "$1/`basename ${3%.*}`.err"

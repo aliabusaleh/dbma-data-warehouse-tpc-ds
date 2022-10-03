@@ -10,4 +10,4 @@ file=$2
 
 table=`basename $file .dat | sed -e 's/_[0-9]_[0-9]//'`
 mysql -uroot -pTemp/123 -D$DB_NAME -e "TRUNCATE $table"
-mysql --local-infile=1 --default-character-set=latin1 --silent -uroot -pTemp/123 -D$DB_NAME -e "LOAD DATA LOCAL INFILE '$file' INTO TABLE $table FIELDS TERMINATED BY '|' LINES TERMINATED BY '\n'"
+mysql --local_infile=1 --default-character-set=latin1 -uroot -pTemp/123 -D$DB_NAME -e "LOAD DATA LOCAL INFILE '$file' INTO TABLE $table FIELDS TERMINATED BY '|' LINES TERMINATED BY '\n'"

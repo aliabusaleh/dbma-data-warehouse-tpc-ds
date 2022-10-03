@@ -12,10 +12,7 @@ TOOLS_DIR=/Users/rizwan/Downloads/ULB/dw/project/tpcds_toolkit/tools
 mkdir -p $DATA_DIR
 
 pushd $TOOLS_DIR
-./dsdgen -SCALE $SCALE -DIR $DATA_DIR -VERBOSE Y -PARALLEL 4 -CHILD 1
-./dsdgen -SCALE $SCALE -DIR $DATA_DIR -VERBOSE Y -PARALLEL 4 -CHILD 2
-./dsdgen -SCALE $SCALE -DIR $DATA_DIR -VERBOSE Y -PARALLEL 4 -CHILD 3
-./dsdgen -SCALE $SCALE -DIR $DATA_DIR -VERBOSE Y -PARALLEL 4 -CHILD 4
+./dsdgen -SCALE $SCALE -DIR $DATA_DIR -VERBOSE Y
 popd
 
-LANG=C && sed -i '' -e 's/^|/\N|/' -e 's/||/|\N|/g' -e 's/||/|\N|/g' -e 's/|$/|/' $DATA_DIR/*.dat
+LC_CTYPE=C && sed -i '' -e 's/^|/\N|/' -e 's/||/|\N|/g' -e 's/||/|\N|/g' -e 's/|$/|/' $DATA_DIR/*.dat

@@ -15,7 +15,7 @@ select  i_item_id,
        cd_education_status = 'Primary' and
        d_year = 1998 and
        s_state in ('TN','TN', 'TN', 'TN', 'TN', 'TN')
- group by (i_item_id, s_state) with rollup
+ group by i_item_id, s_state with rollup
  order by i_item_id
          ,s_state
  limit 100;

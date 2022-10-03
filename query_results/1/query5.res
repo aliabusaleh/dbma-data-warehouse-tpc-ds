@@ -1,0 +1,1 @@
+Terminal close -- query aborted

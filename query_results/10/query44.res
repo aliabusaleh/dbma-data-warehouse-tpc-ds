@@ -1,0 +1,11 @@
+rnk	best_performing	worst_performing
+1	ableableesen stpri	eingeingcallycallyable
+2	antioughtableationcally	barpriesecallypri
+3	oughtantin stcallyeing	esecallycallyantically
+4	n stpriantiablen st	callybarprically
+5	antioughtcallyprieing	antieseeingbaration
+6	eseeseoughteseese	NULL
+7	eingantiprieinganti	eseantibarantianti
+8	barcallyationcallycally	eingantieingationable
+8	oughtationantieingcally	eingantieingationable
+10	priationationn steing	eingantibarn stanti

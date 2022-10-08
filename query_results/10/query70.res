@@ -1,0 +1,9 @@
+total_sum	s_state	s_county	lochierarchy	rank_within_parent
+-4374330508.16	NULL	NULL	2	1
+-1291113920.42	SD	NULL	1	1
+-1535079489.95	AL	NULL	1	1
+-1548137097.79	TN	NULL	1	1
+-1535079489.95	AL	Walker County	0	1
+-1291113920.42	SD	Ziebach County	0	1
+-85711938.73	TN	NULL	0	1
+-1462425159.06	TN	Williamson County	0	1

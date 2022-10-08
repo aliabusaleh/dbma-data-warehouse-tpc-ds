@@ -1,0 +1,10478 @@
+brand_id	brand	t_hour	t_minute	ext_price
+2002001	importoimporto #1	7	30	28593.03
+5001002	amalgscholar #2	18	10	27413.98
+1004002	edu packamalg #2	8	57	25317.92
+1004002	edu packamalg #2	17	39	24268.87
+3001002	amalgexporti #2	18	17	23860.07
+8006008	corpnameless #8	19	48	22210.64
+6003003	exporticorp #3	17	48	21423.45
+5002001	exporticorp #4	6	8	21330.30
+8003004	exportinameless #4	19	13	20271.21
+10016016	corpamalgamalg #16	6	0	20126.70
+1001002	amalgamalg #2	18	47	20028.76
+9011008	amalgunivamalg #8	7	10	19727.04
+7007006	brandbrand #6	17	40	19720.26
+9014006	edu packunivamalg #6	7	49	19407.92
+10007012	brandunivamalg #12	17	22	19175.56
+2002001	importoimporto #1	17	46	19004.34
+7001008	amalgbrand #8	17	16	18884.46
+4003001	exportiedu pack #1	9	3	18796.80
+9014002	edu packunivamalg #2	19	26	18484.64
+7002008	importobrand #8	19	52	18259.00
+9014002	edu packunivamalg #2	9	32	18209.10
+2001002	amalgimporto #2	17	38	18204.05
+6001007	amalgcorp #7	17	9	18160.56
+2004002	edu packimporto #2	9	47	18054.90
+6013006	exportibrand #6	9	23	17889.89
+5001002	amalgscholar #2	19	6	17711.60
+5001002	amalgscholar #2	18	17	17578.55
+4002002	importoedu pack #2	6	28	17494.83
+3003001	exportiexporti #1	19	20	17476.48
+9001003	amalgmaxi #3	18	51	17450.75
+9009002	maximaxi #2	18	45	17438.49
+2003002	exportiimporto #2	19	42	17284.67
+4004001	scholarnameless #4	18	8	17210.98
+7010010	univnameless #10	6	17	17202.94
+8016006	corpmaxi #6	17	1	17179.20
+4004002	edu packedu pack #2	6	57	17018.68
+3001002	amalgexporti #2	8	59	16917.66
+6011001	amalgbrand #1	19	8	16659.00
+9008002	namelessmaxi #2	6	44	16641.86
+2004002	edu packimporto #2	9	16	16416.68
+4001002	amalgedu pack #2	17	5	16398.36
+4003002	exportiedu pack #2	19	59	16307.07
+9009006	maximaxi #6	17	39	16288.44
+8009009	maxinameless #9	19	0	16252.32
+9007003	brandmaxi #3	8	19	16211.76
+3001001	maxibrand #8	7	45	16200.90
+3003002	exportiexporti #2	7	18	16184.52
+7016006	corpnameless #6	18	36	16133.81
+4004001	edu packedu pack #1	19	1	16124.84
+4001002	amalgedu pack #2	17	34	16089.63
+1004001	edu packamalg #1	17	12	16072.65
+2004002	edu packimporto #2	17	49	16005.50
+1001002	amalgamalg #2	17	1	15970.33
+6004007	edu packscholar #2	19	54	15963.29
+10010017	univamalgamalg #17	19	36	15958.80
+1002002	importoamalg #2	17	47	15857.85
+2002001	importoimporto #1	18	2	15779.27
+4002001	importoedu pack #1	9	51	15765.75
+2003001	exportiimporto #1	18	21	15597.72
+9015003	scholarunivamalg #3	9	50	15593.76
+3003002	exportiexporti #2	19	41	15545.62
+1003001	exportiamalg #1	9	56	15533.28
+5002001	importoscholar #1	6	21	15366.70
+10008012	namelessunivamalg #12	19	42	15312.75
+9008008	namelessmaxi #8	17	14	15278.85
+9002003	importomaxi #3	17	5	15124.08
+2003001	exportiimporto #1	8	29	15079.68
+2003002	exportiimporto #2	8	15	14933.56
+3003001	exportiexporti #1	18	0	14821.17
+4003002	exportiedu pack #2	8	10	14736.56
+4004001	edu packedu pack #1	6	46	14729.48
+8008005	namelessnameless #5	18	43	14728.56
+4003001	exportiedu pack #1	17	41	14697.22
+5002002	importoscholar #2	19	43	14632.50
+4002002	importoedu pack #2	19	32	14622.26
+5004002	edu packscholar #2	8	54	14582.00
+2001002	amalgimporto #2	19	38	14552.91
+8006009	corpnameless #9	8	24	14548.92
+9002003	importomaxi #3	18	18	14543.10
+9001003	amalgmaxi #3	8	45	14529.58
+9012006	importounivamalg #6	18	20	14490.00
+2001001	amalgamalg #2	9	22	14488.42
+5001001	scholarunivamalg #8	17	2	14472.00
+1001002	amalgamalg #2	9	8	14409.29
+4001001	exportiimporto #2	18	43	14364.01
+5002001	exporticorp #4	17	44	14351.12
+3002001	importoexporti #1	8	45	14307.00
+10015012	scholaramalgamalg #12	18	21	14283.00
+1004002	edu packamalg #2	19	13	14280.87
+5003002	exportischolar #2	19	43	14248.98
+5004001	scholarnameless #6	18	4	14246.85
+1001002	amalgamalg #2	9	43	14157.55
+7012009	amalgamalg #2	17	4	14048.00
+8016001	corpmaxi #1	17	27	14032.76
+1004001	edu packamalg #1	9	29	14032.30
+10008013	namelessunivamalg #13	6	48	13997.10
+2002001	importoimporto #1	18	3	13978.74
+6005001	scholarcorp #1	17	10	13973.40
+8010004	univmaxi #4	8	14	13961.42
+2001002	amalgimporto #2	7	29	13858.56
+1004002	edu packamalg #2	18	12	13832.64
+3002002	importoexporti #2	18	9	13822.57
+2001002	amalgimporto #2	6	11	13779.20
+8014009	edu packamalg #2	7	58	13737.44
+4003001	exportiedu pack #1	17	7	13676.61
+4004002	edu packedu pack #2	18	8	13674.32
+9010009	univunivamalg #9	18	30	13654.91
+7006001	corpcorp #4	8	50	13632.28
+4001001	amalgedu pack #1	19	20	13616.32
+7010009	univnameless #9	8	50	13615.80
+2001002	amalgimporto #2	19	21	13576.96
+9015002	scholarunivamalg #2	6	27	13575.10
+10014016	edu packamalgamalg #16	17	31	13541.64
+9009003	maximaxi #3	9	3	13536.00
+5004001	amalgedu pack #2	7	41	13464.90
+4002001	importoedu pack #1	18	17	13428.85
+7006001	corpcorp #4	19	11	13403.65
+3002001	amalgexporti #2	9	40	13315.68
+2002002	importoimporto #2	8	31	13314.63
+7001005	amalgbrand #5	17	26	13304.39
+1001002	amalgamalg #2	7	14	13251.00
+7016001	amalgamalg #2	18	20	13189.53
+3003001	exportiexporti #1	9	23	13188.20
+8012004	importomaxi #4	6	19	13187.28
+8015007	scholarmaxi #7	18	9	13183.68
+6015008	scholarbrand #8	19	22	13160.40
+9003003	exportimaxi #3	18	18	13155.60
+7015002	scholarnameless #2	18	4	13135.71
+1004001	exportiunivamalg #12	19	3	13059.42
+1001002	amalgamalg #2	19	27	13006.93
+9004003	edu packmaxi #3	6	9	12966.40
+1004001	edu packamalg #1	18	10	12891.84
+2001002	amalgimporto #2	9	37	12867.66
+6002004	importocorp #4	17	38	12779.43
+1001002	amalgamalg #2	17	23	12769.60
+3002002	importoexporti #2	9	10	12718.92
+9009012	maximaxi #12	8	42	12697.86
+2003002	exportiimporto #2	8	10	12681.60
+2002002	importoimporto #2	19	8	12662.02
+2004002	edu packimporto #2	17	30	12629.76
+9009003	maximaxi #3	7	14	12620.79
+4003001	exportiedu pack #1	18	21	12616.00
+1003002	exportiamalg #2	18	49	12607.08
+4001001	amalgedu pack #1	17	10	12596.30
+6016003	corpbrand #3	6	55	12587.31
+1001001	scholarnameless #2	18	24	12540.05
+5004002	edu packscholar #2	17	57	12531.31
+1003002	exportiamalg #2	17	24	12470.89
+4003001	amalgexporti #2	18	49	12469.37
+4002001	importoscholar #2	19	52	12464.00
+6011003	importobrand #4	19	27	12418.56
+5002002	importoscholar #2	7	4	12398.84
+2002002	importoimporto #2	9	20	12378.96
+4001002	amalgedu pack #2	19	27	12367.00
+3001002	amalgexporti #2	6	7	12337.20
+6011001	amalgbrand #1	8	43	12327.42
+10006016	corpunivamalg #16	19	3	12318.36
+6015008	scholarbrand #8	9	43	12279.60
+3003002	exportiexporti #2	17	9	12275.58
+9004008	edu packmaxi #8	19	35	12248.04
+7006009	corpbrand #9	18	53	12237.68
+10010017	univamalgamalg #17	18	12	12231.45
+4001001	amalgedu pack #1	9	5	12221.44
+8003010	exportinameless #10	17	36	12208.32
+4002002	importoedu pack #2	18	26	12204.71
+3002002	importoexporti #2	18	8	12173.00
+1001002	amalgamalg #2	9	12	12126.75
+1004001	edu packimporto #2	9	20	12104.82
+9009006	maximaxi #6	18	10	12089.07
+8010003	namelessunivamalg #5	7	27	12079.35
+7003005	exportibrand #5	9	58	12074.50
+3001002	amalgexporti #2	19	17	12072.46
+7009009	maxibrand #9	7	49	12064.26
+1004002	edu packamalg #2	17	5	12018.97
+1003001	exportiamalg #1	17	40	12006.20
+2002001	importoimporto #1	17	7	12006.00
+3001001	amalgexporti #1	9	36	12004.44
+10004015	edu packunivamalg #15	8	0	11999.97
+6012002	importobrand #2	18	18	11987.26
+4002002	importoedu pack #2	17	56	11977.29
+10009006	maxiunivamalg #6	9	46	11973.28
+2001002	amalgimporto #2	9	38	11952.00
+10003007	exportiunivamalg #7	9	53	11909.60
+3001002	amalgexporti #2	9	22	11909.12
+10015012	scholaramalgamalg #12	19	4	11899.80
+7008009	namelessbrand #9	18	54	11864.94
+7002003	importobrand #3	19	29	11839.65
+2004002	edu packimporto #2	18	22	11822.04
+7012001	amalgamalgamalg #2	8	37	11818.48
+4002001	edu packscholar #2	7	45	11816.53
+3002002	importoexporti #2	9	0	11815.22
+7012001	amalgamalgamalg #2	9	17	11813.04
+6014006	edu packbrand #6	18	53	11799.35
+8004001	importonameless #2	9	25	11764.80
+7009009	maxibrand #9	9	11	11762.52
+1004002	edu packamalg #2	19	6	11682.24
+2002001	importoimporto #1	17	53	11679.72
+2003001	amalgbrand #4	8	47	11654.28
+6003001	exportiimporto #2	19	53	11653.29
+4002002	importoedu pack #2	18	51	11628.62
+5003002	exportischolar #2	19	55	11617.28
+6001007	amalgcorp #7	17	59	11607.00
+4001001	namelessmaxi #6	8	41	11603.36
+5003002	exportischolar #2	18	52	11580.98
+5003002	exportischolar #2	9	42	11577.35
+6009002	maxicorp #2	6	9	11572.34
+8003007	edu packnameless #8	9	12	11571.25
+6005001	scholarcorp #1	19	49	11541.15
+3004002	edu packexporti #2	17	56	11521.00
+1003002	exportiamalg #2	18	0	11476.60
+7004008	edu packbrand #8	19	11	11417.64
+5003002	exportischolar #2	17	30	11406.46
+2003002	exportiimporto #2	9	34	11369.31
+7014008	edu packnameless #8	17	51	11362.20
+2003002	exportiimporto #2	8	5	11307.84
+7009004	maxibrand #4	8	19	11285.74
+8008003	namelessnameless #3	17	18	11283.33
+4001002	amalgedu pack #2	7	7	11275.68
+3003002	exportiexporti #2	18	21	11267.52
+2001002	amalgimporto #2	18	23	11257.60
+8003004	exportinameless #4	7	47	11254.50
+6003008	exporticorp #8	7	32	11252.36
+2003001	exportiimporto #1	19	49	11237.62
+2003001	exportiimporto #1	6	30	11236.25
+4002001	exportiimporto #2	8	43	11233.00
+4004001	scholarnameless #4	19	17	11228.29
+1001002	amalgamalg #2	8	45	11228.24
+3002002	importoexporti #2	7	1	11224.85
+3001001	amalgexporti #1	9	52	11217.08
+7014001	edu packnameless #1	19	14	11214.84
+2002001	importoimporto #1	17	52	11214.44
+2001002	amalgimporto #2	18	47	11198.20
+2004002	edu packimporto #2	19	19	11196.20
+8005008	scholarnameless #8	19	43	11190.06
+7003008	exportibrand #8	17	50	11186.56
+6016006	corpbrand #6	18	18	11178.44
+7010010	univnameless #10	9	0	11174.76
+1004002	edu packamalg #2	17	32	11153.48
+3002001	importoexporti #1	19	35	11118.96
+3001001	amalgexporti #1	19	32	11108.79
+8009003	maxinameless #3	9	46	11097.52
+6012004	importobrand #4	18	1	11095.50
+4001001	exportiimporto #2	19	5	11081.10
+5002001	importoscholar #1	18	58	11072.55
+5001001	amalgscholar #1	18	25	11069.25
+4003001	exportiedu pack #1	19	12	11067.60
+7004009	importoimporto #2	9	5	11047.40
+1002002	importoamalg #2	6	32	11039.04
+4003002	exportiedu pack #2	18	34	11028.21
+6001007	amalgcorp #7	6	59	11028.11
+7010001	univnameless #1	19	2	10995.30
+2002001	importoimporto #1	19	3	10989.71
+3002001	corpcorp #8	19	21	10945.35
+4003001	exportiedu pack #1	9	59	10912.05
+4004001	edu packedu pack #1	17	29	10903.00
+3001002	amalgexporti #2	8	30	10890.80
+10013015	exportiamalgamalg #15	6	43	10890.66
+1004002	edu packamalg #2	9	10	10881.64
+4003001	exportiedu pack #1	9	52	10879.19
+10016016	corpamalgamalg #16	9	3	10854.74
+2004002	edu packimporto #2	17	50	10830.75
+7016006	corpnameless #6	7	1	10818.72
+9015009	scholarunivamalg #9	9	47	10818.45
+6012001	importobrand #1	18	6	10817.60
+2001002	amalgimporto #2	9	34	10810.80
+10003004	exportiunivamalg #4	17	27	10790.01
+4002002	importoedu pack #2	18	47	10789.35
+5001002	amalgscholar #2	17	4	10758.75
+10016001	corpamalgamalg #1	9	12	10758.00
+3004002	edu packexporti #2	9	45	10755.00
+2002001	importoimporto #1	8	18	10751.52
+2002002	importoimporto #2	17	44	10742.82
+2004002	edu packimporto #2	19	2	10732.64
+5003001	exportischolar #1	7	12	10730.02
+6011003	amalgbrand #3	9	54	10723.50
+1001001	amalgamalg #1	19	58	10714.62
+5003002	exportischolar #2	18	49	10714.40
+10016002	corpamalgamalg #2	18	40	10709.32
+3003001	exportiexporti #1	9	2	10700.83
+3002002	importoexporti #2	17	54	10700.52
+2001001	amalgimporto #1	17	59	10698.93
+8004004	edu packnameless #4	19	25	10691.12
+3003002	exportiexporti #2	17	29	10690.91
+4004001	edu packedu pack #1	6	55	10684.84
+1003002	exportiamalg #2	8	39	10669.17
+2004002	edu packimporto #2	9	10	10660.55
+3002002	importoexporti #2	17	15	10654.58
+3002001	univamalgamalg #6	9	48	10641.43
+4001001	namelessmaxi #6	19	3	10627.00
+8008009	namelessnameless #9	18	12	10622.12
+1003002	exportiamalg #2	18	11	10600.68
+9002003	importomaxi #3	19	17	10586.28
+3004002	edu packexporti #2	17	0	10566.99
+10006016	corpunivamalg #16	18	27	10558.00
+2002001	importoimporto #1	17	30	10546.00
+2004002	edu packimporto #2	9	11	10540.31
+7007010	brandbrand #10	19	15	10502.82
+6012002	importobrand #2	18	16	10499.40
+8005005	importonameless #6	9	7	10468.92
+4001002	amalgedu pack #2	7	5	10465.96
+5003002	exportischolar #2	17	39	10465.13
+1001001	exportiexporti #2	9	12	10460.35
+2001002	amalgimporto #2	18	57	10456.56
+7007004	brandbrand #4	19	26	10447.62
+9016003	corpunivamalg #3	18	43	10445.44
+6012003	importobrand #3	19	10	10427.69
+2002002	importoimporto #2	19	18	10402.30
+1004001	edu packscholar #2	18	24	10395.84
+7016001	corpnameless #1	7	16	10384.92
+2001001	importoimporto #2	19	24	10377.36
+1004002	edu packamalg #2	17	54	10375.94
+2004002	edu packimporto #2	19	24	10339.06
+5001001	amalgscholar #1	17	48	10335.03
+10007004	importoimporto #2	19	1	10328.22
+5001002	amalgscholar #2	18	7	10326.58
+2002001	exportiexporti #2	17	5	10320.36
+6015004	scholarbrand #4	17	8	10271.04
+10007004	importoimporto #2	9	22	10259.03
+1004001	edu packamalg #1	18	6	10256.30
+10003005	corpamalgamalg #6	7	15	10254.24
+9012005	univbrand #2	17	58	10253.49
+1004002	edu packamalg #2	7	1	10253.04
+1003002	exportiamalg #2	6	30	10242.29
+3004002	edu packexporti #2	8	29	10240.89
+1004002	edu packamalg #2	18	22	10239.10
+10006016	corpunivamalg #16	9	44	10237.40
+5004002	edu packscholar #2	17	58	10235.80
+2002001	importoimporto #1	17	10	10223.28
+4003002	exportiedu pack #2	19	35	10207.34
+4003002	exportiedu pack #2	6	5	10200.96
+7010010	univnameless #10	17	34	10196.76
+2003002	exportiimporto #2	17	20	10192.42
+6008005	namelesscorp #5	9	41	10183.96
+1001001	namelessunivamalg #4	17	59	10177.24
+2004002	edu packimporto #2	9	25	10159.35
+4001002	amalgedu pack #2	17	18	10149.83
+9014002	edu packunivamalg #2	17	53	10149.18
+5002002	importoscholar #2	9	44	10142.05
+7006007	edu packamalg #2	9	14	10122.08
+4002002	importoedu pack #2	17	53	10119.28
+8012004	importomaxi #4	8	14	10094.98
+5001001	amalgscholar #2	6	44	10087.03
+1002002	importoamalg #2	7	17	10078.81
+9016006	corpunivamalg #6	8	18	10074.92
+9007009	brandmaxi #9	18	22	10068.46
+2002001	importoimporto #1	19	15	10068.29
+6001001	amalgcorp #1	17	10	10065.90
+10003005	corpamalgamalg #6	9	37	10061.55
+9006009	corpmaxi #9	19	36	10049.40
+9010012	univunivamalg #12	9	25	10048.22
+10009006	maxiunivamalg #6	17	12	10041.69
+7006007	edu packamalg #2	19	39	10025.74
+4002001	importoedu pack #1	19	39	10024.08
+5002001	importoedu pack #2	19	20	10020.36
+4004002	edu packedu pack #2	18	47	10019.79
+3002002	importoexporti #2	19	15	10014.02
+6013006	exportibrand #6	6	3	10004.56
+2003002	exportiimporto #2	9	1	10001.79
+6011002	amalgbrand #2	18	55	9998.10
+3004002	edu packexporti #2	8	49	9997.68
+1001001	amalgamalg #1	19	48	9992.20
+2004002	edu packimporto #2	17	23	9959.68
+8001004	amalgnameless #4	18	57	9956.95
+5002002	importoscholar #2	8	40	9946.69
+7004008	edu packbrand #8	19	41	9940.00
+4001002	amalgedu pack #2	19	9	9935.89
+3003001	univamalgamalg #6	8	43	9935.38
+8012001	amalgexporti #2	7	5	9933.95
+3004002	edu packexporti #2	6	54	9933.44
+4004001	importoscholar #2	8	8	9931.10
+8003004	exportinameless #4	9	32	9928.92
+8005008	scholarnameless #8	18	36	9924.09
+6012003	univamalgamalg #14	19	58	9918.60
+4002002	importoedu pack #2	17	32	9913.06
+7001005	amalgbrand #5	17	11	9907.10
+3002001	namelessunivamalg #15	19	18	9892.96
+6011008	amalgbrand #8	18	2	9880.20
+10013013	exportiamalgamalg #13	19	18	9856.00
+2001002	amalgimporto #2	9	55	9842.67
+4004002	edu packedu pack #2	9	25	9829.57
+4001002	amalgedu pack #2	17	58	9821.70
+2004002	edu packimporto #2	9	37	9793.56
+2001002	amalgimporto #2	18	41	9760.08
+5003002	exportischolar #2	17	38	9753.08
+8010003	namelessunivamalg #5	6	7	9743.26
+6011008	amalgbrand #8	18	12	9729.21
+3002001	importounivamalg #7	8	36	9719.20
+6003003	exporticorp #3	9	20	9683.51
+1003001	exportiamalg #1	6	6	9671.80
+1002002	importoamalg #2	17	20	9671.05
+4002002	importoedu pack #2	9	2	9667.84
+2001002	amalgimporto #2	17	12	9638.72
+10016013	corpamalgamalg #13	8	44	9636.66
+4002002	importoedu pack #2	18	22	9627.95
+9006009	corpmaxi #9	8	42	9627.01
+4004001	edu packedu pack #1	19	42	9614.30
+5001002	amalgscholar #2	9	31	9596.52
+10007004	brandunivamalg #4	6	42	9593.14
+8002009	importonameless #9	17	54	9590.55
+6016006	corpbrand #6	17	30	9587.97
+9014008	edu packunivamalg #8	8	20	9585.07
+7013009	exportinameless #9	19	36	9581.22
+9012003	importounivamalg #3	18	59	9567.74
+2003001	exportiimporto #1	8	2	9566.76
+7003008	exportibrand #8	7	55	9555.70
+7006001	corpbrand #1	7	30	9551.92
+2002001	importoimporto #1	7	26	9541.00
+4002002	importoedu pack #2	17	16	9528.48
+7009010	maxibrand #10	19	4	9523.20
+8011008	amalgmaxi #8	9	47	9508.20
+5001001	edu packexporti #2	17	59	9507.14
+5003001	importoedu pack #2	8	46	9492.19
+2002001	exportiexporti #2	19	34	9469.60
+3002001	maxibrand #4	17	50	9451.20
+2003002	exportiimporto #2	17	4	9449.84
+1001002	amalgamalg #2	9	11	9431.60
+7002008	importobrand #8	8	58	9424.74
+3003001	amalgscholar #2	9	10	9406.80
+5003001	exportischolar #1	19	9	9406.10
+7004009	importoimporto #2	17	2	9397.40
+1003002	exportiamalg #2	17	18	9396.36
+2004002	edu packimporto #2	6	23	9396.36
+3003001	univamalgamalg #6	9	29	9391.59
+10011014	amalgamalgamalg #14	17	49	9386.44
+8006008	corpnameless #8	19	50	9383.32
+6015008	scholarbrand #8	8	50	9381.24
+6011003	importobrand #4	19	8	9366.38
+9006008	corpmaxi #8	7	5	9360.36
+2004002	edu packimporto #2	8	39	9351.08
+3003002	exportiexporti #2	17	52	9349.98
+9008002	namelessmaxi #2	19	36	9339.64
+6014002	edu packbrand #2	7	40	9339.36
+6006006	corpcorp #6	17	28	9336.60
+3002002	importoexporti #2	9	8	9330.75
+10008015	namelessunivamalg #15	18	5	9305.26
+3004001	edu packexporti #1	17	47	9291.63
+7006001	corpcorp #4	19	42	9275.90
+1003002	exportiamalg #2	18	32	9271.00
+9015002	scholarunivamalg #2	8	10	9266.52
+5001001	amalgscholar #1	17	51	9266.00
+9001008	amalgmaxi #8	9	33	9265.00
+7009009	exportibrand #10	18	41	9256.16
+4004001	maxinameless #8	18	55	9248.72
+1002001	importoamalg #1	19	54	9247.14
+10015005	scholaramalgamalg #5	7	41	9244.69
+2004002	edu packimporto #2	8	22	9244.62
+9016002	corpunivamalg #2	17	33	9236.58
+8001007	amalgamalg #2	17	4	9234.24
+5001002	amalgscholar #2	18	43	9232.09
+7009004	maxibrand #4	17	55	9229.80
+6008005	namelesscorp #5	18	51	9195.42
+7003005	exportibrand #5	8	9	9190.72
+10014016	edu packamalgamalg #16	9	13	9174.72
+6005001	scholarcorp #1	19	11	9164.56
+2004002	edu packimporto #2	18	25	9161.19
+6010004	univbrand #4	18	49	9153.00
+5001001	amalgscholar #2	8	25	9148.75
+4004001	edu packedu pack #1	18	31	9144.86
+6016005	corpbrand #5	8	20	9134.86
+1001001	amalgamalg #1	19	57	9125.20
+7006004	corpbrand #4	19	9	9114.12
+10014014	edu packamalgamalg #14	18	42	9103.86
+3001002	amalgexporti #2	18	36	9098.38
+7010008	univnameless #8	19	18	9091.42
+2003002	exportiimporto #2	17	42	9090.63
+3003002	exportiexporti #2	18	32	9088.61
+4004001	edu packedu pack #1	6	0	9088.58
+7002008	importobrand #8	8	55	9080.05
+4001001	importobrand #2	18	3	9076.50
+3004001	edu packexporti #1	8	55	9071.28
+1001002	amalgamalg #2	18	19	9061.78
+7015009	scholarnameless #9	6	45	9059.85
+9009003	maximaxi #3	8	41	9038.46
+1002002	importoamalg #2	9	10	9035.73
+4004001	edu packedu pack #1	17	41	9033.94
+9008008	namelessmaxi #8	18	10	9031.50
+5003002	exportischolar #2	18	43	9026.58
+4002001	importoscholar #2	8	39	9019.20
+5003001	exportischolar #1	17	23	8990.31
+7005007	scholarbrand #7	7	7	8986.20
+10002012	importounivamalg #12	9	57	8985.08
+2001001	amalgimporto #1	18	32	8970.78
+6007007	brandcorp #7	9	42	8963.56
+5001002	amalgscholar #2	17	37	8956.79
+4004002	edu packedu pack #2	19	16	8952.96
+6002004	importocorp #4	9	12	8952.00
+10010004	univamalgamalg #4	17	55	8937.38
+2004002	edu packimporto #2	17	26	8935.88
+2003002	exportiimporto #2	8	11	8924.36
+8008002	namelessnameless #2	19	35	8909.10
+1001002	amalgamalg #2	8	34	8908.89
+4004001	importoscholar #2	9	29	8905.07
+6016008	corpbrand #8	18	19	8903.04
+9011008	amalgunivamalg #8	9	1	8896.14
+4001002	amalgedu pack #2	7	32	8894.61
+10008004	namelessunivamalg #4	18	36	8891.19
+10012005	importoamalgamalg #5	19	5	8875.80
+2001001	amalgimporto #1	8	12	8867.88
+7010010	univnameless #10	9	3	8861.91
+4003002	exportiedu pack #2	18	55	8860.67
+2004001	edu packunivamalg #8	18	30	8855.27
+5001001	edu packexporti #2	19	49	8842.32
+7009010	maxibrand #10	19	9	8836.80
+5001001	amalgscholar #1	17	29	8826.48
+7004008	edu packbrand #8	19	24	8824.17
+10015012	scholaramalgamalg #12	6	57	8816.21
+7009004	maxibrand #4	17	18	8808.80
+3003001	exportiexporti #1	17	35	8805.98
+3002002	importoexporti #2	17	49	8805.28
+2003002	exportiimporto #2	9	41	8803.24
+10016001	corpamalgamalg #1	9	51	8801.25
+9012003	importounivamalg #3	9	35	8800.40
+4003001	edu packamalg #2	7	42	8798.83
+4003002	exportiedu pack #2	17	15	8794.42
+7001009	amalgbrand #9	8	42	8793.36
+6014005	edu packamalgamalg #8	17	47	8792.31
+NULL	NULL	9	1	8786.47
+5002002	importoscholar #2	6	45	8785.80
+10015013	scholaramalgamalg #13	19	13	8771.88
+9006006	corpmaxi #6	17	34	8751.33
+2003002	exportiimporto #2	17	22	8744.36
+4001002	amalgedu pack #2	9	53	8738.10
+4004002	edu packedu pack #2	19	23	8730.80
+7009005	maxibrand #5	18	56	8729.16
+5003001	exportischolar #1	8	34	8724.15
+5001001	amalgbrand #8	17	16	8719.38
+8012001	amalgexporti #2	9	58	8713.25
+10005014	scholarunivamalg #14	9	51	8709.12
+7010010	univnameless #10	8	29	8701.65
+7001008	amalgbrand #8	8	38	8697.39
+3004001	edu packscholar #2	19	11	8679.99
+1001002	amalgamalg #2	19	2	8677.48
+3002001	univamalgamalg #6	18	31	8674.78
+4002002	importoedu pack #2	17	29	8673.21
+10003004	exportiunivamalg #4	19	12	8669.46
+7016010	corpnameless #10	9	9	8640.06
+9015003	scholarunivamalg #3	8	29	8621.06
+5001001	amalgbrand #8	18	14	8618.56
+8001009	amalgamalg #2	9	38	8617.87
+3001002	amalgexporti #2	18	40	8615.31
+5001002	amalgscholar #2	17	0	8608.80
+3001001	amalgexporti #1	19	37	8596.33
+3002001	univamalgamalg #6	18	24	8565.66
+6015004	scholarbrand #4	8	32	8548.74
+3003001	exportiexporti #1	9	31	8544.69
+7008006	namelessbrand #6	9	51	8540.50
+1002001	importoamalg #1	18	13	8539.55
+2004002	edu packimporto #2	17	59	8539.26
+1001002	amalgamalg #2	18	5	8522.86
+2002002	importoimporto #2	9	18	8521.75
+3002002	importoexporti #2	19	9	8517.65
+9007009	brandmaxi #9	19	37	8500.80
+1002002	importoamalg #2	19	21	8497.30
+1003002	exportiamalg #2	18	18	8496.80
+5004002	edu packscholar #2	8	17	8494.05
+5003002	exportischolar #2	17	50	8482.56
+6009008	maxicorp #8	19	6	8477.98
+3004002	edu packexporti #2	18	19	8477.49
+8010003	namelessunivamalg #5	17	50	8474.50
+4002002	importoedu pack #2	17	31	8474.12
+10009013	maxiunivamalg #13	17	6	8461.02
+6003008	exporticorp #8	18	27	8457.54
+8006009	corpnameless #9	6	52	8455.00
+3004001	edu packexporti #1	18	55	8441.52
+8012010	importomaxi #10	18	1	8437.66
+1003001	exportiamalg #1	9	0	8429.35
+10004015	edu packunivamalg #15	17	53	8407.97
+9014002	edu packunivamalg #2	17	13	8405.64
+3003001	exportiexporti #1	17	10	8401.14
+9012003	importounivamalg #3	17	34	8398.08
+5002002	importoscholar #2	9	12	8397.18
+1001002	amalgamalg #2	9	44	8393.36
+7001008	amalgbrand #8	7	11	8386.60
+1003001	exportiamalg #1	17	8	8371.48
+3003002	exportiexporti #2	8	2	8368.35
+7001004	amalgbrand #4	17	53	8363.73
+2002002	importoimporto #2	18	32	8355.87
+2002001	importoimporto #1	17	19	8355.21
+10010004	univamalgamalg #4	19	38	8345.70
+6011002	amalgbrand #2	9	16	8339.76
+7009010	maxibrand #10	17	43	8329.08
+8004003	edu packnameless #3	18	0	8315.44
+1001001	amalgamalg #1	19	46	8312.86
+6016005	corpbrand #5	19	57	8298.44
+10015012	scholaramalgamalg #12	17	33	8287.51
+5001002	amalgscholar #2	8	19	8285.01
+9010009	univunivamalg #9	17	42	8281.96
+3001001	amalgexporti #1	9	59	8278.00
+2004002	edu packimporto #2	18	1	8273.25
+3003001	exportiexporti #1	19	49	8263.71
+10009001	maxiunivamalg #1	6	4	8255.88
+4001001	amalgedu pack #1	9	15	8250.48
+6016006	corpbrand #6	18	51	8232.94
+6013002	exportibrand #2	6	7	8202.60
+7008009	namelessbrand #9	9	32	8202.30
+5002001	importoedu pack #2	9	15	8188.07
+8006009	corpnameless #9	19	50	8187.97
+8014004	edu packmaxi #4	9	22	8186.36
+9011008	amalgunivamalg #8	17	15	8175.30
+4001001	amalgedu pack #1	19	21	8164.20
+8005006	scholarnameless #6	8	10	8153.96
+1003002	exportiamalg #2	19	47	8149.50
+5003002	exportischolar #2	17	20	8136.96
+1004001	edu packamalg #1	17	30	8133.66
+1003002	exportiamalg #2	18	12	8130.09
+7005010	scholarbrand #10	19	52	8110.00
+7003005	exportiedu pack #2	19	45	8101.52
+10014003	edu packamalgamalg #3	18	8	8098.29
+3001002	amalgexporti #2	8	7	8096.51
+10003004	exportiunivamalg #4	9	27	8096.00
+10007004	importoimporto #2	9	23	8091.65
+2001002	amalgimporto #2	8	29	8081.70
+4002001	edu packscholar #2	8	13	8081.65
+1003002	exportiamalg #2	18	48	8081.42
+1004002	edu packamalg #2	19	45	8080.36
+2004001	edu packimporto #1	18	42	8076.48
+7003002	exportibrand #2	7	32	8071.00
+7012009	amalgamalg #2	19	12	8069.05
+3002001	namelessunivamalg #15	18	45	8063.25
+2001002	amalgimporto #2	18	1	8060.80
+10005014	scholarunivamalg #14	7	33	8057.52
+5004001	amalgedu pack #2	19	48	8050.89
+6015006	scholarbrand #6	9	41	8036.34
+1001001	amalgamalg #1	19	44	8027.12
+10016001	corpamalgamalg #1	9	41	8024.16
+6014006	edu packbrand #6	19	29	8023.84
+1002001	importoamalg #1	9	9	8011.20
+5001001	amalgscholar #1	18	28	8002.76
+4004002	edu packedu pack #2	17	37	7999.34
+6014005	edu packamalgamalg #8	19	47	7986.86
+9013009	exportiunivamalg #9	9	13	7982.84
+7008006	namelessbrand #6	17	8	7981.06
+4004001	maxinameless #8	17	37	7964.41
+9014002	edu packunivamalg #2	17	54	7957.60
+4001001	amalgedu pack #1	7	24	7948.59
+9012011	importoamalg #2	9	15	7944.19
+3002002	importoexporti #2	9	54	7943.81
+5004002	edu packscholar #2	9	45	7936.85
+1003002	exportiamalg #2	19	24	7935.30
+4003001	exportiedu pack #1	19	38	7929.32
+3002001	univamalgamalg #6	6	0	7928.10
+9002003	importomaxi #3	8	29	7927.92
+1001001	amalgamalg #1	9	23	7926.62
+6008007	namelesscorp #7	17	1	7924.20
+6003008	exporticorp #8	18	40	7923.70
+10011017	amalgamalgamalg #17	17	6	7921.50
+6015004	scholarbrand #4	17	11	7921.47
+5004002	edu packscholar #2	19	38	7918.25
+4003001	exportiedu pack #1	19	21	7914.20
+9001008	amalgmaxi #8	17	20	7893.55
+4002002	importoedu pack #2	17	5	7888.30
+9001008	amalgmaxi #8	17	54	7884.24
+10010001	univamalgamalg #1	8	2	7883.03
+1004002	edu packamalg #2	19	5	7881.10
+1002002	importoamalg #2	8	18	7864.04
+2001002	amalgimporto #2	8	5	7860.60
+4001002	amalgedu pack #2	7	42	7851.87
+2004002	edu packimporto #2	19	25	7844.90
+1003001	namelessunivamalg #12	7	21	7839.28
+8015006	scholarmaxi #6	9	55	7837.06
+10007015	brandunivamalg #15	19	31	7834.24
+7009005	maxibrand #5	18	46	7826.94
+4001001	exportiimporto #2	19	2	7820.43
+1002002	importoamalg #2	8	3	7819.03
+1002001	importoamalg #1	17	3	7815.84
+9001008	amalgmaxi #8	19	20	7809.00
+9009002	maximaxi #2	7	16	7806.24
+2003002	exportiimporto #2	18	50	7795.30
+6005005	edu packnameless #8	18	0	7792.33
+2002001	importoimporto #1	9	12	7785.63
+6015008	scholarbrand #8	9	47	7784.14
+NULL	NULL	17	34	7781.40
+9013002	exportiunivamalg #2	18	19	7780.98
+3002001	importoexporti #1	19	5	7771.28
+4003001	amalgexporti #2	19	10	7767.96
+1004002	edu packamalg #2	17	3	7766.28
+1004001	amalgunivamalg #6	18	27	7760.61
+10008002	namelessunivamalg #2	9	7	7758.90
+10010017	univamalgamalg #17	9	18	7749.46
+4003001	exportischolar #2	19	28	7745.60
+5002001	importoscholar #1	9	44	7744.64
+7006001	corpbrand #1	6	23	7738.72
+5002002	importoscholar #2	18	5	7735.20
+10016002	corpamalgamalg #2	7	58	7734.32
+1004002	edu packamalg #2	17	15	7730.47
+5002001	importoedu pack #2	17	44	7729.24
+8008003	namelessnameless #3	6	57	7729.02
+8012001	amalgexporti #2	18	7	7725.30
+10009009	maxiunivamalg #9	17	30	7720.24
+6011008	amalgbrand #8	9	13	7716.96
+6003008	exporticorp #8	9	31	7714.56
+2004002	edu packimporto #2	17	1	7714.25
+6009004	maxicorp #4	9	20	7713.44
+1002002	importoamalg #2	19	30	7707.80
+7007010	brandbrand #10	17	9	7702.88
+2002001	amalgscholar #2	18	12	7694.94
+2004001	edu packcorp #8	17	36	7693.44
+2003002	exportiimporto #2	17	5	7691.87
+7010008	univnameless #8	18	28	7691.00
+6015002	scholarbrand #2	17	8	7678.32
+4003002	exportiedu pack #2	7	42	7674.66
+3003001	exportiedu pack #2	9	8	7666.95
+8005009	scholarnameless #9	9	19	7660.00
+6011002	amalgbrand #2	17	38	7657.44
+7015002	scholarnameless #2	18	40	7642.53
+1003001	exportiamalg #1	9	16	7639.05
+2001002	amalgimporto #2	19	12	7636.86
+9009009	maximaxi #9	8	27	7634.68
+5002002	importoscholar #2	18	0	7625.28
+9016002	corpunivamalg #2	19	30	7621.43
+4001001	amalgedu pack #1	17	31	7621.29
+3003001	exportiexporti #1	8	6	7604.10
+9011009	amalgunivamalg #9	17	33	7602.70
+4003001	exportiedu pack #1	19	14	7593.12
+10010001	univamalgamalg #1	17	38	7577.46
+8016001	corpmaxi #1	18	26	7571.23
+4003001	exportiedu pack #1	9	10	7566.08
+8005005	importonameless #6	9	50	7565.35
+2004001	edu packimporto #1	19	23	7560.10
+2003002	exportiimporto #2	9	46	7552.09
+8003007	edu packnameless #8	6	6	7545.15
+7006001	corpbrand #1	19	35	7539.72
+1004001	importounivamalg #12	9	38	7519.68
+2002001	exportiexporti #2	9	59	7513.80
+2001002	amalgimporto #2	18	12	7506.67
+10016001	corpamalgamalg #1	9	13	7502.66
+1001002	amalgamalg #2	9	55	7497.67
+4003001	exportiedu pack #1	9	58	7477.03
+1001002	amalgamalg #2	17	19	7469.99
+7004004	edu packbrand #4	18	9	7469.76
+2002002	importoimporto #2	17	53	7458.46
+5002001	importoscholar #1	17	30	7458.36
+10016003	corpamalgamalg #3	7	22	7457.40
+8015007	scholarmaxi #7	19	31	7455.42
+3004002	edu packexporti #2	19	55	7454.37
+1004002	edu packamalg #2	17	50	7451.75
+6011002	amalgbrand #2	19	43	7446.33
+1002001	importoamalg #1	17	16	7446.18
+6016001	corpbrand #1	9	58	7443.96
+5002002	importoscholar #2	17	21	7438.50
+9015002	scholarunivamalg #2	7	11	7434.70
+3002001	importoexporti #1	18	27	7434.30
+1001002	amalgamalg #2	18	7	7432.35
+5001002	amalgscholar #2	7	1	7432.22
+2003002	exportiimporto #2	19	18	7431.99
+3002002	importoexporti #2	8	44	7428.59
+8010008	univmaxi #8	9	2	7426.94
+10015017	scholaramalgamalg #17	7	28	7423.88
+10003011	exportiunivamalg #11	9	28	7420.92
+1003001	exportiedu pack #2	17	4	7420.09
+3003002	exportiexporti #2	19	4	7418.34
+2004002	edu packimporto #2	18	37	7414.82
+4003002	exportiedu pack #2	8	31	7412.00
+6008007	namelesscorp #7	18	8	7408.00
+4004002	edu packedu pack #2	18	31	7402.32
+8010003	namelessunivamalg #5	6	51	7399.70
+1001001	amalgamalg #1	19	24	7399.68
+3001001	amalgexporti #1	9	53	7399.42
+3001001	amalgexporti #1	9	18	7399.00
+1004002	edu packamalg #2	18	46	7395.71
+NULL	NULL	18	19	7385.27
+2004002	edu packimporto #2	17	10	7384.60
+8007010	brandnameless #10	17	2	7378.56
+2004002	edu packimporto #2	18	42	7378.17
+3003002	exportiexporti #2	17	17	7375.28
+8003004	exportinameless #4	17	57	7372.26
+1003002	exportiamalg #2	17	58	7369.60
+4003002	exportiedu pack #2	9	12	7363.74
+7012009	importonameless #9	17	17	7361.76
+4004002	edu packedu pack #2	17	53	7361.73
+3003001	exportiexporti #1	17	24	7359.39
+3004002	edu packexporti #2	9	15	7347.06
+6001002	amalgcorp #2	19	57	7341.36
+10007005	brandunivamalg #5	17	21	7337.28
+2004002	edu packimporto #2	19	38	7337.20
+10012001	importoamalgamalg #1	9	56	7334.88
+2002002	importoimporto #2	6	28	7331.94
+2002002	importoimporto #2	18	29	7322.28
+10006017	corpunivamalg #17	19	31	7317.24
+7008009	namelessbrand #9	8	21	7313.60
+3003001	exportiexporti #1	6	5	7293.68
+6011003	importobrand #4	18	22	7289.50
+5003001	exportischolar #1	9	54	7289.10
+10009001	maxiunivamalg #1	9	19	7287.50
+5002002	importoscholar #2	9	22	7283.70
+1001002	amalgamalg #2	9	52	7279.01
+3002001	corpcorp #8	18	49	7274.96
+3003002	exportiexporti #2	17	36	7267.25
+7006001	corpcorp #4	17	53	7267.14
+5004002	edu packscholar #2	8	7	7254.75
+7006004	NULL	6	53	7251.26
+7007010	brandbrand #10	18	0	7250.88
+10011009	amalgamalgamalg #9	17	26	7250.00
+1003001	brandbrand #6	9	3	7244.72
+10007004	brandunivamalg #4	7	32	7243.06
+2001002	amalgimporto #2	17	13	7241.22
+6001002	amalgcorp #2	19	45	7240.02
+3003002	exportiexporti #2	19	1	7238.74
+4004002	edu packedu pack #2	18	41	7236.59
+6011008	amalgbrand #8	17	27	7232.94
+1003002	exportiamalg #2	17	5	7228.93
+9012003	importounivamalg #3	19	7	7224.32
+1001002	amalgamalg #2	8	15	7219.80
+5002002	importoscholar #2	9	25	7216.56
+7007010	brandbrand #10	19	48	7213.53
+7012009	importonameless #9	9	4	7211.40
+1002002	importoamalg #2	17	0	7210.96
+2004002	edu packimporto #2	7	9	7206.64
+1004002	edu packamalg #2	8	45	7206.50
+5004002	edu packscholar #2	18	18	7206.36
+6012004	importobrand #4	19	48	7196.00
+4002001	exportiimporto #2	19	18	7195.02
+3001002	amalgexporti #2	19	42	7194.80
+5001001	amalgscholar #1	18	5	7189.60
+8001007	amalgamalg #2	8	24	7179.10
+2003002	exportiimporto #2	18	45	7175.05
+4004002	edu packedu pack #2	19	44	7173.76
+3002002	importoexporti #2	18	0	7173.36
+3001002	amalgexporti #2	18	10	7172.84
+9014008	edu packunivamalg #8	17	16	7172.51
+2003002	exportiimporto #2	18	34	7167.20
+9014003	edu packunivamalg #3	19	7	7165.39
+8014004	edu packmaxi #4	9	26	7164.00
+5002002	importoscholar #2	19	4	7155.90
+2003002	exportiimporto #2	19	31	7154.92
+4001001	importobrand #2	18	37	7141.15
+8003002	exportinameless #2	17	57	7135.13
+2001001	amalgimporto #1	17	33	7127.52
+10008013	namelessunivamalg #13	19	42	7124.65
+7010004	univnameless #4	6	32	7122.69
+8012006	importomaxi #6	17	44	7122.32
+7016006	corpnameless #6	18	17	7121.44
+1003002	exportiamalg #2	6	37	7120.25
+4003001	exportiedu pack #1	19	6	7118.00
+8016006	corpmaxi #6	7	43	7115.88
+5004001	amalgedu pack #2	6	46	7107.10
+4003001	exportiedu pack #1	17	52	7104.52
+5001002	amalgscholar #2	18	2	7098.16
+9014006	edu packunivamalg #6	17	49	7094.97
+8008003	namelessnameless #3	9	2	7085.61
+6016003	corpbrand #3	18	1	7085.34
+4004001	scholarnameless #4	19	16	7084.56
+1004001	amalgunivamalg #6	18	31	7081.77
+4004002	edu packedu pack #2	18	13	7076.37
+1002001	scholarbrand #4	9	59	7071.30
+7008009	namelessbrand #9	18	12	7068.96
+8007008	brandnameless #8	7	28	7066.24
+6008005	namelesscorp #5	19	2	7063.39
+8003004	exportinameless #4	9	36	7061.29
+4001002	amalgedu pack #2	18	48	7061.25
+2001002	amalgimporto #2	18	6	7040.06
+9015009	scholarunivamalg #9	7	1	7038.00
+6016006	corpbrand #6	19	14	7036.26
+8014005	edu packmaxi #5	8	31	7033.65
+3002002	importoexporti #2	6	15	7032.69
+3002002	importoexporti #2	18	19	7030.80
+3002002	importoexporti #2	18	40	7027.90
+1004002	edu packamalg #2	9	59	7025.29
+2001001	amalgimporto #1	18	36	7022.74
+8010009	univmaxi #9	9	38	7020.64
+8016001	corpmaxi #1	8	48	7012.49
+7006005	corpbrand #5	8	0	7012.24
+7012005	importonameless #5	19	33	7008.12
+5004001	edu packscholar #1	17	1	7007.26
+9010009	univunivamalg #9	8	38	7005.12
+5001002	amalgscholar #2	9	42	7004.93
+3004002	edu packexporti #2	17	47	6997.20
+2002001	importoimporto #1	18	56	6992.66
+4002001	importoedu pack #1	7	30	6991.38
+3004002	edu packexporti #2	8	22	6989.76
+5002002	importoscholar #2	9	8	6987.89
+10003004	exportiunivamalg #4	8	18	6986.10
+2004001	brandcorp #4	19	46	6982.50
+4004002	edu packedu pack #2	9	27	6974.52
+3002001	importoexporti #1	19	55	6973.74
+3004001	edu packexporti #1	7	13	6967.00
+8003007	edu packnameless #8	19	14	6962.88
+10006008	corpunivamalg #8	17	53	6962.62
+9008008	namelessmaxi #8	8	8	6961.16
+8012010	importomaxi #10	17	40	6955.72
+1004002	edu packamalg #2	6	46	6940.89
+7008006	namelessbrand #6	17	34	6934.32
+5002002	importoscholar #2	9	10	6925.36
+2004002	edu packimporto #2	6	28	6924.80
+1004001	edu packamalg #1	18	20	6917.04
+1003002	exportiamalg #2	7	37	6911.00
+3004002	edu packexporti #2	8	47	6910.56
+10011012	importoimporto #2	18	5	6909.35
+6008007	namelesscorp #7	9	33	6909.30
+1004001	edu packamalg #1	17	6	6906.64
+1003001	namelessunivamalg #12	19	23	6904.14
+7013001	exportinameless #1	17	34	6902.76
+8011008	amalgmaxi #8	7	32	6897.93
+6008007	namelesscorp #7	19	8	6879.60
+6015004	scholarbrand #4	9	58	6876.87
+9016003	corpunivamalg #3	17	9	6874.00
+4001001	amalgedu pack #1	19	45	6870.13
+4002001	corpcorp #6	17	21	6869.70
+3002001	importoexporti #1	18	16	6861.82
+4003002	exportiedu pack #2	7	46	6861.54
+2004002	edu packimporto #2	18	28	6844.50
+4003001	corpcorp #2	9	46	6838.44
+5001002	amalgscholar #2	17	48	6838.19
+6008005	namelesscorp #5	19	55	6837.00
+10011017	amalgamalgamalg #17	19	55	6817.20
+4001002	amalgedu pack #2	17	56	6815.86
+7012005	importonameless #5	6	13	6814.60
+8001004	amalgnameless #4	6	53	6801.60
+9009002	maximaxi #2	9	0	6798.92
+8002009	importonameless #9	19	6	6792.38
+9002008	importomaxi #8	17	22	6783.00
+3002001	importoexporti #1	19	12	6780.80
+3003001	importoimporto #2	17	48	6779.54
+6002008	importocorp #8	9	10	6765.00
+1002001	importoamalg #1	17	24	6757.65
+8010003	namelessunivamalg #5	18	12	6756.96
+4002001	corpcorp #6	9	22	6754.16
+3002002	importoexporti #2	9	48	6752.43
+4002001	importoedu pack #1	9	27	6750.39
+8001007	amalgamalg #2	17	6	6748.06
+7015009	scholarnameless #9	8	34	6742.89
+8004001	edu packnameless #1	8	34	6740.00
+10014001	maxibrand #4	8	34	6735.48
+3001001	amalgexporti #1	17	52	6728.89
+4002001	corpcorp #6	9	56	6725.70
+4001001	importobrand #2	19	46	6709.20
+8015005	scholarmaxi #5	9	6	6707.25
+6003008	exporticorp #8	9	51	6706.80
+5001002	amalgscholar #2	8	17	6702.92
+4002002	importoedu pack #2	19	28	6702.87
+6016001	amalgexporti #2	8	8	6701.80
+2004002	edu packimporto #2	18	10	6701.07
+2003002	exportiimporto #2	18	46	6699.33
+1003001	exportiamalg #1	6	52	6694.40
+5003002	exportischolar #2	18	41	6694.38
+4004002	edu packedu pack #2	8	14	6680.58
+6013006	exportibrand #6	18	53	6671.28
+3004002	edu packexporti #2	9	53	6667.85
+8005010	scholarnameless #10	7	44	6667.10
+2001002	amalgimporto #2	17	34	6664.70
+6015008	scholarbrand #8	17	18	6659.84
+7016009	univnameless #10	9	21	6652.80
+2001002	amalgimporto #2	18	8	6647.26
+9009012	maximaxi #12	9	4	6646.92
+1003001	exportiamalg #1	18	11	6645.38
+10003011	exportiunivamalg #11	19	7	6643.91
+1003001	exportiamalg #1	19	29	6642.27
+10004015	edu packunivamalg #15	17	38	6637.36
+10016016	corpamalgamalg #16	17	26	6634.76
+7009009	exportibrand #10	6	34	6632.90
+1003002	exportiamalg #2	18	13	6624.59
+9010009	univunivamalg #9	7	27	6622.56
+7010003	univnameless #3	19	36	6620.16
+2004002	edu packimporto #2	17	11	6616.08
+10005001	scholarunivamalg #1	9	46	6609.63
+8004004	edu packnameless #4	18	42	6605.50
+4001002	amalgedu pack #2	18	59	6604.19
+4004001	edu packedu pack #1	19	46	6599.30
+8015003	scholarmaxi #3	19	41	6596.48
+6011001	amalgbrand #1	9	40	6591.48
+5001002	amalgscholar #2	19	25	6591.05
+10001008	amalgunivamalg #8	17	58	6587.66
+6001007	amalgcorp #7	8	40	6586.10
+10003005	corpamalgamalg #6	7	42	6583.87
+1004001	amalgunivamalg #6	6	30	6578.88
+7001004	amalgbrand #4	19	37	6578.88
+6002004	importocorp #4	8	58	6572.12
+1004001	edu packamalg #1	9	10	6567.08
+5001002	amalgscholar #2	9	21	6558.58
+6012003	importobrand #3	18	6	6555.92
+7010010	univnameless #10	9	21	6555.45
+2002001	importoimporto #1	9	54	6552.26
+8008008	namelessnameless #8	18	54	6544.50
+8006008	corpnameless #8	7	59	6538.35
+1003001	exportiamalg #1	6	47	6538.34
+10010006	univamalgamalg #6	18	37	6530.30
+9004008	edu packmaxi #8	19	57	6530.04
+1002002	importoamalg #2	18	28	6519.16
+4003002	exportiedu pack #2	8	36	6510.70
+8003003	exportinameless #3	18	25	6500.80
+5004002	edu packscholar #2	9	38	6500.64
+5001002	amalgscholar #2	19	51	6496.16
+2003001	exportiimporto #1	17	8	6495.04
+8009009	maxinameless #9	19	5	6492.64
+6003001	exportiimporto #2	17	53	6489.12
+2004001	edu packimporto #1	19	49	6485.57
+5003001	exportischolar #1	17	18	6483.82
+6012002	importobrand #2	18	30	6480.32
+10014003	edu packamalgamalg #3	9	17	6471.60
+8002009	importonameless #9	18	26	6470.82
+9005009	scholarmaxi #9	19	59	6468.92
+7014008	edu packnameless #8	17	23	6467.22
+7015002	scholarnameless #2	17	12	6464.17
+1004001	edu packamalg #1	8	25	6462.28
+5004002	edu packscholar #2	19	58	6458.40
+4001002	amalgedu pack #2	9	35	6457.48
+6013002	exportibrand #2	18	28	6451.65
+1001001	brandnameless #8	6	13	6449.55
+1004002	edu packamalg #2	18	38	6448.44
+6014005	edu packamalgamalg #8	18	37	6447.93
+7001005	amalgbrand #5	9	53	6446.52
+10011013	amalgunivamalg #6	7	37	6442.59
+3002001	corpcorp #8	7	11	6442.20
+5003001	exportischolar #1	17	37	6436.29
+1004001	exportiunivamalg #12	17	3	6433.28
+3001002	amalgexporti #2	17	31	6432.11
+4002002	importoedu pack #2	19	35	6429.98
+4003002	exportiedu pack #2	18	52	6429.06
+7013002	exportinameless #2	7	12	6424.30
+1004001	edu packamalg #1	8	31	6423.95
+6015006	scholarbrand #6	19	30	6420.80
+6004004	edu packcorp #4	9	51	6420.48
+10015009	scholaramalgamalg #9	8	7	6419.16
+4004001	maxinameless #8	17	9	6415.80
+2002001	importoimporto #1	19	26	6415.15
+3002002	importoexporti #2	18	46	6414.20
+5002001	exportibrand #8	18	48	6412.48
+1001002	amalgamalg #2	19	39	6411.52
+9009003	maximaxi #3	7	30	6410.10
+5001001	amalgscholar #1	19	7	6410.06
+4003002	exportiedu pack #2	19	27	6402.89
+1004001	edu packamalg #1	9	52	6385.85
+5003002	exportischolar #2	17	35	6383.01
+4002002	importoedu pack #2	8	44	6371.00
+5003002	exportischolar #2	17	42	6368.64
+3001001	amalgexporti #1	6	56	6364.62
+10003011	exportiunivamalg #11	19	49	6359.70
+6010005	univbrand #5	19	11	6359.25
+10013013	exportiamalgamalg #13	19	29	6350.00
+2004001	edu packimporto #1	17	30	6346.10
+4003002	exportiedu pack #2	8	58	6334.72
+2002002	importoimporto #2	18	54	6334.03
+3001002	amalgexporti #2	8	1	6332.00
+4003001	exportiedu pack #1	8	7	6327.06
+4002002	importoedu pack #2	9	54	6326.67
+2001001	amalgimporto #1	19	30	6326.32
+4002002	importoedu pack #2	17	9	6318.42
+8007008	brandnameless #8	17	48	6316.20
+8008009	namelessnameless #9	9	3	6315.84
+5003001	exportischolar #1	18	56	6313.72
+7008004	namelessbrand #4	19	45	6305.00
+7016007	corpnameless #7	18	47	6303.15
+4003001	exportiedu pack #1	17	8	6300.90
+4002001	edu packbrand #8	8	17	6299.55
+1001001	scholarnameless #2	9	55	6296.69
+1002001	importoamalg #1	9	52	6295.41
+2003002	exportiimporto #2	19	45	6295.00
+3004002	edu packexporti #2	17	6	6291.22
+10008009	corpcorp #8	17	7	6290.97
+9006006	corpmaxi #6	9	16	6285.30
+8008003	namelessnameless #3	17	16	6282.24
+8013004	exportimaxi #4	17	58	6280.50
+2003002	exportiimporto #2	6	31	6279.36
+4004002	edu packedu pack #2	17	6	6278.85
+3004001	edu packexporti #1	19	42	6277.50
+3002001	importoexporti #1	17	28	6276.65
+10009017	maxiunivamalg #17	18	32	6272.72
+7016001	corpnameless #1	8	27	6270.57
+7009004	maxibrand #4	17	56	6257.16
+2004001	edu packimporto #1	19	36	6255.75
+7006009	corpbrand #9	18	17	6255.10
+3001002	amalgexporti #2	18	43	6250.50
+4004001	edu packedu pack #1	7	44	6249.88
+8005009	corpnameless #10	17	32	6249.32
+8014004	edu packmaxi #4	17	14	6244.70
+1002002	importoamalg #2	17	4	6240.05
+3002002	importoexporti #2	8	23	6238.05
+8003004	exportinameless #4	18	45	6235.08
+9009003	maximaxi #3	9	57	6234.80
+10015009	scholaramalgamalg #9	9	29	6233.02
+3004002	edu packexporti #2	9	23	6232.88
+1001001	amalgamalg #1	7	7	6228.64
+7007004	brandbrand #4	18	37	6219.30
+1004001	edu packamalg #1	17	33	6215.18
+1001002	amalgamalg #2	19	47	6206.58
+1001001	amalgunivamalg #13	7	18	6195.52
+9006009	corpmaxi #9	9	35	6186.39
+4003001	exportiedu pack #1	17	14	6184.34
+8010004	univmaxi #4	18	30	6182.39
+10012004	importoamalgamalg #4	19	53	6182.00
+1001001	amalgamalg #1	18	57	6180.52
+3003001	amalgscholar #2	18	4	6178.20
+3004001	edu packexporti #1	6	43	6174.56
+2004001	edu packimporto #1	19	20	6169.64
+7016006	corpnameless #6	9	13	6161.89
+3001001	maxibrand #8	9	23	6161.54
+6006006	corpcorp #6	18	16	6159.82
+9006006	corpmaxi #6	7	39	6159.63
+4002001	importoscholar #2	19	7	6158.85
+6004007	edu packscholar #2	18	58	6153.42
+1002001	amalgscholar #2	19	44	6150.80
+6005005	edu packnameless #8	17	13	6149.01
+5004002	edu packscholar #2	17	34	6147.60
+5001002	amalgscholar #2	17	45	6146.52
+3002002	importoexporti #2	18	36	6143.53
+10009013	maxiunivamalg #13	17	22	6141.36
+7006007	edu packamalg #2	17	59	6140.54
+5001001	amalgscholar #2	18	31	6136.68
+6011008	amalgbrand #8	19	6	6132.50
+6008005	namelesscorp #5	18	1	6130.88
+4004001	edu packedu pack #1	18	37	6127.09
+1001001	amalgamalg #1	8	16	6126.89
+5001001	scholarunivamalg #8	9	11	6124.08
+6015002	scholarbrand #2	17	16	6123.92
+7006001	corpcorp #4	17	57	6119.52
+5002002	importoscholar #2	17	59	6115.80
+4003002	exportiedu pack #2	19	8	6115.23
+5001001	amalgbrand #8	9	9	6114.74
+4004001	edu packedu pack #1	18	24	6111.35
+1002002	importoamalg #2	19	45	6109.50
+3003002	exportiexporti #2	19	56	6106.59
+3001001	maxibrand #8	8	46	6106.31
+1001001	amalgamalg #1	7	37	6103.68
+4001001	amalgedu pack #1	19	34	6103.66
+1004002	edu packamalg #2	19	56	6103.50
+9009012	maximaxi #12	19	42	6099.52
+3002001	importoexporti #1	17	55	6096.96
+9008002	namelessmaxi #2	18	31	6096.84
+3002001	amalgexporti #2	9	50	6092.82
+3004001	edu packexporti #1	17	22	6091.80
+6004004	edu packcorp #4	18	36	6090.54
+4002002	importoedu pack #2	8	14	6087.51
+1002001	amalgscholar #2	9	29	6086.30
+4003001	amalgexporti #2	8	22	6084.64
+3002002	importoexporti #2	8	39	6083.07
+3004002	edu packexporti #2	19	3	6082.82
+5001002	amalgscholar #2	17	52	6082.17
+1003001	brandbrand #6	19	16	6081.60
+9016006	corpunivamalg #6	18	44	6076.80
+9014003	edu packunivamalg #3	8	25	6074.05
+2002001	importoimporto #1	9	9	6070.50
+1002002	importoamalg #2	8	34	6069.72
+10002009	importounivamalg #9	19	52	6064.20
+4002001	importoedu pack #1	6	47	6062.37
+2003001	exportiimporto #1	17	11	6061.25
+2001001	amalgimporto #1	8	18	6059.85
+9014003	edu packunivamalg #3	18	18	6058.88
+8004004	edu packnameless #4	19	5	6047.65
+4003002	exportiedu pack #2	19	56	6047.36
+5002002	importoscholar #2	18	51	6046.74
+4001001	amalgedu pack #1	19	9	6045.80
+8008008	namelessnameless #8	9	13	6037.92
+10006016	corpunivamalg #16	8	35	6033.45
+1003002	exportiamalg #2	8	44	6030.64
+10015005	scholaramalgamalg #5	18	35	6023.30
+4002001	importoedu pack #1	9	29	6022.62
+4003001	exportiedu pack #1	9	45	6021.29
+4001002	amalgedu pack #2	7	41	6019.50
+8001003	importoscholar #2	19	5	6019.02
+1004001	edu packscholar #2	8	50	6014.04
+6003008	exporticorp #8	18	56	6011.70
+3003001	exportiexporti #1	19	26	6011.28
+10004015	edu packunivamalg #15	8	20	6010.17
+3003001	univamalgamalg #6	17	12	6010.08
+7012009	amalgamalg #2	7	38	6004.35
+10004005	importounivamalg #6	17	13	5995.92
+4004002	edu packedu pack #2	8	25	5992.00
+7001008	amalgbrand #8	17	54	5988.41
+8012006	importomaxi #6	17	45	5986.73
+7003005	exportiedu pack #2	17	12	5985.87
+2003001	exportiimporto #1	18	5	5984.79
+9015002	scholarunivamalg #2	19	6	5984.00
+4002001	importoedu pack #1	19	28	5980.44
+8015006	scholarmaxi #6	9	2	5975.70
+2002001	importoimporto #1	19	34	5975.68
+4004002	edu packedu pack #2	9	44	5975.14
+2002001	importoimporto #1	18	7	5974.80
+2003002	exportiimporto #2	17	17	5971.98
+4002002	importoedu pack #2	8	41	5970.35
+8003004	exportinameless #4	6	14	5962.50
+8015003	importoamalg #2	9	37	5962.50
+1004001	edu packscholar #2	19	49	5961.91
+5004002	edu packscholar #2	17	0	5954.80
+7016006	corpnameless #6	17	16	5954.52
+10016002	corpamalgamalg #2	18	46	5953.86
+7015007	scholarnameless #7	8	33	5951.88
+4004002	edu packedu pack #2	9	48	5949.06
+9009002	maximaxi #2	19	9	5939.01
+2002001	importoimporto #1	9	55	5935.82
+3001002	amalgexporti #2	9	58	5934.08
+8016006	corpmaxi #6	7	20	5923.54
+9007009	brandmaxi #9	18	34	5918.82
+10011012	importoimporto #2	17	40	5918.00
+3001001	amalgexporti #1	19	23	5915.60
+4001001	amalgedu pack #1	9	14	5915.52
+3004002	edu packexporti #2	17	46	5914.97
+10016001	corpamalgamalg #1	9	26	5913.73
+5002001	amalgamalgamalg #12	7	6	5912.01
+9009002	maximaxi #2	19	6	5906.15
+7002010	importobrand #10	9	2	5904.36
+4003001	exportischolar #2	19	1	5897.44
+4004002	edu packedu pack #2	18	44	5896.32
+6001001	amalgcorp #1	18	5	5893.44
+2001002	amalgimporto #2	9	46	5887.05
+3003001	exportiedu pack #2	19	53	5886.79
+1004002	edu packamalg #2	19	7	5884.32
+7008008	namelessbrand #8	17	20	5880.11
+10003014	exportiunivamalg #14	19	11	5877.82
+6001001	amalgcorp #1	18	8	5876.67
+10003016	exportiunivamalg #16	6	15	5876.67
+1003001	exportiamalg #1	19	5	5871.34
+9014006	edu packunivamalg #6	8	4	5869.50
+7016007	corpnameless #7	17	2	5868.24
+9009002	maximaxi #2	17	11	5867.22
+2002001	importoimporto #1	6	21	5863.00
+5001001	amalgscholar #1	19	41	5855.79
+8012005	importomaxi #5	17	17	5854.88
+7005007	scholarbrand #7	8	55	5853.76
+8001007	amalgamalg #2	17	56	5850.40
+7009005	amalgscholar #2	9	7	5849.70
+7014001	edu packnameless #1	9	59	5849.60
+3004002	edu packexporti #2	18	43	5846.41
+10010017	univamalgamalg #17	9	37	5844.02
+7008006	namelessbrand #6	19	36	5842.00
+10016003	corpamalgamalg #3	18	30	5837.39
+3003001	exportiexporti #1	17	47	5836.16
+9015003	scholarunivamalg #3	17	30	5835.85
+3002002	importoexporti #2	17	31	5833.00
+1003002	exportiamalg #2	18	47	5831.21
+5002002	importoscholar #2	18	37	5829.00
+5001002	amalgscholar #2	18	52	5822.88
+9013009	exportiunivamalg #9	9	1	5822.08
+3003002	exportiexporti #2	18	29	5821.20
+3001001	amalgexporti #1	17	10	5819.52
+5002002	importoscholar #2	17	50	5815.44
+3001002	amalgexporti #2	6	6	5809.68
+7007004	brandbrand #4	9	59	5806.38
+6015006	scholarbrand #6	17	37	5806.04
+5001001	scholarunivamalg #8	17	28	5805.20
+3001001	amalgexporti #1	8	2	5805.15
+1002001	importoamalg #1	17	50	5801.22
+3002002	importoexporti #2	18	10	5792.35
+8016010	corpmaxi #10	18	35	5791.87
+1003001	exportiedu pack #2	18	17	5791.23
+7006004	corpbrand #4	18	43	5790.43
+10016016	corpamalgamalg #16	9	59	5787.60
+1004002	edu packamalg #2	9	51	5785.08
+10008002	namelessunivamalg #2	6	52	5783.70
+10003005	corpamalgamalg #6	7	36	5782.59
+1003002	exportiamalg #2	8	29	5782.14
+1001002	amalgamalg #2	18	0	5781.20
+4001002	amalgedu pack #2	18	42	5774.90
+2003001	exportiimporto #1	19	38	5773.15
+1003002	exportiamalg #2	19	27	5771.58
+2004002	edu packimporto #2	17	17	5763.27
+1002001	importoamalg #1	18	32	5760.68
+8016004	corpmaxi #4	7	34	5758.06
+9015002	scholarunivamalg #2	9	17	5747.25
+1004002	edu packamalg #2	18	36	5745.84
+9009009	maximaxi #9	7	13	5744.98
+3002002	importoexporti #2	17	14	5743.78
+3001002	amalgexporti #2	9	18	5742.38
+5002002	importoscholar #2	17	4	5733.00
+6001007	amalgcorp #7	17	38	5732.49
+5001001	amalgscholar #1	19	45	5730.66
+1001001	amalgamalg #1	19	8	5730.24
+1004002	edu packamalg #2	6	4	5720.16
+8008009	namelessnameless #9	9	46	5720.00
+5001002	amalgscholar #2	8	39	5717.10
+7013001	exportinameless #1	17	33	5710.83
+3003002	exportiexporti #2	9	35	5710.50
+1003002	exportiamalg #2	6	34	5709.33
+6014006	edu packbrand #6	18	29	5707.75
+7009010	maxibrand #10	18	5	5707.61
+3001002	amalgexporti #2	18	50	5707.10
+5003002	exportischolar #2	17	7	5704.59
+3002002	importoexporti #2	18	41	5699.81
+5001002	amalgscholar #2	19	57	5697.12
+10009013	maxiunivamalg #13	17	17	5696.81
+8010008	univmaxi #8	9	7	5692.44
+4003002	exportiedu pack #2	18	4	5690.62
+1001002	amalgamalg #2	19	23	5681.91
+7002010	importobrand #10	17	14	5681.42
+8003004	exportinameless #4	17	27	5673.92
+10008002	namelessunivamalg #2	19	58	5673.69
+1004002	edu packamalg #2	8	12	5667.52
+3003001	exportiexporti #1	18	42	5664.56
+8003007	edu packnameless #8	9	33	5661.62
+1004001	edu packimporto #2	18	26	5661.46
+7002007	maxicorp #2	18	44	5658.70
+7009005	maxibrand #5	19	3	5656.45
+5001001	amalgscholar #1	17	46	5650.64
+2004001	importoexporti #2	9	4	5647.88
+6007007	brandcorp #7	8	38	5647.42
+7010009	univnameless #9	18	48	5646.84
+4003002	exportiedu pack #2	18	2	5641.25
+4004002	edu packedu pack #2	7	22	5640.73
+2001002	amalgimporto #2	18	37	5640.00
+6009008	maxicorp #8	18	48	5634.50
+2001002	amalgimporto #2	8	46	5632.80
+3001002	amalgexporti #2	18	54	5631.22
+4001002	amalgedu pack #2	9	24	5630.82
+5002002	importoscholar #2	9	28	5628.75
+8006009	corpnameless #9	19	38	5624.55
+1004001	edu packamalg #1	6	2	5623.56
+4004001	edu packedu pack #1	18	59	5623.56
+1002002	importoamalg #2	8	29	5622.13
+10005010	scholarunivamalg #10	6	31	5620.30
+5003002	exportischolar #2	18	29	5619.32
+1001001	amalgamalg #1	7	54	5618.25
+4003001	exportiedu pack #1	9	35	5616.00
+1004002	edu packamalg #2	18	47	5615.86
+2002001	importoimporto #1	9	40	5611.70
+1004001	exportiunivamalg #12	19	17	5605.56
+2001002	amalgimporto #2	17	2	5602.35
+1003002	exportiamalg #2	19	43	5602.28
+3001001	amalgexporti #1	7	50	5596.90
+9012005	univbrand #2	17	23	5589.82
+7004009	importoimporto #2	17	16	5589.20
+6014002	edu packbrand #2	9	29	5588.28
+6015008	scholarbrand #8	17	37	5588.28
+10015001	scholaramalgamalg #1	18	4	5583.11
+4003002	exportiedu pack #2	18	49	5572.08
+9008002	namelessmaxi #2	9	45	5571.99
+1001001	amalgunivamalg #13	19	24	5567.03
+6005007	scholarcorp #7	18	3	5566.44
+7007004	brandbrand #4	19	36	5566.33
+2001002	amalgimporto #2	9	18	5564.16
+8016010	corpmaxi #10	18	22	5559.54
+1004001	edu packamalg #1	7	20	5557.44
+7008004	namelessbrand #4	19	19	5555.55
+2004002	edu packimporto #2	18	57	5554.71
+10016001	corpamalgamalg #1	17	7	5551.52
+3002002	importoexporti #2	8	10	5545.24
+10014001	maxibrand #4	9	27	5543.55
+4004001	maxinameless #8	17	52	5542.70
+1003002	exportiamalg #2	17	6	5541.00
+1004002	edu packamalg #2	6	56	5538.28
+3001002	amalgexporti #2	19	28	5535.66
+9012008	importounivamalg #8	7	5	5531.46
+5002001	importoscholar #1	17	34	5529.03
+1004001	edu packamalg #1	18	48	5527.77
+8005003	scholarnameless #3	19	26	5526.72
+9016009	corpunivamalg #9	19	29	5523.80
+7001001	importoexporti #2	18	37	5520.83
+2001002	amalgimporto #2	18	33	5517.96
+8016003	corpmaxi #3	6	27	5516.00
+3004002	edu packexporti #2	7	30	5512.92
+8009010	maxinameless #10	6	7	5506.62
+3004002	edu packexporti #2	17	14	5505.58
+2003002	exportiimporto #2	6	49	5505.44
+9006006	corpmaxi #6	18	28	5503.92
+6007007	brandcorp #7	18	22	5501.16
+3002002	importoexporti #2	8	32	5497.92
+2004001	brandcorp #4	18	31	5493.88
+10016003	corpamalgamalg #3	7	0	5493.20
+1004001	edu packamalg #1	9	55	5492.97
+10014010	edu packamalgamalg #10	17	59	5490.80
+9012003	importounivamalg #3	19	34	5490.43
+2001001	amalgimporto #1	9	46	5478.55
+1004002	edu packamalg #2	9	31	5476.75
+3002001	importoexporti #1	17	8	5472.90
+2004001	importoexporti #2	18	27	5466.12
+10007002	brandunivamalg #2	7	29	5462.34
+5003002	exportischolar #2	17	37	5460.32
+10009013	maxiunivamalg #13	9	34	5459.58
+6007007	brandcorp #7	18	20	5458.59
+5002001	importoscholar #1	19	50	5456.50
+2002002	importoimporto #2	8	0	5454.54
+10005014	scholarunivamalg #14	9	1	5453.13
+4004001	edu packscholar #2	18	21	5446.17
+4002001	importoedu pack #1	8	23	5442.72
+10016001	corpamalgamalg #1	17	34	5441.58
+1003002	exportiamalg #2	9	33	5441.10
+8015006	scholarmaxi #6	19	23	5440.06
+4004002	edu packedu pack #2	17	46	5439.00
+5004002	edu packscholar #2	19	13	5432.00
+2001001	amalgimporto #1	8	51	5430.88
+3003001	exportiexporti #1	17	59	5430.36
+2004002	edu packimporto #2	18	11	5429.34
+3001002	amalgexporti #2	18	7	5427.46
+10008009	corpcorp #8	19	17	5426.19
+1001001	amalgunivamalg #13	17	24	5420.36
+9001005	importoedu pack #2	17	19	5418.14
+10016013	corpamalgamalg #13	17	36	5415.14
+1004002	edu packamalg #2	18	42	5414.76
+5003001	exportischolar #1	17	28	5409.12
+10004005	importounivamalg #6	17	16	5405.84
+7015002	scholarnameless #2	18	16	5403.48
+10008009	namelessunivamalg #9	19	8	5398.12
+5001002	amalgscholar #2	19	12	5392.22
+10007005	brandunivamalg #5	8	2	5391.90
+1002001	importoamalg #1	17	22	5391.84
+7016010	corpnameless #10	8	59	5391.84
+9007008	brandmaxi #8	18	1	5388.60
+5001002	amalgscholar #2	19	17	5383.80
+3002002	importoexporti #2	19	36	5383.38
+6001002	amalgcorp #2	9	12	5380.83
+8001004	amalgnameless #4	17	8	5378.44
+7010004	univnameless #4	19	13	5377.00
+3004002	edu packexporti #2	17	2	5372.70
+7004009	importoimporto #2	19	57	5366.55
+6012002	importobrand #2	8	36	5365.71
+8003003	exportinameless #3	9	3	5363.32
+9012006	importounivamalg #6	9	53	5359.20
+9009012	maximaxi #12	7	38	5357.44
+10016003	corpamalgamalg #3	18	17	5357.28
+7007010	brandbrand #10	9	0	5356.40
+5003002	exportischolar #2	19	33	5355.98
+1004001	edu packamalg #1	19	40	5355.34
+5003002	exportischolar #2	8	35	5350.06
+1002001	amalgscholar #2	9	27	5346.00
+2001002	amalgimporto #2	9	27	5345.83
+4002002	importoedu pack #2	9	25	5344.95
+7001009	amalgbrand #9	18	32	5344.94
+7009009	exportibrand #10	17	42	5344.92
+9006006	corpmaxi #6	19	12	5343.82
+5004002	edu packscholar #2	17	44	5343.44
+7007005	exportiamalg #2	6	32	5339.19
+2001001	amalgimporto #1	8	4	5334.75
+10015001	scholaramalgamalg #1	8	19	5333.92
+2002001	importoimporto #1	19	21	5332.50
+3004002	edu packexporti #2	9	30	5329.50
+1002001	importounivamalg #1	17	11	5328.64
+7001001	importoexporti #2	17	17	5327.72
+2001001	corpbrand #10	17	59	5326.81
+8010004	univmaxi #4	9	0	5323.72
+3001002	amalgexporti #2	19	52	5323.53
+2004001	edu packunivamalg #8	19	41	5322.25
+10015009	scholaramalgamalg #9	18	21	5321.34
+1002002	importoamalg #2	17	34	5317.81
+1003001	exportiamalg #1	18	41	5315.11
+7001008	amalgbrand #8	9	35	5309.90
+8011008	amalgmaxi #8	6	15	5309.10
+10003016	exportiunivamalg #16	8	50	5304.00
+2002002	importoimporto #2	8	12	5303.62
+4004001	edu packedu pack #1	18	15	5299.00
+5004002	edu packscholar #2	8	43	5297.82
+1001002	amalgamalg #2	8	5	5296.04
+4004001	maxinameless #8	17	43	5294.35
+6011008	amalgbrand #8	9	28	5292.72
+6012004	importobrand #4	9	29	5292.16
+2002001	importoimporto #1	19	8	5291.10
+7011008	amalgnameless #8	9	9	5287.50
+8008004	namelessnameless #4	9	5	5285.72
+6005007	scholarcorp #7	8	5	5282.20
+7003005	exportiedu pack #2	18	2	5279.35
+5004001	amalgedu pack #2	9	14	5277.16
+5002001	amalgamalg #2	19	22	5270.60
+3001001	amalgexporti #1	9	14	5268.90
+5004002	edu packscholar #2	18	56	5263.09
+9006002	corpmaxi #2	9	49	5262.60
+9004008	edu packmaxi #8	19	52	5261.76
+3001002	amalgexporti #2	6	55	5260.48
+8008005	namelessnameless #5	19	46	5258.82
+9015003	scholarunivamalg #3	18	55	5255.46
+8011008	amalgmaxi #8	8	57	5253.36
+9008002	namelessmaxi #2	17	14	5250.24
+3003001	amalgscholar #2	6	46	5248.62
+3002001	importoexporti #1	17	7	5248.00
+5002001	importoscholar #1	17	13	5247.43
+1002001	importoamalg #1	8	40	5245.02
+7014009	edu packnameless #9	19	10	5244.77
+10013015	exportiamalgamalg #15	19	19	5244.25
+2004001	edu packimporto #1	19	46	5237.75
+4003001	exportiedu pack #1	19	37	5234.67
+3003001	exportiexporti #1	17	38	5233.02
+9011009	amalgunivamalg #9	17	19	5232.96
+1001002	amalgamalg #2	19	3	5231.03
+7009005	maxibrand #5	9	7	5230.53
+6003003	exporticorp #3	18	32	5229.12
+6008002	namelesscorp #2	17	40	5228.10
+2002001	importoimporto #1	9	25	5227.84
+6009007	maxicorp #7	17	32	5224.45
+5001002	amalgscholar #2	17	6	5221.92
+1001002	amalgamalg #2	17	48	5220.75
+7009005	amalgscholar #2	9	10	5219.04
+2003002	exportiimporto #2	18	49	5217.96
+2002002	importoimporto #2	18	5	5214.51
+8007001	brandnameless #1	9	41	5214.24
+10009017	maxiunivamalg #17	7	41	5214.04
+8008008	namelessnameless #8	9	45	5207.68
+10005014	scholarunivamalg #14	9	29	5206.74
+10015012	scholaramalgamalg #12	18	12	5205.09
+10003015	exportiunivamalg #15	8	36	5205.00
+9003003	exportimaxi #3	19	55	5203.02
+7015002	scholarnameless #2	17	27	5201.91
+5003002	exportischolar #2	17	18	5201.00
+3003002	exportiexporti #2	19	21	5200.32
+3002001	importoexporti #1	17	32	5197.99
+5001002	amalgscholar #2	9	27	5196.94
+7016001	corpnameless #1	18	23	5193.65
+8010001	univamalgamalg #5	17	24	5193.18
+2003002	exportiimporto #2	18	3	5185.00
+8005005	scholarnameless #5	17	44	5182.89
+2004001	edu packimporto #1	19	15	5173.94
+5001001	edu packexporti #2	17	53	5172.68
+1004001	edu packamalg #1	9	39	5170.77
+10003011	exportiunivamalg #11	9	53	5167.50
+7012001	scholarcorp #6	9	7	5164.00
+9001008	amalgmaxi #8	18	29	5163.44
+6007007	brandcorp #7	18	28	5162.34
+10008012	namelessunivamalg #12	17	25	5159.00
+6012007	importobrand #7	17	45	5156.25
+7004004	edu packbrand #4	8	15	5153.94
+3003002	exportiexporti #2	18	24	5153.28
+5003001	importoedu pack #2	19	13	5151.00
+3004002	edu packexporti #2	17	32	5150.70
+8013004	exportimaxi #4	18	44	5146.65
+10009001	maxiunivamalg #1	17	44	5137.20
+10004012	edu packunivamalg #12	18	19	5137.13
+5002001	importoedu pack #2	8	17	5136.95
+9015009	scholarunivamalg #9	19	2	5136.14
+9015002	scholarunivamalg #2	17	3	5135.25
+1002001	amalgscholar #2	18	49	5131.06
+8001004	amalgnameless #4	18	19	5130.58
+5001001	amalgscholar #1	17	22	5125.68
+6016001	corpbrand #1	17	35	5124.00
+10008015	namelessunivamalg #15	7	40	5122.54
+2004001	edu packimporto #1	17	51	5119.20
+5001001	amalgscholar #1	19	27	5116.89
+4003001	exportiedu pack #1	17	19	5115.55
+6005005	edu packnameless #8	9	43	5115.03
+10009001	maxiunivamalg #1	17	50	5113.64
+7013001	exportinameless #1	19	18	5110.76
+2001002	amalgimporto #2	17	19	5107.83
+6004002	edu packcorp #2	18	47	5107.00
+10004015	edu packunivamalg #15	9	42	5106.00
+4001001	namelessmaxi #6	18	22	5105.25
+9007009	brandmaxi #9	19	18	5103.84
+3001001	amalgexporti #1	18	4	5100.55
+6015008	scholarbrand #8	18	25	5099.29
+2004001	edu packimporto #1	6	35	5097.12
+1001002	amalgamalg #2	9	37	5095.87
+9009006	maximaxi #6	8	23	5093.71
+2002002	importoimporto #2	9	5	5092.08
+7006009	corpbrand #9	9	16	5090.34
+9007003	brandmaxi #3	8	17	5088.16
+6016001	amalgexporti #2	19	47	5087.61
+3001002	amalgexporti #2	17	34	5087.18
+9009002	maximaxi #2	17	35	5082.47
+4002001	exportiimporto #2	6	30	5079.31
+2004001	edu packcorp #8	9	20	5078.75
+1004001	edu packamalg #1	17	39	5074.86
+4002002	importoedu pack #2	9	11	5072.04
+2001002	amalgimporto #2	18	7	5070.48
+5003002	exportischolar #2	18	3	5067.91
+4001002	amalgedu pack #2	17	41	5067.31
+6016001	corpbrand #1	17	10	5064.19
+3001002	amalgexporti #2	18	58	5062.77
+5004002	edu packscholar #2	17	54	5062.53
+6010005	univbrand #5	6	51	5057.55
+3003001	exportiexporti #1	9	33	5053.70
+3003001	exportiexporti #1	17	29	5051.72
+1003002	exportiamalg #2	19	35	5049.72
+6016006	corpbrand #6	18	25	5043.70
+7011008	amalgnameless #8	19	55	5039.17
+2001002	amalgimporto #2	19	47	5036.26
+10008009	namelessunivamalg #9	17	2	5035.95
+9016006	corpunivamalg #6	19	30	5035.80
+4003001	exportiedu pack #1	17	50	5033.50
+2003002	exportiimporto #2	18	7	5026.39
+7009010	maxibrand #10	19	48	5020.86
+4001002	amalgedu pack #2	19	11	5019.16
+10006002	corpunivamalg #2	19	26	5017.32
+3003001	amalgscholar #2	18	22	5014.68
+6006006	corpcorp #6	9	6	5012.85
+7009010	maxibrand #10	18	12	5010.54
+6015004	scholarbrand #4	17	55	5008.90
+1004001	edu packamalg #1	18	4	5006.10
+3002001	importoexporti #1	18	22	5003.46
+2004002	edu packimporto #2	18	44	4999.50
+9009012	maximaxi #12	19	8	4998.24
+5004001	amalgedu pack #2	18	56	4996.80
+2002002	importoimporto #2	17	28	4994.92
+5001002	amalgscholar #2	7	26	4992.96
+9016009	corpunivamalg #9	18	34	4992.50
+6005001	scholarcorp #1	19	6	4992.00
+2002001	importoimporto #1	19	25	4991.88
+10005014	scholarunivamalg #14	6	55	4990.32
+6012004	importobrand #4	8	21	4990.15
+6005001	scholarcorp #1	9	59	4986.10
+2001002	amalgimporto #2	18	28	4985.42
+2002001	amalgscholar #2	18	29	4980.36
+10008006	namelessunivamalg #6	18	17	4979.60
+7012010	importonameless #10	18	46	4978.82
+8008005	namelessnameless #5	9	42	4976.28
+2001002	amalgimporto #2	19	15	4972.34
+5002001	amalgamalg #2	19	59	4971.96
+10016002	corpamalgamalg #2	6	57	4966.63
+9008002	namelessmaxi #2	17	42	4966.40
+7010004	univnameless #4	18	2	4963.20
+2004002	edu packimporto #2	18	38	4963.10
+9012003	importounivamalg #3	18	10	4961.56
+10006016	corpunivamalg #16	17	30	4960.28
+1003001	namelessunivamalg #12	18	51	4959.35
+7008006	namelessbrand #6	19	0	4957.93
+7007010	brandbrand #10	9	26	4954.44
+1001001	scholarnameless #2	8	49	4945.68
+4004001	edu packedu pack #1	9	35	4945.15
+2002002	importoimporto #2	17	22	4942.70
+2001002	amalgimporto #2	7	50	4942.02
+7002003	importobrand #3	6	33	4936.99
+1003001	exportiedu pack #2	9	13	4933.42
+5003002	exportischolar #2	8	17	4932.18
+4002002	importoedu pack #2	9	21	4930.56
+3001002	amalgexporti #2	6	53	4928.22
+10005014	scholarunivamalg #14	8	52	4926.81
+6001007	amalgcorp #7	17	12	4924.92
+1004002	edu packamalg #2	19	39	4922.75
+2001002	amalgimporto #2	9	12	4921.84
+8005005	scholarnameless #5	7	11	4920.52
+5004001	edu packscholar #1	17	57	4919.00
+2001002	amalgimporto #2	19	5	4916.40
+1003001	exportiamalg #1	17	47	4911.50
+4003001	exportiedu pack #1	9	57	4909.50
+9013012	exportiunivamalg #12	19	6	4909.35
+5002001	amalgamalg #2	17	5	4908.66
+1003001	exportiamalg #1	17	49	4908.15
+5004001	amalgedu pack #2	17	16	4906.72
+2004002	edu packimporto #2	17	25	4905.52
+1004001	edu packamalg #1	19	45	4903.35
+7013001	exportiimporto #2	9	8	4901.16
+4001001	amalgedu pack #1	8	10	4899.40
+7003002	exportibrand #2	8	18	4898.55
+2002001	importoimporto #1	19	4	4896.00
+2003001	exportiimporto #1	19	11	4895.52
+6004002	edu packcorp #2	19	35	4894.08
+1001001	amalgunivamalg #13	7	35	4892.94
+1002001	importoamalg #1	9	43	4887.58
+1001001	amalgamalg #1	18	7	4885.65
+4004001	edu packedu pack #1	17	42	4884.15
+3002001	importoexporti #1	7	58	4878.32
+1003001	exportiamalg #1	19	52	4877.42
+3001001	amalgexporti #1	17	40	4876.95
+5001002	amalgscholar #2	18	45	4876.24
+4002002	importoedu pack #2	17	17	4873.05
+6015008	scholarbrand #8	7	54	4872.36
+9013002	exportiunivamalg #2	19	45	4870.80
+4001001	amalgedu pack #1	18	12	4869.75
+5001002	amalgscholar #2	17	17	4869.45
+4004002	edu packedu pack #2	9	52	4868.16
+3004002	edu packexporti #2	17	34	4867.33
+10016003	corpamalgamalg #3	19	13	4865.50
+2001002	amalgimporto #2	8	0	4862.79
+5002001	importoscholar #1	17	19	4862.62
+8004009	edu packnameless #9	19	12	4861.12
+3004001	edu packexporti #1	19	3	4842.09
+5001002	amalgscholar #2	18	57	4838.92
+7008009	namelessbrand #9	9	9	4838.08
+4002001	importoedu pack #1	7	20	4837.56
+2004002	edu packimporto #2	17	19	4837.52
+3003001	importoimporto #2	19	39	4834.48
+6002008	importocorp #8	17	56	4830.42
+3002001	importoexporti #1	9	3	4829.37
+9003003	exportimaxi #3	8	8	4828.23
+5002001	importoedu pack #2	17	51	4828.16
+6001002	amalgcorp #2	17	20	4827.90
+10015013	scholaramalgamalg #13	8	1	4820.04
+3003002	exportiexporti #2	19	51	4819.75
+6005001	scholarcorp #1	19	3	4818.15
+10015005	scholaramalgamalg #5	6	43	4817.34
+10006002	corpunivamalg #2	18	27	4815.55
+8007008	brandnameless #8	17	29	4814.99
+4004002	edu packedu pack #2	19	57	4814.16
+7002007	maxicorp #2	17	30	4813.12
+2003002	exportiimporto #2	19	13	4811.48
+4001001	exportiexporti #2	19	21	4808.31
+1001002	amalgamalg #2	19	42	4803.35
+7016001	corpnameless #1	18	25	4801.50
+1004002	edu packamalg #2	19	33	4800.60
+6001001	amalgcorp #1	19	56	4800.00
+2002002	importoimporto #2	17	15	4799.77
+9015011	exportiamalg #2	9	52	4795.41
+10010006	univamalgamalg #6	17	47	4794.60
+6001008	amalgcorp #8	17	53	4785.07
+3004002	edu packexporti #2	17	57	4783.12
+7013007	exportinameless #7	19	12	4781.92
+8014009	edu packamalg #2	18	0	4781.92
+1002002	importoamalg #2	18	47	4776.98
+1002001	importoamalg #1	19	1	4776.88
+4004002	edu packedu pack #2	7	8	4776.03
+10007005	brandunivamalg #5	17	46	4775.46
+7003005	exportibrand #5	9	20	4770.40
+7007004	brandbrand #4	18	10	4767.08
+6008002	namelesscorp #2	9	8	4764.49
+1004001	edu packamalg #1	17	17	4762.45
+9008008	namelessmaxi #8	17	38	4755.66
+7010009	univnameless #9	18	17	4753.49
+4003001	exportiedu pack #1	18	55	4749.55
+3002002	importoexporti #2	18	3	4748.28
+8002009	importonameless #9	19	48	4746.60
+5001001	maxicorp #4	9	18	4744.98
+10003004	exportiunivamalg #4	19	43	4744.86
+6008002	namelesscorp #2	9	52	4744.85
+5001002	amalgscholar #2	17	56	4744.45
+1002001	scholarbrand #4	8	46	4740.44
+6009003	maxicorp #3	19	1	4739.42
+5001002	amalgscholar #2	17	14	4738.63
+6006002	corpcorp #2	9	11	4738.60
+3003001	exportiedu pack #2	19	10	4736.16
+10006002	corpunivamalg #2	17	15	4735.36
+2002002	importoimporto #2	6	39	4734.38
+4004001	edu packedu pack #1	19	5	4734.27
+2001001	importoimporto #2	8	17	4734.00
+3004001	edu packscholar #2	18	41	4733.01
+5002002	importoscholar #2	17	10	4731.41
+9014003	edu packunivamalg #3	7	3	4731.36
+2003001	amalgbrand #4	17	13	4730.46
+9016009	corpunivamalg #9	17	4	4728.24
+1002001	importoamalg #1	9	3	4726.13
+4004001	corpamalgamalg #8	19	3	4726.04
+4004001	corpamalgamalg #8	8	24	4725.33
+4001001	namelessmaxi #6	19	5	4725.00
+1001002	amalgamalg #2	17	31	4724.80
+5002001	amalgamalgamalg #12	17	50	4724.17
+6001008	amalgcorp #8	19	47	4724.10
+5003002	exportischolar #2	18	47	4723.51
+10001008	amalgunivamalg #8	18	33	4720.99
+8002009	importonameless #9	6	33	4719.60
+9005009	scholarmaxi #9	9	46	4719.41
+9001008	amalgmaxi #8	19	19	4718.68
+7012009	importonameless #9	18	27	4717.72
+7004008	edu packbrand #8	19	42	4717.64
+6009002	maxicorp #2	17	48	4716.74
+3002002	importoexporti #2	19	40	4713.80
+3004001	edu packexporti #1	9	33	4713.20
+2004001	brandcorp #4	18	45	4712.70
+10016001	corpamalgamalg #1	17	44	4710.40
+6016008	corpbrand #8	19	13	4710.08
+8008002	namelessnameless #2	17	33	4709.00
+NULL	NULL	17	31	4707.92
+6010004	univbrand #4	17	56	4705.60
+10003004	exportiunivamalg #4	17	32	4704.00
+6006003	corpcorp #3	18	7	4701.24
+5002002	importoscholar #2	19	39	4699.64
+1001001	amalgamalg #1	18	24	4698.44
+5002001	importoscholar #1	9	58	4689.30
+10005001	scholarunivamalg #1	9	38	4688.66
+6015006	scholarbrand #6	17	30	4683.60
+7010004	univnameless #4	17	38	4683.33
+3004002	edu packexporti #2	17	10	4682.34
+10013013	exportiamalgamalg #13	18	34	4679.17
+10002014	importounivamalg #14	17	39	4677.48
+5002002	importoscholar #2	9	52	4676.00
+9009012	maximaxi #12	17	12	4675.65
+10010004	univamalgamalg #4	17	11	4674.00
+3003002	exportiexporti #2	18	12	4672.80
+6014005	edu packamalgamalg #8	17	10	4667.64
+8015005	scholarmaxi #5	9	36	4665.45
+9011009	amalgunivamalg #9	19	33	4664.94
+10005001	scholarunivamalg #1	9	49	4664.22
+3004001	edu packexporti #1	17	43	4664.04
+3001001	amalgexporti #1	19	4	4663.95
+10003004	exportiunivamalg #4	18	44	4663.36
+8008003	namelessnameless #3	9	58	4662.90
+2001002	amalgimporto #2	17	41	4661.19
+4002001	edu packscholar #2	18	26	4658.80
+1004002	edu packamalg #2	18	55	4658.50
+9016003	corpunivamalg #3	9	19	4656.50
+3003001	exportiexporti #1	17	18	4655.88
+1001002	amalgamalg #2	6	24	4655.64
+6016005	corpbrand #5	8	34	4652.64
+1003001	brandbrand #6	7	57	4651.14
+6014002	edu packbrand #2	7	27	4649.28
+4001001	amalgedu pack #1	17	26	4647.40
+2004002	edu packimporto #2	9	24	4646.58
+4003001	exportiedu pack #1	19	11	4645.52
+10004008	edu packunivamalg #8	18	51	4645.35
+9006006	corpmaxi #6	7	20	4645.08
+4003001	exportiedu pack #1	8	53	4644.74
+2001002	amalgimporto #2	17	14	4642.58
+3001002	amalgexporti #2	17	45	4642.26
+7001001	importoexporti #2	17	29	4641.25
+5002001	amalgamalgamalg #12	19	24	4640.37
+7009010	maxibrand #10	17	3	4637.52
+6015008	scholarbrand #8	18	52	4635.12
+9008008	namelessmaxi #8	18	32	4634.83
+7012009	importonameless #9	9	6	4633.44
+1003001	exportiamalg #1	18	3	4632.08
+3002002	importoexporti #2	19	45	4630.18
+8006008	corpnameless #8	17	16	4628.40
+9011008	amalgunivamalg #8	19	10	4627.20
+5004001	edu packscholar #1	19	55	4627.00
+8010005	univmaxi #5	18	9	4624.78
+8001001	amalgnameless #1	8	36	4623.00
+5003002	exportischolar #2	9	47	4622.40
+2002001	amalgscholar #2	17	50	4620.60
+9008008	namelessmaxi #8	17	3	4615.26
+4004001	edu packedu pack #1	17	50	4614.50
+6015002	scholarbrand #2	9	1	4613.90
+2003002	exportiimporto #2	8	53	4613.65
+1002002	importoamalg #2	9	18	4611.09
+5003002	exportischolar #2	17	57	4611.00
+4004001	edu packedu pack #1	9	22	4609.75
+5001002	amalgscholar #2	9	43	4608.35
+2004001	exportimaxi #8	9	18	4605.51
+3004002	edu packexporti #2	19	45	4605.15
+10015012	scholaramalgamalg #12	17	11	4604.87
+2001001	amalgimporto #1	8	52	4600.71
+5001001	amalgscholar #1	17	58	4598.16
+7012009	amalgamalg #2	9	4	4597.44
+4003001	edu packamalg #2	8	50	4596.80
+4002001	importoedu pack #1	8	17	4595.58
+6005005	edu packnameless #8	8	11	4595.04
+6005005	maxibrand #10	17	13	4590.88
+5003001	exportischolar #1	9	11	4590.60
+2001001	amalgimporto #1	9	22	4587.36
+7001009	amalgbrand #9	18	53	4581.50
+6009007	maxicorp #7	7	47	4580.55
+9016009	corpunivamalg #9	9	1	4580.49
+8003004	exportinameless #4	18	46	4579.38
+3004002	edu packexporti #2	6	58	4579.20
+6011003	importobrand #4	19	43	4575.50
+6011008	amalgbrand #8	17	38	4575.15
+9009002	maximaxi #2	18	51	4574.52
+9016002	corpunivamalg #2	18	48	4574.46
+10003016	exportiunivamalg #16	8	15	4573.80
+7014009	edu packnameless #9	19	8	4573.40
+8008003	namelessnameless #3	19	40	4571.28
+2004002	edu packimporto #2	8	49	4571.17
+6003008	exporticorp #8	19	29	4567.49
+5004002	edu packscholar #2	18	3	4564.88
+1003001	exportiamalg #1	9	18	4562.88
+3002001	univamalgamalg #6	18	22	4555.04
+2001002	amalgimporto #2	18	44	4553.58
+5001002	amalgscholar #2	19	38	4552.50
+5002001	exporticorp #4	18	59	4550.57
+7006005	corpbrand #5	9	18	4550.28
+1002001	importoamalg #1	19	10	4549.95
+4004001	scholarnameless #4	17	25	4545.53
+1001002	amalgamalg #2	19	7	4541.68
+3001002	amalgexporti #2	9	36	4539.24
+7009004	maxibrand #4	19	43	4538.22
+7006004	corpbrand #4	18	34	4537.91
+1004002	edu packamalg #2	19	43	4537.40
+3002001	amalgexporti #2	19	29	4534.92
+8003006	exportinameless #6	17	40	4534.15
+10011017	amalgamalgamalg #17	17	48	4531.35
+6014002	edu packbrand #2	9	0	4530.87
+4004002	edu packedu pack #2	18	5	4530.11
+10007004	importoimporto #2	18	21	4529.21
+2002002	importoimporto #2	19	10	4528.31
+1001002	amalgamalg #2	8	13	4525.92
+3003001	exportiexporti #1	8	25	4525.00
+6012001	importobrand #1	19	9	4523.20
+2002002	importoimporto #2	17	38	4523.13
+2004002	edu packimporto #2	18	41	4522.63
+4003001	exportiedu pack #1	9	24	4521.15
+6015002	scholarbrand #2	8	58	4519.13
+8004003	edu packnameless #3	9	55	4517.66
+5001001	maxicorp #4	18	37	4516.03
+2002002	importoimporto #2	9	30	4512.85
+2001002	amalgimporto #2	9	3	4512.05
+5002002	importoscholar #2	8	45	4504.50
+1003001	exportiamalg #1	9	28	4501.20
+6014005	edu packamalgamalg #8	8	47	4500.58
+4003002	exportiedu pack #2	8	42	4498.66
+10009001	maxiunivamalg #1	6	6	4496.92
+4002001	importoedu pack #1	9	13	4496.05
+2003001	exportiimporto #1	17	58	4494.80
+3002002	importoexporti #2	17	42	4493.50
+7004009	importoimporto #2	9	24	4492.62
+4002002	importoedu pack #2	8	0	4491.78
+4002001	importoedu pack #1	8	52	4490.04
+2003001	exportiimporto #1	19	4	4487.68
+8003004	exportinameless #4	17	46	4486.79
+4002002	importoedu pack #2	18	21	4484.71
+6014005	edu packamalgamalg #8	19	26	4484.16
+7014009	edu packnameless #9	19	23	4482.93
+7010010	univnameless #10	19	21	4482.00
+6003008	exporticorp #8	17	27	4481.73
+8005005	importonameless #6	8	17	4477.80
+10015001	scholaramalgamalg #1	18	14	4475.97
+8010004	univmaxi #4	18	34	4472.98
+6012003	univamalgamalg #14	19	4	4472.87
+10009017	maxiunivamalg #17	19	8	4472.68
+3002001	importoexporti #1	19	8	4463.16
+2003002	exportiimporto #2	18	16	4463.10
+4001002	amalgedu pack #2	19	5	4461.03
+9004008	edu packmaxi #8	18	3	4461.00
+4002001	importoedu pack #1	18	39	4459.48
+1003002	exportiamalg #2	17	0	4459.27
+3004002	edu packexporti #2	17	24	4454.62
+2002001	importoimporto #1	19	12	4450.25
+8012010	importomaxi #10	6	54	4449.06
+5004002	edu packscholar #2	9	35	4447.52
+7001008	amalgbrand #8	19	1	4442.80
+7007006	brandbrand #6	19	30	4441.06
+7010001	univnameless #1	9	54	4440.24
+3002002	importoexporti #2	8	29	4439.52
+1001002	amalgamalg #2	19	11	4437.50
+4001001	amalgedu pack #1	18	42	4437.00
+5001002	amalgscholar #2	18	31	4435.50
+4001001	amalgedu pack #1	19	57	4434.75
+10009009	maxiunivamalg #9	6	43	4434.50
+10012004	importoamalgamalg #4	17	40	4430.79
+9013002	exportiunivamalg #2	7	22	4430.33
+7001008	amalgbrand #8	9	39	4427.22
+9013012	exportiunivamalg #12	17	0	4425.84
+5004001	edu packscholar #1	18	4	4425.30
+1004001	edu packamalg #1	19	56	4424.17
+10008002	namelessunivamalg #2	17	34	4423.80
+2001001	corpbrand #10	9	19	4423.08
+7007010	brandbrand #10	19	55	4420.00
+2002001	importoimporto #1	19	51	4415.34
+7008004	namelessbrand #4	8	8	4414.80
+6014004	edu packbrand #4	9	9	4412.66
+5001001	brandunivamalg #11	17	27	4412.25
+6014004	edu packbrand #4	17	2	4411.80
+5001002	amalgscholar #2	17	54	4410.75
+9001008	amalgmaxi #8	17	23	4409.10
+6016005	corpbrand #5	18	18	4407.44
+5003002	exportischolar #2	17	34	4404.70
+1004002	edu packamalg #2	17	2	4402.68
+4001002	amalgedu pack #2	19	6	4402.37
+2001002	amalgimporto #2	7	47	4398.48
+6005007	scholarcorp #7	8	52	4395.30
+7009002	maxibrand #2	19	19	4394.94
+1002002	importoamalg #2	18	41	4392.75
+8005006	scholarnameless #6	8	29	4391.28
+7009005	maxibrand #5	9	42	4391.04
+1001002	amalgamalg #2	18	50	4390.65
+3003001	importoimporto #2	19	21	4389.49
+8005006	scholarnameless #6	19	4	4386.48
+8008002	namelessnameless #2	17	40	4386.40
+5001002	amalgscholar #2	18	40	4386.38
+4001002	amalgedu pack #2	19	37	4384.00
+1004001	importounivamalg #12	19	34	4383.00
+10016003	corpamalgamalg #3	19	59	4380.09
+8015007	scholarmaxi #7	9	54	4378.64
+6015004	scholarbrand #4	9	39	4377.24
+3001001	amalgexporti #1	18	15	4377.02
+7015009	scholarnameless #9	9	59	4376.31
+3001001	amalgexporti #1	17	36	4376.16
+9012008	importounivamalg #8	17	57	4375.44
+1002002	importoamalg #2	9	12	4373.28
+2001001	amalgimporto #1	17	31	4372.78
+4002001	importoedu pack #1	17	17	4371.84
+4003001	amalgexporti #2	9	19	4366.70
+8004009	edu packnameless #9	18	59	4361.04
+10003015	exportiunivamalg #15	6	53	4360.11
+1001002	amalgamalg #2	9	51	4359.00
+2003002	exportiimporto #2	18	57	4356.96
+6005001	scholarcorp #1	17	19	4356.38
+10008002	namelessunivamalg #2	7	35	4353.75
+8010008	univmaxi #8	9	10	4353.47
+10016001	corpamalgamalg #1	19	31	4353.30
+5003002	exportischolar #2	19	31	4352.40
+9016008	corpunivamalg #8	9	8	4350.06
+2004001	exportimaxi #8	17	33	4349.70
+6001001	amalgcorp #1	18	10	4349.52
+2002002	importoimporto #2	18	44	4349.10
+10004017	edu packunivamalg #17	17	8	4349.10
+9009009	maximaxi #9	8	8	4348.75
+1003001	exportiamalg #1	9	5	4345.81
+8010008	univmaxi #8	17	48	4345.25
+3001001	maxibrand #8	18	52	4344.00
+2003002	exportiimporto #2	18	28	4342.20
+3001002	amalgexporti #2	7	31	4340.40
+5003001	importoedu pack #2	17	49	4338.00
+8009009	maxinameless #9	8	28	4335.68
+4002001	edu packscholar #2	17	32	4335.04
+10011009	amalgamalgamalg #9	9	44	4326.63
+1001001	namelessunivamalg #4	9	32	4324.50
+3002002	importoexporti #2	9	12	4323.67
+10002012	importounivamalg #12	17	14	4323.60
+4002001	importoedu pack #1	17	39	4321.07
+7003008	exportibrand #8	8	32	4318.92
+4001002	amalgedu pack #2	18	27	4314.30
+6012007	importobrand #7	6	53	4313.66
+9013012	exportiunivamalg #12	17	32	4311.78
+2001002	amalgimporto #2	8	17	4309.32
+1001002	amalgamalg #2	17	7	4305.76
+7003002	exportibrand #2	19	11	4304.75
+2003002	exportiimporto #2	6	21	4304.61
+4002001	scholarmaxi #6	8	19	4304.22
+1001001	amalgamalg #1	17	41	4303.50
+5003002	exportischolar #2	19	28	4301.72
+4003002	exportiedu pack #2	8	39	4301.12
+10011012	importoimporto #2	17	24	4300.45
+1002002	importoamalg #2	17	58	4300.00
+3001001	amalgexporti #1	17	9	4297.30
+5001001	edu packexporti #2	7	36	4297.23
+7004009	edu packbrand #9	8	57	4293.87
+10008009	namelessunivamalg #9	17	17	4288.95
+4002001	importoedu pack #1	19	56	4287.10
+3004002	edu packexporti #2	19	30	4281.87
+4004002	edu packedu pack #2	9	6	4281.54
+7007005	exportiamalg #2	9	36	4281.30
+1001001	namelessunivamalg #4	9	56	4281.01
+10011017	amalgamalgamalg #17	6	52	4279.82
+4004002	edu packedu pack #2	9	21	4278.90
+5003002	exportischolar #2	9	22	4278.60
+1002002	importoamalg #2	18	27	4275.00
+9013002	exportiunivamalg #2	19	48	4273.44
+7004009	importoimporto #2	19	41	4271.70
+3003002	exportiexporti #2	18	53	4270.17
+3001002	amalgexporti #2	19	43	4269.16
+6002004	importocorp #4	18	26	4267.17
+5001002	amalgscholar #2	9	13	4267.00
+2001002	amalgimporto #2	8	55	4266.00
+2002001	importoimporto #1	7	23	4257.96
+5001002	amalgscholar #2	8	37	4254.12
+10016008	corpamalgamalg #8	9	14	4253.76
+3003001	exportiexporti #1	7	6	4253.69
+10009013	maxiunivamalg #13	18	12	4253.16
+3002002	importoexporti #2	18	49	4249.50
+2002002	importoimporto #2	8	2	4249.18
+3002002	importoexporti #2	17	57	4249.08
+9014008	edu packunivamalg #8	9	22	4246.34
+10014010	edu packamalgamalg #10	19	46	4246.25
+4001001	amalgedu pack #1	18	46	4246.02
+6010006	univbrand #6	9	9	4242.30
+7007004	brandbrand #4	18	45	4240.64
+10012001	importoamalgamalg #1	7	4	4237.00
+1004002	edu packamalg #2	18	52	4234.52
+5001002	amalgscholar #2	17	10	4233.00
+8007001	brandnameless #1	19	9	4232.70
+3003002	exportiexporti #2	19	35	4232.18
+5001002	amalgscholar #2	7	22	4232.15
+2001002	amalgimporto #2	7	52	4230.54
+3002001	importoexporti #1	9	14	4229.76
+2001002	amalgimporto #2	9	32	4228.56
+7002007	maxicorp #2	19	10	4228.20
+10009013	maxiunivamalg #13	17	15	4227.63
+10010006	univamalgamalg #6	17	55	4223.72
+5001002	amalgscholar #2	8	28	4222.74
+8001007	amalgamalg #2	18	15	4222.18
+2004001	importoexporti #2	18	45	4221.84
+2003002	exportiimporto #2	9	9	4220.69
+7015007	scholarnameless #7	7	55	4217.21
+4004002	edu packedu pack #2	17	54	4216.94
+6012008	importobrand #8	17	11	4215.12
+1003001	exportiamalg #1	19	12	4212.90
+6016008	corpbrand #8	17	26	4210.44
+9001003	amalgmaxi #3	19	33	4205.80
+4002002	importoedu pack #2	18	27	4205.61
+4002002	importoedu pack #2	9	28	4203.08
+9016009	corpunivamalg #9	19	13	4201.74
+8003010	exportinameless #10	6	22	4200.36
+4004002	edu packedu pack #2	19	21	4200.24
+6006004	corpcorp #4	9	26	4199.25
+9013009	exportiunivamalg #9	17	32	4198.32
+6009004	maxicorp #4	17	54	4197.48
+9013002	exportiunivamalg #2	19	51	4197.28
+10008002	namelessunivamalg #2	7	13	4193.53
+9006006	corpmaxi #6	8	39	4191.20
+4004001	maxinameless #8	6	17	4190.95
+4004001	scholarnameless #4	6	6	4189.00
+9011009	amalgunivamalg #9	18	48	4188.46
+9008002	namelessmaxi #2	17	37	4188.36
+3004002	edu packexporti #2	19	5	4187.04
+7001001	importoexporti #2	19	54	4186.56
+6008002	namelesscorp #2	17	15	4183.70
+5004001	edu packscholar #1	18	27	4180.56
+10013015	exportiamalgamalg #15	17	20	4177.08
+5001002	amalgscholar #2	9	51	4175.29
+8016003	corpmaxi #3	18	28	4174.62
+7015009	scholarnameless #9	18	0	4171.05
+5004002	edu packscholar #2	19	45	4170.69
+7010003	univnameless #3	18	5	4170.36
+6005005	maxibrand #10	9	25	4165.20
+2002001	importoimporto #1	9	37	4160.75
+10016002	corpamalgamalg #2	19	27	4160.32
+1003001	namelessunivamalg #12	19	47	4158.70
+9013008	exportiunivamalg #8	9	12	4157.73
+10007012	brandunivamalg #12	9	54	4155.30
+8006009	corpnameless #9	9	44	4153.50
+3002002	importoexporti #2	17	33	4146.45
+3004001	edu packexporti #1	19	53	4141.76
+8005009	corpnameless #10	9	59	4132.30
+10014016	edu packamalgamalg #16	6	3	4130.70
+10012005	importoamalgamalg #5	19	1	4128.60
+10010013	univamalgamalg #13	18	48	4128.48
+6016006	corpbrand #6	19	16	4126.41
+8005009	scholarnameless #9	6	59	4121.78
+1001002	amalgamalg #2	19	9	4120.41
+8003002	exportinameless #2	18	5	4117.65
+1004001	amalgunivamalg #6	19	2	4117.23
+6011002	amalgbrand #2	9	36	4116.00
+8011008	amalgmaxi #8	17	4	4115.10
+1002001	importoamalg #1	18	22	4114.01
+3002002	importoexporti #2	7	20	4109.82
+4004002	edu packedu pack #2	9	43	4109.07
+8003004	exportinameless #4	18	1	4107.80
+9005009	scholarmaxi #9	18	27	4106.70
+6016006	corpbrand #6	18	33	4104.79
+2003002	exportiimporto #2	8	6	4100.96
+6003008	exporticorp #8	9	17	4098.64
+2001001	amalgimporto #1	9	27	4098.60
+9011008	amalgunivamalg #8	9	25	4097.40
+4004001	scholarnameless #4	8	57	4096.90
+6001008	amalgcorp #8	7	38	4096.08
+7013007	exportinameless #7	8	51	4094.22
+1003002	exportiamalg #2	18	27	4092.58
+7012009	importonameless #9	7	0	4089.60
+4003001	exportiedu pack #1	19	31	4086.72
+9008002	namelessmaxi #2	18	56	4086.72
+5002002	importoscholar #2	19	17	4086.11
+9007005	maxinameless #10	7	30	4085.13
+2003001	exportiimporto #1	8	17	4084.80
+10014001	edu packamalgamalg #1	8	28	4083.62
+8016006	corpmaxi #6	9	33	4079.63
+2001001	amalgimporto #1	17	23	4078.47
+8015007	scholarmaxi #7	19	37	4076.80
+3002002	importoexporti #2	19	26	4076.40
+10002009	importounivamalg #9	17	34	4075.50
+10003004	exportiunivamalg #4	18	17	4075.08
+8005003	scholarnameless #3	18	9	4074.55
+1003001	brandbrand #6	9	25	4073.76
+4002001	edu packscholar #2	9	53	4072.25
+1001002	amalgamalg #2	19	56	4071.42
+1004001	edu packamalg #1	8	11	4070.81
+2001001	amalgamalg #2	8	54	4069.80
+1003002	exportiamalg #2	19	51	4069.20
+3001002	amalgexporti #2	17	14	4067.25
+2002002	importoimporto #2	6	17	4065.04
+9007008	brandmaxi #8	17	56	4064.06
+4001002	amalgedu pack #2	9	19	4063.48
+2003001	scholarmaxi #12	18	53	4062.96
+10004015	edu packunivamalg #15	19	53	4060.56
+10007004	brandunivamalg #4	18	33	4059.51
+10014016	edu packamalgamalg #16	6	18	4055.13
+2004001	edu packcorp #8	17	51	4053.60
+1003001	exportiamalg #1	8	25	4048.65
+6007007	brandcorp #7	17	54	4048.29
+6010005	univbrand #5	18	41	4042.93
+4004001	maxinameless #8	9	34	4041.92
+1004002	edu packamalg #2	8	35	4039.86
+1004001	edu packamalg #1	18	12	4036.62
+1001001	amalgamalg #1	17	44	4033.74
+4001002	amalgedu pack #2	19	35	4033.32
+4003001	edu packamalg #2	19	34	4029.48
+10009006	maxiunivamalg #6	17	5	4028.66
+3004002	edu packexporti #2	17	58	4027.98
+6006002	corpcorp #2	8	53	4026.60
+1001002	amalgamalg #2	8	22	4023.68
+10004004	edu packunivamalg #4	17	1	4022.70
+8007008	brandnameless #8	17	9	4022.66
+4003001	exportiedu pack #1	6	10	4021.92
+4003001	exportiedu pack #1	18	22	4021.44
+5002001	importoscholar #1	17	53	4021.20
+9011008	amalgunivamalg #8	17	55	4020.84
+8008002	namelessnameless #2	9	29	4019.34
+2001002	amalgimporto #2	9	30	4018.71
+10009013	maxiunivamalg #13	9	12	4011.75
+4001001	amalgedu pack #1	18	52	4009.00
+2001002	amalgimporto #2	17	1	4003.37
+3003002	exportiexporti #2	19	34	4003.24
+8010003	namelessunivamalg #5	18	25	4002.32
+1004002	edu packamalg #2	17	31	4000.36
+3002001	namelessunivamalg #15	8	2	4000.05
+8016006	corpmaxi #6	17	32	3999.80
+7001004	amalgbrand #4	19	59	3998.54
+2004002	edu packimporto #2	9	5	3998.36
+3004001	edu packscholar #2	17	32	3996.48
+8003003	exportinameless #3	17	58	3996.00
+4001002	amalgedu pack #2	17	51	3993.72
+1004001	edu packscholar #2	17	38	3993.40
+2003001	exportiimporto #1	17	40	3992.49
+2004001	importoexporti #2	17	11	3991.68
+7011008	amalgnameless #8	17	17	3989.54
+9013009	exportiunivamalg #9	8	59	3986.81
+9016009	corpunivamalg #9	18	2	3986.49
+4004001	edu packedu pack #1	19	16	3985.24
+5002002	importoscholar #2	6	54	3978.46
+7015009	scholarnameless #9	19	27	3978.20
+4004001	maxinameless #8	17	29	3975.75
+9012008	importounivamalg #8	17	59	3975.51
+10009013	exportibrand #6	18	17	3972.56
+7013001	exportinameless #1	17	21	3972.33
+2002002	importoimporto #2	9	9	3972.00
+1004002	edu packamalg #2	19	3	3971.92
+1004001	edu packamalg #1	17	4	3969.17
+7011001	amalgnameless #1	18	41	3968.05
+3003002	exportiexporti #2	19	7	3964.59
+10006009	corpunivamalg #9	19	6	3963.04
+9003003	exportimaxi #3	17	30	3962.42
+2002002	importoimporto #2	9	59	3961.48
+1001002	amalgamalg #2	17	37	3958.26
+9006008	corpmaxi #8	8	35	3957.85
+1001001	exportiexporti #2	8	7	3954.58
+1001002	amalgamalg #2	18	35	3954.15
+4002001	importoedu pack #1	17	55	3953.29
+1002002	importoamalg #2	17	54	3950.91
+4002002	importoedu pack #2	8	56	3950.88
+8010005	univmaxi #5	7	54	3946.24
+4001002	amalgedu pack #2	17	35	3945.24
+7002003	importobrand #3	18	3	3944.16
+5002001	importoedu pack #2	19	33	3942.72
+8008005	namelessnameless #5	9	35	3940.94
+4004001	edu packedu pack #1	19	58	3939.44
+5004001	edu packscholar #1	9	15	3937.08
+10002012	importounivamalg #12	7	30	3936.24
+2004002	edu packimporto #2	17	47	3935.36
+6011002	amalgbrand #2	9	51	3934.52
+8002009	importonameless #9	17	10	3933.70
+1003001	brandbrand #6	19	57	3933.60
+1003001	exportiamalg #1	8	16	3930.50
+2004002	edu packimporto #2	6	56	3930.12
+6005005	edu packnameless #8	19	44	3927.51
+2003002	exportiimporto #2	9	13	3926.86
+2001002	amalgimporto #2	19	10	3924.50
+7001005	amalgbrand #5	17	56	3921.51
+1004001	edu packamalg #1	18	44	3921.24
+1003001	brandbrand #6	8	3	3921.12
+1004001	edu packimporto #2	19	13	3920.88
+10006008	corpunivamalg #8	19	51	3920.40
+3002002	importoexporti #2	19	7	3919.50
+6015008	scholarbrand #8	9	18	3919.02
+5002002	importoscholar #2	19	16	3916.28
+6004007	edu packscholar #2	18	1	3915.84
+8014009	edu packamalg #2	17	45	3915.58
+8002009	importonameless #9	18	22	3915.24
+3002001	importoexporti #1	7	11	3915.14
+8004004	edu packnameless #4	19	51	3915.12
+5004002	edu packscholar #2	8	2	3913.65
+3003001	exportiexporti #1	18	56	3913.08
+5003001	exportischolar #1	17	52	3912.00
+10016013	corpamalgamalg #13	9	30	3909.08
+9012003	importounivamalg #3	6	9	3906.21
+1001001	univamalgamalg #16	8	35	3905.30
+5004001	edu packscholar #1	17	43	3904.60
+7012010	importonameless #10	18	32	3902.24
+3002002	importoexporti #2	18	21	3901.66
+8005010	scholarnameless #10	17	31	3901.41
+1004002	edu packamalg #2	19	52	3900.96
+4004002	edu packedu pack #2	18	11	3897.93
+8016003	corpmaxi #3	8	13	3897.62
+6013006	exportibrand #6	17	49	3896.64
+3001001	amalgexporti #1	18	59	3895.37
+1003002	exportiamalg #2	6	7	3895.08
+3004001	edu packexporti #1	18	22	3894.70
+1002002	importoamalg #2	19	57	3894.00
+1002002	importoamalg #2	19	49	3893.86
+9012011	importoamalg #2	18	49	3891.64
+1001002	amalgamalg #2	17	11	3888.36
+10013015	exportiamalgamalg #15	18	35	3886.40
+5002001	amalgamalg #2	17	14	3884.00
+5001001	amalgscholar #1	9	15	3883.60
+1002002	importoamalg #2	8	37	3875.28
+2001001	amalgamalg #2	17	55	3874.91
+4004002	edu packedu pack #2	18	37	3874.78
+10014001	maxibrand #4	6	50	3873.87
+10008009	namelessunivamalg #9	18	13	3873.68
+2002001	importoimporto #1	9	36	3873.18
+4004002	edu packedu pack #2	17	30	3872.22
+3003001	exportiexporti #1	19	11	3871.68
+8007008	brandnameless #8	17	51	3871.63
+10008015	namelessunivamalg #15	18	27	3869.35
+7005010	scholarbrand #10	17	27	3868.92
+10011013	amalgunivamalg #6	17	27	3864.90
+7013002	exportinameless #2	9	1	3860.48
+7015009	scholarnameless #9	17	54	3856.72
+7013001	exportinameless #1	18	12	3855.00
+2001001	amalgimporto #1	18	1	3854.78
+4002001	importoedu pack #1	9	0	3853.35
+9012006	importounivamalg #6	18	22	3851.08
+7007005	exportiamalg #2	8	22	3849.21
+2004002	edu packimporto #2	8	14	3847.88
+1001001	exportiexporti #2	8	43	3847.14
+7006001	corpcorp #4	19	44	3846.18
+9014002	edu packunivamalg #2	18	33	3844.82
+3001001	amalgexporti #1	18	8	3842.52
+2003002	exportiimporto #2	7	23	3842.00
+2004002	edu packimporto #2	7	55	3839.44
+5001002	amalgscholar #2	19	50	3839.16
+8008002	namelessnameless #2	19	48	3836.93
+9001003	amalgmaxi #3	18	59	3836.25
+3004002	edu packexporti #2	8	43	3835.80
+3002002	importoexporti #2	6	4	3833.60
+3004002	edu packexporti #2	19	32	3832.78
+1004001	importounivamalg #12	9	21	3832.46
+4001001	amalgedu pack #1	18	22	3830.04
+1004002	edu packamalg #2	17	40	3828.72
+10016016	corpamalgamalg #16	9	41	3828.72
+6002008	importocorp #8	18	9	3827.72
+4003001	exportiedu pack #1	7	4	3827.20
+3003001	univamalgamalg #6	18	38	3823.95
+2001002	amalgimporto #2	9	16	3822.02
+7007004	brandbrand #4	18	29	3820.50
+10004012	edu packunivamalg #12	9	35	3819.30
+4004002	edu packedu pack #2	19	46	3818.76
+1004002	edu packamalg #2	19	10	3816.60
+9010009	univunivamalg #9	9	14	3813.30
+10014001	edu packamalgamalg #1	9	36	3811.70
+2003001	exportiimporto #1	19	43	3810.96
+2003001	amalgbrand #4	17	20	3803.04
+1002001	importoamalg #1	17	40	3802.68
+1001001	univamalgamalg #16	9	44	3802.50
+5004001	edu packscholar #1	9	44	3802.11
+6009008	maxicorp #8	19	1	3801.60
+10016001	corpamalgamalg #1	17	43	3801.58
+6011003	amalgbrand #3	17	19	3800.91
+4003001	exportiedu pack #1	17	46	3797.91
+1003002	exportiamalg #2	18	56	3797.67
+9011008	amalgunivamalg #8	17	7	3796.26
+3003002	exportiexporti #2	19	47	3795.84
+1004001	edu packamalg #1	17	28	3789.72
+3003002	exportiexporti #2	8	36	3787.60
+1001002	amalgamalg #2	17	16	3786.03
+5003002	exportischolar #2	17	48	3785.04
+9014008	edu packunivamalg #8	8	47	3783.62
+2002002	importoimporto #2	18	36	3780.65
+7006005	corpbrand #5	9	20	3779.82
+9013012	exportiunivamalg #12	8	17	3777.55
+9002003	importomaxi #3	9	35	3776.40
+6011003	amalgbrand #3	19	5	3776.32
+7012001	scholarcorp #6	9	42	3774.40
+1001002	amalgamalg #2	8	31	3774.24
+2004001	corpmaxi #8	18	18	3771.63
+1001002	amalgamalg #2	18	3	3771.47
+4004002	edu packedu pack #2	19	25	3771.15
+1001001	amalgamalg #1	19	30	3770.40
+2001002	amalgimporto #2	17	57	3768.80
+1002001	importoamalg #1	18	44	3767.40
+2004001	edu packcorp #8	8	4	3766.72
+7001002	amalgbrand #2	9	3	3766.59
+9001008	amalgmaxi #8	9	15	3766.56
+8001007	amalgamalg #2	18	26	3764.65
+4002002	importoedu pack #2	17	30	3761.88
+3004002	edu packexporti #2	19	10	3761.55
+6015002	scholarbrand #2	17	29	3760.88
+1001001	brandnameless #8	8	24	3758.76
+3004002	edu packexporti #2	7	36	3758.04
+4002002	importoedu pack #2	19	2	3758.03
+3003002	exportiexporti #2	8	18	3757.68
+9011008	amalgunivamalg #8	8	6	3757.00
+10008009	corpcorp #8	19	54	3754.85
+10002014	importounivamalg #14	19	13	3753.58
+4003001	exportiedu pack #1	8	56	3751.02
+4004001	edu packedu pack #1	8	0	3749.00
+9011009	amalgunivamalg #9	8	56	3748.73
+4001001	amalgedu pack #1	19	27	3748.22
+7014009	edu packnameless #9	19	14	3745.44
+10006009	corpunivamalg #9	18	15	3743.52
+10003015	exportiunivamalg #15	19	35	3743.12
+10006002	corpunivamalg #2	9	21	3743.04
+7001009	amalgbrand #9	9	28	3742.80
+8005001	scholarnameless #1	9	47	3740.72
+7012010	importonameless #10	19	42	3736.66
+1003001	exportiamalg #1	8	51	3735.21
+1001002	amalgamalg #2	17	27	3734.99
+9014002	edu packunivamalg #2	18	4	3733.22
+9012003	importounivamalg #3	19	50	3730.23
+8010001	univamalgamalg #5	6	11	3728.90
+9013009	exportiunivamalg #9	17	37	3727.92
+5001001	scholarunivamalg #8	18	25	3726.81
+4003001	exportiedu pack #1	18	53	3726.10
+2003002	exportiimporto #2	19	36	3725.90
+6005008	scholarcorp #8	18	10	3725.00
+6005005	maxibrand #10	19	51	3724.06
+2004001	corpmaxi #8	8	1	3724.00
+7015007	scholarnameless #7	9	8	3721.20
+10003011	exportiunivamalg #11	19	40	3714.77
+7010010	univnameless #10	9	34	3712.28
+2003001	amalgbrand #4	17	5	3711.84
+5002002	importoscholar #2	17	45	3711.84
+1003001	exportiamalg #1	19	33	3709.77
+2003001	exportiimporto #1	17	49	3706.92
+4004002	edu packedu pack #2	17	23	3703.94
+1001002	amalgamalg #2	19	14	3703.11
+7005010	scholarbrand #10	19	59	3702.93
+8005009	scholarnameless #9	17	21	3699.84
+6010004	univbrand #4	8	44	3699.78
+7010004	univnameless #4	9	10	3699.20
+4002001	importoedu pack #1	8	54	3698.76
+7006008	corpbrand #8	19	34	3698.40
+10010017	univamalgamalg #17	17	33	3694.32
+2002002	importoimporto #2	19	7	3693.69
+2001002	amalgimporto #2	18	31	3690.40
+3001002	amalgexporti #2	9	38	3688.72
+4003001	exportiedu pack #1	6	45	3687.94
+7003002	exportibrand #2	19	24	3685.50
+7012009	amalgamalg #2	18	13	3683.82
+4002002	importoedu pack #2	17	8	3683.05
+2002001	importoimporto #1	8	28	3680.76
+4002002	importoedu pack #2	17	4	3680.25
+2003002	exportiimporto #2	17	46	3680.10
+4002002	importoedu pack #2	19	24	3678.80
+5002001	exportibrand #8	19	23	3678.00
+6012004	importobrand #4	9	12	3676.50
+1003002	exportiamalg #2	9	15	3676.13
+7015007	scholarnameless #7	9	25	3673.85
+5002002	importoscholar #2	9	14	3673.60
+9012006	importounivamalg #6	6	50	3669.12
+9015003	scholarunivamalg #3	18	40	3668.28
+6015007	scholarbrand #7	17	24	3668.14
+3002002	importoexporti #2	18	2	3666.75
+9009012	maximaxi #12	9	2	3664.36
+5001001	amalgscholar #1	17	40	3663.80
+1003002	exportiamalg #2	6	5	3663.45
+2002001	importoimporto #1	6	43	3662.40
+7001008	amalgbrand #8	17	22	3662.18
+2002001	importoimporto #1	9	45	3660.41
+3002001	univamalgamalg #6	17	40	3660.04
+10016001	corpamalgamalg #1	19	43	3659.47
+10008009	namelessunivamalg #9	18	42	3657.92
+10009013	maxiunivamalg #13	9	49	3657.62
+2002001	amalgscholar #2	9	0	3656.32
+4002002	importoedu pack #2	19	33	3650.00
+9005009	scholarmaxi #9	18	31	3650.00
+7006001	corpcorp #4	17	16	3649.80
+5003002	exportischolar #2	17	21	3642.43
+3004002	edu packexporti #2	8	41	3640.56
+3001002	amalgexporti #2	17	27	3639.09
+2003002	exportiimporto #2	17	8	3638.21
+8015006	scholarmaxi #6	9	44	3635.80
+7003008	exportibrand #8	9	39	3635.55
+5003002	exportischolar #2	9	14	3632.45
+1001001	amalgamalg #1	18	56	3631.74
+3003001	univamalgamalg #6	9	53	3628.86
+4001001	maxiunivamalg #16	9	33	3625.77
+3001002	amalgexporti #2	19	15	3625.58
+8008008	namelessnameless #8	9	20	3624.44
+4001001	amalgedu pack #1	17	40	3621.00
+3002002	importoexporti #2	9	25	3620.38
+7013002	exportinameless #2	17	3	3619.55
+10004004	edu packunivamalg #4	17	52	3619.14
+1004001	edu packimporto #2	9	10	3618.36
+10008006	namelessunivamalg #6	18	37	3614.40
+10004017	edu packunivamalg #17	18	5	3614.25
+7006004	corpbrand #4	8	14	3612.70
+8005009	corpnameless #10	19	6	3611.30
+9006006	corpmaxi #6	9	49	3610.80
+3002001	importoexporti #1	19	36	3609.84
+10014001	maxibrand #4	17	47	3608.54
+6005005	edu packnameless #8	18	5	3605.70
+5004001	scholarnameless #6	8	52	3603.55
+4004001	edu packedu pack #1	17	38	3599.97
+6001008	amalgcorp #8	17	46	3595.80
+2001001	amalgimporto #1	9	4	3595.29
+4004002	edu packedu pack #2	8	56	3594.00
+6016001	amalgexporti #2	18	19	3592.40
+2003002	exportiimporto #2	18	52	3591.72
+2002001	importoimporto #1	17	55	3589.91
+7010005	corpunivamalg #6	19	51	3589.38
+8005009	scholarnameless #9	17	16	3588.69
+7007010	brandbrand #10	18	33	3588.30
+4004001	edu packedu pack #1	8	24	3587.36
+7010010	univnameless #10	17	59	3584.73
+1004001	edu packamalg #1	18	3	3583.80
+1002002	importoamalg #2	19	23	3582.90
+1003001	exportiamalg #1	7	52	3581.10
+10007002	brandunivamalg #2	18	14	3580.20
+2003002	exportiimporto #2	6	10	3580.18
+10010013	univamalgamalg #13	18	0	3579.88
+5004002	edu packscholar #2	17	35	3579.55
+6009004	maxicorp #4	18	28	3579.52
+5001001	amalgscholar #1	19	5	3579.19
+8014004	edu packmaxi #4	19	50	3577.60
+6011002	amalgbrand #2	19	45	3575.88
+10001008	amalgunivamalg #8	18	10	3575.88
+9011009	amalgunivamalg #9	18	15	3575.60
+6001007	amalgcorp #7	18	48	3575.44
+5003001	exportischolar #1	8	1	3575.34
+8012006	importomaxi #6	7	33	3574.56
+1004001	edu packamalg #1	9	19	3574.20
+10009009	maxiunivamalg #9	19	0	3573.96
+5002002	importoscholar #2	18	9	3573.57
+7005007	scholarbrand #7	9	30	3568.46
+5001001	amalgscholar #1	9	43	3567.50
+4002002	importoedu pack #2	18	45	3567.36
+10011014	amalgamalgamalg #14	19	56	3566.84
+3003001	exportiedu pack #2	19	31	3566.50
+9001008	amalgmaxi #8	19	32	3566.23
+1003002	exportiamalg #2	6	6	3566.06
+9007009	brandmaxi #9	19	13	3565.92
+5004002	edu packscholar #2	9	48	3564.00
+3002002	importoexporti #2	19	4	3561.88
+4003001	exportiedu pack #1	18	37	3560.84
+2003002	exportiimporto #2	9	54	3559.50
+1002002	importoamalg #2	19	58	3558.49
+9011009	amalgunivamalg #9	7	48	3557.76
+8009003	maxinameless #3	7	47	3556.72
+4002001	importoedu pack #1	19	45	3555.50
+1004001	edu packamalg #1	18	38	3554.06
+4003001	exportiedu pack #1	6	17	3551.80
+2004002	edu packimporto #2	19	56	3551.60
+4001001	amalgedu pack #1	9	12	3551.03
+4003002	exportiedu pack #2	17	32	3549.00
+7012009	amalgamalg #2	19	44	3548.60
+7005010	scholarbrand #10	8	0	3548.25
+9013002	exportiunivamalg #2	17	45	3548.22
+7014002	edu packnameless #2	18	39	3547.98
+1001002	amalgamalg #2	18	20	3544.74
+6015008	scholarbrand #8	18	42	3543.54
+8002009	importonameless #9	19	42	3542.81
+7009010	maxibrand #10	19	13	3539.94
+9010012	univunivamalg #12	9	31	3539.20
+10008006	namelessunivamalg #6	18	45	3537.24
+9011008	amalgunivamalg #8	7	43	3536.82
+9001008	amalgmaxi #8	6	38	3536.46
+9012005	univbrand #2	17	10	3535.80
+1002002	importoamalg #2	7	27	3534.93
+5003002	exportischolar #2	9	50	3533.10
+7003005	exportibrand #5	19	15	3533.04
+6011003	importobrand #4	9	37	3530.94
+2001002	amalgimporto #2	19	49	3529.47
+2002002	importoimporto #2	7	10	3527.54
+9015009	scholarunivamalg #9	9	39	3527.16
+1002002	importoamalg #2	18	5	3525.71
+2003002	exportiimporto #2	9	18	3524.80
+3003001	exportiexporti #1	7	27	3523.20
+6008002	namelesscorp #2	9	56	3522.12
+3003001	exportiexporti #1	18	35	3520.92
+6008005	namelesscorp #5	17	18	3520.84
+1004002	edu packamalg #2	7	35	3519.36
+8003002	exportinameless #2	18	12	3519.36
+8009003	maxinameless #3	17	6	3518.17
+10007002	brandunivamalg #2	18	19	3514.80
+3002002	importoexporti #2	7	16	3514.28
+1002002	importoamalg #2	17	32	3513.88
+1004002	edu packamalg #2	17	23	3513.23
+2001001	amalgimporto #1	19	56	3511.06
+8008007	namelessnameless #7	19	28	3508.56
+5003002	exportischolar #2	18	59	3508.12
+3004001	edu packscholar #2	9	56	3505.95
+4001001	amalgedu pack #1	9	31	3505.92
+7013007	exportinameless #7	7	39	3505.52
+10003015	exportiunivamalg #15	19	38	3504.72
+10013013	exportiamalgamalg #13	6	46	3502.84
+10007004	importoimporto #2	9	33	3498.00
+3004001	edu packscholar #2	19	42	3496.77
+1002001	amalgscholar #2	18	12	3495.03
+8005001	scholarnameless #1	18	4	3494.50
+8011008	amalgmaxi #8	17	13	3493.10
+5001001	amalgscholar #1	9	12	3492.10
+1004001	edu packimporto #2	9	21	3488.52
+1002002	importoamalg #2	18	49	3487.52
+2001002	amalgimporto #2	18	24	3487.20
+4004002	edu packedu pack #2	8	44	3484.35
+2003002	exportiimporto #2	17	0	3483.51
+1002002	importoamalg #2	19	43	3481.84
+1003001	corpunivamalg #12	17	4	3481.60
+8015006	scholarmaxi #6	19	5	3480.80
+5001001	amalgscholar #1	6	25	3479.08
+1004002	edu packamalg #2	18	32	3477.68
+1002002	importoamalg #2	18	42	3475.45
+4004001	edu packimporto #2	18	11	3474.90
+1003002	exportiamalg #2	17	14	3474.78
+10004015	edu packunivamalg #15	17	41	3470.47
+9006006	corpmaxi #6	18	37	3470.40
+6005008	scholarcorp #8	9	20	3469.41
+10002009	importounivamalg #9	9	33	3469.20
+3004002	edu packexporti #2	17	37	3469.15
+8010009	univmaxi #9	6	23	3468.78
+6006002	corpcorp #2	9	12	3466.20
+6004002	edu packcorp #2	19	21	3462.60
+6012007	importobrand #7	17	51	3460.00
+6006002	corpcorp #2	17	55	3458.76
+10002001	importounivamalg #1	18	2	3458.35
+9012003	importounivamalg #3	18	44	3456.18
+10016016	corpamalgamalg #16	6	8	3454.99
+1004002	edu packamalg #2	19	8	3454.92
+7010005	corpunivamalg #6	9	56	3452.16
+1002002	importoamalg #2	7	42	3452.00
+6009007	maxicorp #7	8	0	3450.72
+4003001	corpcorp #2	9	34	3450.50
+1001002	amalgamalg #2	8	17	3449.37
+1004002	edu packamalg #2	18	11	3448.64
+9006009	corpmaxi #9	8	12	3447.60
+7004006	edu packbrand #6	6	37	3447.36
+1004002	edu packamalg #2	9	48	3447.24
+2004002	edu packimporto #2	19	52	3446.78
+4002001	importoedu pack #1	17	36	3446.52
+9011009	amalgunivamalg #9	18	59	3442.74
+10010004	univamalgamalg #4	18	46	3442.53
+6010006	univbrand #6	9	54	3441.24
+9016009	corpunivamalg #9	18	31	3439.00
+7016007	corpnameless #7	7	0	3438.90
+10009009	maxiunivamalg #9	18	44	3438.24
+3002002	importoexporti #2	18	31	3438.05
+10008013	namelessunivamalg #13	9	57	3436.44
+10009006	maxiunivamalg #6	17	14	3436.20
+8010001	univmaxi #1	19	24	3435.20
+2002002	importoimporto #2	8	55	3434.27
+1001002	amalgamalg #2	19	30	3431.78
+6016006	corpbrand #6	19	44	3431.22
+2004002	edu packimporto #2	8	7	3430.44
+9003003	exportimaxi #3	19	3	3430.44
+6008002	namelesscorp #2	18	30	3429.75
+10016016	corpamalgamalg #16	17	49	3429.00
+8010004	univmaxi #4	17	26	3427.05
+6015008	scholarbrand #8	19	10	3425.36
+2004002	edu packimporto #2	8	43	3417.94
+6007007	brandcorp #7	17	52	3417.72
+1001001	amalgamalg #1	18	40	3417.60
+9009003	maximaxi #3	9	53	3417.44
+7014002	edu packnameless #2	19	45	3415.82
+5004002	edu packscholar #2	8	59	3415.44
+6013006	exportibrand #6	17	30	3414.40
+5002002	importoscholar #2	9	36	3412.20
+NULL	NULL	18	47	3410.88
+10009013	maxiunivamalg #13	6	4	3410.33
+7009010	maxibrand #10	19	18	3409.00
+6015008	scholarbrand #8	19	31	3408.00
+7002007	maxicorp #2	17	32	3406.76
+1002002	importoamalg #2	18	46	3405.76
+6015008	scholarbrand #8	19	45	3404.70
+8014004	edu packmaxi #4	19	18	3404.52
+5002002	importoscholar #2	18	16	3403.68
+9010009	univunivamalg #9	19	25	3403.62
+9014008	edu packunivamalg #8	19	8	3402.80
+3002001	importoexporti #1	8	9	3398.94
+7008008	namelessbrand #8	17	46	3397.68
+3003001	exportiexporti #1	8	17	3397.66
+8015006	scholarmaxi #6	19	15	3397.51
+4003002	exportiedu pack #2	18	15	3397.20
+4002001	edu packbrand #8	18	38	3396.60
+4003001	exportiedu pack #1	19	48	3392.96
+10002001	importounivamalg #1	7	55	3391.50
+7001004	amalgbrand #4	17	8	3388.21
+10004015	edu packunivamalg #15	19	15	3387.80
+5004001	edu packscholar #1	9	39	3387.41
+9009006	maximaxi #6	17	23	3387.30
+9007011	importoexporti #2	17	0	3385.80
+8015007	scholarmaxi #7	9	33	3384.00
+8015008	scholarmaxi #8	9	3	3382.61
+3001002	amalgexporti #2	8	40	3381.49
+10014003	edu packamalgamalg #3	18	9	3377.44
+9011008	amalgunivamalg #8	8	7	3377.01
+10016002	corpamalgamalg #2	17	38	3375.46
+6012003	univamalgamalg #14	17	39	3375.39
+9014008	edu packunivamalg #8	7	8	3375.36
+7014001	edu packnameless #1	18	23	3375.19
+4003001	exportiedu pack #1	9	51	3374.59
+6008007	namelesscorp #7	9	45	3373.95
+2004002	edu packimporto #2	19	34	3372.85
+10011014	amalgamalgamalg #14	17	2	3372.72
+1002002	importoamalg #2	19	51	3370.45
+4004002	edu packedu pack #2	18	53	3368.64
+10003011	exportiunivamalg #11	19	20	3368.40
+1004001	edu packamalg #1	17	36	3365.31
+2004002	edu packimporto #2	19	45	3364.44
+9013009	exportiunivamalg #9	17	5	3363.64
+3003001	exportiedu pack #2	17	23	3363.38
+1003001	exportiamalg #1	17	52	3363.03
+1001001	amalgamalg #1	9	24	3359.00
+7001001	importoexporti #2	17	41	3358.96
+1002001	importounivamalg #1	9	36	3358.33
+7015007	scholarnameless #7	17	42	3357.08
+1004002	edu packamalg #2	17	1	3354.24
+7012005	importonameless #5	17	48	3354.20
+7009009	exportibrand #10	17	48	3352.17
+6015008	scholarbrand #8	9	38	3352.05
+5001002	amalgscholar #2	7	15	3351.10
+2004001	edu packimporto #1	8	55	3350.08
+10016002	corpamalgamalg #2	9	26	3345.55
+9012003	importounivamalg #3	17	18	3345.21
+7014008	edu packnameless #8	18	29	3344.76
+9009006	maximaxi #6	18	41	3344.06
+7003005	exportiedu pack #2	8	50	3343.45
+1001001	namelessunivamalg #4	18	33	3341.25
+8003007	edu packnameless #8	9	46	3339.00
+4004002	edu packedu pack #2	19	24	3337.95
+6012002	importobrand #2	19	24	3337.40
+4002001	importoedu pack #1	6	45	3333.24
+9014002	edu packunivamalg #2	19	38	3333.09
+8007008	brandnameless #8	17	58	3332.92
+1004001	exportiunivamalg #12	17	16	3331.83
+6011003	amalgbrand #3	17	22	3331.30
+1001002	amalgamalg #2	19	51	3330.36
+9008008	namelessmaxi #8	19	57	3329.37
+7014001	edu packnameless #1	18	49	3327.48
+8002009	importonameless #9	18	11	3327.48
+1001001	univamalgamalg #16	8	18	3327.09
+8005006	scholarnameless #6	17	38	3325.06
+4003001	edu packamalg #2	17	5	3324.76
+3002001	maxibrand #4	18	39	3324.65
+10014010	edu packamalgamalg #10	17	1	3324.15
+6003008	exporticorp #8	18	14	3322.62
+10009008	maxiunivamalg #8	7	16	3321.38
+7016009	univnameless #10	18	1	3318.64
+2004002	edu packimporto #2	18	19	3314.48
+7006001	corpcorp #4	8	23	3314.32
+2002001	importoimporto #1	7	9	3313.71
+10010017	univamalgamalg #17	18	6	3313.31
+7008009	namelessbrand #9	18	56	3312.96
+1002002	importoamalg #2	19	2	3312.90
+10008009	namelessunivamalg #9	18	34	3309.65
+10003014	exportiunivamalg #14	18	40	3308.80
+4004002	edu packedu pack #2	9	2	3306.24
+7002008	importobrand #8	9	36	3302.50
+3004001	edu packexporti #1	9	12	3301.44
+NULL	NULL	19	53	3299.40
+8009010	maxinameless #10	19	33	3298.96
+7003005	exportibrand #5	9	21	3296.58
+4003001	exportiedu pack #1	17	15	3296.20
+2004001	edu packimporto #1	17	50	3296.16
+2002001	importoimporto #1	8	44	3295.50
+7010001	univnameless #1	9	51	3295.09
+2004001	brandcorp #4	17	38	3294.98
+6001001	amalgcorp #1	19	4	3294.52
+5004002	edu packscholar #2	17	11	3294.12
+8009003	maxinameless #3	8	53	3293.07
+4002001	importoedu pack #1	17	21	3292.80
+9015009	scholarunivamalg #9	19	27	3291.65
+3003001	exportiexporti #1	17	50	3290.52
+5001002	amalgscholar #2	9	57	3287.00
+9013002	exportiunivamalg #2	19	7	3285.20
+10010017	univamalgamalg #17	18	11	3282.40
+7006001	corpbrand #1	19	37	3281.64
+2001001	amalgimporto #1	17	14	3281.62
+8010006	univmaxi #6	9	53	3280.32
+5002002	importoscholar #2	19	25	3279.93
+2004002	edu packimporto #2	8	31	3277.53
+7016001	corpnameless #1	19	29	3277.12
+9006002	corpmaxi #2	6	49	3273.60
+6007007	brandcorp #7	17	10	3273.08
+1004001	edu packimporto #2	9	29	3271.39
+10008002	namelessunivamalg #2	17	8	3268.44
+10008009	corpcorp #8	9	2	3265.15
+5002001	importoscholar #1	17	7	3264.00
+6006002	corpcorp #2	18	58	3263.70
+5001002	amalgscholar #2	8	53	3262.32
+7001009	amalgbrand #9	17	59	3261.33
+1003002	exportiamalg #2	9	54	3261.10
+8003004	exportinameless #4	9	34	3261.00
+5004002	edu packscholar #2	8	50	3260.69
+5002001	amalgamalg #2	9	44	3260.40
+10004005	importounivamalg #6	18	45	3257.76
+10002009	importounivamalg #9	8	51	3257.60
+7014009	edu packnameless #9	17	54	3256.77
+2004001	importoexporti #2	17	54	3256.44
+4001001	amalgedu pack #1	8	14	3255.78
+10011017	amalgamalgamalg #17	17	29	3255.00
+5004001	amalgedu pack #2	17	1	3254.40
+3004002	edu packexporti #2	17	23	3251.70
+2001001	amalgimporto #1	9	45	3250.94
+1003002	exportiamalg #2	17	15	3249.76
+8005006	scholarnameless #6	8	55	3249.08
+3002002	importoexporti #2	17	45	3246.98
+1001001	amalgamalg #1	19	38	3246.72
+2002001	importoimporto #1	18	52	3245.56
+4003001	exportiedu pack #1	18	41	3243.90
+4003001	exportiedu pack #1	18	49	3242.16
+9007005	maxinameless #10	19	46	3240.90
+1002001	importounivamalg #1	9	45	3240.70
+9006009	corpmaxi #9	18	31	3233.01
+8008002	namelessnameless #2	17	50	3232.93
+4003001	exportiedu pack #1	18	44	3232.80
+2002001	importoimporto #1	18	49	3226.96
+7001001	importoexporti #2	17	10	3226.56
+8003006	exportinameless #6	18	9	3224.96
+6002008	importocorp #8	9	33	3222.30
+4002001	importoedu pack #1	9	16	3221.59
+2004002	edu packimporto #2	17	34	3218.34
+4004001	edu packedu pack #1	19	40	3214.86
+1001001	amalgamalg #1	17	38	3213.76
+3004001	edu packexporti #1	18	6	3213.60
+9004008	edu packmaxi #8	9	47	3213.15
+8012010	importomaxi #10	19	45	3212.32
+3002001	importoexporti #1	19	22	3212.30
+9011009	amalgunivamalg #9	18	24	3208.78
+1001002	amalgamalg #2	8	8	3207.50
+2003002	exportiimporto #2	8	25	3206.81
+8008003	namelessnameless #3	18	19	3205.97
+7003005	exportiedu pack #2	18	27	3204.00
+6005005	maxibrand #10	9	22	3203.20
+7013007	exportinameless #7	17	12	3198.60
+2002001	importoimporto #1	19	47	3197.70
+9016006	corpunivamalg #6	17	58	3196.96
+9008002	namelessmaxi #2	19	10	3194.92
+5002002	importoscholar #2	18	22	3194.88
+3001001	amalgexporti #1	19	16	3192.60
+6014004	edu packbrand #4	17	30	3192.54
+6010006	univbrand #6	6	31	3188.92
+9016009	corpunivamalg #9	8	38	3185.35
+2004001	edu packimporto #1	8	52	3183.60
+8008003	namelessnameless #3	17	14	3183.45
+8003009	exportinameless #9	18	4	3183.04
+9007009	brandmaxi #9	17	36	3182.40
+5001002	amalgscholar #2	18	35	3179.88
+5001001	amalgscholar #2	18	28	3179.54
+1003001	exportiamalg #1	19	6	3179.12
+9001008	amalgmaxi #8	8	24	3175.95
+3004002	edu packexporti #2	17	43	3174.96
+4003001	exportiedu pack #1	7	7	3174.72
+7016009	univnameless #10	7	51	3174.69
+4001002	amalgedu pack #2	7	15	3174.52
+3004002	edu packexporti #2	18	9	3173.79
+1001002	amalgamalg #2	18	52	3173.31
+2004002	edu packimporto #2	8	20	3172.40
+9002008	importomaxi #8	17	9	3171.90
+8001007	amalgamalg #2	18	34	3171.52
+2003002	exportiimporto #2	18	0	3168.80
+1004002	edu packamalg #2	18	2	3168.00
+9007011	importoexporti #2	19	57	3167.76
+7004006	edu packbrand #6	19	36	3166.86
+5002001	amalgamalg #2	9	0	3165.40
+2004001	edu packimporto #1	17	13	3160.54
+5003002	exportischolar #2	17	12	3159.80
+7003002	exportibrand #2	18	34	3157.74
+9016006	corpunivamalg #6	18	12	3157.44
+2001002	amalgimporto #2	9	5	3156.06
+9010009	univunivamalg #9	17	0	3154.19
+5002002	importoscholar #2	19	20	3153.14
+7007004	brandbrand #4	17	0	3152.33
+1001001	namelessunivamalg #4	6	0	3152.08
+7007010	brandbrand #10	9	49	3149.19
+10011009	amalgamalgamalg #9	9	22	3148.56
+4002001	edu packbrand #8	19	54	3146.30
+9003003	exportimaxi #3	19	5	3145.74
+9006006	corpmaxi #6	17	7	3145.26
+3003001	exportiexporti #1	9	43	3145.11
+4003002	exportiedu pack #2	19	12	3141.06
+6005001	scholarcorp #1	17	30	3139.56
+3004002	edu packexporti #2	17	21	3139.08
+1002002	importoamalg #2	18	14	3138.27
+2002001	importoimporto #1	19	35	3136.32
+5003002	exportischolar #2	18	5	3135.55
+6010002	univbrand #2	8	40	3134.42
+1001002	amalgamalg #2	8	39	3134.08
+10014010	edu packamalgamalg #10	18	53	3133.48
+10003016	exportiunivamalg #16	17	18	3130.56
+3004002	edu packexporti #2	18	57	3130.40
+1004001	edu packamalg #1	9	40	3128.18
+7001004	amalgbrand #4	17	31	3126.50
+3002002	importoexporti #2	19	38	3125.71
+7007005	exportiamalg #2	17	23	3120.92
+9002008	importomaxi #8	18	15	3120.40
+1003001	exportiamalg #1	8	58	3120.32
+9013012	exportiunivamalg #12	7	41	3118.08
+10002014	importounivamalg #14	8	31	3116.00
+3004002	edu packexporti #2	18	35	3115.60
+4004002	edu packedu pack #2	9	8	3115.17
+1001001	amalgamalg #1	9	4	3114.54
+3004002	edu packexporti #2	18	21	3113.45
+7010005	corpunivamalg #6	8	16	3112.56
+9004008	edu packmaxi #8	6	2	3112.02
+9012003	importounivamalg #3	17	42	3110.53
+8012006	importomaxi #6	8	21	3108.78
+7008004	namelessbrand #4	17	30	3104.96
+4002002	importoedu pack #2	9	8	3104.74
+1003002	exportiamalg #2	17	51	3104.08
+2004001	edu packunivamalg #8	19	9	3103.75
+9007008	brandmaxi #8	8	37	3103.16
+7016001	amalgamalg #2	7	8	3102.00
+4004002	edu packedu pack #2	8	24	3099.28
+8009009	maxinameless #9	19	41	3098.75
+6005001	scholarcorp #1	7	7	3095.33
+4004001	edu packscholar #2	18	13	3093.92
+3002001	importoexporti #1	6	28	3091.20
+8006009	corpnameless #9	9	40	3089.32
+2002001	importoimporto #1	7	55	3086.64
+6004007	edu packscholar #2	18	30	3085.16
+10011017	amalgamalgamalg #17	17	55	3081.99
+1001001	amalgamalg #1	7	34	3080.16
+6016001	corpbrand #1	9	33	3080.00
+9011009	amalgunivamalg #9	8	58	3077.58
+6008005	namelesscorp #5	9	22	3076.50
+6015004	scholarbrand #4	19	21	3074.76
+1004001	edu packamalg #1	18	42	3073.17
+7001004	amalgbrand #4	8	19	3072.72
+7009004	maxibrand #4	17	2	3069.36
+8003004	exportinameless #4	17	31	3069.26
+10007004	importoimporto #2	18	43	3067.40
+9015003	scholarunivamalg #3	17	39	3067.20
+3002002	importoexporti #2	18	6	3067.08
+6002008	importocorp #8	9	30	3066.80
+4002001	importoedu pack #1	18	11	3065.67
+7004008	edu packbrand #8	17	34	3064.32
+10005010	scholarunivamalg #10	9	15	3064.27
+3003002	exportiexporti #2	6	14	3064.14
+7014008	edu packnameless #8	9	1	3060.80
+9007011	importoexporti #2	17	15	3060.80
+4002002	importoedu pack #2	17	13	3060.68
+5002002	importoscholar #2	18	45	3060.00
+10006016	corpunivamalg #16	18	54	3059.32
+2002002	importoimporto #2	17	58	3059.00
+2003002	exportiimporto #2	17	35	3058.01
+6001002	amalgcorp #2	6	4	3052.54
+10009013	maxiunivamalg #13	19	8	3052.00
+10010006	univamalgamalg #6	19	53	3052.00
+10009013	maxiunivamalg #13	17	18	3051.84
+10008002	namelessunivamalg #2	7	58	3051.75
+4004001	corpamalgamalg #8	18	44	3051.18
+1003002	exportiamalg #2	6	53	3049.80
+3003001	importoimporto #2	19	49	3047.85
+9006009	corpmaxi #9	9	57	3047.50
+10004004	edu packunivamalg #4	19	2	3044.82
+3004001	edu packexporti #1	19	51	3043.96
+8009010	maxinameless #10	8	45	3043.62
+9009002	maximaxi #2	19	47	3043.04
+10016016	corpamalgamalg #16	17	47	3042.44
+1002001	importounivamalg #1	17	29	3040.31
+3004002	edu packexporti #2	6	46	3039.52
+10007015	brandunivamalg #15	7	45	3036.93
+4004001	edu packscholar #2	18	20	3035.34
+2004002	edu packimporto #2	17	53	3035.00
+2002001	importoimporto #1	6	48	3034.08
+5003001	exportischolar #1	19	10	3030.31
+10011012	importoimporto #2	17	8	3027.74
+5004001	edu packscholar #1	9	25	3024.96
+6014002	edu packbrand #2	19	59	3024.60
+8003004	exportinameless #4	8	35	3024.52
+3003002	exportiexporti #2	9	24	3022.80
+6002008	importocorp #8	9	45	3021.18
+10013015	exportiamalgamalg #15	19	30	3021.12
+1002002	importoamalg #2	19	18	3019.90
+10004015	edu packunivamalg #15	19	39	3019.90
+3002001	univamalgamalg #6	17	16	3019.77
+7014001	edu packnameless #1	9	42	3017.52
+4001002	amalgedu pack #2	8	14	3015.99
+1001001	amalgamalg #1	19	5	3013.42
+10012001	importoamalgamalg #1	17	45	3012.45
+4002001	importoedu pack #1	17	3	3010.69
+4003001	edu packamalg #2	19	47	3008.88
+8004001	edu packnameless #1	17	17	3004.92
+7016007	corpnameless #7	19	12	3004.24
+5004001	amalgedu pack #2	18	54	3003.05
+9009009	maximaxi #9	17	27	3002.88
+10007005	brandunivamalg #5	17	7	3002.76
+6009008	maxicorp #8	18	0	3000.78
+6004007	edu packscholar #2	18	48	3000.58
+4002002	importoedu pack #2	19	25	2998.77
+2002001	importoimporto #1	7	1	2998.60
+4003001	exportiedu pack #1	9	16	2996.22
+1002002	importoamalg #2	18	13	2996.13
+9010012	univunivamalg #12	17	4	2993.88
+3001002	amalgexporti #2	19	54	2993.79
+9015009	scholarunivamalg #9	18	22	2992.31
+10016003	corpamalgamalg #3	8	39	2992.12
+3002002	importoexporti #2	9	7	2990.96
+10015013	scholaramalgamalg #13	6	21	2988.70
+6016006	corpbrand #6	18	30	2988.66
+5001002	amalgscholar #2	9	15	2987.16
+8001004	amalgnameless #4	18	38	2986.48
+6015008	scholarbrand #8	19	25	2984.80
+2001002	amalgimporto #2	9	31	2983.68
+7011001	amalgnameless #1	18	57	2983.44
+3004001	edu packexporti #1	19	10	2982.62
+5001001	maxicorp #4	8	11	2982.29
+1004002	edu packamalg #2	18	50	2981.70
+2003001	exportiimporto #1	17	43	2981.68
+8010001	univmaxi #1	9	12	2981.32
+3004001	edu packscholar #2	19	4	2979.96
+2004002	edu packimporto #2	19	1	2979.90
+7008006	namelessbrand #6	18	34	2978.01
+9015003	scholarunivamalg #3	17	22	2976.96
+9016008	corpunivamalg #8	18	31	2975.28
+1001002	amalgamalg #2	19	1	2974.31
+5001001	edu packexporti #2	9	53	2972.25
+4002001	importoedu pack #1	8	48	2971.36
+6016003	corpbrand #3	8	39	2971.00
+6003008	exporticorp #8	18	32	2969.52
+6003001	exportiimporto #2	19	6	2967.57
+8015007	scholarmaxi #7	17	48	2967.30
+8005009	scholarnameless #9	9	59	2966.76
+9012011	importoamalg #2	17	57	2966.48
+7004009	edu packbrand #9	17	56	2966.46
+7013002	exportinameless #2	18	58	2964.96
+8004009	edu packnameless #9	17	7	2961.64
+3003001	univamalgamalg #6	18	14	2959.74
+10015017	scholaramalgamalg #17	19	25	2959.56
+1003001	exportiamalg #1	17	46	2958.75
+6012003	importobrand #3	19	43	2958.28
+8003006	exportinameless #6	18	12	2958.12
+1001002	amalgamalg #2	18	23	2957.66
+9016002	corpunivamalg #2	6	6	2955.69
+7015002	scholarnameless #2	19	24	2955.19
+6015008	scholarbrand #8	7	18	2954.31
+8003004	exportinameless #4	9	10	2953.37
+1002002	importoamalg #2	8	6	2952.23
+8011007	amalgmaxi #7	18	37	2950.92
+5003002	exportischolar #2	19	8	2950.50
+1001001	amalgunivamalg #13	7	47	2949.93
+10004015	edu packunivamalg #15	17	22	2947.03
+9012003	importounivamalg #3	7	12	2946.24
+8016003	corpmaxi #3	9	52	2945.97
+6002008	importocorp #8	17	5	2945.28
+8016001	corpmaxi #1	8	1	2945.25
+2003002	exportiimporto #2	18	44	2943.48
+8002009	importonameless #9	9	10	2942.61
+3004002	edu packexporti #2	19	38	2941.20
+3003001	exportiexporti #1	17	4	2940.32
+5003001	exportischolar #1	19	49	2939.02
+10003005	corpamalgamalg #6	19	1	2938.11
+1003001	exportiamalg #1	7	25	2936.25
+2003001	exportiimporto #1	17	10	2935.14
+7011008	amalgnameless #8	18	46	2933.84
+9015009	scholarunivamalg #9	18	11	2933.45
+3003002	exportiexporti #2	18	14	2933.32
+8012005	importomaxi #5	9	9	2933.25
+3003002	exportiexporti #2	17	15	2931.66
+3002002	importoexporti #2	8	5	2930.18
+6005005	maxibrand #10	17	53	2929.80
+6014005	edu packamalgamalg #8	18	48	2929.68
+10009006	maxiunivamalg #6	19	25	2929.28
+10003004	exportiunivamalg #4	17	21	2929.05
+5004001	edu packscholar #1	18	41	2927.82
+3004002	edu packexporti #2	17	48	2927.16
+10016013	corpamalgamalg #13	18	19	2925.65
+1004001	edu packamalg #1	17	23	2925.54
+10005010	scholarunivamalg #10	18	37	2924.86
+7002007	maxicorp #2	19	7	2923.76
+3004002	edu packexporti #2	17	41	2922.76
+1004001	exportiunivamalg #12	19	27	2920.54
+10012004	importoamalgamalg #4	8	8	2920.32
+5002001	amalgamalg #2	17	20	2918.88
+1002001	amalgscholar #2	18	47	2915.74
+10009009	maxiunivamalg #9	9	18	2914.58
+5004001	edu packscholar #1	18	5	2914.55
+7009009	exportibrand #10	17	22	2913.50
+4002001	importoedu pack #1	19	1	2912.49
+4003001	corpcorp #2	18	33	2911.68
+3002002	importoexporti #2	9	42	2911.60
+3004002	edu packexporti #2	18	13	2911.44
+2003002	exportiimporto #2	18	33	2911.19
+1004001	amalgamalg #2	8	19	2910.88
+4003001	exportiedu pack #1	19	59	2910.29
+10007004	brandunivamalg #4	17	16	2908.50
+2002001	exportiexporti #2	9	0	2906.67
+6008005	namelesscorp #5	8	34	2905.32
+7010003	univnameless #3	17	5	2904.21
+3001001	amalgexporti #1	19	6	2896.50
+1002001	importoamalg #1	8	45	2896.17
+9009003	maximaxi #3	18	11	2894.13
+7011008	amalgnameless #8	8	14	2893.04
+4003002	exportiedu pack #2	9	6	2892.00
+7013002	exportinameless #2	17	57	2891.79
+4002002	importoedu pack #2	7	6	2891.68
+3003001	importoimporto #2	19	36	2888.96
+4002002	importoedu pack #2	17	6	2887.63
+7013009	exportinameless #9	8	4	2886.96
+6011008	amalgbrand #8	6	47	2885.08
+10007012	brandunivamalg #12	17	21	2884.00
+1001002	amalgamalg #2	9	28	2883.94
+6001002	amalgcorp #2	6	51	2883.00
+2004001	edu packunivamalg #8	17	5	2882.36
+6010002	univbrand #2	17	0	2882.25
+3004002	edu packexporti #2	18	29	2881.76
+9008008	namelessmaxi #8	18	27	2881.35
+4001001	amalgedu pack #1	19	33	2880.30
+5001001	brandunivamalg #11	17	28	2879.24
+2004002	edu packimporto #2	18	26	2877.42
+6015004	scholarbrand #4	19	17	2870.96
+3001002	amalgexporti #2	18	44	2870.40
+2003002	exportiimporto #2	18	48	2870.39
+9012011	importoamalg #2	19	1	2869.80
+10013015	exportiamalgamalg #15	8	30	2869.23
+8003003	exportinameless #3	18	44	2868.46
+5002001	importoscholar #1	17	10	2868.30
+7009009	exportibrand #10	17	45	2867.40
+4004001	edu packscholar #2	8	9	2866.60
+10010013	univamalgamalg #13	18	16	2866.24
+4004002	edu packedu pack #2	19	22	2866.14
+6014006	edu packbrand #6	8	30	2865.80
+3004001	edu packscholar #2	17	15	2865.50
+9007003	brandmaxi #3	17	24	2865.20
+9013008	exportiunivamalg #8	19	25	2865.09
+9006009	corpmaxi #9	18	48	2864.82
+4004002	edu packedu pack #2	17	48	2864.50
+10009015	maxiunivamalg #15	18	16	2860.50
+8014004	edu packmaxi #4	6	16	2860.20
+1004001	edu packamalg #1	9	32	2859.75
+8012006	importomaxi #6	18	17	2859.56
+3003001	amalgscholar #2	9	11	2859.35
+7009009	exportibrand #10	7	18	2858.35
+6015007	scholarbrand #7	19	29	2856.88
+6005003	scholarcorp #3	18	23	2856.65
+7016007	corpnameless #7	17	32	2855.36
+4002001	edu packbrand #8	7	38	2854.80
+2001002	amalgimporto #2	18	16	2854.78
+7007010	brandbrand #10	8	47	2850.99
+4001001	amalgedu pack #1	17	0	2850.96
+7001008	amalgbrand #8	6	50	2850.39
+8001004	amalgnameless #4	19	6	2849.88
+5001002	amalgscholar #2	17	13	2846.23
+8003009	exportinameless #9	19	20	2845.90
+6005001	scholarcorp #1	17	8	2845.82
+3004001	edu packexporti #1	17	23	2845.50
+6005001	scholarcorp #1	19	33	2844.18
+8003010	exportinameless #10	17	5	2843.08
+7008006	namelessbrand #6	19	35	2843.00
+9002003	importomaxi #3	9	15	2842.03
+2003002	exportiimporto #2	19	59	2842.00
+1004001	edu packscholar #2	8	28	2841.38
+6005005	maxibrand #10	8	41	2841.13
+5002001	amalgamalgamalg #12	18	15	2840.68
+8005006	scholarnameless #6	17	24	2838.08
+6001008	amalgcorp #8	7	29	2837.40
+8010009	univmaxi #9	17	2	2836.28
+4004001	importoscholar #2	18	17	2835.60
+4004001	edu packedu pack #1	18	47	2834.94
+3003002	exportiexporti #2	19	5	2834.91
+4004001	scholarnameless #4	7	16	2833.20
+5004002	edu packscholar #2	7	32	2833.16
+3002002	importoexporti #2	9	31	2831.75
+7004008	edu packbrand #8	18	51	2830.98
+6014004	edu packbrand #4	17	31	2829.60
+2002001	importoimporto #1	6	37	2828.72
+5003001	exportischolar #1	9	35	2826.92
+10002001	importounivamalg #1	19	53	2825.80
+4003002	exportiedu pack #2	19	46	2825.13
+9015011	exportiamalg #2	17	23	2823.30
+8016010	corpmaxi #10	19	19	2822.64
+1002002	importoamalg #2	9	23	2819.44
+1004001	exportiunivamalg #12	17	18	2819.30
+2003002	exportiimporto #2	18	42	2817.77
+4004001	edu packedu pack #1	8	31	2817.60
+5002002	importoscholar #2	18	42	2816.52
+1001002	amalgamalg #2	9	54	2814.56
+8015003	importoamalg #2	8	51	2813.98
+10003006	exportiunivamalg #6	18	34	2812.74
+3004001	edu packexporti #1	19	4	2809.89
+10014010	edu packamalgamalg #10	17	21	2806.76
+4001001	amalgedu pack #1	9	44	2806.04
+6009008	maxicorp #8	18	43	2805.04
+8005005	scholarnameless #5	8	51	2805.00
+10003004	exportiunivamalg #4	19	59	2804.76
+1001001	namelessunivamalg #4	18	54	2804.75
+7009002	maxibrand #2	8	53	2799.42
+3003002	exportiexporti #2	8	31	2799.00
+6011002	amalgbrand #2	19	37	2798.18
+6012002	importobrand #2	9	0	2797.58
+6007007	brandcorp #7	9	16	2795.86
+1004002	edu packamalg #2	17	49	2795.79
+3002001	namelessunivamalg #15	18	49	2793.72
+10011017	amalgamalgamalg #17	19	26	2793.21
+8003006	exportinameless #6	7	21	2791.91
+1001002	amalgamalg #2	9	38	2791.80
+2003002	exportiimporto #2	9	44	2791.28
+9015003	scholarunivamalg #3	8	5	2790.11
+7003005	exportiedu pack #2	17	10	2789.57
+4003001	amalgexporti #2	9	17	2789.50
+4001001	amalgedu pack #1	6	54	2789.05
+9007011	importoexporti #2	18	28	2788.86
+5003001	exportischolar #1	8	47	2787.12
+7008008	namelessbrand #8	19	16	2784.50
+4003001	exportischolar #2	17	0	2784.32
+1003001	exportiamalg #1	7	48	2783.46
+5001002	amalgscholar #2	17	50	2781.80
+3003001	exportiexporti #1	17	37	2780.16
+4001001	amalgedu pack #1	19	47	2779.98
+4004002	edu packedu pack #2	17	27	2778.60
+10008004	namelessunivamalg #4	18	53	2778.24
+2004002	edu packimporto #2	8	16	2777.04
+4002001	importoedu pack #1	18	37	2775.75
+7015009	scholarnameless #9	18	42	2775.08
+1003001	exportiedu pack #2	18	19	2773.24
+7007004	brandbrand #4	17	28	2772.00
+10016002	corpamalgamalg #2	6	55	2771.71
+9015011	exportiamalg #2	9	46	2770.47
+3002002	importoexporti #2	19	49	2769.40
+10012001	importoamalgamalg #1	9	54	2768.88
+1003001	exportiamalg #1	19	58	2768.40
+8008009	namelessnameless #9	9	37	2767.52
+2002002	importoimporto #2	19	11	2766.21
+3004002	edu packexporti #2	18	59	2764.52
+7004009	importoimporto #2	8	5	2764.47
+7006001	corpcorp #4	8	31	2762.76
+7010010	univnameless #10	17	35	2760.24
+9016008	corpunivamalg #8	19	48	2759.64
+9011009	amalgunivamalg #9	19	25	2758.84
+2003001	exportiimporto #1	9	47	2758.14
+6006002	corpcorp #2	19	52	2757.92
+10009013	exportibrand #6	8	15	2752.68
+9008002	namelessmaxi #2	18	33	2751.87
+3004002	edu packexporti #2	9	18	2751.45
+7016010	corpnameless #10	17	48	2751.00
+8016003	corpmaxi #3	17	39	2749.14
+8003004	exportinameless #4	17	19	2748.36
+1002002	importoamalg #2	17	8	2748.13
+6005005	edu packnameless #8	18	2	2748.00
+7013001	exportinameless #1	18	43	2748.00
+6001008	amalgcorp #8	17	19	2747.88
+7010009	univnameless #9	9	45	2747.70
+5004002	edu packscholar #2	6	48	2747.04
+5004002	edu packscholar #2	17	45	2746.92
+1003001	corpunivamalg #12	17	26	2742.78
+4001002	amalgedu pack #2	17	6	2742.32
+2002001	importoimporto #1	17	32	2742.25
+10011017	amalgamalgamalg #17	19	18	2741.37
+5001001	brandunivamalg #11	9	1	2740.10
+7013009	exportinameless #9	9	49	2739.80
+10004004	edu packunivamalg #4	19	53	2739.47
+7004004	edu packbrand #4	8	30	2739.42
+8004001	importonameless #2	9	12	2737.68
+3001002	amalgexporti #2	18	16	2737.50
+10007015	brandunivamalg #15	9	22	2736.80
+10011009	amalgamalgamalg #9	9	40	2736.66
+2002002	importoimporto #2	9	56	2736.57
+8013004	exportimaxi #4	19	18	2735.28
+2003002	exportiimporto #2	8	12	2734.00
+8010004	univmaxi #4	9	54	2730.70
+6006006	corpcorp #6	17	40	2730.48
+7006001	corpcorp #4	8	19	2728.14
+6011002	amalgbrand #2	17	14	2725.80
+1003002	exportiamalg #2	6	39	2725.20
+10012001	importoamalgamalg #1	19	25	2724.96
+8010004	univmaxi #4	8	36	2723.46
+10013015	exportiamalgamalg #15	18	5	2723.20
+10008002	namelessunivamalg #2	19	36	2721.18
+4003002	exportiedu pack #2	18	56	2719.88
+6001001	amalgcorp #1	19	59	2718.72
+4003002	exportiedu pack #2	17	23	2718.70
+8005006	scholarnameless #6	17	59	2717.54
+4002001	scholarmaxi #6	17	24	2716.20
+1003002	exportiamalg #2	17	11	2715.44
+3004001	edu packscholar #2	9	28	2715.38
+10014016	edu packamalgamalg #16	9	22	2715.30
+9015011	exportiamalg #2	18	20	2712.32
+8001004	amalgnameless #4	17	45	2711.16
+7007004	brandbrand #4	9	2	2711.15
+3002002	importoexporti #2	18	42	2709.21
+3002001	corpcorp #8	17	53	2707.79
+5004002	edu packscholar #2	9	20	2707.56
+1001002	amalgamalg #2	17	24	2707.50
+9011008	amalgunivamalg #8	18	6	2707.32
+10007015	brandunivamalg #15	19	14	2706.87
+1003001	namelessunivamalg #12	6	42	2706.00
+9006008	corpmaxi #8	9	37	2703.00
+4004001	edu packscholar #2	18	23	2702.04
+10016013	corpamalgamalg #13	19	59	2701.60
+2004001	edu packimporto #1	18	26	2701.42
+10009006	maxiunivamalg #6	9	26	2701.37
+2001001	amalgimporto #1	19	44	2701.35
+10009013	exportibrand #6	8	22	2698.92
+7001001	importoexporti #2	18	18	2697.93
+6002004	importocorp #4	17	58	2697.52
+1001001	amalgunivamalg #13	17	4	2694.06
+5003001	exportiamalg #2	17	8	2694.04
+7011008	amalgnameless #8	9	17	2693.57
+2001001	amalgamalg #2	17	10	2692.86
+5002001	exporticorp #4	17	45	2692.44
+7013009	exportinameless #9	9	19	2692.20
+3002002	importoexporti #2	19	5	2691.90
+5001001	exportinameless #8	19	3	2691.65
+1001002	amalgamalg #2	8	25	2690.08
+9012008	importounivamalg #8	19	27	2689.20
+8016004	corpmaxi #4	9	22	2689.05
+4003001	exportiedu pack #1	18	35	2688.00
+1004002	edu packamalg #2	8	14	2687.04
+1001002	amalgamalg #2	9	58	2687.00
+4004002	edu packedu pack #2	9	51	2686.82
+3002001	univamalgamalg #6	8	33	2685.69
+9007009	brandmaxi #9	17	32	2685.10
+10009017	maxiunivamalg #17	18	2	2685.00
+10003007	exportiunivamalg #7	9	26	2684.56
+8005006	scholarnameless #6	7	59	2684.24
+6010006	univbrand #6	18	7	2684.22
+9011008	amalgunivamalg #8	9	2	2682.80
+1004001	edu packamalg #1	18	2	2682.29
+9001005	importoedu pack #2	8	19	2681.90
+1001001	amalgunivamalg #13	17	15	2681.19
+3002001	importoexporti #1	19	52	2679.86
+1001002	amalgamalg #2	19	21	2679.70
+1001001	univamalgamalg #16	17	28	2678.94
+1004001	importounivamalg #12	6	2	2678.26
+10009008	maxiunivamalg #8	18	15	2676.00
+6003003	exporticorp #3	17	54	2675.26
+2001002	amalgimporto #2	9	9	2674.56
+9013008	exportiunivamalg #8	17	25	2673.30
+1004002	edu packamalg #2	7	33	2672.54
+2003001	amalgbrand #4	18	3	2672.40
+10004004	edu packunivamalg #4	17	32	2671.76
+2002001	importoimporto #1	9	48	2671.24
+2002002	importoimporto #2	19	59	2671.24
+1002002	importoamalg #2	7	34	2671.02
+7008004	namelessbrand #4	19	5	2670.64
+4001002	amalgedu pack #2	17	30	2669.31
+10008006	namelessunivamalg #6	17	43	2668.36
+9011009	amalgunivamalg #9	19	43	2667.84
+7006001	corpbrand #1	9	30	2667.50
+1003002	exportiamalg #2	9	55	2666.30
+3001002	amalgexporti #2	17	23	2665.84
+10006002	corpunivamalg #2	17	57	2665.56
+4004001	edu packedu pack #1	17	15	2664.48
+8011007	amalgmaxi #7	9	35	2663.88
+9007011	importoexporti #2	19	7	2663.04
+9006002	corpmaxi #2	8	5	2662.88
+2001001	amalgamalg #2	7	43	2662.74
+9003008	exportimaxi #8	17	21	2662.40
+4001002	amalgedu pack #2	8	54	2661.44
+3004002	edu packexporti #2	17	51	2660.84
+7010010	univnameless #10	18	22	2659.80
+10009006	maxiunivamalg #6	7	55	2659.72
+2004002	edu packimporto #2	17	22	2658.41
+9015002	scholarunivamalg #2	18	45	2657.70
+8016004	corpmaxi #4	18	58	2657.46
+7009010	maxibrand #10	19	51	2657.40
+1003002	exportiamalg #2	18	34	2657.10
+1003002	exportiamalg #2	19	21	2656.44
+5002001	importoedu pack #2	7	30	2656.29
+2004002	edu packimporto #2	19	58	2656.13
+3004002	edu packexporti #2	17	40	2656.07
+7010010	univnameless #10	19	56	2654.96
+1001001	scholarnameless #2	9	40	2653.56
+9016009	corpunivamalg #9	18	25	2653.20
+9004003	edu packmaxi #3	7	33	2652.50
+10016001	corpamalgamalg #1	17	53	2651.76
+5004002	edu packscholar #2	17	9	2649.36
+8003004	exportinameless #4	8	23	2649.36
+4003001	exportiedu pack #1	7	5	2647.98
+7012005	importonameless #5	7	31	2647.96
+5001001	edu packexporti #2	18	37	2647.51
+7010008	univnameless #8	8	34	2644.20
+7013001	exportinameless #1	17	51	2643.60
+4002001	importoscholar #2	17	1	2643.20
+8001009	amalgamalg #2	19	27	2642.19
+4004002	edu packedu pack #2	18	51	2642.16
+4001002	amalgedu pack #2	19	56	2641.90
+10016001	corpamalgamalg #1	19	27	2641.28
+6008005	edu packmaxi #6	17	58	2639.36
+1003001	exportiamalg #1	9	58	2638.34
+9014008	edu packunivamalg #8	6	45	2638.10
+6002004	importocorp #4	17	14	2635.00
+10012005	importoamalgamalg #5	18	16	2635.00
+10002014	importounivamalg #14	17	46	2634.00
+1004002	edu packamalg #2	8	6	2632.05
+8012010	importomaxi #10	9	29	2631.36
+4003002	exportiedu pack #2	9	23	2629.85
+8007010	brandnameless #10	9	27	2628.73
+8010002	univmaxi #2	18	21	2626.96
+1004002	edu packamalg #2	18	3	2625.59
+1002002	importoamalg #2	9	27	2625.30
+1003001	exportiamalg #1	18	58	2622.18
+4002001	importoscholar #2	9	49	2621.16
+7001008	amalgbrand #8	17	44	2620.80
+1002001	importoamalg #1	9	32	2619.54
+8010008	univmaxi #8	6	28	2619.24
+4001001	amalgedu pack #1	18	13	2619.00
+10003011	exportiunivamalg #11	9	56	2617.90
+8012001	amalgexporti #2	19	20	2615.90
+2002001	importoimporto #1	9	0	2615.20
+4004001	edu packedu pack #1	8	5	2614.67
+8015007	scholarmaxi #7	19	10	2613.11
+8004009	edu packnameless #9	17	3	2613.00
+6006004	corpcorp #4	9	48	2610.38
+3001001	amalgexporti #1	9	31	2609.58
+4004002	edu packedu pack #2	6	43	2607.15
+6016001	corpbrand #1	19	41	2606.80
+2002002	importoimporto #2	8	28	2605.92
+1001001	brandnameless #8	18	46	2603.37
+4003001	edu packamalg #2	8	28	2603.25
+4002002	importoedu pack #2	17	59	2601.31
+6008002	namelesscorp #2	17	50	2596.92
+7008008	namelessbrand #8	18	45	2596.66
+5001002	amalgscholar #2	9	47	2595.75
+2004001	importoexporti #2	9	48	2594.48
+7001002	amalgbrand #2	17	52	2594.16
+4003001	edu packamalg #2	9	15	2593.62
+5004002	edu packscholar #2	19	31	2593.60
+7004009	edu packbrand #9	19	17	2592.96
+10012005	importoamalgamalg #5	18	48	2591.64
+8010005	univmaxi #5	18	43	2591.61
+4004001	edu packedu pack #1	9	7	2591.50
+8004001	importonameless #2	19	51	2591.22
+6001007	amalgcorp #7	19	5	2590.77
+4002001	importoedu pack #1	19	48	2587.96
+3002002	importoexporti #2	18	16	2587.01
+8007008	brandnameless #8	19	17	2587.00
+4002001	exportiimporto #2	17	0	2586.98
+4003002	exportiedu pack #2	17	53	2586.92
+1001001	amalgunivamalg #13	19	4	2586.78
+8016003	corpmaxi #3	7	32	2585.44
+1002002	importoamalg #2	18	11	2585.00
+10003004	exportiunivamalg #4	19	44	2584.32
+7013009	exportinameless #9	19	29	2583.98
+3001002	amalgexporti #2	17	11	2583.42
+7010005	corpunivamalg #6	19	10	2582.91
+8005006	scholarnameless #6	9	32	2582.67
+7004006	edu packbrand #6	17	33	2582.58
+5002001	amalgamalg #2	8	6	2581.63
+8003009	exportinameless #9	19	55	2580.60
+4001002	amalgedu pack #2	17	2	2580.43
+7004009	importoimporto #2	8	50	2579.82
+4004001	edu packscholar #2	9	31	2579.28
+8005010	scholarnameless #10	8	44	2576.80
+4002001	importoedu pack #1	9	30	2575.08
+7015009	scholarnameless #9	18	52	2574.66
+10014003	edu packamalgamalg #3	18	12	2574.00
+3003002	exportiexporti #2	6	46	2573.36
+6008005	namelesscorp #5	17	56	2572.65
+3001002	amalgexporti #2	9	33	2571.47
+7016001	corpnameless #1	9	33	2570.40
+7010004	univnameless #4	17	16	2569.43
+4004002	edu packedu pack #2	9	37	2568.24
+8005005	importonameless #6	17	2	2567.10
+9010009	univunivamalg #9	9	28	2566.80
+9011008	amalgunivamalg #8	9	14	2566.50
+6001007	amalgcorp #7	17	19	2566.00
+1004001	edu packamalg #1	9	4	2565.42
+8012006	importomaxi #6	9	33	2564.55
+2004001	edu packimporto #1	8	56	2563.80
+1004002	edu packamalg #2	17	27	2562.70
+8014005	edu packmaxi #5	19	24	2562.08
+10011009	amalgamalgamalg #9	6	50	2560.59
+10004008	edu packunivamalg #8	19	14	2560.56
+2004002	edu packimporto #2	17	31	2560.40
+4001002	amalgedu pack #2	18	50	2558.18
+8009010	maxinameless #10	19	38	2558.00
+4001001	amalgedu pack #1	18	11	2557.39
+7016001	corpnameless #1	7	7	2556.00
+9013009	exportiunivamalg #9	17	25	2555.15
+8003003	exportinameless #3	17	41	2554.90
+2003002	exportiimporto #2	8	43	2554.50
+7003005	exportibrand #5	9	59	2551.92
+10016008	corpamalgamalg #8	9	32	2551.32
+1002001	scholarbrand #4	18	46	2551.15
+2001002	amalgimporto #2	19	39	2550.66
+4001001	amalgedu pack #1	17	35	2550.08
+1004001	edu packamalg #1	9	23	2547.65
+8005010	scholarnameless #10	19	16	2546.28
+8012001	amalgexporti #2	17	18	2544.00
+1001002	amalgamalg #2	18	34	2542.40
+10009013	maxiunivamalg #13	17	27	2542.28
+7011001	amalgnameless #1	19	31	2542.14
+6011008	amalgbrand #8	19	21	2541.84
+3002001	namelessunivamalg #15	8	53	2541.40
+8015006	scholarmaxi #6	19	24	2541.21
+10008002	namelessunivamalg #2	8	14	2540.40
+4004001	edu packedu pack #1	6	53	2537.52
+8008002	namelessnameless #2	18	40	2536.65
+5003002	exportischolar #2	17	54	2535.52
+7016001	corpnameless #1	18	45	2535.30
+8001003	importoscholar #2	9	30	2535.18
+2002002	importoimporto #2	19	15	2534.72
+10008009	namelessunivamalg #9	9	40	2533.30
+2001002	amalgimporto #2	19	26	2532.80
+6012002	importobrand #2	19	50	2532.53
+3002001	corpcorp #8	8	28	2532.20
+10003004	exportiunivamalg #4	18	0	2530.80
+1001002	amalgamalg #2	9	4	2529.92
+9007003	brandmaxi #3	8	20	2529.80
+1002002	importoamalg #2	19	54	2528.07
+10004005	importounivamalg #6	9	12	2526.48
+9009012	maximaxi #12	6	45	2525.40
+9013012	exportiunivamalg #12	9	5	2523.84
+7010010	univnameless #10	8	17	2523.82
+1003002	exportiamalg #2	8	18	2522.56
+10014016	edu packamalgamalg #16	8	56	2522.24
+1003002	exportiamalg #2	9	50	2522.10
+10008009	corpcorp #8	8	7	2521.20
+10006017	corpunivamalg #17	17	54	2520.90
+7016001	corpnameless #1	19	9	2520.00
+1001002	amalgamalg #2	17	58	2519.94
+9016006	corpunivamalg #6	8	11	2519.28
+3003002	exportiexporti #2	17	42	2518.32
+3002001	importoexporti #1	7	59	2516.50
+8005009	scholarnameless #9	19	35	2516.38
+7010008	univnameless #8	9	16	2516.25
+2002002	importoimporto #2	18	19	2516.08
+3001001	maxibrand #8	8	10	2515.28
+2004002	edu packimporto #2	6	47	2513.68
+5002002	importoscholar #2	9	15	2512.56
+6004002	edu packcorp #2	9	26	2511.84
+7004008	edu packbrand #8	18	50	2507.62
+9011009	amalgunivamalg #9	8	47	2506.48
+2002001	amalgscholar #2	9	50	2504.96
+3002002	importoexporti #2	18	47	2504.84
+1001001	namelessunivamalg #4	17	28	2503.69
+9016008	corpunivamalg #8	17	3	2503.55
+7013002	exportinameless #2	19	4	2503.08
+7009010	maxibrand #10	6	45	2502.40
+9006008	corpmaxi #8	19	6	2501.00
+8008007	namelessnameless #7	18	16	2500.83
+4003002	exportiedu pack #2	18	40	2500.56
+8010002	univmaxi #2	17	45	2500.02
+5003002	exportischolar #2	9	56	2497.98
+2003002	exportiimporto #2	19	39	2497.68
+5001001	amalgscholar #1	19	1	2497.20
+4001002	amalgedu pack #2	17	26	2496.00
+2002001	importoimporto #1	8	37	2495.11
+2001001	importoimporto #2	19	42	2494.96
+9008008	namelessmaxi #8	18	37	2493.54
+9002008	importomaxi #8	17	6	2492.07
+10001008	amalgunivamalg #8	17	0	2490.90
+1001001	amalgamalg #1	18	25	2488.19
+5003002	exportischolar #2	17	45	2488.12
+1004001	edu packimporto #2	9	51	2488.06
+8016001	corpmaxi #1	7	3	2485.76
+7012009	amalgamalg #2	9	30	2485.34
+1003002	exportiamalg #2	9	36	2485.20
+2002002	importoimporto #2	19	34	2485.12
+9014006	edu packunivamalg #6	19	40	2484.38
+9007011	importoexporti #2	19	38	2481.84
+10011013	amalgunivamalg #6	17	4	2481.32
+7009009	maxibrand #9	17	59	2475.99
+3004002	edu packexporti #2	17	16	2474.94
+4003002	exportiedu pack #2	7	2	2474.82
+3002001	importounivamalg #7	19	41	2474.47
+5004001	scholarnameless #6	18	47	2473.65
+8002009	importonameless #9	17	43	2469.06
+10007012	brandunivamalg #12	8	10	2468.19
+1001001	amalgunivamalg #13	17	57	2467.44
+6005003	scholarcorp #3	8	15	2465.68
+6015002	scholarbrand #2	17	18	2464.44
+1002002	importoamalg #2	17	43	2464.22
+4004002	edu packedu pack #2	17	51	2463.07
+2002002	importoimporto #2	19	31	2461.42
+10002009	importounivamalg #9	9	44	2461.20
+5002002	importoscholar #2	19	19	2460.78
+9014002	edu packunivamalg #2	18	48	2460.12
+9003008	exportimaxi #8	17	45	2459.02
+2002002	importoimporto #2	19	26	2457.98
+6015008	scholarbrand #8	8	33	2457.70
+7012001	scholarcorp #6	19	34	2457.08
+7002007	maxicorp #2	9	56	2456.00
+7008006	namelessbrand #6	18	12	2455.60
+7008006	namelessbrand #6	8	20	2455.14
+10008009	namelessunivamalg #9	17	1	2454.99
+4004001	edu packedu pack #1	9	42	2454.63
+6006004	corpcorp #4	19	32	2454.12
+4002001	importoedu pack #1	19	37	2453.28
+4003001	exportiedu pack #1	17	59	2453.13
+1003002	exportiamalg #2	17	25	2451.52
+5004002	edu packscholar #2	18	58	2450.50
+3001002	amalgexporti #2	8	29	2450.00
+3003001	exportiexporti #1	17	53	2449.96
+2004002	edu packimporto #2	17	18	2444.12
+8016001	corpmaxi #1	17	55	2441.50
+7007005	exportiamalg #2	19	0	2441.18
+4004002	edu packedu pack #2	17	12	2439.84
+1004001	edu packamalg #1	18	14	2439.60
+7008006	namelessbrand #6	18	38	2438.60
+10014016	edu packamalgamalg #16	7	3	2438.03
+4002001	scholarmaxi #6	8	32	2438.00
+8010003	namelessunivamalg #5	6	28	2437.50
+9015003	scholarunivamalg #3	8	37	2437.32
+10010013	univamalgamalg #13	18	40	2435.50
+10002012	importounivamalg #12	19	44	2434.74
+5003002	exportischolar #2	9	52	2434.64
+7015009	scholarnameless #9	9	8	2433.52
+1001001	amalgamalg #1	9	31	2433.28
+6011003	importobrand #4	17	45	2431.80
+2004001	edu packimporto #1	8	4	2429.91
+1004001	edu packamalg #1	9	12	2428.76
+1003002	exportiamalg #2	17	38	2427.41
+9015009	scholarunivamalg #9	7	12	2426.58
+7008009	namelessbrand #9	18	40	2426.07
+8010004	univmaxi #4	17	51	2425.92
+4002001	scholarmaxi #6	19	58	2425.28
+4004001	edu packedu pack #1	19	30	2424.75
+10012004	importoamalgamalg #4	17	37	2424.52
+4002001	importoedu pack #1	9	12	2424.00
+4004002	edu packedu pack #2	17	39	2423.08
+3001002	amalgexporti #2	19	59	2423.01
+3004001	edu packscholar #2	19	17	2422.71
+4001001	amalgedu pack #1	19	23	2422.34
+8016003	corpmaxi #3	9	20	2421.93
+9007003	brandmaxi #3	9	6	2421.00
+2004002	edu packimporto #2	6	49	2420.25
+7009004	maxibrand #4	18	11	2419.08
+4002002	importoedu pack #2	9	13	2417.40
+6010005	univbrand #5	6	28	2417.04
+2004002	edu packimporto #2	8	54	2416.36
+6004007	edu packscholar #2	9	44	2415.60
+2004002	edu packimporto #2	9	56	2414.32
+6005005	edu packnameless #8	17	1	2413.88
+5004002	edu packscholar #2	8	21	2413.32
+5001002	amalgscholar #2	18	4	2413.26
+1001002	amalgamalg #2	18	12	2410.77
+6001002	amalgcorp #2	19	9	2410.32
+3001002	amalgexporti #2	19	11	2408.71
+5004002	edu packscholar #2	18	1	2408.25
+6009003	maxicorp #3	18	38	2407.96
+7013009	exportinameless #9	9	48	2406.88
+9013008	exportiunivamalg #8	19	43	2406.25
+4004002	edu packedu pack #2	19	34	2406.00
+2002001	importoimporto #1	18	54	2405.48
+10015012	scholaramalgamalg #12	17	39	2403.81
+9004008	edu packmaxi #8	19	21	2402.47
+1002001	importounivamalg #1	19	52	2402.40
+9007011	importoexporti #2	17	41	2402.10
+8002009	importonameless #9	17	5	2400.74
+3004002	edu packexporti #2	9	34	2400.33
+8003007	edu packnameless #8	8	26	2399.95
+9010012	univunivamalg #12	7	27	2399.83
+7016009	univnameless #10	19	15	2399.57
+2004001	exportimaxi #8	19	59	2399.51
+10002001	importounivamalg #1	17	45	2399.36
+9004003	edu packmaxi #3	17	3	2397.60
+4001001	amalgedu pack #1	9	25	2393.44
+5003002	exportischolar #2	19	16	2392.17
+7007010	brandbrand #10	19	30	2391.25
+4004001	maxinameless #8	9	39	2391.05
+8005005	scholarnameless #5	9	30	2390.76
+2001001	corpbrand #10	17	23	2389.86
+1002002	importoamalg #2	18	24	2388.00
+6007007	brandcorp #7	17	38	2386.66
+10012004	importoamalgamalg #4	19	44	2386.50
+9007003	brandmaxi #3	19	42	2385.36
+7009009	maxibrand #9	17	25	2384.20
+10008009	corpcorp #8	17	57	2383.15
+5003002	exportischolar #2	18	6	2382.80
+4002002	importoedu pack #2	18	4	2382.18
+1004001	edu packamalg #1	9	57	2380.80
+3003002	exportiexporti #2	6	24	2380.80
+6015008	scholarbrand #8	18	2	2379.00
+4004002	edu packedu pack #2	17	19	2378.04
+1004001	amalgamalg #2	9	48	2376.00
+10014014	edu packamalgamalg #14	19	49	2375.97
+6016006	corpbrand #6	17	10	2374.97
+8016006	corpmaxi #6	6	52	2374.68
+7007004	brandbrand #4	19	50	2373.07
+6011003	importobrand #4	17	3	2372.97
+7012009	importonameless #9	17	34	2371.50
+2001002	amalgimporto #2	8	37	2370.96
+4002001	exportiimporto #2	19	59	2370.72
+1003002	exportiamalg #2	9	20	2370.48
+4003001	exportiedu pack #1	19	24	2370.45
+9009003	maximaxi #3	18	28	2369.28
+3002002	importoexporti #2	17	56	2366.82
+1002001	importounivamalg #1	19	5	2366.28
+3004002	edu packexporti #2	19	29	2365.88
+10007002	brandunivamalg #2	17	55	2364.48
+7014001	edu packnameless #1	17	37	2364.12
+7005006	scholarbrand #6	17	5	2363.89
+10004005	importounivamalg #6	8	29	2363.65
+2003002	exportiimporto #2	17	27	2362.74
+5003002	exportischolar #2	9	31	2362.62
+8003007	edu packnameless #8	19	53	2362.42
+7006005	corpbrand #5	7	32	2362.14
+5003002	exportischolar #2	9	34	2361.18
+8004009	edu packnameless #9	9	49	2359.50
+7007010	brandbrand #10	8	55	2358.84
+1001001	brandnameless #8	18	53	2358.40
+7012010	importonameless #10	8	4	2356.20
+6005005	maxibrand #10	9	3	2353.56
+3002002	importoexporti #2	19	52	2352.90
+6016006	corpbrand #6	17	21	2351.95
+1002002	importoamalg #2	18	8	2350.92
+5002001	amalgamalgamalg #12	18	20	2350.08
+4001001	amalgedu pack #1	19	51	2349.50
+1004001	importounivamalg #12	8	9	2349.36
+5003001	exportischolar #1	17	12	2348.68
+9003003	exportimaxi #3	19	2	2348.15
+9016009	corpunivamalg #9	6	56	2347.90
+7016001	amalgamalg #2	18	49	2346.85
+2004001	edu packunivamalg #8	19	58	2346.67
+10003015	exportiunivamalg #15	17	11	2345.64
+3002002	importoexporti #2	17	44	2344.30
+9007009	brandmaxi #9	18	3	2344.07
+1004002	edu packamalg #2	19	59	2343.84
+9007003	brandmaxi #3	17	43	2343.06
+5002002	importoscholar #2	18	36	2342.60
+1001002	amalgamalg #2	18	38	2342.10
+7016001	corpnameless #1	19	21	2342.07
+10014001	maxibrand #4	17	18	2341.80
+4004002	edu packedu pack #2	18	42	2341.08
+5002002	importoscholar #2	7	47	2339.48
+2003002	exportiimporto #2	17	19	2336.32
+9011009	amalgunivamalg #9	18	4	2335.90
+6016001	corpbrand #1	9	6	2335.85
+1003001	brandbrand #6	18	19	2333.72
+1001001	amalgunivamalg #13	9	58	2333.52
+1004001	edu packimporto #2	19	18	2333.28
+1004002	edu packamalg #2	7	46	2332.50
+1001002	amalgamalg #2	9	31	2331.12
+9011008	amalgunivamalg #8	19	15	2330.91
+5002002	importoscholar #2	9	7	2328.38
+10016008	corpamalgamalg #8	18	44	2327.04
+4004002	edu packedu pack #2	8	22	2322.60
+7008009	namelessbrand #9	9	26	2322.41
+7008006	namelessbrand #6	18	46	2322.20
+10003015	exportiunivamalg #15	7	20	2321.80
+10008015	namelessunivamalg #15	8	45	2321.16
+2003002	exportiimporto #2	17	26	2320.42
+3004001	edu packexporti #1	19	41	2320.15
+8011008	amalgmaxi #8	6	26	2319.22
+2002002	importoimporto #2	17	6	2318.68
+10014014	edu packamalgamalg #14	19	13	2318.40
+8001003	importoscholar #2	6	12	2317.95
+9007009	brandmaxi #9	19	49	2316.93
+1003001	exportiedu pack #2	19	18	2316.60
+2003002	exportiimporto #2	18	41	2316.60
+9007003	brandmaxi #3	9	5	2316.60
+3002001	amalgexporti #2	17	39	2314.88
+3003002	exportiexporti #2	7	45	2314.20
+3002002	importoexporti #2	17	28	2313.66
+4001001	amalgedu pack #1	6	2	2311.66
+8015006	scholarmaxi #6	17	23	2306.76
+5001001	exportinameless #8	9	50	2306.64
+9001005	importoedu pack #2	7	22	2305.84
+4001001	amalgedu pack #1	7	7	2304.72
+5004001	edu packscholar #1	9	47	2304.60
+4004001	edu packedu pack #1	17	53	2303.75
+7014008	edu packnameless #8	9	14	2303.10
+7001004	amalgbrand #4	17	33	2300.91
+9009002	maximaxi #2	17	21	2300.55
+8007008	brandnameless #8	9	32	2299.44
+5004002	edu packscholar #2	7	42	2298.93
+6009002	maxicorp #2	17	10	2298.81
+1002001	importoamalg #1	18	34	2298.05
+3002002	importoexporti #2	9	15	2296.58
+4002001	importoedu pack #1	17	22	2296.42
+5003002	exportischolar #2	18	35	2296.27
+5002002	importoscholar #2	17	20	2296.14
+8007008	brandnameless #8	19	38	2294.95
+9009002	maximaxi #2	17	51	2292.54
+8008003	namelessnameless #3	18	31	2292.48
+7008004	namelessbrand #4	18	44	2292.29
+4003002	exportiedu pack #2	17	1	2291.49
+2004001	edu packcorp #8	8	52	2291.40
+7007010	brandbrand #10	19	31	2291.40
+5001001	exportinameless #8	19	11	2291.21
+5001001	edu packexporti #2	7	47	2289.88
+7006004	NULL	18	50	2289.31
+7009009	exportibrand #10	19	58	2288.03
+4002002	importoedu pack #2	19	18	2286.42
+3001002	amalgexporti #2	18	13	2285.48
+1003001	exportiamalg #1	19	56	2284.80
+1001002	amalgamalg #2	17	28	2283.90
+7006007	edu packamalg #2	17	29	2283.29
+5001002	amalgscholar #2	19	20	2280.36
+4003001	exportiedu pack #1	7	43	2280.04
+9002008	importomaxi #8	8	50	2279.99
+8008007	namelessnameless #7	7	29	2279.52
+9010009	univunivamalg #9	19	4	2278.24
+10014016	edu packamalgamalg #16	9	9	2277.86
+5003002	exportischolar #2	17	26	2277.72
+5001001	amalgscholar #1	17	23	2276.54
+2003002	exportiimporto #2	9	8	2275.95
+2004001	edu packcorp #8	8	14	2274.70
+5004002	edu packscholar #2	18	25	2271.43
+1003002	exportiamalg #2	7	4	2270.09
+1002002	importoamalg #2	8	46	2269.76
+1004001	edu packimporto #2	18	2	2269.54
+6014005	edu packamalgamalg #8	8	56	2269.00
+7010010	univnameless #10	17	13	2268.55
+6016006	corpbrand #6	18	47	2268.37
+5001001	exportinameless #8	9	25	2266.20
+4002002	importoedu pack #2	19	27	2263.36
+9004008	edu packmaxi #8	7	45	2263.32
+9005009	scholarmaxi #9	17	51	2262.11
+6004002	edu packcorp #2	9	35	2261.36
+8009010	maxinameless #10	19	51	2261.22
+8001001	amalgnameless #1	8	35	2258.82
+7006008	corpbrand #8	17	58	2258.37
+7012009	importonameless #9	19	17	2258.36
+8015003	importoamalg #2	18	6	2258.04
+5001001	amalgscholar #1	7	48	2257.71
+8005005	scholarnameless #5	18	41	2257.50
+6014006	edu packbrand #6	18	13	2256.00
+3001002	amalgexporti #2	17	26	2255.82
+6010002	univbrand #2	9	40	2255.22
+9010009	univunivamalg #9	17	51	2254.20
+7001009	amalgbrand #9	19	57	2253.88
+9015011	exportiamalg #2	18	23	2252.72
+8006008	corpnameless #8	18	23	2252.16
+4001002	amalgedu pack #2	8	29	2251.87
+7013001	exportinameless #1	6	22	2251.87
+9008008	namelessmaxi #8	18	21	2251.04
+4002001	importoedu pack #1	17	53	2249.52
+10008015	namelessunivamalg #15	9	5	2249.50
+4003002	exportiedu pack #2	6	1	2249.40
+2003001	exportiimporto #1	18	1	2249.10
+10011017	amalgamalgamalg #17	17	10	2249.05
+4004002	edu packedu pack #2	18	30	2247.96
+2002001	importoimporto #1	9	21	2247.70
+5003002	exportischolar #2	9	36	2247.32
+8009009	maxinameless #9	8	29	2247.18
+1004002	edu packamalg #2	17	41	2246.16
+9008008	namelessmaxi #8	18	11	2246.16
+10009008	maxiunivamalg #8	19	33	2244.80
+10007005	brandunivamalg #5	18	33	2242.57
+4004001	edu packedu pack #1	7	36	2242.10
+2001002	amalgimporto #2	19	0	2241.95
+10004015	edu packunivamalg #15	9	15	2241.91
+7002006	importobrand #6	17	48	2241.81
+2002001	importoimporto #1	19	42	2241.10
+10010001	univamalgamalg #1	9	46	2240.60
+9004003	edu packmaxi #3	18	6	2240.00
+4003001	corpcorp #2	18	42	2239.38
+8005008	scholarnameless #8	18	35	2237.45
+2004002	edu packimporto #2	19	59	2237.44
+1001001	amalgamalg #1	9	12	2237.40
+4003002	exportiedu pack #2	19	29	2237.02
+8006009	corpnameless #9	9	49	2236.86
+10004012	edu packunivamalg #12	18	15	2234.52
+2003002	exportiimporto #2	17	53	2233.57
+10014001	edu packamalgamalg #1	9	45	2232.50
+4001001	amalgedu pack #1	19	11	2231.58
+4002002	importoedu pack #2	17	15	2230.72
+1004001	edu packscholar #2	19	43	2230.62
+1001002	amalgamalg #2	18	36	2230.20
+4002002	importoedu pack #2	18	25	2230.10
+6002004	importocorp #4	17	43	2227.84
+8008007	namelessnameless #7	9	18	2226.64
+3003002	exportiexporti #2	17	24	2226.30
+1001002	amalgamalg #2	18	14	2226.20
+5002001	exporticorp #4	9	3	2226.12
+3001002	amalgexporti #2	18	18	2223.76
+5001002	amalgscholar #2	18	41	2223.54
+1002002	importoamalg #2	19	53	2221.48
+1002001	importoamalg #1	9	56	2221.44
+7001008	amalgbrand #8	19	8	2221.40
+8016003	corpmaxi #3	17	33	2221.22
+7012001	amalgamalgamalg #2	17	15	2216.28
+4004002	edu packedu pack #2	9	57	2215.86
+4004001	importoscholar #2	18	3	2215.00
+7015009	scholarnameless #9	19	26	2214.55
+4001001	amalgedu pack #1	8	49	2214.33
+4004002	edu packedu pack #2	18	10	2211.84
+7015002	scholarnameless #2	9	33	2209.92
+7009009	maxibrand #9	19	6	2208.96
+6001008	amalgcorp #8	17	10	2208.18
+2004001	exportimaxi #8	17	41	2206.80
+8005005	scholarnameless #5	9	17	2205.90
+7004009	edu packbrand #9	17	30	2204.78
+8016001	corpmaxi #1	8	44	2203.79
+1003001	exportiamalg #1	18	24	2203.05
+6016006	corpbrand #6	9	16	2202.48
+3003002	exportiexporti #2	18	44	2202.46
+3004001	edu packexporti #1	9	36	2201.58
+5004001	edu packscholar #1	9	40	2200.11
+1001002	amalgamalg #2	19	4	2199.58
+9014008	edu packunivamalg #8	17	6	2198.95
+6011008	amalgbrand #8	9	57	2198.49
+4002001	importoedu pack #1	19	19	2194.80
+2004002	edu packimporto #2	17	28	2193.65
+7009005	maxibrand #5	19	36	2193.56
+8013004	exportimaxi #4	18	41	2193.30
+9015003	scholarunivamalg #3	18	35	2190.63
+2003002	exportiimporto #2	17	59	2190.26
+6015008	scholarbrand #8	18	43	2189.94
+3002002	importoexporti #2	17	50	2189.70
+4002002	importoedu pack #2	18	53	2188.08
+5001001	amalgscholar #1	19	2	2186.90
+3002002	importoexporti #2	18	11	2186.88
+8014009	edu packamalg #2	7	40	2184.16
+9016002	corpunivamalg #2	17	15	2180.88
+5004001	amalgedu pack #2	18	3	2180.54
+4003002	exportiedu pack #2	8	47	2179.68
+9014002	edu packunivamalg #2	17	48	2179.60
+4001001	exportiimporto #2	17	35	2178.38
+3003002	exportiexporti #2	9	47	2176.61
+10006017	corpunivamalg #17	19	3	2176.02
+7010005	corpunivamalg #6	19	48	2175.84
+7003002	exportibrand #2	19	8	2175.16
+7004008	edu packbrand #8	17	44	2172.60
+1002001	importoamalg #1	9	50	2172.42
+3001002	amalgexporti #2	19	40	2171.52
+1002002	importoamalg #2	17	18	2171.40
+10009001	maxiunivamalg #1	19	5	2170.80
+10016003	corpamalgamalg #3	18	31	2169.60
+3004002	edu packexporti #2	8	54	2169.18
+6006003	corpcorp #3	9	43	2168.64
+9012003	importounivamalg #3	19	8	2168.10
+3004001	edu packexporti #1	18	23	2166.72
+3004002	edu packexporti #2	19	39	2165.25
+8005009	scholarnameless #9	18	46	2164.00
+5002001	importoscholar #1	8	12	2163.35
+10003007	exportiunivamalg #7	17	53	2162.56
+6001007	amalgcorp #7	18	21	2161.42
+6004007	edu packscholar #2	9	16	2161.20
+8016010	corpmaxi #10	17	35	2161.01
+9010012	univunivamalg #12	9	40	2159.88
+9012008	importounivamalg #8	8	17	2159.85
+4003001	exportiedu pack #1	9	9	2159.43
+2002002	importoimporto #2	7	0	2158.65
+10007002	brandunivamalg #2	9	38	2156.67
+6002004	importocorp #4	9	24	2156.50
+10008012	namelessunivamalg #12	8	54	2155.45
+7003005	exportiedu pack #2	17	39	2155.20
+4002002	importoedu pack #2	8	16	2155.12
+1004001	edu packamalg #1	6	39	2153.97
+3001001	amalgexporti #1	17	20	2153.25
+2003002	exportiimporto #2	17	3	2151.10
+2003002	exportiimporto #2	9	31	2150.28
+10010001	univamalgamalg #1	18	21	2150.06
+10016003	corpamalgamalg #3	18	57	2148.50
+7005006	scholarbrand #6	6	37	2148.40
+4004001	scholarnameless #4	19	34	2148.30
+2004002	edu packimporto #2	17	38	2148.10
+8016004	corpmaxi #4	8	56	2147.95
+8003004	exportinameless #4	17	32	2146.62
+4002001	importoedu pack #1	18	54	2145.64
+4004001	edu packedu pack #1	19	24	2145.62
+6009008	maxicorp #8	9	7	2143.70
+9003003	exportimaxi #3	9	38	2141.79
+1001002	amalgamalg #2	6	39	2141.11
+9013012	exportiunivamalg #12	18	44	2140.80
+10013013	exportiamalgamalg #13	9	49	2140.26
+4002002	importoedu pack #2	8	36	2140.20
+7003005	exportiedu pack #2	18	38	2140.05
+8008002	namelessnameless #2	8	20	2139.34
+6004004	edu packcorp #4	19	50	2138.85
+4002002	importoedu pack #2	19	39	2136.70
+2004002	edu packimporto #2	18	6	2135.64
+9008008	namelessmaxi #8	18	24	2134.85
+3002002	importoexporti #2	6	50	2134.44
+4004001	edu packedu pack #1	17	10	2134.26
+10007005	brandunivamalg #5	7	24	2134.02
+2003002	exportiimporto #2	19	53	2133.95
+8007010	brandnameless #10	8	34	2133.95
+10003015	exportiunivamalg #15	17	15	2133.44
+1001002	amalgamalg #2	6	55	2132.16
+10002012	importounivamalg #12	18	21	2131.94
+10004005	importounivamalg #6	17	31	2131.25
+2001002	amalgimporto #2	19	27	2130.39
+5004001	edu packscholar #1	8	46	2129.00
+6010005	univbrand #5	18	58	2126.79
+7012005	importonameless #5	9	36	2125.91
+8011008	amalgmaxi #8	7	27	2125.85
+7001001	importoexporti #2	18	29	2124.60
+5002002	importoscholar #2	7	28	2124.54
+1003001	exportiamalg #1	9	4	2123.04
+4001001	namelessmaxi #6	19	53	2122.98
+8010004	univmaxi #4	17	35	2121.54
+9009006	maximaxi #6	8	26	2121.35
+2004001	exportimaxi #8	17	11	2121.25
+3001001	amalgexporti #1	8	28	2119.74
+2003002	exportiimporto #2	17	29	2119.00
+2004002	edu packimporto #2	19	20	2118.80
+4003001	exportiedu pack #1	19	50	2118.40
+10014016	edu packamalgamalg #16	17	12	2117.64
+9012003	importounivamalg #3	19	17	2117.50
+1002001	importoamalg #1	18	4	2117.12
+2001002	amalgimporto #2	18	22	2116.80
+9015003	scholarunivamalg #3	17	38	2114.40
+7009004	maxibrand #4	9	18	2114.18
+4002001	importoedu pack #1	18	5	2114.00
+1003001	exportiedu pack #2	8	28	2113.98
+3004001	edu packexporti #1	17	7	2113.94
+6009008	maxicorp #8	17	10	2113.27
+8008008	namelessnameless #8	18	47	2113.20
+1004002	edu packamalg #2	19	26	2112.67
+8016004	corpmaxi #4	19	4	2112.39
+1002002	importoamalg #2	18	38	2112.18
+7010008	univnameless #8	9	39	2112.00
+2002002	importoimporto #2	18	2	2111.02
+9013012	exportiunivamalg #12	17	19	2108.88
+6014006	edu packbrand #6	17	53	2108.62
+2004001	edu packimporto #1	18	11	2107.60
+6012001	importobrand #1	17	29	2107.30
+2001002	amalgimporto #2	17	7	2104.15
+10016016	corpamalgamalg #16	19	14	2103.71
+9001005	importoedu pack #2	19	35	2100.76
+10012001	importoamalgamalg #1	18	21	2099.79
+4003001	exportiedu pack #1	17	48	2098.79
+2003001	exportiimporto #1	17	13	2098.11
+2004002	edu packimporto #2	19	54	2096.25
+9014002	edu packunivamalg #2	18	40	2095.10
+6004002	edu packcorp #2	17	51	2091.60
+2002001	importoimporto #1	9	47	2090.70
+5001001	maxicorp #4	17	4	2089.26
+1004001	edu packamalg #1	8	38	2087.97
+5004001	edu packscholar #1	9	52	2087.72
+7012001	amalgamalgamalg #2	9	11	2086.20
+9011008	amalgunivamalg #8	9	28	2084.94
+3002001	importoexporti #1	8	10	2084.81
+6011002	amalgbrand #2	18	27	2083.84
+3002002	importoexporti #2	6	37	2083.56
+2002002	importoimporto #2	18	25	2081.04
+6005003	scholarcorp #3	18	11	2080.12
+10010006	univamalgamalg #6	9	59	2080.12
+5002001	amalgamalg #2	18	16	2079.91
+6015007	scholarbrand #7	19	0	2078.70
+9012005	univbrand #2	19	21	2078.57
+4002002	importoedu pack #2	9	6	2078.56
+5002002	importoscholar #2	19	1	2078.10
+3001002	amalgexporti #2	17	55	2077.31
+8012010	importomaxi #10	18	43	2075.75
+7010004	univnameless #4	9	0	2074.00
+3001001	amalgexporti #1	17	13	2073.91
+9016003	corpunivamalg #3	8	50	2073.68
+6007007	brandcorp #7	7	21	2072.76
+10004005	importounivamalg #6	17	6	2071.01
+1002001	importoamalg #1	19	23	2070.18
+2001002	amalgimporto #2	8	20	2070.03
+2004002	edu packimporto #2	6	40	2069.56
+3003001	univamalgamalg #6	7	42	2069.32
+5003002	exportischolar #2	19	7	2068.86
+3003002	exportiexporti #2	17	41	2068.50
+8014004	edu packmaxi #4	19	19	2067.24
+5002002	importoscholar #2	18	49	2067.20
+10001008	amalgunivamalg #8	17	30	2067.00
+4004002	edu packedu pack #2	7	30	2066.68
+3002001	importoexporti #1	19	31	2066.58
+1001001	amalgamalg #1	9	59	2066.22
+6003001	exportiimporto #2	17	44	2065.77
+10009013	exportibrand #6	9	10	2065.50
+1002002	importoamalg #2	19	10	2065.37
+4001001	amalgedu pack #1	17	16	2065.30
+3004002	edu packexporti #2	18	42	2064.62
+8008005	namelessnameless #5	17	48	2063.88
+8014009	edu packamalg #2	9	22	2063.77
+1002002	importoamalg #2	18	23	2063.60
+7003002	exportibrand #2	18	16	2063.16
+10008006	namelessunivamalg #6	19	41	2062.45
+3003002	exportiexporti #2	18	39	2062.26
+1002001	importoamalg #1	19	53	2060.40
+10007002	brandunivamalg #2	17	20	2060.10
+1003001	brandbrand #6	19	28	2059.31
+2001001	corpbrand #10	17	49	2058.50
+1004002	edu packamalg #2	18	13	2057.32
+6016005	corpbrand #5	9	22	2056.20
+6006003	corpcorp #3	18	44	2055.60
+1004002	edu packamalg #2	19	55	2055.57
+3002001	importoexporti #1	9	49	2055.20
+7006001	corpbrand #1	9	26	2054.25
+7013002	exportinameless #2	17	56	2053.28
+8005009	scholarnameless #9	18	56	2053.09
+10011014	amalgamalgamalg #14	19	28	2052.65
+9003003	exportimaxi #3	8	50	2052.51
+7001008	amalgbrand #8	7	19	2052.00
+8010001	univamalgamalg #5	17	31	2051.79
+7010003	univnameless #3	17	0	2051.23
+6009007	importoscholar #2	17	41	2050.30
+5003002	exportischolar #2	19	20	2048.69
+8008007	namelessnameless #7	17	55	2047.77
+8010003	namelessunivamalg #5	19	46	2047.50
+1004001	edu packamalg #1	17	19	2046.00
+4004001	maxinameless #8	9	35	2045.16
+6016001	amalgexporti #2	19	10	2044.77
+3003001	amalgscholar #2	19	41	2044.40
+8011007	amalgmaxi #7	19	35	2044.03
+8005003	scholarnameless #3	17	12	2043.75
+1003002	exportiamalg #2	8	27	2042.04
+9002003	importomaxi #3	18	29	2041.48
+10007012	brandunivamalg #12	19	7	2040.82
+10002014	importounivamalg #14	9	19	2040.42
+7015009	scholarnameless #9	6	18	2040.22
+5002002	importoscholar #2	18	30	2039.40
+7004004	edu packbrand #4	9	35	2036.16
+1002002	importoamalg #2	19	7	2034.68
+9008008	namelessmaxi #8	9	22	2034.00
+5003002	exportischolar #2	19	19	2033.95
+2002001	importoimporto #1	18	6	2033.40
+4002001	edu packscholar #2	18	45	2033.01
+10007005	brandunivamalg #5	9	13	2032.36
+7010010	univnameless #10	18	35	2032.00
+9012003	importounivamalg #3	8	11	2031.64
+1002001	importounivamalg #1	17	55	2030.60
+1001001	amalgamalg #1	9	54	2029.60
+7001008	amalgbrand #8	8	39	2029.50
+8001003	importoscholar #2	17	12	2029.20
+6010005	univbrand #5	8	50	2028.60
+5002002	importoscholar #2	19	22	2027.13
+9007005	maxinameless #10	19	47	2027.05
+6010005	univbrand #5	18	2	2024.64
+1004001	edu packscholar #2	17	40	2024.21
+5001002	amalgscholar #2	6	38	2024.10
+7011008	amalgnameless #8	17	30	2023.45
+7009004	maxibrand #4	17	3	2023.35
+6008002	namelesscorp #2	19	21	2022.02
+8002009	importonameless #9	17	23	2021.86
+4003001	exportischolar #2	6	8	2020.08
+3004002	edu packexporti #2	18	2	2019.60
+2003002	exportiimporto #2	17	49	2018.06
+3002002	importoexporti #2	19	56	2017.86
+7007006	brandbrand #6	19	21	2017.68
+8005005	scholarnameless #5	18	12	2016.90
+5002002	importoscholar #2	18	19	2015.29
+4002002	importoedu pack #2	19	11	2015.00
+10014010	edu packamalgamalg #10	9	53	2014.50
+8012006	importomaxi #6	17	49	2013.62
+3002002	importoexporti #2	17	53	2012.70
+3003002	exportiexporti #2	17	19	2011.18
+1002001	amalgscholar #2	19	32	2010.60
+2001002	amalgimporto #2	17	30	2009.04
+10003016	exportiunivamalg #16	9	35	2008.80
+5002002	importoscholar #2	19	54	2008.55
+5001002	amalgscholar #2	19	54	2008.11
+1004001	edu packamalg #1	7	49	2007.96
+10007015	brandunivamalg #15	18	18	2007.25
+7012009	importonameless #9	17	27	2007.00
+10007002	brandunivamalg #2	7	33	2006.94
+2004002	edu packimporto #2	18	29	2006.00
+4004001	edu packscholar #2	9	40	2005.96
+7016001	corpnameless #1	9	25	2005.85
+1002001	importoamalg #1	9	54	2005.22
+8010003	namelessunivamalg #5	9	38	2005.20
+7006004	NULL	9	13	2003.30
+6015008	scholarbrand #8	19	50	2002.77
+6001001	amalgcorp #1	7	14	2001.60
+4002001	importoedu pack #1	17	5	2000.79
+8010002	univmaxi #2	17	33	2000.20
+7010005	corpunivamalg #6	18	45	1999.90
+8005005	scholarnameless #5	19	10	1999.20
+1002002	importoamalg #2	17	52	1998.69
+2002002	importoimporto #2	19	27	1997.16
+4002001	corpcorp #6	17	31	1995.80
+2001002	amalgimporto #2	8	42	1994.72
+5001001	amalgbrand #8	17	41	1993.93
+4003002	exportiedu pack #2	18	57	1993.50
+6005003	scholarcorp #3	17	24	1993.46
+8015007	scholarmaxi #7	9	18	1993.28
+8014004	edu packmaxi #4	18	24	1992.90
+2001002	amalgimporto #2	8	2	1992.30
+4004002	edu packedu pack #2	19	50	1992.10
+10011017	amalgamalgamalg #17	17	16	1990.98
+3004001	edu packexporti #1	19	34	1990.80
+3002001	corpcorp #8	8	46	1989.90
+2003001	amalgbrand #4	8	33	1989.69
+1003001	exportiedu pack #2	19	6	1988.71
+8008002	namelessnameless #2	7	30	1988.64
+9003003	exportimaxi #3	18	12	1987.20
+1002002	importoamalg #2	17	16	1986.32
+10004004	edu packunivamalg #4	18	47	1985.40
+6001002	amalgcorp #2	17	49	1985.24
+7015009	scholarnameless #9	18	8	1984.18
+4003001	exportiedu pack #1	17	16	1983.12
+4002002	importoedu pack #2	7	39	1983.09
+2001001	amalgimporto #1	17	21	1982.30
+7013002	exportinameless #2	18	10	1981.44
+8001001	amalgnameless #1	9	38	1981.28
+3003001	exportiexporti #1	18	55	1981.24
+1002002	importoamalg #2	19	15	1981.20
+8011008	amalgmaxi #8	19	38	1980.58
+6015007	scholarbrand #7	9	46	1980.16
+7010006	univnameless #6	8	29	1980.00
+4002002	importoedu pack #2	18	48	1979.73
+3002001	importoexporti #1	19	16	1978.89
+6011002	amalgbrand #2	18	57	1977.84
+2002001	importoimporto #1	8	42	1977.44
+8005009	scholarnameless #9	8	13	1977.18
+9011008	amalgunivamalg #8	19	44	1975.60
+6008005	namelesscorp #5	8	50	1971.76
+2003002	exportiimporto #2	9	20	1970.28
+1001001	amalgunivamalg #13	17	34	1969.39
+5003001	exportiamalg #2	18	12	1969.20
+6008005	edu packmaxi #6	19	34	1969.08
+4002002	importoedu pack #2	17	33	1967.68
+7001005	amalgbrand #5	19	32	1967.55
+5003002	exportischolar #2	9	26	1965.54
+6002004	importocorp #4	19	12	1965.35
+6016006	corpbrand #6	19	33	1965.00
+2003002	exportiimporto #2	18	14	1963.90
+8010005	univmaxi #5	17	42	1963.50
+3002001	namelessunivamalg #15	17	30	1963.38
+1004001	edu packamalg #1	6	13	1961.70
+9016009	corpunivamalg #9	18	16	1961.69
+2004001	edu packimporto #1	9	55	1960.92
+4003002	exportiedu pack #2	7	14	1960.31
+6006004	corpcorp #4	19	56	1960.08
+10014010	edu packamalgamalg #10	19	9	1959.65
+8010008	univmaxi #8	19	44	1959.10
+2003001	exportiimporto #1	9	43	1959.02
+6016003	corpbrand #3	8	28	1958.91
+3004002	edu packexporti #2	9	50	1957.48
+1002001	importoamalg #1	17	27	1957.29
+2001002	amalgimporto #2	19	43	1956.00
+7007005	exportiamalg #2	8	58	1954.12
+1002001	amalgscholar #2	9	37	1953.42
+7006009	corpbrand #9	17	8	1953.30
+9009012	maximaxi #12	9	48	1952.91
+7005006	scholarbrand #6	8	26	1952.90
+10015012	scholaramalgamalg #12	18	22	1952.38
+7001004	amalgbrand #4	18	54	1952.12
+8003002	exportinameless #2	18	22	1951.77
+8003002	exportinameless #2	17	11	1950.54
+9007011	importoexporti #2	19	26	1949.85
+9015002	scholarunivamalg #2	8	3	1948.76
+1004001	edu packamalg #1	19	51	1948.32
+3002001	maxibrand #4	9	19	1948.24
+8014009	edu packamalg #2	18	24	1946.70
+7002007	maxicorp #2	17	41	1946.56
+8001007	amalgamalg #2	9	22	1946.10
+8015003	scholarmaxi #3	9	7	1945.56
+1002001	importoamalg #1	19	45	1944.58
+4001002	amalgedu pack #2	9	26	1944.54
+2004002	edu packimporto #2	19	57	1944.46
+10015013	scholaramalgamalg #13	8	21	1944.19
+7006004	corpbrand #4	19	21	1943.70
+4001001	amalgedu pack #1	19	44	1943.55
+10002001	importounivamalg #1	17	40	1943.52
+4004001	corpamalgamalg #8	19	13	1943.04
+1002001	importoamalg #1	19	38	1942.98
+1001001	amalgamalg #1	19	11	1942.92
+8007001	brandnameless #1	17	48	1941.74
+8007008	brandnameless #8	19	1	1941.68
+2003002	exportiimporto #2	9	55	1941.09
+6011001	amalgbrand #1	18	30	1940.97
+4004002	edu packedu pack #2	6	52	1939.74
+7008009	namelessbrand #9	9	11	1939.36
+10006003	corpunivamalg #3	8	51	1938.34
+6009007	importoscholar #2	17	35	1936.50
+2004001	edu packimporto #1	6	47	1935.33
+4003001	exportiedu pack #1	18	46	1934.26
+4001002	amalgedu pack #2	18	29	1932.92
+3003002	exportiexporti #2	18	23	1932.90
+10006009	corpunivamalg #9	19	13	1931.30
+1003001	exportiamalg #1	18	22	1930.35
+5004002	edu packscholar #2	19	29	1928.88
+5003002	exportischolar #2	19	15	1928.31
+9001003	amalgmaxi #3	17	28	1926.60
+8008009	namelessnameless #9	9	44	1926.40
+2002002	importoimporto #2	19	4	1923.56
+8003002	exportinameless #2	17	42	1923.37
+7001008	amalgbrand #8	8	51	1922.83
+3003001	exportiexporti #1	8	10	1921.92
+8016010	corpmaxi #10	19	45	1921.00
+6012008	importobrand #8	17	29	1920.10
+10007005	brandunivamalg #5	18	40	1920.10
+1003001	exportiamalg #1	19	59	1919.07
+6001002	amalgcorp #2	9	6	1918.70
+4002001	edu packscholar #2	17	40	1917.69
+8016010	corpmaxi #10	6	19	1917.12
+9015002	scholarunivamalg #2	19	12	1916.80
+1004001	edu packamalg #1	8	59	1916.00
+9014003	edu packunivamalg #3	17	4	1915.90
+7014002	edu packnameless #2	9	15	1914.25
+3002002	importoexporti #2	19	31	1914.24
+5002001	importoedu pack #2	7	42	1913.28
+3004002	edu packexporti #2	9	1	1913.00
+5002001	importoscholar #1	9	39	1912.40
+6011008	amalgbrand #8	17	28	1911.10
+3001002	amalgexporti #2	17	30	1910.70
+1002001	importoamalg #1	19	11	1910.35
+2003002	exportiimporto #2	18	38	1909.92
+10003011	exportiunivamalg #11	19	39	1909.92
+3001002	amalgexporti #2	7	52	1909.80
+10008002	namelessunivamalg #2	19	5	1909.44
+10013002	exportiamalgamalg #2	19	17	1908.08
+9004008	edu packmaxi #8	18	53	1907.82
+9015009	scholarunivamalg #9	7	14	1907.64
+9015003	scholarunivamalg #3	18	43	1907.47
+3003001	exportiexporti #1	8	13	1907.40
+5003001	importoedu pack #2	17	17	1906.45
+8001007	amalgamalg #2	19	23	1906.04
+7007004	brandbrand #4	17	21	1905.75
+4002001	scholarmaxi #6	9	40	1903.92
+2002001	importoimporto #1	19	30	1903.40
+4004001	maxinameless #8	17	39	1903.25
+7012001	amalgamalgamalg #2	17	41	1901.69
+3003001	exportiexporti #1	18	1	1901.37
+7003005	exportiedu pack #2	17	17	1901.20
+8014004	edu packmaxi #4	9	16	1900.22
+3001001	amalgexporti #1	19	44	1900.20
+2001001	amalgimporto #1	9	53	1899.36
+3003001	exportiedu pack #2	19	9	1899.36
+1001001	namelessunivamalg #4	9	18	1899.26
+8010001	univamalgamalg #5	9	58	1898.32
+6012001	importobrand #1	7	37	1896.39
+4004001	edu packedu pack #1	8	23	1893.36
+9014008	edu packunivamalg #8	19	33	1892.84
+10009013	maxiunivamalg #13	9	42	1891.80
+3001002	amalgexporti #2	18	46	1890.60
+8008009	namelessnameless #9	18	56	1890.56
+8008009	namelessnameless #9	9	22	1887.06
+2003002	exportiimporto #2	19	10	1886.16
+6013002	exportibrand #2	19	19	1885.95
+1002001	importoamalg #1	9	2	1885.54
+2004002	edu packimporto #2	17	12	1885.44
+3001001	amalgexporti #1	17	57	1885.11
+7012001	scholarcorp #6	18	1	1883.76
+10004004	edu packunivamalg #4	17	21	1883.09
+6008005	namelesscorp #5	17	49	1882.65
+3003001	amalgscholar #2	18	0	1882.58
+7001004	amalgbrand #4	17	28	1882.54
+5002002	importoscholar #2	17	7	1882.40
+1004002	edu packamalg #2	7	2	1881.63
+5001001	amalgscholar #2	6	46	1881.33
+7007005	exportiamalg #2	17	1	1881.00
+8010004	univmaxi #4	17	53	1880.76
+5001002	amalgscholar #2	18	20	1880.16
+9009009	maximaxi #9	9	44	1878.76
+8015007	scholarmaxi #7	18	56	1878.40
+2001001	amalgimporto #1	18	2	1877.01
+6008005	namelesscorp #5	17	24	1876.23
+3004002	edu packexporti #2	18	36	1875.90
+1001002	amalgamalg #2	8	59	1873.35
+9011008	amalgunivamalg #8	7	0	1872.78
+3003001	exportiexporti #1	9	37	1872.50
+4003002	exportiedu pack #2	17	24	1872.38
+2004002	edu packimporto #2	6	43	1871.83
+10004017	edu packunivamalg #17	18	44	1871.73
+1004002	edu packamalg #2	9	7	1871.10
+8007010	brandnameless #10	17	14	1870.36
+9016002	corpunivamalg #2	8	25	1869.76
+8004001	importonameless #2	18	34	1869.19
+4004001	edu packedu pack #1	17	36	1868.58
+3002001	corpcorp #8	6	56	1867.78
+1001002	amalgamalg #2	17	35	1867.76
+5002001	importoedu pack #2	7	14	1867.60
+7015009	scholarnameless #9	9	43	1866.82
+1004002	edu packamalg #2	8	10	1866.60
+3004001	edu packexporti #1	18	34	1866.30
+6015006	scholarbrand #6	19	58	1865.16
+10014014	edu packamalgamalg #14	9	25	1864.80
+9016006	corpunivamalg #6	9	8	1864.00
+9015009	scholarunivamalg #9	9	24	1863.72
+1003001	exportiamalg #1	18	20	1861.16
+5004002	edu packscholar #2	19	50	1860.33
+8006009	corpnameless #9	19	41	1858.50
+7004009	importoimporto #2	18	23	1857.40
+4003001	exportiedu pack #1	18	2	1856.47
+2003002	exportiimporto #2	19	48	1854.90
+1003001	exportiamalg #1	19	4	1854.75
+1002002	importoamalg #2	8	50	1853.35
+1002001	importoamalg #1	17	19	1852.96
+3002001	importoexporti #1	9	37	1852.92
+9013009	exportiunivamalg #9	17	6	1852.50
+2002002	importoimporto #2	17	46	1851.26
+1004001	edu packimporto #2	19	52	1850.94
+10008002	namelessunivamalg #2	6	1	1850.74
+6010005	univbrand #5	9	22	1850.70
+5004002	edu packscholar #2	9	53	1848.88
+9012003	importounivamalg #3	17	38	1848.70
+8003006	exportinameless #6	8	47	1847.64
+5002001	exportibrand #8	18	0	1846.35
+1002001	importoamalg #1	8	6	1844.70
+1002001	importoamalg #1	19	57	1843.10
+4001002	amalgedu pack #2	17	22	1842.50
+5004002	edu packscholar #2	18	7	1841.79
+6012004	importobrand #4	7	44	1841.70
+7011001	amalgnameless #1	9	45	1835.46
+1004002	edu packamalg #2	17	19	1834.92
+5001001	amalgscholar #1	17	9	1833.50
+9010012	univunivamalg #12	9	7	1833.48
+10010013	univamalgamalg #13	19	19	1832.80
+4003001	exportiedu pack #1	19	26	1832.60
+9016003	corpunivamalg #3	7	51	1830.40
+1003002	exportiamalg #2	17	10	1828.44
+8010005	univmaxi #5	9	2	1827.97
+1003001	exportiamalg #1	17	53	1826.14
+10012001	importoamalgamalg #1	6	37	1825.80
+6003008	exporticorp #8	9	30	1824.75
+7004009	edu packbrand #9	19	20	1823.73
+8008007	namelessnameless #7	18	13	1822.95
+10016001	corpamalgamalg #1	7	57	1821.30
+6001001	amalgcorp #1	19	55	1819.76
+7011001	amalgnameless #1	19	50	1819.37
+8003004	exportinameless #4	18	39	1819.17
+3002002	importoexporti #2	9	30	1817.94
+4004002	edu packedu pack #2	17	0	1817.70
+10006008	corpunivamalg #8	19	33	1817.70
+7008004	namelessbrand #4	19	13	1817.69
+1003001	exportiamalg #1	17	54	1817.50
+1002001	importoamalg #1	9	1	1813.92
+10009013	exportibrand #6	17	36	1813.70
+3003001	exportiexporti #1	18	3	1812.79
+1001002	amalgamalg #2	17	34	1811.93
+5003001	importoedu pack #2	19	44	1811.70
+1004002	edu packamalg #2	17	48	1810.82
+6013006	exportibrand #6	18	56	1810.50
+10003005	corpamalgamalg #6	8	26	1809.37
+4001001	amalgedu pack #1	7	5	1809.26
+5002002	importoscholar #2	17	33	1808.84
+10006016	corpunivamalg #16	9	40	1808.04
+6012004	importobrand #4	18	12	1807.52
+6016003	corpbrand #3	19	0	1806.33
+7010004	univnameless #4	19	11	1806.30
+5002002	importoscholar #2	8	54	1805.72
+8014004	edu packmaxi #4	19	41	1805.10
+2002001	importoimporto #1	9	39	1804.95
+9015009	scholarunivamalg #9	6	47	1804.92
+4004001	edu packedu pack #1	17	27	1804.72
+5002002	importoscholar #2	7	51	1804.32
+3002002	importoexporti #2	9	1	1803.32
+10012004	importoamalgamalg #4	17	20	1802.52
+9013009	exportiunivamalg #9	17	45	1801.72
+5001002	amalgscholar #2	17	41	1801.60
+10014016	edu packamalgamalg #16	19	2	1801.20
+5002002	importoscholar #2	19	41	1801.03
+4001002	amalgedu pack #2	19	53	1800.48
+3002001	importoexporti #1	17	39	1800.00
+7016001	corpnameless #1	18	33	1799.60
+10008004	namelessunivamalg #4	7	35	1799.60
+8016004	corpmaxi #4	19	31	1799.36
+7001002	amalgbrand #2	18	51	1799.00
+7011008	amalgnameless #8	17	0	1798.60
+5001001	amalgbrand #8	19	19	1798.57
+6015008	scholarbrand #8	8	37	1797.99
+7005006	scholarbrand #6	18	8	1797.90
+3002002	importoexporti #2	9	11	1797.67
+7016009	univnameless #10	18	46	1797.64
+7001001	importoexporti #2	19	35	1796.52
+9002003	importomaxi #3	8	16	1796.05
+2004001	corpmaxi #8	17	14	1794.87
+3004002	edu packexporti #2	18	41	1793.88
+10008013	namelessunivamalg #13	17	38	1793.22
+10015017	scholaramalgamalg #17	17	40	1792.20
+4004002	edu packedu pack #2	8	18	1791.60
+9002003	importomaxi #3	8	40	1791.24
+1003002	exportiamalg #2	9	28	1789.68
+7010010	univnameless #10	7	6	1788.75
+10011012	importoimporto #2	7	14	1788.28
+6003003	exporticorp #3	17	56	1788.23
+5003001	exportischolar #1	19	18	1788.22
+3002001	namelessunivamalg #15	9	18	1786.40
+2004002	edu packimporto #2	17	5	1785.35
+10007005	brandunivamalg #5	19	13	1784.43
+7014002	edu packnameless #2	8	4	1783.62
+9010009	univunivamalg #9	17	53	1783.45
+7007006	brandbrand #6	19	50	1783.08
+8016001	corpmaxi #1	17	28	1782.81
+8008005	namelessnameless #5	17	35	1781.18
+6001007	amalgcorp #7	8	59	1777.92
+9015009	scholarunivamalg #9	18	25	1776.33
+10009013	exportibrand #6	18	48	1776.32
+2001002	amalgimporto #2	9	40	1776.01
+3002002	importoexporti #2	17	13	1775.55
+1001001	scholarnameless #2	18	1	1775.34
+5003002	exportischolar #2	18	44	1773.64
+8015007	scholarmaxi #7	18	13	1773.55
+8003003	exportinameless #3	17	45	1773.42
+2002002	importoimporto #2	18	57	1771.92
+8001007	amalgamalg #2	17	41	1771.61
+10008002	namelessunivamalg #2	18	16	1769.09
+5001002	amalgscholar #2	9	7	1769.02
+5002002	importoscholar #2	8	10	1767.92
+7016001	corpnameless #1	19	45	1767.60
+8010006	univmaxi #6	8	16	1766.70
+2001001	amalgimporto #1	6	56	1766.16
+8010001	univmaxi #1	9	9	1766.16
+10013002	exportiamalgamalg #2	7	9	1764.90
+2003002	exportiimporto #2	7	43	1764.56
+9002008	importomaxi #8	9	3	1764.15
+10008015	namelessunivamalg #15	19	26	1763.42
+3003002	exportiexporti #2	19	55	1761.51
+3004001	edu packexporti #1	9	52	1761.36
+4003002	exportiedu pack #2	9	47	1759.59
+9012003	importounivamalg #3	9	49	1757.66
+2004001	edu packimporto #1	6	48	1757.34
+6005005	maxibrand #10	17	39	1756.82
+6001008	amalgcorp #8	9	9	1756.28
+7009010	maxibrand #10	9	21	1755.36
+2004002	edu packimporto #2	17	58	1754.17
+8010002	univmaxi #2	17	58	1754.00
+7009004	maxibrand #4	8	31	1753.64
+7013002	exportinameless #2	9	48	1753.16
+5001002	amalgscholar #2	6	27	1752.00
+9003003	exportimaxi #3	9	53	1752.00
+9014002	edu packunivamalg #2	8	49	1752.00
+3003002	exportiexporti #2	9	32	1749.33
+4004001	corpamalgamalg #8	6	2	1749.06
+9014008	edu packunivamalg #8	17	0	1748.48
+2001001	amalgimporto #1	17	38	1746.57
+4004001	edu packedu pack #1	18	48	1745.30
+8008005	namelessnameless #5	8	24	1745.28
+4002002	importoedu pack #2	18	57	1744.96
+3004002	edu packexporti #2	17	19	1744.23
+9014008	edu packunivamalg #8	8	4	1743.86
+5002001	importoscholar #1	17	6	1743.34
+8015003	scholarmaxi #3	8	42	1742.60
+4003001	exportiedu pack #1	18	28	1740.24
+10006017	corpunivamalg #17	9	27	1739.50
+4002001	importoedu pack #1	6	43	1739.40
+7013001	exportinameless #1	18	42	1739.25
+8015006	scholarmaxi #6	9	37	1738.62
+7016009	univnameless #10	19	48	1737.54
+9002008	importomaxi #8	17	20	1737.39
+4004001	scholarnameless #4	17	30	1736.64
+6004007	edu packscholar #2	19	23	1736.28
+6004004	edu packcorp #4	19	5	1735.12
+4001002	amalgedu pack #2	8	55	1734.62
+4003001	exportiedu pack #1	19	8	1734.48
+4001001	exportiexporti #2	9	58	1734.23
+4003002	exportiedu pack #2	17	35	1733.82
+6009007	importoscholar #2	18	42	1733.76
+8004009	edu packnameless #9	17	39	1733.76
+3004001	edu packscholar #2	9	1	1733.40
+10011009	amalgamalgamalg #9	18	46	1733.05
+6015008	scholarbrand #8	7	56	1732.92
+7007010	brandbrand #10	9	46	1732.38
+5001001	amalgscholar #1	17	53	1730.53
+9014002	edu packunivamalg #2	9	50	1730.11
+3004001	edu packexporti #1	18	5	1729.76
+2002001	importoimporto #1	19	41	1729.70
+7012009	importonameless #9	18	6	1729.56
+7004009	importoimporto #2	17	29	1729.00
+7016001	corpnameless #1	9	23	1728.32
+3001002	amalgexporti #2	19	13	1727.81
+6016008	corpbrand #8	9	56	1727.74
+9011009	amalgunivamalg #9	17	31	1726.50
+2002002	importoimporto #2	17	29	1726.46
+4001002	amalgedu pack #2	19	21	1725.92
+8003003	exportinameless #3	17	7	1724.36
+3003001	exportiexporti #1	17	33	1723.68
+6012002	importobrand #2	18	50	1722.15
+10015017	scholaramalgamalg #17	18	42	1720.87
+5001001	amalgscholar #1	17	25	1720.64
+8008008	namelessnameless #8	9	36	1720.07
+7016001	amalgamalg #2	18	42	1719.55
+5001002	amalgscholar #2	17	24	1717.98
+9012003	importounivamalg #3	9	40	1717.56
+8010001	univmaxi #1	9	40	1717.41
+7002007	maxicorp #2	19	46	1716.45
+6005008	scholarcorp #8	9	15	1715.58
+5001002	amalgscholar #2	17	49	1715.20
+5004002	edu packscholar #2	17	17	1714.79
+6012007	importobrand #7	17	23	1714.21
+1004001	amalgunivamalg #6	19	40	1713.81
+2001002	amalgimporto #2	18	11	1713.81
+2001002	amalgimporto #2	18	52	1713.60
+4002002	importoedu pack #2	17	3	1713.42
+6015008	scholarbrand #8	17	30	1712.36
+8001003	importoscholar #2	19	29	1712.34
+8015005	scholarmaxi #5	18	25	1709.82
+5002002	importoscholar #2	18	15	1708.86
+7006004	corpbrand #4	19	56	1708.16
+8001007	amalgamalg #2	19	19	1706.95
+10004015	edu packunivamalg #15	9	14	1706.54
+6012003	univamalgamalg #14	19	57	1706.20
+8008009	namelessnameless #9	19	5	1705.76
+10007015	brandunivamalg #15	9	44	1705.65
+2004002	edu packimporto #2	8	52	1705.46
+10009017	maxiunivamalg #17	9	24	1705.27
+9009009	maximaxi #9	19	39	1705.00
+4003002	exportiedu pack #2	19	42	1704.25
+7012010	importonameless #10	18	49	1703.81
+5001002	amalgscholar #2	9	52	1703.73
+9007008	brandmaxi #8	9	4	1703.52
+6005007	scholarcorp #7	17	38	1703.46
+2001001	corpbrand #10	19	51	1702.30
+5004002	edu packscholar #2	19	54	1700.62
+9016006	corpunivamalg #6	18	47	1699.74
+5004001	scholarnameless #6	19	40	1698.18
+2004002	edu packimporto #2	17	40	1697.64
+9016002	corpunivamalg #2	18	3	1696.75
+5004002	edu packscholar #2	17	36	1696.50
+6003001	exportiimporto #2	7	20	1696.48
+6011002	amalgbrand #2	7	24	1695.60
+3002002	importoexporti #2	8	37	1694.88
+1002001	scholarbrand #4	17	10	1693.30
+10003015	exportiunivamalg #15	8	7	1693.25
+7016009	univnameless #10	7	47	1692.44
+9007005	maxinameless #10	17	3	1692.02
+6012002	importobrand #2	19	49	1692.01
+4004002	edu packedu pack #2	19	36	1691.40
+6003001	exportiimporto #2	17	28	1690.52
+2004002	edu packimporto #2	17	13	1690.12
+2001001	amalgimporto #1	17	46	1689.76
+7016010	corpnameless #10	17	11	1687.74
+10011017	amalgamalgamalg #17	17	59	1687.30
+10009001	maxiunivamalg #1	17	29	1687.28
+7003002	exportibrand #2	19	27	1685.25
+10016013	corpamalgamalg #13	18	21	1684.80
+3003001	importoimporto #2	17	32	1683.84
+8010003	namelessunivamalg #5	17	35	1683.40
+3003002	exportiexporti #2	18	43	1682.68
+5001002	amalgscholar #2	18	8	1682.49
+4004001	edu packedu pack #1	8	39	1681.91
+7015007	scholarnameless #7	19	4	1680.82
+1003001	exportiamalg #1	18	34	1680.44
+1002001	amalgscholar #2	17	21	1680.14
+6008002	namelesscorp #2	6	20	1679.86
+3002002	importoexporti #2	9	53	1679.10
+7012010	importonameless #10	19	18	1678.60
+2002001	importoimporto #1	19	27	1678.00
+1003001	brandbrand #6	9	9	1677.76
+4002002	importoedu pack #2	8	47	1677.43
+8008008	namelessnameless #8	19	10	1676.20
+6015006	scholarbrand #6	8	14	1674.40
+5004002	edu packscholar #2	17	56	1674.39
+7011008	amalgnameless #8	9	16	1673.94
+7001002	amalgbrand #2	9	1	1673.90
+8004004	edu packnameless #4	18	48	1673.88
+4003002	exportiedu pack #2	19	36	1673.52
+10002001	importounivamalg #1	19	30	1673.40
+10013002	exportiamalgamalg #2	17	31	1672.44
+1004001	edu packamalg #1	17	38	1672.27
+4004001	edu packscholar #2	7	36	1672.20
+2003002	exportiimporto #2	9	47	1672.00
+5003002	exportischolar #2	17	40	1671.36
+9006002	corpmaxi #2	18	4	1671.05
+8002009	importonameless #9	6	32	1670.85
+8004001	edu packnameless #1	19	50	1669.06
+10015005	scholaramalgamalg #5	17	59	1667.54
+8009003	maxinameless #3	17	36	1666.80
+3002002	importoexporti #2	18	43	1666.16
+4002002	importoedu pack #2	18	54	1665.66
+1001002	amalgamalg #2	18	17	1663.97
+5003001	exportischolar #1	17	47	1663.76
+6009008	maxicorp #8	7	40	1663.74
+7012001	scholarcorp #6	19	37	1663.62
+1001002	amalgamalg #2	19	38	1663.53
+10016008	corpamalgamalg #8	19	2	1663.48
+4002002	importoedu pack #2	8	6	1662.28
+7005010	scholarbrand #10	17	18	1661.52
+3002001	importoexporti #1	19	29	1660.00
+8005009	scholarnameless #9	8	44	1659.68
+3001002	amalgexporti #2	17	53	1659.11
+4003002	exportiedu pack #2	18	50	1658.52
+10015009	scholaramalgamalg #9	18	33	1657.32
+3003002	exportiexporti #2	6	52	1657.22
+8007010	brandnameless #10	18	48	1656.79
+10009001	maxiunivamalg #1	7	26	1656.76
+10016016	corpamalgamalg #16	8	59	1656.32
+8014004	edu packmaxi #4	9	18	1656.00
+2002002	importoimporto #2	7	1	1655.55
+6002008	importocorp #8	19	12	1655.52
+6008005	namelesscorp #5	9	2	1653.47
+2001001	amalgimporto #1	9	43	1653.35
+7004006	edu packbrand #6	17	15	1653.00
+3004001	edu packexporti #1	19	56	1652.70
+7014001	edu packnameless #1	17	42	1652.42
+5002002	importoscholar #2	9	48	1652.31
+7002007	maxicorp #2	6	26	1652.28
+7007004	brandbrand #4	9	24	1651.20
+5002001	amalgamalgamalg #12	18	46	1650.72
+3001002	amalgexporti #2	17	43	1650.39
+7007006	brandbrand #6	17	13	1649.68
+2003002	exportiimporto #2	7	51	1649.40
+1001001	amalgamalg #1	19	49	1649.20
+3004002	edu packexporti #2	18	33	1648.50
+6005007	scholarcorp #7	17	31	1647.39
+7014001	edu packnameless #1	17	39	1647.00
+3004002	edu packexporti #2	17	49	1646.32
+10008006	namelessunivamalg #6	19	33	1646.10
+3001002	amalgexporti #2	19	44	1645.05
+8004004	edu packnameless #4	19	18	1642.55
+4003001	amalgexporti #2	17	42	1641.74
+2001002	amalgimporto #2	18	9	1641.36
+1002001	importoamalg #1	17	57	1641.29
+9014003	edu packunivamalg #3	17	9	1641.28
+8003002	exportinameless #2	17	19	1638.08
+9013012	exportiunivamalg #12	18	6	1637.80
+8014005	edu packmaxi #5	19	52	1637.61
+9012006	importounivamalg #6	18	29	1636.18
+8007008	brandnameless #8	18	42	1635.55
+4004001	edu packscholar #2	9	39	1634.50
+6007007	brandcorp #7	18	39	1633.60
+10016013	corpamalgamalg #13	9	31	1633.60
+9014003	edu packunivamalg #3	9	48	1631.80
+2002002	importoimporto #2	17	24	1631.34
+7009002	maxibrand #2	9	51	1630.98
+6010006	univbrand #6	19	50	1629.76
+1004001	edu packamalg #1	19	39	1629.18
+9009002	maximaxi #2	19	59	1629.00
+5001001	scholarunivamalg #8	19	0	1628.90
+2004001	importoexporti #2	17	47	1627.99
+7001008	amalgbrand #8	18	33	1626.56
+1001001	amalgamalg #1	17	3	1625.95
+2004002	edu packimporto #2	17	21	1624.50
+5001002	amalgscholar #2	19	2	1624.36
+1003002	exportiamalg #2	18	9	1623.55
+4002001	edu packscholar #2	8	30	1623.25
+9005009	scholarmaxi #9	17	37	1622.55
+2004002	edu packimporto #2	17	51	1622.35
+7001002	amalgbrand #2	18	12	1622.08
+4001002	amalgedu pack #2	8	35	1621.92
+7009004	maxibrand #4	17	6	1621.20
+3002001	importoexporti #1	19	27	1621.00
+2004002	edu packimporto #2	7	48	1620.92
+8014004	edu packmaxi #4	17	49	1619.76
+3002001	amalgexporti #2	7	50	1618.54
+4002001	scholarmaxi #6	18	52	1618.04
+7002010	importobrand #10	19	0	1617.84
+2004001	importoexporti #2	19	10	1616.53
+3003001	exportiexporti #1	18	24	1615.04
+3003002	exportiexporti #2	18	2	1615.00
+1004001	edu packamalg #1	8	42	1614.72
+7002010	importobrand #10	19	25	1614.08
+8010002	univmaxi #2	18	24	1613.92
+3001002	amalgexporti #2	7	57	1613.64
+2003002	exportiimporto #2	9	21	1613.51
+1001002	amalgamalg #2	6	29	1613.43
+2001002	amalgimporto #2	19	44	1613.30
+7003005	exportiedu pack #2	17	59	1613.25
+1001002	amalgamalg #2	18	45	1613.06
+2004002	edu packimporto #2	6	27	1612.80
+8009003	maxinameless #3	9	18	1612.72
+5003001	exportischolar #1	17	2	1612.69
+4003001	corpcorp #2	17	45	1611.60
+6012002	importobrand #2	19	45	1610.24
+7013001	exportiimporto #2	19	28	1610.07
+9009012	maximaxi #12	7	3	1608.84
+3002001	amalgexporti #2	19	1	1608.80
+6015008	scholarbrand #8	18	55	1608.18
+6011003	amalgbrand #3	9	42	1607.34
+10009009	maxiunivamalg #9	8	0	1604.25
+1001001	amalgunivamalg #13	9	28	1603.41
+3002002	importoexporti #2	17	5	1603.41
+1001001	univamalgamalg #16	17	12	1602.54
+9016009	corpunivamalg #9	8	24	1602.18
+6005005	edu packnameless #8	19	28	1601.16
+1003002	exportiamalg #2	18	51	1600.83
+10008002	namelessunivamalg #2	9	44	1600.34
+6001007	amalgcorp #7	17	11	1600.25
+8005005	importonameless #6	9	31	1597.70
+1003001	exportiamalg #1	18	59	1597.68
+6014006	edu packbrand #6	9	7	1597.44
+1002001	amalgscholar #2	17	34	1596.16
+9014002	edu packunivamalg #2	18	38	1596.14
+2003002	exportiimporto #2	19	17	1594.95
+7013002	exportinameless #2	18	39	1593.50
+4003002	exportiedu pack #2	18	8	1593.48
+10003011	exportiunivamalg #11	17	39	1593.24
+4002002	importoedu pack #2	19	31	1592.36
+3002002	importoexporti #2	19	10	1591.92
+1001002	amalgamalg #2	9	49	1591.83
+10016003	corpamalgamalg #3	19	39	1591.20
+10007004	importoimporto #2	19	55	1590.68
+9016002	corpunivamalg #2	19	43	1590.30
+4003001	exportiedu pack #1	17	12	1590.26
+10003011	exportiunivamalg #11	18	28	1589.64
+3001002	amalgexporti #2	9	2	1589.28
+6014002	edu packbrand #2	9	48	1589.10
+6011003	importobrand #4	9	3	1588.78
+5003001	exportiamalg #2	18	49	1588.68
+1004001	importounivamalg #12	18	13	1588.15
+1004001	importounivamalg #12	17	33	1587.87
+7007010	brandbrand #10	18	32	1587.20
+5002001	importoedu pack #2	9	9	1587.00
+1004002	edu packamalg #2	9	41	1586.78
+6001008	amalgcorp #8	18	12	1586.70
+10002001	importounivamalg #1	6	0	1585.17
+5003001	exportiamalg #2	19	51	1585.15
+2002001	importoimporto #1	19	44	1584.80
+5001001	amalgscholar #1	17	2	1584.18
+8015006	scholarmaxi #6	17	56	1583.60
+4001001	maxiunivamalg #16	17	48	1582.95
+7001008	amalgbrand #8	19	42	1582.62
+4001001	amalgedu pack #1	9	37	1581.75
+5001002	amalgscholar #2	18	47	1581.75
+7012005	importonameless #5	8	14	1581.48
+4004002	edu packedu pack #2	19	35	1580.16
+7016001	corpnameless #1	18	8	1579.36
+3002002	importoexporti #2	9	45	1578.86
+6003003	exporticorp #3	18	34	1578.73
+6014005	edu packamalgamalg #8	17	15	1578.72
+6012007	importobrand #7	18	25	1578.50
+2002001	importoimporto #1	17	45	1578.20
+6003003	exporticorp #3	9	56	1577.97
+10006017	corpunivamalg #17	18	23	1577.28
+9012003	importounivamalg #3	18	21	1576.84
+7002003	importobrand #3	9	36	1576.64
+5002002	importoscholar #2	17	43	1575.42
+3002002	importoexporti #2	19	43	1575.18
+2003001	exportiimporto #1	19	22	1573.66
+10008009	corpcorp #8	17	38	1573.56
+10016001	corpamalgamalg #1	8	26	1573.32
+2004002	edu packimporto #2	9	8	1573.19
+5004001	amalgedu pack #2	18	35	1573.00
+7016010	corpnameless #10	19	26	1572.94
+3004002	edu packexporti #2	7	32	1572.06
+10011014	amalgamalgamalg #14	19	22	1571.57
+6010004	univbrand #4	9	12	1571.36
+4003001	amalgexporti #2	19	29	1570.59
+10015012	scholaramalgamalg #12	19	32	1570.40
+4002001	importoedu pack #1	8	33	1570.29
+8003006	exportinameless #6	17	32	1569.54
+6005001	scholarcorp #1	9	12	1568.64
+3003002	exportiexporti #2	18	11	1568.34
+8005008	scholarnameless #8	9	34	1567.68
+3004002	edu packexporti #2	17	54	1567.05
+9012003	importounivamalg #3	19	19	1566.72
+4001001	amalgedu pack #1	9	0	1565.46
+5003001	exportischolar #1	8	39	1565.28
+7009004	maxibrand #4	19	23	1565.20
+10010017	univamalgamalg #17	19	44	1564.64
+9012011	importoamalg #2	18	14	1564.26
+6016006	corpbrand #6	6	4	1564.23
+10003015	exportiunivamalg #15	17	58	1564.08
+10009001	maxiunivamalg #1	18	23	1564.08
+9001003	amalgmaxi #3	19	17	1563.12
+6011003	amalgbrand #3	19	19	1563.10
+3003002	exportiexporti #2	9	34	1562.40
+8001007	amalgamalg #2	19	32	1562.40
+2002001	exportiexporti #2	19	56	1561.92
+6009002	maxicorp #2	17	37	1559.88
+5002001	importoedu pack #2	9	36	1559.60
+10016001	corpamalgamalg #1	19	41	1559.25
+2003001	exportiimporto #1	8	59	1558.80
+3001002	amalgexporti #2	9	44	1558.79
+5002002	importoscholar #2	19	8	1558.08
+6009002	maxicorp #2	18	19	1557.24
+3002001	univamalgamalg #6	9	40	1557.12
+9015002	scholarunivamalg #2	18	24	1555.67
+9007009	brandmaxi #9	8	45	1554.72
+10014001	edu packamalgamalg #1	17	11	1553.76
+5001002	amalgscholar #2	18	18	1553.58
+9001005	importoedu pack #2	17	58	1552.80
+2001002	amalgimporto #2	19	52	1551.71
+9013009	exportiunivamalg #9	19	51	1551.48
+3003001	exportiexporti #1	19	18	1550.85
+8003004	exportinameless #4	19	37	1549.50
+3002002	importoexporti #2	17	34	1549.35
+10009013	maxiunivamalg #13	17	56	1548.00
+3002001	importoexporti #1	17	33	1547.74
+6011008	amalgbrand #8	7	24	1547.42
+4004002	edu packedu pack #2	8	58	1546.86
+9014002	edu packunivamalg #2	9	57	1546.52
+9001005	importoedu pack #2	19	32	1546.31
+8010004	univmaxi #4	17	4	1546.28
+3002001	importoexporti #1	18	29	1545.86
+4002002	importoedu pack #2	17	19	1545.81
+1001001	amalgamalg #1	8	18	1544.45
+8004003	edu packnameless #3	18	18	1543.92
+3001002	amalgexporti #2	7	28	1543.27
+8014005	edu packmaxi #5	9	57	1542.86
+10007002	brandunivamalg #2	8	14	1542.78
+3001002	amalgexporti #2	18	32	1542.52
+5004002	edu packscholar #2	19	7	1542.25
+9007008	brandmaxi #8	18	46	1541.76
+10016001	corpamalgamalg #1	9	25	1541.28
+7015002	scholarnameless #2	19	1	1541.16
+10012001	importoamalgamalg #1	7	22	1540.26
+10012004	importoamalgamalg #4	18	19	1540.08
+1001001	scholarnameless #2	18	0	1539.69
+9013009	exportiunivamalg #9	9	43	1539.57
+10004005	importounivamalg #6	19	5	1539.20
+7014002	edu packnameless #2	18	25	1539.12
+5001002	amalgscholar #2	19	15	1537.65
+1003002	exportiamalg #2	19	50	1536.92
+10009013	exportibrand #6	17	30	1536.78
+10008004	namelessunivamalg #4	8	37	1536.75
+4003001	exportiedu pack #1	9	23	1536.43
+4004002	edu packedu pack #2	19	53	1535.52
+2004002	edu packimporto #2	19	14	1534.32
+6008002	namelesscorp #2	8	1	1534.32
+10003004	exportiunivamalg #4	8	31	1534.08
+8012005	importomaxi #5	8	53	1534.06
+4001002	amalgedu pack #2	8	47	1533.42
+10008009	namelessunivamalg #9	9	35	1533.40
+1004001	amalgunivamalg #6	17	24	1532.02
+2001002	amalgimporto #2	19	41	1530.80
+5003002	exportischolar #2	17	2	1530.80
+1002001	amalgscholar #2	9	10	1529.50
+6007007	brandcorp #7	19	47	1529.28
+9015009	scholarunivamalg #9	8	51	1529.28
+3002001	namelessunivamalg #15	9	59	1527.35
+4004001	edu packimporto #2	19	24	1527.35
+4004001	scholarnameless #4	9	29	1527.16
+3002001	importoexporti #1	17	25	1526.74
+1003001	exportiamalg #1	17	55	1526.13
+5002002	importoscholar #2	17	56	1525.82
+6004002	edu packcorp #2	8	41	1525.16
+10007004	importoimporto #2	18	49	1522.74
+3004002	edu packexporti #2	17	22	1522.11
+1003002	exportiamalg #2	18	21	1521.92
+1001002	amalgamalg #2	19	24	1520.19
+1003002	exportiamalg #2	18	43	1520.02
+5004002	edu packscholar #2	18	47	1519.32
+10009013	exportibrand #6	8	30	1519.12
+8015008	scholarmaxi #8	19	5	1518.51
+1002002	importoamalg #2	17	48	1517.76
+1003001	exportiedu pack #2	9	52	1517.76
+10015013	scholaramalgamalg #13	9	0	1517.45
+10008012	namelessunivamalg #12	9	18	1517.44
+5002001	importoscholar #1	18	8	1515.78
+6013002	exportibrand #2	17	29	1515.72
+7013001	exportiimporto #2	7	1	1514.50
+9012008	importounivamalg #8	9	35	1514.43
+2001002	amalgimporto #2	18	29	1514.36
+10008002	namelessunivamalg #2	8	45	1513.34
+4004002	edu packedu pack #2	18	52	1513.26
+10016003	corpamalgamalg #3	19	7	1513.12
+9012005	univbrand #2	17	19	1512.90
+7013001	exportiimporto #2	9	0	1511.95
+2004001	edu packunivamalg #8	18	26	1511.68
+2004002	edu packimporto #2	8	29	1511.22
+7006004	NULL	18	56	1510.30
+9007008	brandmaxi #8	17	35	1510.18
+5004002	edu packscholar #2	18	53	1509.74
+2002001	importoimporto #1	18	58	1509.69
+9006006	corpmaxi #6	8	9	1509.55
+3004001	edu packexporti #1	18	40	1508.80
+3003002	exportiexporti #2	17	21	1508.22
+3004001	edu packexporti #1	6	4	1507.87
+5003001	exportischolar #1	19	56	1507.80
+6005001	scholarcorp #1	17	9	1507.76
+9011009	amalgunivamalg #9	8	46	1506.12
+6001007	amalgcorp #7	18	41	1505.62
+9012003	importounivamalg #3	9	3	1505.52
+4001001	amalgedu pack #1	8	2	1505.39
+4004001	edu packedu pack #1	9	40	1505.24
+7005006	scholarbrand #6	19	18	1504.84
+4001001	importobrand #2	19	29	1504.29
+2001002	amalgimporto #2	7	42	1502.46
+5002001	exporticorp #4	17	56	1501.92
+5003001	exportischolar #1	19	7	1500.90
+9004008	edu packmaxi #8	17	51	1500.80
+10006016	corpunivamalg #16	19	54	1499.19
+10012005	importoamalgamalg #5	17	58	1497.86
+1002001	importoamalg #1	18	38	1497.76
+7008006	namelessbrand #6	18	35	1497.42
+8005001	scholarnameless #1	17	46	1496.50
+2001002	amalgimporto #2	19	13	1496.46
+4002001	corpcorp #6	18	13	1496.00
+10004017	edu packunivamalg #17	9	18	1494.92
+2003001	scholarmaxi #12	9	4	1494.00
+8012010	importomaxi #10	17	22	1493.88
+1002001	importoamalg #1	19	3	1493.80
+2003001	exportiimporto #1	7	4	1493.79
+10009015	maxiunivamalg #15	17	12	1493.58
+7012005	importonameless #5	9	25	1492.54
+7013007	exportinameless #7	19	34	1492.53
+4002001	importoedu pack #1	8	44	1492.02
+8010004	univmaxi #4	17	15	1491.24
+10008015	namelessunivamalg #15	17	50	1489.84
+3001001	amalgexporti #1	17	26	1489.60
+3003001	exportiexporti #1	6	51	1488.76
+9009002	maximaxi #2	19	42	1488.15
+4001001	amalgedu pack #1	17	43	1488.07
+7005006	scholarbrand #6	8	21	1486.94
+3003002	exportiexporti #2	8	34	1486.42
+10015001	scholaramalgamalg #1	9	28	1486.08
+10002001	importounivamalg #1	17	53	1485.90
+1001002	amalgamalg #2	8	6	1485.67
+7006001	corpcorp #4	19	9	1485.33
+7010001	univnameless #1	9	4	1484.88
+5001001	amalgscholar #1	8	14	1483.50
+9012011	importoamalg #2	19	25	1483.24
+10009009	maxiunivamalg #9	19	34	1483.20
+6011001	amalgbrand #1	19	31	1483.01
+5004002	edu packscholar #2	9	29	1482.48
+9007011	importoexporti #2	17	40	1482.00
+5003001	exportischolar #1	19	27	1481.92
+2002002	importoimporto #2	17	12	1480.07
+8015003	importoamalg #2	18	54	1479.90
+5001002	amalgscholar #2	9	14	1479.72
+8015006	scholarmaxi #6	17	15	1479.50
+2002001	importoimporto #1	18	43	1478.68
+10016001	corpamalgamalg #1	18	48	1476.09
+7012010	importonameless #10	9	53	1476.02
+9015002	scholarunivamalg #2	18	51	1475.52
+9016008	corpunivamalg #8	8	31	1475.20
+8012010	importomaxi #10	8	31	1473.84
+5003002	exportischolar #2	9	39	1472.97
+4002002	importoedu pack #2	18	9	1472.80
+5001001	exportinameless #8	17	18	1472.58
+2002002	importoimporto #2	17	39	1472.54
+9005009	scholarmaxi #9	19	18	1472.38
+7009010	maxibrand #10	19	1	1471.92
+7014002	edu packnameless #2	19	23	1471.50
+9009006	maximaxi #6	17	45	1471.47
+4002001	scholarmaxi #6	19	11	1469.50
+7006005	corpbrand #5	18	44	1469.25
+5004002	edu packscholar #2	18	45	1468.20
+6012002	importobrand #2	18	45	1468.02
+5002002	importoscholar #2	19	28	1467.78
+2004001	edu packimporto #1	19	0	1467.72
+8015007	scholarmaxi #7	17	21	1467.40
+9001005	importoedu pack #2	9	24	1467.18
+4004001	edu packscholar #2	19	35	1466.40
+1001002	amalgamalg #2	17	5	1464.64
+2003002	exportiimporto #2	17	11	1464.02
+2003002	exportiimporto #2	9	16	1463.85
+4002001	exportiimporto #2	17	9	1463.16
+5003001	importoedu pack #2	9	4	1463.16
+2003002	exportiimporto #2	18	56	1462.64
+2004002	edu packimporto #2	9	27	1462.52
+4001002	amalgedu pack #2	8	23	1462.29
+7002010	importobrand #10	8	48	1462.14
+7016006	corpnameless #6	17	11	1462.02
+7008008	namelessbrand #8	8	59	1461.60
+1001001	univamalgamalg #16	8	51	1461.43
+4002001	importoedu pack #1	9	17	1461.42
+9009012	maximaxi #12	17	10	1461.34
+9012011	importoamalg #2	17	34	1460.25
+2002001	importoimporto #1	19	54	1459.50
+7016010	corpnameless #10	18	6	1459.20
+3002001	importoexporti #1	19	17	1459.04
+3002001	importoexporti #1	9	22	1458.60
+5002001	importoedu pack #2	19	27	1456.84
+2004001	edu packunivamalg #8	17	35	1456.06
+3002001	importoexporti #1	17	19	1455.78
+6011008	amalgbrand #8	19	49	1454.64
+1001001	namelessunivamalg #4	9	41	1454.25
+8016001	corpmaxi #1	17	43	1453.32
+2001001	amalgamalg #2	9	1	1453.14
+7016010	corpnameless #10	17	7	1452.06
+10002009	importounivamalg #9	18	19	1451.80
+4003002	exportiedu pack #2	9	56	1451.76
+10009015	maxiunivamalg #15	17	23	1450.84
+9016008	corpunivamalg #8	19	10	1450.82
+4003001	corpcorp #2	17	27	1450.65
+7014009	edu packnameless #9	19	34	1449.96
+8011008	amalgmaxi #8	17	7	1449.00
+4002001	corpcorp #6	17	3	1448.82
+10003011	exportiunivamalg #11	19	0	1447.80
+3001002	amalgexporti #2	17	48	1447.50
+9001008	amalgmaxi #8	19	13	1446.90
+1004001	edu packamalg #1	19	27	1446.80
+4003002	exportiedu pack #2	6	48	1446.66
+3004002	edu packexporti #2	18	50	1446.48
+7012010	importonameless #10	8	37	1446.48
+4003001	amalgexporti #2	18	25	1446.13
+1001001	amalgamalg #1	7	18	1445.31
+6015006	scholarbrand #6	9	43	1444.78
+10009001	maxiunivamalg #1	17	54	1444.66
+7016001	amalgamalg #2	17	15	1444.65
+3002002	importoexporti #2	19	46	1444.50
+2003002	exportiimporto #2	7	24	1444.32
+3003001	importoimporto #2	17	29	1442.46
+8005005	importonameless #6	17	16	1441.44
+6013006	exportibrand #6	9	37	1440.88
+2004002	edu packimporto #2	8	10	1440.36
+8010004	univmaxi #4	19	15	1439.92
+6003001	exportiimporto #2	19	29	1439.88
+7009004	maxibrand #4	18	4	1439.55
+10009015	maxiunivamalg #15	17	54	1439.28
+10009013	maxiunivamalg #13	8	24	1439.06
+4002002	importoedu pack #2	19	20	1439.00
+9009006	maximaxi #6	19	5	1438.45
+2003002	exportiimporto #2	17	48	1438.20
+4001001	amalgedu pack #1	17	18	1438.09
+7013001	exportinameless #1	19	37	1437.00
+8005001	scholarnameless #1	6	9	1436.12
+10003014	exportiunivamalg #14	18	14	1434.64
+1001001	amalgamalg #1	9	27	1434.08
+8014004	edu packmaxi #4	18	28	1432.80
+8015006	scholarmaxi #6	17	47	1432.26
+9007011	importoexporti #2	17	53	1431.54
+5003002	exportischolar #2	9	29	1430.00
+7003005	exportibrand #5	19	37	1429.12
+2002001	importoimporto #1	19	31	1429.02
+7003008	exportibrand #8	8	45	1428.85
+5001001	amalgscholar #1	8	18	1428.72
+NULL	NULL	17	9	1428.57
+7006004	NULL	18	0	1427.10
+2004002	edu packimporto #2	19	47	1427.09
+6014005	edu packamalgamalg #8	18	7	1426.24
+9001008	amalgmaxi #8	18	48	1425.94
+7008009	namelessbrand #9	8	57	1425.54
+8016003	corpmaxi #3	19	40	1423.25
+9011009	amalgunivamalg #9	17	39	1423.20
+5001002	amalgscholar #2	17	15	1423.17
+3002002	importoexporti #2	18	28	1422.40
+4001002	amalgedu pack #2	17	19	1422.39
+4002002	importoedu pack #2	18	16	1421.20
+2001002	amalgimporto #2	8	32	1420.13
+5003002	exportischolar #2	9	46	1420.06
+9009006	maximaxi #6	19	43	1420.00
+9014003	edu packunivamalg #3	7	21	1419.86
+5001002	amalgscholar #2	9	4	1419.60
+6008007	namelesscorp #7	17	30	1419.12
+6001007	amalgcorp #7	19	29	1419.11
+9015002	scholarunivamalg #2	17	59	1416.96
+4003002	exportiedu pack #2	18	22	1416.42
+2002001	importoimporto #1	7	53	1416.15
+2004001	edu packimporto #1	18	53	1416.00
+9016006	corpunivamalg #6	17	46	1416.00
+6001002	amalgcorp #2	18	15	1415.78
+6011002	amalgbrand #2	7	36	1415.52
+10016016	corpamalgamalg #16	8	19	1415.40
+10015012	scholaramalgamalg #12	7	17	1414.50
+3003002	exportiexporti #2	19	11	1414.00
+10016008	corpamalgamalg #8	17	8	1413.75
+5004001	edu packscholar #1	9	41	1413.70
+8015005	scholarmaxi #5	6	13	1413.50
+10008013	namelessunivamalg #13	18	27	1411.54
+6010002	univbrand #2	17	59	1410.40
+9010009	univunivamalg #9	18	40	1410.24
+5002002	importoscholar #2	17	9	1410.10
+7004004	edu packbrand #4	8	39	1409.98
+7006007	edu packamalg #2	17	33	1409.32
+9011009	amalgunivamalg #9	17	45	1409.17
+3004002	edu packexporti #2	8	32	1408.94
+3002001	importoexporti #1	8	55	1408.06
+6014005	edu packamalgamalg #8	19	11	1407.84
+9011008	amalgunivamalg #8	9	35	1407.65
+7012001	amalgamalgamalg #2	17	37	1407.40
+3004002	edu packexporti #2	8	34	1407.12
+10009001	maxiunivamalg #1	9	31	1407.00
+3003002	exportiexporti #2	18	57	1406.10
+9004003	edu packmaxi #3	9	1	1405.80
+6016008	corpbrand #8	18	3	1405.17
+4001001	amalgedu pack #1	19	7	1404.70
+3002002	importoexporti #2	7	43	1404.48
+1002001	importoamalg #1	9	4	1403.76
+2001001	amalgimporto #1	19	36	1403.52
+1001001	univamalgamalg #16	8	38	1403.34
+1002001	importoamalg #1	9	25	1403.10
+9011009	amalgunivamalg #9	7	44	1401.73
+9015009	scholarunivamalg #9	7	15	1400.99
+6009007	maxicorp #7	18	49	1400.97
+1001001	amalgamalg #1	8	12	1400.12
+3002002	importoexporti #2	9	57	1399.94
+6005008	scholarcorp #8	19	16	1399.38
+5004001	edu packscholar #1	17	18	1398.93
+1004002	edu packamalg #2	18	1	1398.63
+6010006	univbrand #6	17	12	1397.86
+5002001	importoscholar #1	19	25	1397.04
+10007004	importoimporto #2	17	9	1397.00
+8009009	maxinameless #9	17	4	1395.78
+1002001	importoamalg #1	18	29	1395.41
+3004001	edu packscholar #2	17	33	1395.35
+6007007	brandcorp #7	6	55	1394.79
+4003001	exportiedu pack #1	17	17	1394.70
+9015009	scholarunivamalg #9	19	11	1394.47
+3001002	amalgexporti #2	18	31	1394.08
+1004002	edu packamalg #2	9	45	1394.05
+4004002	edu packedu pack #2	8	52	1393.86
+6016008	corpbrand #8	19	46	1393.60
+10006017	corpunivamalg #17	18	1	1393.42
+6016006	corpbrand #6	18	21	1393.28
+1004002	edu packamalg #2	19	12	1393.14
+4004001	edu packedu pack #1	19	6	1393.14
+6003008	exporticorp #8	17	30	1392.64
+5002001	amalgamalgamalg #12	19	39	1392.30
+8001009	amalgamalg #2	18	44	1391.78
+1001001	amalgamalg #1	17	4	1390.84
+10003011	exportiunivamalg #11	8	45	1390.77
+10006009	corpunivamalg #9	17	47	1390.58
+7007004	brandbrand #4	18	23	1389.12
+7004009	edu packbrand #9	8	17	1388.97
+4002001	importoedu pack #1	8	16	1388.92
+1002002	importoamalg #2	19	33	1388.40
+5001002	amalgscholar #2	19	9	1386.67
+5001001	amalgscholar #1	19	3	1386.55
+6008002	namelesscorp #2	9	32	1384.96
+6007007	brandcorp #7	17	57	1384.60
+4002001	corpcorp #6	18	10	1384.56
+3004001	edu packexporti #1	9	40	1384.09
+7012010	importonameless #10	8	20	1383.20
+9012003	importounivamalg #3	17	53	1383.06
+2004002	edu packimporto #2	6	55	1383.00
+4002002	importoedu pack #2	8	23	1382.96
+7008004	namelessbrand #4	18	10	1382.91
+7003005	exportiedu pack #2	19	20	1382.78
+6004004	edu packcorp #4	7	9	1382.10
+6016001	amalgexporti #2	18	50	1381.86
+10007005	brandunivamalg #5	19	53	1381.18
+7002007	maxicorp #2	18	2	1381.05
+8006008	corpnameless #8	18	48	1380.96
+4003002	exportiedu pack #2	19	1	1380.78
+8014009	edu packamalg #2	18	29	1380.50
+6006006	corpcorp #6	9	48	1379.31
+4002001	corpcorp #6	9	4	1379.20
+10009017	maxiunivamalg #17	19	43	1377.60
+5002002	importoscholar #2	9	40	1377.32
+9006002	corpmaxi #2	19	41	1376.80
+2002001	exportiexporti #2	9	10	1376.41
+7009010	maxibrand #10	17	36	1376.05
+8002009	importonameless #9	7	8	1374.71
+4001001	amalgedu pack #1	18	8	1374.54
+1004002	edu packamalg #2	8	55	1371.39
+7010009	univnameless #9	19	20	1371.37
+2004001	edu packimporto #1	8	58	1369.88
+4002002	importoedu pack #2	17	42	1369.38
+2001002	amalgimporto #2	7	17	1368.36
+4001001	amalgedu pack #1	9	26	1366.75
+9015003	scholarunivamalg #3	18	12	1366.75
+1004001	edu packamalg #1	17	16	1366.56
+1002002	importoamalg #2	8	53	1366.52
+8012001	amalgexporti #2	18	14	1363.82
+2001001	amalgimporto #1	8	32	1362.90
+6010006	univbrand #6	6	18	1362.24
+3003001	exportiexporti #1	19	55	1362.21
+7010010	univnameless #10	19	51	1362.06
+5004002	edu packscholar #2	19	51	1361.60
+1001001	amalgamalg #1	9	8	1360.17
+10006002	corpunivamalg #2	9	20	1360.17
+10003011	exportiunivamalg #11	8	13	1360.12
+6008002	namelesscorp #2	18	17	1358.28
+2001002	amalgimporto #2	17	26	1358.12
+8010003	namelessunivamalg #5	6	43	1357.62
+6001002	amalgcorp #2	9	15	1356.81
+9015011	exportiamalg #2	9	19	1356.75
+2004001	importoexporti #2	9	42	1354.64
+7012010	importonameless #10	8	22	1353.18
+10004005	importounivamalg #6	18	3	1352.26
+4003002	exportiedu pack #2	17	49	1349.77
+6014004	edu packbrand #4	19	0	1349.76
+5001001	maxicorp #4	9	20	1349.75
+3003001	exportiexporti #1	19	23	1348.10
+10007004	brandunivamalg #4	19	54	1347.92
+3002002	importoexporti #2	19	6	1347.78
+2002001	amalgscholar #2	9	11	1347.40
+2003001	scholarmaxi #12	9	19	1345.04
+2001002	amalgimporto #2	17	33	1344.42
+2003001	exportiimporto #1	17	59	1343.84
+3001001	amalgexporti #1	19	48	1343.84
+8012005	importomaxi #5	9	38	1342.35
+1001001	scholarnameless #2	9	0	1342.32
+10002012	importounivamalg #12	17	21	1341.37
+10008006	namelessunivamalg #6	19	58	1340.57
+10014016	edu packamalgamalg #16	17	41	1340.51
+10015001	scholaramalgamalg #1	18	11	1340.48
+10015005	scholaramalgamalg #5	18	40	1340.44
+5003002	exportischolar #2	17	47	1340.38
+6011003	importobrand #4	17	50	1340.00
+5001002	amalgscholar #2	17	20	1339.20
+5001001	amalgscholar #2	17	51	1338.80
+3003002	exportiexporti #2	9	52	1338.12
+1003001	exportiamalg #1	9	14	1337.96
+2004001	brandcorp #4	9	54	1337.90
+1002002	importoamalg #2	9	3	1337.62
+3003001	exportiexporti #1	18	44	1337.53
+1004001	edu packamalg #1	17	13	1335.64
+10012004	importoamalgamalg #4	19	58	1335.17
+2002002	importoimporto #2	19	38	1334.97
+1004001	edu packamalg #1	17	52	1332.48
+10006017	corpunivamalg #17	18	0	1332.09
+10014001	maxibrand #4	17	52	1330.56
+5003001	exportischolar #1	18	57	1329.16
+5001002	amalgscholar #2	19	55	1328.60
+8016004	corpmaxi #4	19	53	1328.16
+1004001	edu packamalg #1	18	41	1327.12
+4001002	amalgedu pack #2	8	28	1326.32
+1001002	amalgamalg #2	19	46	1326.24
+5003001	importoedu pack #2	17	33	1326.00
+8008007	namelessnameless #7	9	55	1326.00
+3001002	amalgexporti #2	17	58	1325.71
+1002002	importoamalg #2	9	19	1325.28
+5003002	exportischolar #2	17	28	1324.98
+6006002	corpcorp #2	19	31	1324.81
+6015008	scholarbrand #8	6	23	1324.80
+5001001	exportinameless #8	18	37	1324.48
+1003002	exportiamalg #2	19	22	1324.16
+4002002	importoedu pack #2	19	14	1324.04
+1001001	amalgamalg #1	6	24	1323.92
+6009007	importoscholar #2	18	53	1323.81
+6009008	maxicorp #8	17	13	1323.63
+7005006	scholarbrand #6	17	4	1323.12
+7010004	univnameless #4	19	12	1323.11
+5002002	importoscholar #2	17	54	1322.56
+2003002	exportiimporto #2	18	4	1322.40
+1001001	amalgamalg #1	9	37	1321.92
+7012009	importonameless #9	17	15	1321.32
+9002003	importomaxi #3	19	16	1321.17
+2004001	edu packimporto #1	17	31	1320.72
+2001001	corpbrand #10	17	54	1320.00
+8005009	scholarnameless #9	18	18	1319.22
+4004001	edu packscholar #2	8	54	1319.00
+1003001	brandbrand #6	8	17	1316.48
+10004008	edu packunivamalg #8	19	27	1315.80
+2002001	importoimporto #1	18	19	1315.44
+7007004	brandbrand #4	18	52	1314.95
+5001002	amalgscholar #2	17	40	1314.51
+7010001	univnameless #1	17	32	1313.40
+7012010	importonameless #10	17	24	1313.03
+5003001	exportiamalg #2	18	9	1312.08
+10005010	scholarunivamalg #10	18	57	1312.00
+3001001	maxibrand #8	9	31	1311.39
+3004002	edu packexporti #2	18	40	1311.39
+5004001	amalgedu pack #2	8	39	1311.39
+5004001	edu packscholar #1	7	35	1311.10
+4004002	edu packedu pack #2	19	47	1311.08
+1001002	amalgamalg #2	18	39	1310.97
+2001002	amalgimporto #2	19	54	1309.28
+7010001	univnameless #1	17	28	1309.03
+2003001	scholarmaxi #12	6	2	1308.84
+3003001	importoimporto #2	19	51	1308.62
+6005003	scholarcorp #3	19	50	1308.30
+9004003	edu packmaxi #3	19	1	1306.20
+8012010	importomaxi #10	17	27	1305.36
+4004001	maxinameless #8	8	11	1304.52
+6014006	edu packbrand #6	17	1	1304.49
+7016001	amalgamalg #2	19	50	1304.40
+7011008	amalgnameless #8	18	4	1304.38
+9012006	importounivamalg #6	18	11	1304.24
+4004002	edu packedu pack #2	8	47	1303.20
+5004001	edu packscholar #1	19	29	1302.80
+6005008	scholarcorp #8	8	30	1302.32
+2003001	exportiimporto #1	17	48	1300.80
+1003001	exportiamalg #1	19	30	1299.60
+1001001	amalgamalg #1	8	8	1299.36
+4004002	edu packedu pack #2	17	50	1298.90
+6014006	edu packbrand #6	17	33	1298.70
+4002001	importoedu pack #1	18	48	1297.96
+6004007	edu packscholar #2	8	46	1297.62
+9009009	maximaxi #9	17	57	1297.53
+1003002	exportiamalg #2	17	34	1297.23
+3003001	amalgscholar #2	19	40	1297.17
+2003002	exportiimporto #2	18	8	1296.76
+7002008	importobrand #8	19	37	1296.00
+8010003	namelessunivamalg #5	18	35	1295.73
+2002002	importoimporto #2	9	6	1295.58
+3002001	importounivamalg #7	9	40	1295.25
+3002002	importoexporti #2	7	28	1293.75
+4001001	importobrand #2	18	26	1293.52
+8009010	maxinameless #10	9	3	1293.52
+6010004	univbrand #4	19	51	1293.44
+2002002	importoimporto #2	19	40	1292.62
+6015008	scholarbrand #8	18	1	1292.00
+4003002	exportiedu pack #2	17	19	1291.92
+9005009	scholarmaxi #9	19	1	1290.74
+7002007	maxicorp #2	7	55	1289.76
+7012010	importonameless #10	17	45	1289.50
+1002002	importoamalg #2	19	13	1289.04
+7002007	maxicorp #2	18	11	1288.28
+1003002	exportiamalg #2	18	54	1288.21
+5001002	amalgscholar #2	6	15	1287.94
+6009003	maxicorp #3	9	13	1287.75
+1004002	edu packamalg #2	9	35	1286.86
+2003002	exportiimporto #2	17	37	1286.50
+1003001	brandbrand #6	9	35	1286.40
+7004008	edu packbrand #8	17	53	1285.26
+3003002	exportiexporti #2	19	29	1285.25
+10009008	maxiunivamalg #8	19	2	1285.02
+10013015	exportiamalgamalg #15	8	24	1284.36
+7010001	univnameless #1	9	26	1284.04
+3004001	edu packexporti #1	17	50	1283.12
+5003002	exportischolar #2	9	28	1281.69
+6011002	amalgbrand #2	9	42	1281.63
+3003001	amalgscholar #2	19	7	1281.55
+4003001	exportiedu pack #1	18	58	1280.95
+10002009	importounivamalg #9	9	56	1280.27
+2004001	edu packcorp #8	17	48	1280.16
+2004002	edu packimporto #2	17	7	1280.16
+5003002	exportischolar #2	17	41	1279.50
+7013007	exportinameless #7	17	52	1279.08
+6006004	corpcorp #4	8	30	1278.90
+8009003	maxinameless #3	6	23	1278.87
+7009005	maxibrand #5	19	7	1277.15
+1004001	edu packamalg #1	19	54	1277.00
+10010017	univamalgamalg #17	18	35	1276.24
+8003010	exportinameless #10	17	54	1276.08
+9014003	edu packunivamalg #3	17	38	1276.00
+5004001	amalgedu pack #2	19	34	1275.81
+8008003	namelessnameless #3	18	55	1275.50
+2003001	exportiimporto #1	18	54	1274.15
+10009017	maxiunivamalg #17	17	11	1273.74
+7016001	corpnameless #1	18	42	1273.72
+3001001	amalgexporti #1	17	33	1273.23
+9011008	amalgunivamalg #8	19	6	1272.80
+4003002	exportiedu pack #2	17	4	1270.92
+10002011	importounivamalg #11	17	34	1270.64
+7008006	namelessbrand #6	18	25	1270.50
+8008009	namelessnameless #9	17	45	1270.41
+5002001	importoscholar #1	9	55	1270.22
+2001001	amalgimporto #1	17	4	1268.77
+7006009	corpbrand #9	19	37	1267.30
+1002001	importoamalg #1	19	37	1266.72
+7016001	corpnameless #1	17	25	1265.85
+10008004	namelessunivamalg #4	17	16	1264.63
+8016006	corpmaxi #6	19	18	1264.48
+1002001	scholarbrand #4	9	40	1263.62
+8015003	scholarmaxi #3	18	46	1263.60
+2001002	amalgimporto #2	18	21	1263.00
+2003001	exportiimporto #1	8	21	1262.20
+4001002	amalgedu pack #2	9	8	1261.85
+2001002	amalgimporto #2	17	24	1261.75
+7016001	corpnameless #1	19	49	1260.70
+2003002	exportiimporto #2	19	37	1259.82
+9012003	importounivamalg #3	17	41	1258.40
+8005001	scholarnameless #1	9	43	1257.96
+5003001	exportischolar #1	19	46	1256.89
+4004002	edu packedu pack #2	19	20	1256.75
+7009005	amalgscholar #2	8	15	1255.11
+10015012	scholaramalgamalg #12	18	20	1254.75
+6004007	edu packscholar #2	17	22	1254.24
+4001002	amalgedu pack #2	17	40	1253.40
+10009013	exportibrand #6	8	54	1253.34
+2001002	amalgimporto #2	8	14	1253.25
+5004002	edu packscholar #2	18	6	1252.95
+2001001	amalgimporto #1	9	3	1252.74
+6012004	importobrand #4	9	38	1252.35
+10004008	edu packunivamalg #8	19	7	1251.64
+2004001	brandcorp #4	7	40	1250.64
+6010002	univbrand #2	18	41	1248.94
+6010004	univbrand #4	17	21	1245.92
+2004001	edu packimporto #1	18	59	1245.09
+3002002	importoexporti #2	19	0	1244.60
+6009002	maxicorp #2	19	59	1244.56
+4004001	importoscholar #2	18	22	1244.43
+4001001	importobrand #2	19	54	1243.80
+7016001	amalgamalg #2	17	5	1243.55
+10003006	exportiunivamalg #6	18	40	1242.48
+6015004	scholarbrand #4	9	19	1242.28
+9010009	univunivamalg #9	8	26	1241.68
+7007006	brandbrand #6	19	8	1241.20
+6012004	importobrand #4	18	16	1240.16
+10002012	importounivamalg #12	19	49	1239.75
+1001002	amalgamalg #2	7	25	1239.46
+3004001	edu packexporti #1	17	20	1239.21
+7013001	exportiimporto #2	19	19	1238.55
+1003002	exportiamalg #2	8	38	1237.86
+5004002	edu packscholar #2	18	34	1237.18
+7004006	edu packbrand #6	9	47	1236.60
+3001002	amalgexporti #2	17	22	1236.48
+6003001	exportiimporto #2	9	2	1236.33
+5002002	importoscholar #2	19	45	1236.20
+9007008	brandmaxi #8	8	12	1235.55
+1004001	edu packamalg #1	6	38	1235.33
+7010009	univnameless #9	18	52	1235.30
+2003001	exportiimporto #1	17	34	1235.04
+10014016	edu packamalgamalg #16	17	22	1234.98
+8005008	scholarnameless #8	9	5	1234.10
+9010012	univunivamalg #12	19	12	1233.63
+4001001	amalgedu pack #1	18	47	1233.23
+9008008	namelessmaxi #8	18	13	1232.80
+10006017	corpunivamalg #17	19	8	1231.88
+7010009	univnameless #9	17	9	1231.62
+2003001	exportiimporto #1	9	53	1231.36
+10004017	edu packunivamalg #17	18	34	1230.87
+6011003	importobrand #4	17	56	1230.72
+8008004	namelessnameless #4	8	43	1230.56
+7008008	namelessbrand #8	18	0	1230.08
+7012009	importonameless #9	19	53	1229.75
+7016009	univnameless #10	17	51	1229.14
+5002002	importoscholar #2	8	28	1228.66
+6014004	edu packbrand #4	6	42	1228.48
+7006005	corpbrand #5	17	8	1228.45
+8013004	exportimaxi #4	18	52	1228.35
+3002001	amalgexporti #2	17	47	1227.60
+1001001	namelessunivamalg #4	6	5	1227.13
+7013001	exportiimporto #2	17	58	1226.67
+8015008	scholarmaxi #8	6	35	1226.10
+3001002	amalgexporti #2	17	20	1226.05
+10009013	maxiunivamalg #13	17	19	1225.44
+2002001	importoimporto #1	17	47	1225.38
+10002001	importounivamalg #1	9	5	1224.70
+7013009	exportinameless #9	19	2	1224.51
+10005010	scholarunivamalg #10	18	6	1223.43
+10003016	exportiunivamalg #16	18	47	1223.25
+1004001	importounivamalg #12	18	44	1222.75
+6012004	importobrand #4	19	52	1222.29
+4003002	exportiedu pack #2	18	25	1222.25
+5004001	edu packscholar #1	7	59	1221.66
+8003003	exportinameless #3	6	35	1221.48
+2002002	importoimporto #2	17	33	1219.68
+4001001	namelessmaxi #6	19	10	1218.60
+10009013	maxiunivamalg #13	19	0	1218.00
+3002001	importoexporti #1	17	16	1217.92
+8015003	scholarmaxi #3	18	27	1216.95
+6009007	maxicorp #7	19	54	1216.83
+1002002	importoamalg #2	8	59	1216.80
+3003002	exportiexporti #2	17	2	1216.67
+7013002	exportinameless #2	8	46	1215.95
+3003002	exportiexporti #2	8	4	1215.75
+4001001	exportiimporto #2	9	28	1215.50
+10016002	corpamalgamalg #2	17	28	1212.44
+4002001	importoedu pack #1	17	38	1212.12
+10014014	edu packamalgamalg #14	17	19	1211.60
+7013001	exportiimporto #2	17	40	1211.28
+8015003	importoamalg #2	19	10	1211.04
+8001004	amalgnameless #4	8	24	1210.88
+2002002	importoimporto #2	19	20	1210.44
+10002014	importounivamalg #14	8	17	1209.92
+9007008	brandmaxi #8	19	38	1209.90
+7012009	importonameless #9	6	4	1209.30
+7006004	corpbrand #4	18	22	1209.24
+7016006	corpnameless #6	18	7	1208.48
+4002001	edu packbrand #8	19	30	1207.83
+9003003	exportimaxi #3	17	16	1207.83
+7009010	maxibrand #10	19	29	1207.70
+9013009	exportiunivamalg #9	17	28	1207.35
+4003001	exportischolar #2	17	52	1207.04
+3003002	exportiexporti #2	9	45	1207.00
+3002001	univamalgamalg #6	19	25	1206.98
+6013002	exportibrand #2	9	10	1206.60
+3002002	importoexporti #2	9	50	1206.58
+8011007	amalgmaxi #7	18	35	1206.52
+9006006	corpmaxi #6	18	18	1206.15
+3002002	importoexporti #2	8	0	1205.75
+4004002	edu packedu pack #2	9	11	1205.70
+9006009	corpmaxi #9	9	6	1203.99
+5002002	importoscholar #2	9	37	1203.08
+2003001	exportiimporto #1	8	38	1202.21
+8016001	corpmaxi #1	19	13	1202.10
+8010004	univmaxi #4	19	49	1201.90
+8015008	scholarmaxi #8	9	40	1201.56
+10009013	maxiunivamalg #13	19	24	1201.44
+9016009	corpunivamalg #9	17	6	1200.96
+4002001	importoedu pack #1	8	43	1200.94
+1003001	namelessunivamalg #12	7	52	1200.81
+10006017	corpunivamalg #17	18	22	1200.80
+4004002	edu packedu pack #2	18	56	1200.76
+1004002	edu packamalg #2	8	41	1200.75
+4004002	edu packedu pack #2	6	42	1200.65
+2004001	exportimaxi #8	18	43	1200.60
+7002010	importobrand #10	9	4	1200.48
+10003004	exportiunivamalg #4	17	19	1199.73
+1004002	edu packamalg #2	7	42	1199.00
+8008005	namelessnameless #5	7	6	1198.07
+8005003	scholarnameless #3	9	45	1197.61
+9001003	amalgmaxi #3	17	42	1196.23
+2003001	exportiimporto #1	19	14	1195.92
+6003001	exportiimporto #2	18	17	1195.02
+8010009	univmaxi #9	17	33	1194.48
+4002001	importoedu pack #1	8	39	1193.92
+3003001	exportiexporti #1	17	41	1193.68
+2004002	edu packimporto #2	17	24	1193.64
+1003002	exportiamalg #2	8	53	1193.40
+8015003	importoamalg #2	19	44	1193.04
+1001001	amalgamalg #1	19	36	1192.00
+5001001	amalgscholar #1	19	37	1191.93
+1002001	importoamalg #1	6	37	1191.38
+3002001	corpcorp #8	8	54	1191.36
+6005001	scholarcorp #1	19	47	1191.24
+3004001	edu packexporti #1	18	29	1191.03
+7013002	exportinameless #2	18	35	1190.70
+7006004	NULL	9	12	1190.64
+2002002	importoimporto #2	19	47	1190.52
+7005006	scholarbrand #6	8	5	1190.02
+9004008	edu packmaxi #8	8	26	1190.00
+5003002	exportischolar #2	17	25	1189.44
+8005009	scholarnameless #9	7	42	1189.02
+7006001	corpcorp #4	9	30	1189.00
+3001002	amalgexporti #2	17	28	1188.48
+4004002	edu packedu pack #2	17	57	1188.40
+2004001	exportimaxi #8	7	36	1188.18
+1001001	exportiexporti #2	17	20	1187.92
+10008006	namelessunivamalg #6	7	13	1186.96
+7009010	maxibrand #10	9	38	1186.90
+7006005	corpbrand #5	18	39	1186.57
+4004001	edu packedu pack #1	19	27	1186.54
+4002002	importoedu pack #2	8	2	1185.84
+9004008	edu packmaxi #8	18	18	1185.66
+1001001	amalgamalg #1	19	3	1185.60
+4002001	importoedu pack #1	17	54	1185.28
+2003001	scholarmaxi #12	19	29	1185.11
+7011008	amalgnameless #8	17	10	1185.00
+6001008	amalgcorp #8	18	52	1184.04
+10006008	corpunivamalg #8	8	40	1183.65
+3001001	amalgexporti #1	17	44	1183.57
+3003002	exportiexporti #2	9	46	1183.33
+9007008	brandmaxi #8	9	8	1182.96
+5001002	amalgscholar #2	17	31	1182.66
+6016008	corpbrand #8	9	21	1181.41
+2001001	amalgimporto #1	17	53	1181.16
+2003002	exportiimporto #2	19	50	1180.82
+10008009	corpcorp #8	19	59	1180.48
+10009017	maxiunivamalg #17	18	11	1180.26
+7013002	exportinameless #2	9	15	1179.06
+10015005	scholaramalgamalg #5	9	40	1177.80
+10014001	edu packamalgamalg #1	17	38	1176.76
+9002003	importomaxi #3	9	30	1176.56
+8012006	importomaxi #6	19	47	1176.24
+1002001	importoamalg #1	19	22	1176.12
+9002008	importomaxi #8	19	19	1174.86
+10014016	edu packamalgamalg #16	8	27	1174.32
+1003002	exportiamalg #2	19	2	1173.84
+4003001	exportiedu pack #1	9	56	1173.76
+1002002	importoamalg #2	18	56	1173.60
+7012001	scholarcorp #6	9	25	1173.45
+3002001	importoexporti #1	18	38	1173.34
+7016006	corpnameless #6	18	15	1173.15
+3001002	amalgexporti #2	18	22	1172.50
+4002002	importoedu pack #2	19	22	1172.00
+5001002	amalgscholar #2	18	58	1170.92
+3004001	edu packexporti #1	19	30	1170.45
+10003006	exportiunivamalg #6	17	23	1170.24
+5002001	exportibrand #8	18	36	1170.01
+3003001	exportiexporti #1	17	16	1169.70
+1001002	amalgamalg #2	17	44	1169.60
+7009009	exportibrand #10	19	57	1169.50
+9001003	amalgmaxi #3	17	13	1169.46
+7009005	amalgscholar #2	19	52	1169.40
+3003001	exportiexporti #1	19	37	1168.14
+6011003	importobrand #4	9	10	1168.02
+7011001	amalgnameless #1	7	59	1166.79
+4002002	importoedu pack #2	18	10	1166.60
+5001002	amalgscholar #2	17	19	1166.59
+8001001	amalgnameless #1	9	47	1166.56
+9012003	importounivamalg #3	17	37	1166.44
+3004002	edu packexporti #2	9	32	1165.86
+6016001	corpbrand #1	17	58	1165.86
+6008002	namelesscorp #2	18	31	1165.36
+8001007	amalgamalg #2	17	31	1165.10
+7012009	amalgamalg #2	19	49	1165.08
+7003002	exportibrand #2	9	37	1164.80
+3001001	amalgexporti #1	9	55	1164.36
+6015004	scholarbrand #4	8	13	1163.40
+3004002	edu packexporti #2	9	4	1162.46
+10014016	edu packamalgamalg #16	19	12	1162.32
+3003001	exportiexporti #1	17	0	1161.84
+3002002	importoexporti #2	9	40	1161.30
+2002001	importoimporto #1	19	0	1161.28
+8003007	edu packnameless #8	19	51	1160.55
+8010009	univmaxi #9	18	6	1160.32
+4002002	importoedu pack #2	8	33	1159.86
+3002002	importoexporti #2	9	39	1158.68
+10010004	univamalgamalg #4	17	33	1158.14
+8001001	amalgnameless #1	9	36	1158.08
+2003001	exportiimporto #1	19	9	1157.23
+9005009	scholarmaxi #9	9	25	1157.17
+4002001	scholarmaxi #6	9	47	1157.14
+5002002	importoscholar #2	8	34	1157.10
+4004002	edu packedu pack #2	18	49	1156.78
+8002009	importonameless #9	9	43	1156.59
+6003003	exporticorp #3	8	22	1155.20
+7011008	amalgnameless #8	9	58	1154.98
+8004003	edu packnameless #3	9	40	1154.60
+7008006	namelessbrand #6	19	18	1154.58
+2001001	amalgimporto #1	17	29	1153.68
+8003004	exportinameless #4	18	18	1152.46
+1002001	importoamalg #1	8	22	1152.08
+4002001	importoedu pack #1	18	8	1152.06
+3001001	amalgexporti #1	17	15	1151.73
+7011008	amalgnameless #8	17	49	1151.38
+4003001	exportiedu pack #1	17	2	1151.14
+1004001	edu packamalg #1	7	39	1151.07
+7001005	amalgbrand #5	18	43	1151.02
+10013013	exportiamalgamalg #13	9	47	1150.83
+1001002	amalgamalg #2	17	59	1150.24
+1002001	importoamalg #1	17	42	1149.75
+1001002	amalgamalg #2	7	56	1149.44
+6001002	amalgcorp #2	17	24	1148.96
+1004002	edu packamalg #2	18	24	1148.56
+8003002	exportinameless #2	18	35	1148.00
+10013002	exportiamalgamalg #2	19	6	1147.18
+5001002	amalgscholar #2	19	21	1146.48
+5001002	amalgscholar #2	17	34	1145.76
+8005009	scholarnameless #9	17	9	1145.13
+10003006	exportiunivamalg #6	8	17	1144.50
+7012005	importonameless #5	17	33	1144.26
+6005005	maxibrand #10	18	0	1144.08
+4003002	exportiedu pack #2	18	21	1144.00
+3002001	univamalgamalg #6	7	4	1143.96
+5001001	amalgscholar #1	19	47	1143.90
+4002002	importoedu pack #2	19	21	1143.74
+6007007	brandcorp #7	17	41	1142.90
+8010005	univmaxi #5	17	49	1142.74
+1003002	exportiamalg #2	18	37	1142.22
+5001002	amalgscholar #2	19	0	1141.80
+10008004	namelessunivamalg #4	8	44	1141.40
+2003002	exportiimporto #2	9	42	1141.20
+3004002	edu packexporti #2	18	18	1140.72
+4001002	amalgedu pack #2	17	10	1139.88
+4001002	amalgedu pack #2	17	28	1139.84
+3004002	edu packexporti #2	9	0	1139.16
+2004002	edu packimporto #2	19	27	1139.00
+7009010	maxibrand #10	6	53	1138.39
+4002001	edu packbrand #8	19	21	1137.92
+8003007	edu packnameless #8	17	11	1137.60
+8006008	corpnameless #8	8	40	1137.42
+9002003	importomaxi #3	9	5	1137.39
+5003001	exportiamalg #2	8	44	1136.99
+5004002	edu packscholar #2	17	5	1136.74
+1001001	amalgamalg #1	19	29	1136.31
+9013008	exportiunivamalg #8	18	12	1135.68
+9003008	exportimaxi #8	17	58	1135.64
+1003001	exportiamalg #1	19	7	1135.05
+1001002	amalgamalg #2	9	27	1133.52
+5001002	amalgscholar #2	19	1	1132.32
+7006008	corpbrand #8	19	21	1131.26
+6015006	scholarbrand #6	7	58	1130.64
+4002002	importoedu pack #2	19	41	1130.35
+4004001	edu packedu pack #1	8	44	1130.14
+10014016	edu packamalgamalg #16	18	13	1130.14
+1001001	amalgamalg #1	9	58	1129.88
+1004001	amalgunivamalg #6	19	46	1129.53
+1003002	exportiamalg #2	9	22	1129.20
+2001002	amalgimporto #2	17	51	1128.87
+9013012	exportiunivamalg #12	18	15	1128.50
+10007004	brandunivamalg #4	19	14	1127.78
+2001001	amalgimporto #1	17	32	1127.00
+1004001	exportiunivamalg #12	9	41	1126.51
+3001001	amalgexporti #1	9	30	1125.84
+3004001	edu packexporti #1	18	24	1124.97
+3002001	importoexporti #1	6	11	1124.64
+8010001	univamalgamalg #5	19	6	1124.64
+7009010	maxibrand #10	19	32	1124.48
+8008003	namelessnameless #3	8	55	1123.92
+5001002	amalgscholar #2	18	14	1123.75
+2004002	edu packimporto #2	19	40	1123.08
+10014016	edu packamalgamalg #16	18	14	1122.36
+5001001	amalgscholar #1	18	33	1122.00
+4002001	importoedu pack #1	18	29	1121.44
+2004002	edu packimporto #2	17	42	1121.28
+6010002	univbrand #2	18	2	1120.98
+1003001	exportiamalg #1	17	35	1120.32
+3002002	importoexporti #2	17	51	1120.05
+1002001	importoamalg #1	18	31	1119.45
+6004007	edu packscholar #2	18	0	1118.88
+8005005	scholarnameless #5	19	12	1117.66
+5001001	brandunivamalg #11	17	56	1117.46
+4001001	amalgedu pack #1	19	2	1117.19
+4002001	importoscholar #2	8	13	1116.36
+3002002	importoexporti #2	7	14	1116.12
+7001004	amalgbrand #4	9	25	1116.05
+6016003	corpbrand #3	6	31	1114.92
+6011001	amalgbrand #1	19	59	1114.70
+9013008	exportiunivamalg #8	17	31	1113.83
+6009007	maxicorp #7	19	6	1113.32
+5004002	edu packscholar #2	8	30	1113.00
+1001001	amalgamalg #1	8	37	1112.76
+4002002	importoedu pack #2	9	56	1112.28
+10010006	univamalgamalg #6	18	42	1112.02
+10016008	corpamalgamalg #8	19	8	1111.61
+3002002	importoexporti #2	19	58	1111.50
+7011008	amalgnameless #8	18	45	1111.32
+7006005	corpbrand #5	19	27	1111.11
+10003011	exportiunivamalg #11	18	50	1111.06
+7004008	edu packbrand #8	19	10	1110.72
+2004001	edu packunivamalg #8	19	55	1110.65
+2003002	exportiimporto #2	7	45	1110.56
+4001001	exportiexporti #2	19	2	1110.14
+3003002	exportiexporti #2	17	14	1109.28
+3002002	importoexporti #2	9	51	1109.20
+1001002	amalgamalg #2	8	55	1108.80
+4004002	edu packedu pack #2	9	35	1108.80
+3003001	amalgscholar #2	17	42	1108.60
+1003002	exportiamalg #2	19	12	1108.54
+6015008	scholarbrand #8	19	12	1108.02
+5002001	exporticorp #4	18	10	1107.72
+7016001	corpnameless #1	19	25	1106.56
+9012005	univbrand #2	19	45	1106.00
+9016008	corpunivamalg #8	8	33	1105.01
+6010006	univbrand #6	9	39	1105.00
+6001008	amalgcorp #8	7	12	1104.90
+4002001	scholarmaxi #6	7	55	1104.18
+9006006	corpmaxi #6	18	22	1104.15
+6003003	exporticorp #3	18	49	1102.86
+6015006	scholarbrand #6	18	44	1102.64
+6001001	amalgcorp #1	9	2	1101.60
+10009013	maxiunivamalg #13	9	10	1101.60
+1001001	amalgamalg #1	17	47	1101.42
+1003002	exportiamalg #2	9	57	1100.28
+7006008	corpbrand #8	6	30	1100.00
+4003002	exportiedu pack #2	9	17	1099.92
+1001002	amalgamalg #2	17	10	1099.25
+3004002	edu packexporti #2	17	27	1099.11
+8008002	namelessnameless #2	9	27	1099.08
+7001009	amalgbrand #9	6	41	1099.02
+7004004	edu packbrand #4	17	9	1097.98
+1002001	importoamalg #1	17	25	1095.65
+8004003	edu packnameless #3	19	21	1095.35
+2002002	importoimporto #2	17	37	1094.40
+4004002	edu packedu pack #2	17	41	1093.40
+2001001	amalgimporto #1	17	37	1092.96
+2004001	edu packimporto #1	17	22	1092.28
+8010004	univmaxi #4	18	44	1091.43
+10016016	corpamalgamalg #16	9	24	1090.96
+6009007	maxicorp #7	8	42	1090.32
+5001002	amalgscholar #2	7	12	1089.88
+2002001	exportiexporti #2	18	26	1089.76
+1003001	exportiamalg #1	9	3	1089.00
+2002001	exportiexporti #2	8	54	1089.00
+1002002	importoamalg #2	18	40	1088.85
+1004001	edu packamalg #1	18	56	1088.14
+6005001	scholarcorp #1	18	42	1087.60
+7007006	brandbrand #6	19	51	1087.56
+2002001	exportiexporti #2	17	28	1087.24
+3001001	maxibrand #8	9	6	1086.82
+9014008	edu packunivamalg #8	9	43	1086.54
+5004002	edu packscholar #2	17	47	1085.63
+7006004	NULL	18	23	1085.58
+5004001	edu packscholar #1	8	52	1085.45
+7015007	scholarnameless #7	19	2	1085.16
+1001001	amalgamalg #1	19	15	1085.00
+4001002	amalgedu pack #2	7	6	1084.72
+6010004	univbrand #4	19	3	1084.38
+6016001	amalgexporti #2	7	14	1084.16
+4002001	importoedu pack #1	9	34	1083.60
+1003001	exportiamalg #1	19	15	1083.14
+10003014	exportiunivamalg #14	9	15	1082.70
+5003001	exportischolar #1	7	42	1081.60
+7016007	corpnameless #7	17	0	1081.20
+7003005	exportibrand #5	7	18	1081.02
+9011009	amalgunivamalg #9	17	7	1080.80
+6006003	corpcorp #3	9	50	1080.06
+6010005	univbrand #5	17	30	1079.10
+3004002	edu packexporti #2	17	13	1078.44
+2002001	importoimporto #1	17	15	1078.25
+7012009	importonameless #9	9	44	1078.00
+8004009	edu packnameless #9	18	22	1077.93
+8015007	scholarmaxi #7	17	31	1077.30
+6005007	scholarcorp #7	18	0	1077.25
+NULL	NULL	19	47	1076.40
+6008005	edu packmaxi #6	17	43	1075.68
+5001001	amalgscholar #1	9	46	1075.20
+7013009	exportinameless #9	8	9	1073.28
+6015004	scholarbrand #4	18	53	1072.12
+10015013	scholaramalgamalg #13	19	48	1071.80
+2004001	edu packimporto #1	19	56	1071.50
+3004001	edu packexporti #1	9	43	1071.45
+3003001	exportiexporti #1	17	2	1070.88
+7002006	importobrand #6	18	8	1070.68
+6005005	maxibrand #10	17	29	1070.04
+2004001	edu packcorp #8	18	7	1067.40
+1001001	amalgamalg #1	6	50	1067.22
+10011013	amalgunivamalg #6	17	56	1067.00
+8006008	corpnameless #8	7	5	1066.47
+4001001	amalgedu pack #1	6	0	1066.28
+1001002	amalgamalg #2	17	45	1066.03
+4002002	importoedu pack #2	8	29	1065.22
+6011001	amalgbrand #1	17	9	1065.12
+1001002	amalgamalg #2	18	18	1064.59
+9009003	maximaxi #3	17	57	1064.44
+4004001	edu packedu pack #1	18	7	1063.72
+1004001	edu packamalg #1	18	19	1063.58
+4001002	amalgedu pack #2	17	53	1062.60
+2003002	exportiimporto #2	17	21	1062.12
+2002002	importoimporto #2	19	41	1061.51
+6010006	univbrand #6	19	17	1060.42
+2004001	exportimaxi #8	17	13	1060.00
+5001001	scholarunivamalg #8	18	22	1059.95
+8012001	amalgexporti #2	9	21	1059.78
+4004001	corpamalgamalg #8	9	49	1059.48
+3004001	edu packexporti #1	9	16	1059.37
+10015005	scholaramalgamalg #5	17	37	1059.04
+5003001	exportischolar #1	7	16	1058.46
+6005005	edu packnameless #8	8	6	1058.25
+8010009	univmaxi #9	9	13	1058.04
+1004002	edu packamalg #2	18	30	1057.80
+6015007	scholarbrand #7	17	15	1056.33
+3001002	amalgexporti #2	8	27	1055.88
+8004001	edu packnameless #1	17	53	1054.68
+6001002	amalgcorp #2	17	23	1054.50
+3001002	amalgexporti #2	6	4	1053.36
+6001002	amalgcorp #2	9	9	1052.70
+7015002	scholarnameless #2	17	34	1051.44
+2004002	edu packimporto #2	9	12	1051.40
+9011009	amalgunivamalg #9	17	55	1049.92
+3002001	corpcorp #8	17	54	1049.76
+3003002	exportiexporti #2	8	51	1049.16
+3004002	edu packexporti #2	8	9	1048.32
+10004015	edu packunivamalg #15	19	26	1047.68
+10003006	exportiunivamalg #6	17	38	1047.64
+7012005	importonameless #5	8	22	1047.60
+3001002	amalgexporti #2	18	24	1047.42
+10008004	namelessunivamalg #4	19	33	1046.70
+3002001	corpcorp #8	17	36	1046.04
+4001002	amalgedu pack #2	6	42	1045.80
+9009003	maximaxi #3	17	51	1045.62
+7006007	edu packamalg #2	9	28	1045.44
+6011008	amalgbrand #8	7	6	1044.97
+5001002	amalgscholar #2	18	13	1044.89
+6010004	univbrand #4	19	35	1044.56
+2004002	edu packimporto #2	18	55	1044.19
+1004001	edu packamalg #1	18	9	1044.08
+10007015	brandunivamalg #15	17	22	1043.86
+2001001	amalgamalg #2	17	1	1043.10
+6005001	scholarcorp #1	19	14	1043.10
+8005009	scholarnameless #9	9	53	1043.10
+1004001	edu packamalg #1	18	29	1042.10
+8008002	namelessnameless #2	17	14	1041.88
+10008002	namelessunivamalg #2	18	44	1041.74
+9012006	importounivamalg #6	19	51	1041.00
+4002001	importoedu pack #1	17	4	1040.91
+2001002	amalgimporto #2	6	12	1040.76
+10003007	exportiunivamalg #7	19	19	1040.76
+10016001	corpamalgamalg #1	7	15	1040.64
+10001008	amalgunivamalg #8	9	17	1039.27
+5003002	exportischolar #2	8	48	1039.11
+7013002	exportinameless #2	19	2	1039.00
+1001002	amalgamalg #2	18	6	1038.92
+6011001	amalgbrand #1	8	51	1038.70
+8004004	edu packnameless #4	9	46	1038.40
+5003002	exportischolar #2	7	59	1038.08
+10004008	edu packunivamalg #8	17	54	1038.00
+9014008	edu packunivamalg #8	18	8	1037.76
+4003002	exportiedu pack #2	17	55	1037.59
+10007012	brandunivamalg #12	17	54	1037.07
+5004001	edu packscholar #1	7	52	1037.04
+10011013	amalgunivamalg #6	17	43	1035.88
+5004001	amalgedu pack #2	17	27	1035.52
+3003002	exportiexporti #2	8	1	1035.01
+4001001	amalgedu pack #1	17	20	1034.84
+3001001	amalgexporti #1	17	54	1034.00
+5002002	importoscholar #2	18	56	1033.41
+5004002	edu packscholar #2	17	42	1033.33
+1001001	amalgamalg #1	18	53	1032.84
+7002003	importobrand #3	6	0	1032.80
+10007012	brandunivamalg #12	19	51	1032.67
+4004001	edu packedu pack #1	19	51	1031.94
+3004001	edu packscholar #2	8	19	1031.91
+10006002	corpunivamalg #2	19	18	1030.60
+4002002	importoedu pack #2	19	16	1029.18
+6016006	corpbrand #6	18	1	1028.61
+3002001	importounivamalg #7	18	1	1028.40
+10010013	univamalgamalg #13	17	57	1028.34
+3001001	maxibrand #8	17	50	1028.16
+8002009	importonameless #9	18	45	1027.60
+7008008	namelessbrand #8	19	1	1027.20
+3002001	importoexporti #1	18	31	1026.90
+8001003	importoscholar #2	8	40	1026.76
+5003001	exportischolar #1	19	23	1026.72
+9013012	exportiunivamalg #12	19	17	1026.63
+7016007	corpnameless #7	17	48	1026.27
+6009007	importoscholar #2	7	42	1026.08
+4002002	importoedu pack #2	9	57	1026.00
+6003001	exportiimporto #2	9	41	1026.00
+4003001	exportiedu pack #1	19	49	1025.28
+2002001	importoimporto #1	17	35	1024.32
+6002004	importocorp #4	19	30	1023.84
+4003001	exportiedu pack #1	8	54	1023.75
+7007004	brandbrand #4	17	27	1023.60
+5003002	exportischolar #2	17	4	1023.36
+9008002	namelessmaxi #2	17	52	1023.00
+8004004	edu packnameless #4	18	43	1022.58
+7002007	maxicorp #2	8	31	1021.86
+10014010	edu packamalgamalg #10	9	15	1021.80
+2001001	amalgimporto #1	17	49	1021.76
+5002001	importoedu pack #2	18	27	1021.68
+3004001	edu packexporti #1	18	36	1021.56
+10011012	importoimporto #2	19	26	1021.50
+10014001	maxibrand #4	17	17	1020.48
+1002002	importoamalg #2	9	17	1019.53
+7001002	amalgbrand #2	9	44	1019.52
+6005008	scholarcorp #8	19	57	1018.47
+1004002	edu packamalg #2	7	27	1018.40
+4002001	importoedu pack #1	9	11	1018.35
+8012010	importomaxi #10	19	18	1018.24
+1001001	amalgamalg #1	19	43	1017.37
+8015006	scholarmaxi #6	17	14	1016.88
+4004001	edu packedu pack #1	17	13	1016.52
+6005001	scholarcorp #1	7	14	1016.28
+6005007	scholarcorp #7	9	18	1015.92
+6001007	amalgcorp #7	7	38	1015.20
+5004002	edu packscholar #2	7	48	1014.72
+5003002	exportischolar #2	8	34	1013.75
+2002001	importoimporto #1	18	4	1013.36
+2003002	exportiimporto #2	7	3	1013.32
+9007009	brandmaxi #9	19	35	1013.32
+6011003	amalgbrand #3	17	32	1012.96
+6014004	edu packbrand #4	6	43	1012.86
+7015009	scholarnameless #9	19	58	1012.86
+7006001	corpcorp #4	17	49	1012.18
+9015009	scholarunivamalg #9	18	32	1012.00
+8005001	scholarnameless #1	8	3	1011.90
+8001003	importoscholar #2	18	32	1011.44
+10016016	corpamalgamalg #16	9	17	1011.03
+6003003	exporticorp #3	19	12	1010.14
+8004009	edu packnameless #9	19	30	1009.75
+7015009	scholarnameless #9	19	37	1009.36
+4003001	exportiedu pack #1	17	42	1008.35
+3003001	exportiexporti #1	18	28	1008.10
+9007003	brandmaxi #3	18	4	1007.76
+1002002	importoamalg #2	9	55	1007.19
+5001002	amalgscholar #2	9	12	1007.09
+10011009	amalgamalgamalg #9	6	44	1006.23
+10008009	corpcorp #8	17	21	1005.34
+1001001	amalgamalg #1	17	52	1004.91
+4002001	importoedu pack #1	19	38	1004.64
+1004001	edu packamalg #1	9	30	1004.43
+1002001	importoamalg #1	9	51	1004.09
+4003001	exportiedu pack #1	18	20	1004.00
+1003002	exportiamalg #2	9	29	1003.86
+3001002	amalgexporti #2	19	5	1002.96
+10004005	importounivamalg #6	17	55	1002.04
+10007004	brandunivamalg #4	19	52	1002.01
+10007005	brandunivamalg #5	19	1	1002.00
+5001001	edu packexporti #2	7	23	1001.25
+7002006	importobrand #6	18	22	1000.96
+7011008	amalgnameless #8	18	3	1000.75
+8009010	maxinameless #10	19	36	1000.56
+3001001	maxibrand #8	8	52	1000.50
+4001001	amalgedu pack #1	9	4	1000.31
+4001001	maxiunivamalg #16	18	41	999.75
+2001001	amalgimporto #1	9	16	999.72
+4002002	importoedu pack #2	9	55	999.00
+4003001	exportiedu pack #1	18	17	999.00
+7002010	importobrand #10	9	36	998.53
+4001001	amalgedu pack #1	8	56	998.25
+7014008	edu packnameless #8	19	17	998.24
+9011009	amalgunivamalg #9	19	39	998.10
+6001008	amalgcorp #8	8	53	998.00
+3003002	exportiexporti #2	7	15	997.92
+8007010	brandnameless #10	18	2	997.88
+4001002	amalgedu pack #2	18	3	997.69
+8015006	scholarmaxi #6	18	12	997.40
+2002002	importoimporto #2	18	51	997.15
+5001001	maxicorp #4	7	52	996.13
+3003001	exportiexporti #1	17	3	995.30
+9013008	exportiunivamalg #8	17	21	995.28
+1004002	edu packamalg #2	17	38	994.61
+1003002	exportiamalg #2	8	23	994.25
+6005003	scholarcorp #3	18	7	993.20
+5002001	amalgamalgamalg #12	19	44	993.06
+4001001	amalgedu pack #1	9	59	993.00
+7001008	amalgbrand #8	17	25	992.34
+4001001	amalgedu pack #1	18	24	992.25
+3001001	maxibrand #8	8	17	992.16
+5001001	amalgscholar #1	18	0	991.79
+6004007	edu packscholar #2	18	4	991.38
+8015005	scholarmaxi #5	17	33	991.38
+5003002	exportischolar #2	7	26	991.20
+6001001	amalgcorp #1	8	37	991.20
+4004001	edu packscholar #2	9	9	990.99
+4003001	amalgexporti #2	7	29	990.50
+6005007	scholarcorp #7	19	10	990.28
+2003002	exportiimporto #2	19	4	990.08
+4002002	importoedu pack #2	6	17	990.08
+2002001	importoimporto #1	8	30	990.03
+10008009	namelessunivamalg #9	9	3	989.80
+10011014	amalgamalgamalg #14	18	26	989.52
+3003002	exportiexporti #2	9	1	989.20
+4001002	amalgedu pack #2	19	30	988.90
+3001001	maxibrand #8	8	11	988.89
+3004002	edu packexporti #2	8	20	988.25
+2003002	exportiimporto #2	18	21	988.00
+7016001	corpnameless #1	17	12	987.42
+8010002	univmaxi #2	9	17	987.36
+4002002	importoedu pack #2	9	3	987.22
+5003002	exportischolar #2	7	16	987.00
+1003001	exportiamalg #1	8	41	986.72
+3003002	exportiexporti #2	17	59	986.40
+7008004	namelessbrand #4	9	49	986.40
+7009004	maxibrand #4	9	40	986.00
+6001007	amalgcorp #7	18	58	985.60
+9015002	scholarunivamalg #2	9	35	985.60
+6005008	scholarcorp #8	19	47	984.75
+9006009	corpmaxi #9	17	3	984.74
+6002004	importocorp #4	19	17	984.42
+2004002	edu packimporto #2	8	59	984.30
+10013013	exportiamalgamalg #13	6	0	984.20
+3004001	edu packexporti #1	17	44	983.48
+7006009	corpbrand #9	19	45	982.36
+5004002	edu packscholar #2	19	17	981.90
+1002002	importoamalg #2	7	35	981.89
+10005014	scholarunivamalg #14	8	51	981.55
+5002002	importoscholar #2	17	29	981.35
+6001007	amalgcorp #7	7	34	980.49
+4003001	amalgexporti #2	9	41	980.40
+1003001	exportiamalg #1	18	17	980.00
+2004001	brandcorp #4	7	57	979.80
+7003008	exportibrand #8	8	48	979.54
+4003001	exportischolar #2	17	43	979.11
+5003002	exportischolar #2	17	59	978.45
+10014016	edu packamalgamalg #16	18	31	977.20
+9002003	importomaxi #3	7	5	976.80
+8006009	corpnameless #9	18	13	976.14
+10014001	maxibrand #4	18	36	975.84
+7016007	corpnameless #7	18	43	975.81
+3004001	edu packscholar #2	19	56	974.40
+5003002	exportischolar #2	17	46	974.22
+2004001	edu packcorp #8	18	27	974.10
+1002001	importoamalg #1	19	35	973.75
+3003001	univamalgamalg #6	8	14	973.56
+5003002	exportischolar #2	9	57	973.40
+3003001	exportiexporti #1	7	42	973.35
+10011013	amalgunivamalg #6	9	23	972.90
+1004001	edu packamalg #1	9	17	972.80
+3004001	edu packexporti #1	17	37	972.32
+1001001	brandnameless #8	8	34	971.74
+7006005	corpbrand #5	9	28	971.30
+7014002	edu packnameless #2	9	52	970.56
+5003002	exportischolar #2	19	39	970.51
+1004001	edu packimporto #2	9	40	969.76
+3001002	amalgexporti #2	8	3	969.57
+6005001	scholarcorp #1	8	50	969.54
+2004001	brandcorp #4	18	8	969.30
+4002002	importoedu pack #2	17	36	969.30
+1001002	amalgamalg #2	17	57	969.03
+8003002	exportinameless #2	8	6	968.70
+6014005	edu packamalgamalg #8	18	40	967.98
+5002002	importoscholar #2	19	18	967.89
+10007004	brandunivamalg #4	17	25	967.68
+2004001	edu packimporto #1	19	27	967.64
+10008013	namelessunivamalg #13	19	59	966.78
+10014003	edu packamalgamalg #3	18	39	965.50
+3004001	edu packexporti #1	8	37	964.06
+2003002	exportiimporto #2	17	16	963.60
+3004002	edu packexporti #2	9	20	963.09
+1003002	exportiamalg #2	17	2	962.98
+5001001	amalgscholar #1	8	2	962.55
+5004002	edu packscholar #2	9	32	962.22
+1001001	amalgamalg #1	18	14	962.00
+4001002	amalgedu pack #2	18	38	961.38
+6008002	namelesscorp #2	9	33	961.35
+10014016	edu packamalgamalg #16	18	48	961.35
+7010005	corpunivamalg #6	6	39	960.06
+3002002	importoexporti #2	9	26	960.01
+6011008	amalgbrand #8	17	40	959.70
+10016008	corpamalgamalg #8	7	0	958.88
+4003001	exportiedu pack #1	9	49	958.00
+2004002	edu packimporto #2	7	11	957.60
+4004001	edu packedu pack #1	17	59	957.60
+1003001	exportiamalg #1	17	17	957.51
+2004002	edu packimporto #2	9	17	956.84
+1004001	amalgamalg #2	9	14	956.80
+1003002	exportiamalg #2	8	17	956.34
+10006017	corpunivamalg #17	17	16	956.34
+8015003	scholarmaxi #3	17	35	955.70
+8001009	amalgamalg #2	9	40	955.33
+2002001	importoimporto #1	9	1	954.68
+4004001	scholarnameless #4	18	12	954.24
+9014008	edu packunivamalg #8	17	37	953.40
+3001002	amalgexporti #2	8	53	952.48
+6012002	importobrand #2	9	19	952.44
+7012009	importonameless #9	18	17	952.40
+7013001	exportiimporto #2	18	10	952.12
+6011003	amalgbrand #3	8	7	951.95
+2002002	importoimporto #2	8	56	951.90
+7014008	edu packnameless #8	19	26	951.68
+5001002	amalgscholar #2	9	34	949.52
+7002007	maxicorp #2	19	34	949.00
+10003014	exportiunivamalg #14	9	29	948.94
+3004001	edu packexporti #1	19	32	947.98
+8003006	exportinameless #6	9	41	947.65
+3001001	amalgexporti #1	18	31	947.36
+2004002	edu packimporto #2	18	24	946.80
+10016002	corpamalgamalg #2	18	29	946.80
+4001001	amalgedu pack #1	19	32	946.68
+1004002	edu packamalg #2	7	26	946.53
+5001001	amalgscholar #1	19	34	945.60
+1004001	edu packamalg #1	9	8	944.89
+3004002	edu packexporti #2	18	6	944.86
+6004002	edu packcorp #2	9	51	944.72
+5001002	amalgscholar #2	7	39	944.58
+1001001	namelessunivamalg #4	19	39	944.45
+6004007	edu packscholar #2	17	13	943.38
+4001001	amalgedu pack #1	19	50	942.26
+2003002	exportiimporto #2	6	20	941.97
+2004001	edu packimporto #1	9	41	941.69
+6005005	edu packnameless #8	19	11	941.08
+8001001	amalgnameless #1	18	49	940.80
+6014005	edu packamalgamalg #8	19	27	940.47
+2002001	amalgscholar #2	9	57	940.22
+4004001	importoscholar #2	17	8	940.18
+4003002	exportiedu pack #2	9	45	940.10
+10016001	corpamalgamalg #1	18	44	940.01
+3002001	importoexporti #1	17	40	938.60
+5002001	amalgamalg #2	18	36	938.60
+9008008	namelessmaxi #8	8	2	937.80
+10009015	maxiunivamalg #15	19	56	937.46
+2004002	edu packimporto #2	8	2	936.02
+9013002	exportiunivamalg #2	8	6	935.82
+6005005	edu packnameless #8	18	54	935.58
+9007008	brandmaxi #8	8	48	935.20
+8015008	scholarmaxi #8	19	3	935.10
+8010004	univmaxi #4	9	2	935.08
+2001002	amalgimporto #2	9	39	934.76
+1003001	exportiamalg #1	18	12	933.76
+7010005	corpunivamalg #6	7	14	933.75
+6003003	exporticorp #3	17	58	933.53
+3001002	amalgexporti #2	7	5	933.30
+6011003	amalgbrand #3	9	3	933.30
+2003001	exportiimporto #1	9	46	932.88
+5001001	maxicorp #4	17	51	932.58
+9012003	importounivamalg #3	8	39	932.40
+4001001	exportiimporto #2	17	12	932.19
+8010002	univmaxi #2	19	29	931.84
+5002002	importoscholar #2	18	3	931.50
+3004002	edu packexporti #2	17	3	931.38
+2001002	amalgimporto #2	19	7	931.23
+4003001	exportiedu pack #1	8	34	930.96
+2001002	amalgimporto #2	18	14	930.51
+7005010	scholarbrand #10	18	28	930.41
+6015006	scholarbrand #6	19	4	930.28
+3002002	importoexporti #2	18	58	929.74
+9007008	brandmaxi #8	19	18	929.48
+6006003	corpcorp #3	8	18	929.06
+1002001	scholarbrand #4	18	29	928.74
+10003005	corpamalgamalg #6	9	0	928.32
+9007008	brandmaxi #8	18	51	928.25
+6011008	amalgbrand #8	17	31	927.96
+10009008	maxiunivamalg #8	9	28	927.96
+6006004	corpcorp #4	8	11	927.36
+9013008	exportiunivamalg #8	19	40	927.26
+5003002	exportischolar #2	19	46	927.20
+10008004	namelessunivamalg #4	8	30	927.00
+4002002	importoedu pack #2	18	2	926.82
+4003001	exportiedu pack #1	8	0	926.10
+6006006	corpcorp #6	19	40	925.44
+8008003	namelessnameless #3	9	45	924.42
+10007012	brandunivamalg #12	9	12	924.30
+1001002	amalgamalg #2	19	52	923.45
+2003002	exportiimporto #2	9	48	923.40
+5001001	amalgscholar #2	9	53	923.40
+10013013	exportiamalgamalg #13	9	18	923.04
+10008002	namelessunivamalg #2	8	52	922.68
+7013007	exportinameless #7	6	42	921.25
+9016006	corpunivamalg #6	18	49	920.40
+7008006	namelessbrand #6	7	53	920.00
+6001002	amalgcorp #2	18	28	919.60
+7001008	amalgbrand #8	18	58	919.49
+10014014	edu packamalgamalg #14	8	41	918.75
+7013007	exportinameless #7	19	24	918.54
+8008002	namelessnameless #2	18	41	918.34
+8013004	exportimaxi #4	8	12	916.98
+8008009	namelessnameless #9	17	50	916.76
+1003002	exportiamalg #2	9	27	916.64
+4002001	importoedu pack #1	17	19	916.56
+6001007	amalgcorp #7	17	25	915.75
+1003001	exportiedu pack #2	19	25	915.42
+4001001	exportiimporto #2	17	53	915.40
+6008005	edu packmaxi #6	9	10	915.03
+4002001	edu packscholar #2	18	46	914.94
+1002002	importoamalg #2	9	35	914.55
+10016003	corpamalgamalg #3	18	7	914.55
+2002002	importoimporto #2	9	51	914.30
+2002001	importoimporto #1	17	37	913.64
+3002001	namelessunivamalg #15	8	48	913.56
+9011009	amalgunivamalg #9	17	57	913.50
+5002001	amalgamalg #2	17	7	912.92
+6005001	scholarcorp #1	19	37	912.15
+7013002	exportinameless #2	9	30	912.03
+10006017	corpunivamalg #17	18	51	912.00
+8002009	importonameless #9	9	45	911.84
+3004001	edu packexporti #1	8	38	910.80
+6006003	corpcorp #3	18	4	910.78
+8004004	edu packnameless #4	17	9	910.44
+6006002	corpcorp #2	9	59	910.20
+4004001	scholarnameless #4	17	0	910.08
+9004008	edu packmaxi #8	8	49	909.75
+4003001	exportiedu pack #1	8	35	909.45
+6006006	corpcorp #6	9	11	907.92
+9009012	maximaxi #12	19	19	907.53
+2003001	scholarmaxi #12	19	36	907.20
+2001001	amalgimporto #1	8	34	907.11
+8011008	amalgmaxi #8	19	50	905.96
+4001002	amalgedu pack #2	9	40	905.24
+3002002	importoexporti #2	7	52	905.04
+10013002	exportiamalgamalg #2	17	11	905.03
+4002002	importoedu pack #2	9	30	904.71
+6016001	amalgexporti #2	17	38	904.40
+2001001	amalgimporto #1	7	2	904.05
+3002002	importoexporti #2	19	1	904.00
+5003002	exportischolar #2	19	23	902.31
+9012003	importounivamalg #3	19	20	901.25
+3001001	maxibrand #8	19	18	900.99
+1004001	edu packamalg #1	17	1	900.80
+6003003	exporticorp #3	17	16	900.00
+1004001	edu packamalg #1	19	11	899.64
+8008008	namelessnameless #8	7	42	899.46
+6008005	edu packmaxi #6	18	57	899.40
+2001001	amalgimporto #1	6	54	899.13
+9011008	amalgunivamalg #8	19	14	899.00
+6012003	importobrand #3	17	36	898.92
+8002009	importonameless #9	7	41	898.90
+4001001	amalgedu pack #1	19	26	898.84
+7004009	edu packbrand #9	19	38	898.80
+10007004	importoimporto #2	18	12	898.72
+1003001	exportiamalg #1	19	50	897.80
+6005003	scholarcorp #3	17	1	897.75
+8015008	scholarmaxi #8	17	35	897.56
+1003002	exportiamalg #2	17	7	897.41
+10016008	corpamalgamalg #8	19	48	897.23
+1003002	exportiamalg #2	18	14	897.08
+4002001	corpcorp #6	18	53	896.48
+10010017	univamalgamalg #17	17	57	896.28
+5002001	importoscholar #1	6	25	894.96
+10003014	exportiunivamalg #14	17	21	894.78
+3004001	edu packexporti #1	19	25	894.52
+2004001	brandcorp #4	17	8	893.88
+7012009	importonameless #9	8	21	892.58
+8012005	importomaxi #5	7	6	892.50
+7006004	NULL	8	23	892.40
+1004001	edu packamalg #1	8	52	892.17
+4004001	edu packedu pack #1	7	16	892.10
+9005009	scholarmaxi #9	8	20	892.05
+4002002	importoedu pack #2	19	48	891.93
+6016001	corpbrand #1	18	48	891.12
+7001005	amalgbrand #5	9	25	890.24
+7012005	importonameless #5	19	14	889.28
+3003001	exportiexporti #1	18	58	889.14
+2004001	edu packimporto #1	17	46	889.02
+1004001	edu packscholar #2	19	44	888.93
+1002001	importoamalg #1	18	1	888.49
+9016008	corpunivamalg #8	18	35	888.30
+5004002	edu packscholar #2	17	46	888.12
+4002001	importoscholar #2	19	55	887.60
+10007004	brandunivamalg #4	19	9	886.90
+4004002	edu packedu pack #2	7	13	886.22
+1003002	exportiamalg #2	18	58	886.14
+6016003	corpbrand #3	19	44	885.36
+2003002	exportiimporto #2	9	24	884.80
+8005009	scholarnameless #9	17	52	882.57
+9013009	exportiunivamalg #9	17	19	882.24
+10008002	namelessunivamalg #2	9	22	881.64
+4002002	importoedu pack #2	17	35	881.43
+9013012	exportiunivamalg #12	17	18	881.25
+10010004	univamalgamalg #4	19	15	880.85
+2001001	corpbrand #10	18	25	880.80
+10004005	importounivamalg #6	17	48	880.74
+6012003	importobrand #3	7	10	880.36
+9015003	scholarunivamalg #3	19	7	879.52
+7001009	amalgbrand #9	18	14	879.30
+2004001	brandcorp #4	17	30	879.00
+6006002	corpcorp #2	9	24	878.79
+7016001	corpnameless #1	19	23	878.43
+10006003	corpunivamalg #3	18	49	878.28
+9011008	amalgunivamalg #8	18	32	877.83
+8008004	namelessnameless #4	18	59	877.20
+8008003	namelessnameless #3	17	49	877.02
+6016003	corpbrand #3	18	46	876.75
+6005005	maxibrand #10	19	11	876.48
+4003002	exportiedu pack #2	17	9	875.84
+3002002	importoexporti #2	18	17	873.36
+8007010	brandnameless #10	17	57	873.27
+9001008	amalgmaxi #8	19	7	873.18
+1004001	edu packamalg #1	9	43	873.12
+10009006	maxiunivamalg #6	9	20	872.52
+3001002	amalgexporti #2	9	39	872.44
+5001001	edu packexporti #2	17	47	872.40
+10016003	corpamalgamalg #3	9	48	872.40
+8010001	univmaxi #1	18	32	871.15
+6012004	importobrand #4	9	37	871.08
+10014003	edu packamalgamalg #3	9	2	870.58
+7009009	maxibrand #9	17	57	870.32
+4004002	edu packedu pack #2	17	34	870.02
+1001002	amalgamalg #2	17	17	869.74
+1004002	edu packamalg #2	17	10	869.44
+6011003	importobrand #4	19	5	869.06
+3001001	amalgexporti #1	19	34	868.38
+10014016	edu packamalgamalg #16	19	37	868.25
+10008012	namelessunivamalg #12	19	58	868.14
+10016002	corpamalgamalg #2	19	2	867.90
+6003008	exporticorp #8	8	16	867.68
+8016006	corpmaxi #6	18	42	867.60
+4004001	edu packedu pack #1	18	36	867.02
+3002001	importoexporti #1	8	57	866.52
+3003002	exportiexporti #2	9	43	866.40
+5004002	edu packscholar #2	18	32	866.32
+3003002	exportiexporti #2	18	22	865.92
+4002002	importoedu pack #2	7	3	865.64
+1001002	amalgamalg #2	17	4	865.36
+1001002	amalgamalg #2	9	46	864.90
+1001002	amalgamalg #2	8	26	863.55
+2003001	scholarmaxi #12	6	19	862.84
+1001001	univamalgamalg #16	6	40	862.55
+9012003	importounivamalg #3	8	3	862.40
+6003008	exporticorp #8	19	48	861.98
+2003001	exportiimporto #1	18	25	861.18
+6008007	namelesscorp #7	17	2	859.28
+10010006	univamalgamalg #6	8	48	858.66
+5001002	amalgscholar #2	9	10	858.55
+2004002	edu packimporto #2	8	33	858.24
+7004008	edu packbrand #8	19	23	857.85
+7009010	maxibrand #10	9	17	857.82
+1004002	edu packamalg #2	19	44	857.54
+4001001	amalgedu pack #1	19	24	857.40
+3003001	exportiexporti #1	17	30	857.29
+6004002	edu packcorp #2	18	4	857.20
+7004009	edu packbrand #9	17	4	856.80
+8016010	corpmaxi #10	9	4	856.64
+4004001	corpamalgamalg #8	9	36	856.36
+1002002	importoamalg #2	18	34	856.26
+2001002	amalgimporto #2	18	13	855.36
+6003008	exporticorp #8	19	3	855.36
+6012008	importobrand #8	9	37	855.36
+8003010	exportinameless #10	17	19	854.10
+10008015	namelessunivamalg #15	17	59	853.38
+9014006	edu packunivamalg #6	7	39	851.40
+2003002	exportiimporto #2	17	39	851.14
+9016003	corpunivamalg #3	18	0	850.40
+2002002	importoimporto #2	8	45	849.84
+5004002	edu packscholar #2	18	36	849.52
+9006002	corpmaxi #2	6	1	848.70
+1001002	amalgamalg #2	8	47	848.12
+4003001	corpcorp #2	9	55	847.96
+5001001	scholarunivamalg #8	17	13	847.96
+2004001	brandcorp #4	17	14	847.32
+9004003	edu packmaxi #3	19	43	847.10
+9001008	amalgmaxi #8	17	44	847.00
+6015008	scholarbrand #8	18	8	846.72
+1004001	edu packamalg #1	19	57	846.45
+10006003	corpunivamalg #3	18	35	846.07
+3004002	edu packexporti #2	19	43	846.00
+4003001	exportischolar #2	19	13	845.60
+4002001	importoscholar #2	19	44	845.16
+4004001	edu packedu pack #1	17	17	844.36
+7010008	univnameless #8	17	38	844.20
+10006016	corpunivamalg #16	18	56	843.92
+1001001	brandnameless #8	18	16	843.18
+3003002	exportiexporti #2	19	25	843.05
+6011008	amalgbrand #8	19	16	842.80
+8005006	scholarnameless #6	17	1	841.82
+3002001	importoexporti #1	18	37	841.70
+1003001	exportiamalg #1	19	8	841.47
+10016003	corpamalgamalg #3	8	58	841.20
+6001007	amalgcorp #7	19	21	840.72
+9004008	edu packmaxi #8	18	41	840.64
+6011008	amalgbrand #8	9	34	840.50
+2003002	exportiimporto #2	17	51	840.42
+2004002	edu packimporto #2	18	18	840.22
+7013002	exportinameless #2	9	35	839.25
+1003002	exportiamalg #2	17	45	839.19
+3003002	exportiexporti #2	17	28	839.10
+3002001	importoexporti #1	19	38	839.09
+3002002	importoexporti #2	9	5	839.04
+9011008	amalgunivamalg #8	17	31	838.80
+5001001	brandunivamalg #11	18	9	838.19
+5004002	edu packscholar #2	8	24	837.76
+4004001	edu packscholar #2	6	37	837.49
+3002001	importoexporti #1	18	59	837.20
+7012001	scholarcorp #6	19	5	837.10
+7005007	scholarbrand #7	18	7	837.00
+7012001	amalgamalgamalg #2	18	38	836.94
+4001001	exportiexporti #2	17	29	836.64
+10012005	importoamalgamalg #5	9	59	836.34
+9007005	maxinameless #10	18	11	835.92
+7016006	corpnameless #6	19	1	835.76
+4001001	amalgedu pack #1	9	36	835.02
+10015001	scholaramalgamalg #1	17	33	834.96
+7006008	corpbrand #8	9	8	834.20
+1001001	amalgamalg #1	19	37	833.70
+7016001	amalgamalg #2	8	52	833.10
+10009013	maxiunivamalg #13	8	42	832.87
+2003002	exportiimporto #2	17	32	832.86
+9016009	corpunivamalg #9	17	29	832.81
+3003002	exportiexporti #2	19	52	831.34
+10007004	importoimporto #2	18	9	831.06
+9010009	univunivamalg #9	7	20	830.48
+5002001	exporticorp #4	8	34	829.94
+10010013	univamalgamalg #13	9	55	829.26
+4003001	exportiedu pack #1	9	47	829.16
+9015003	scholarunivamalg #3	17	1	828.75
+5004001	scholarnameless #6	7	16	828.48
+10015009	scholaramalgamalg #9	17	49	827.86
+3001001	amalgexporti #1	17	53	827.82
+9015003	scholarunivamalg #3	8	56	827.82
+3003001	exportiexporti #1	17	23	827.61
+8004001	importonameless #2	7	12	827.52
+6010005	univbrand #5	18	31	826.88
+7010004	univnameless #4	8	43	826.70
+5001002	amalgscholar #2	17	39	826.54
+2003001	exportiimporto #1	7	40	826.15
+7010004	univnameless #4	9	40	825.52
+4003002	exportiedu pack #2	9	9	825.28
+8004009	edu packnameless #9	6	1	825.24
+8015008	scholarmaxi #8	18	1	825.00
+1003002	exportiamalg #2	9	14	824.88
+9013009	exportiunivamalg #9	9	38	824.45
+1003002	exportiamalg #2	9	1	823.24
+1003002	exportiamalg #2	9	37	823.08
+6001007	amalgcorp #7	8	30	822.96
+3004002	edu packexporti #2	19	24	822.40
+8005005	scholarnameless #5	17	14	821.99
+2003002	exportiimporto #2	17	9	821.36
+7009010	maxibrand #10	9	14	821.24
+3002002	importoexporti #2	18	13	820.80
+3001002	amalgexporti #2	19	2	819.92
+8008003	namelessnameless #3	9	5	819.75
+2001002	amalgimporto #2	7	23	819.45
+7009005	maxibrand #5	7	27	819.39
+7015009	scholarnameless #9	17	21	819.18
+10015013	scholaramalgamalg #13	17	46	818.80
+10015005	scholaramalgamalg #5	18	30	818.70
+9016008	corpunivamalg #8	18	12	817.76
+1001001	amalgamalg #1	8	49	817.60
+6010006	univbrand #6	9	23	817.08
+7012009	importonameless #9	19	18	817.08
+5004001	edu packscholar #1	17	15	816.68
+1001002	amalgamalg #2	9	53	816.65
+10016001	corpamalgamalg #1	19	46	815.64
+2004002	edu packimporto #2	19	3	815.10
+6009008	maxicorp #8	19	53	813.67
+6002008	importocorp #8	19	13	813.12
+8005008	scholarnameless #8	9	46	812.91
+4002001	importoedu pack #1	9	43	812.52
+8004001	edu packnameless #1	18	26	812.36
+2002002	importoimporto #2	9	50	811.84
+1003001	exportiamalg #1	18	35	811.80
+2004002	edu packimporto #2	19	11	810.42
+2001001	corpbrand #10	17	56	810.16
+9001008	amalgmaxi #8	17	5	809.97
+5002002	importoscholar #2	17	58	809.48
+2001002	amalgimporto #2	17	29	808.17
+2004001	edu packimporto #1	8	1	808.17
+1001001	amalgamalg #1	7	27	807.84
+2003001	scholarmaxi #12	19	24	807.71
+7001008	amalgbrand #8	17	47	807.40
+7012010	importonameless #10	19	45	806.40
+2002002	importoimporto #2	8	3	806.00
+7013002	exportinameless #2	8	0	804.65
+10003005	corpamalgamalg #6	8	9	804.00
+8008008	namelessnameless #8	17	38	803.88
+8014009	edu packamalg #2	9	58	803.62
+4003001	exportiedu pack #1	9	37	803.00
+4002001	importoedu pack #1	19	20	802.80
+1004002	edu packamalg #2	19	41	802.64
+10005010	scholarunivamalg #10	18	30	802.59
+10015017	scholaramalgamalg #17	9	45	802.50
+2004002	edu packimporto #2	17	20	802.37
+2004002	edu packimporto #2	18	52	801.28
+8015007	scholarmaxi #7	9	6	801.02
+8015003	importoamalg #2	17	32	800.25
+4001001	importobrand #2	9	30	799.76
+1003002	exportiamalg #2	17	27	799.68
+7004008	edu packbrand #8	8	52	799.18
+2004001	edu packimporto #1	9	20	798.04
+6014006	edu packbrand #6	17	12	797.85
+7005006	scholarbrand #6	17	36	797.63
+10002009	importounivamalg #9	19	43	796.24
+5001001	exportinameless #8	17	36	795.84
+4002002	importoedu pack #2	9	15	795.78
+7015007	scholarnameless #7	8	23	795.40
+2002001	importoimporto #1	7	21	795.36
+1001002	amalgamalg #2	9	41	795.34
+1004002	edu packamalg #2	17	59	794.49
+1003002	exportiamalg #2	18	20	794.30
+7008006	namelessbrand #6	19	42	794.22
+5001001	amalgscholar #1	19	13	793.50
+2003002	exportiimporto #2	8	13	792.88
+3001002	amalgexporti #2	19	7	792.00
+6011003	amalgbrand #3	19	32	792.00
+4002001	importoedu pack #1	17	41	791.52
+8010003	namelessunivamalg #5	17	53	791.52
+8009009	maxinameless #9	9	37	791.48
+7005006	scholarbrand #6	19	24	791.40
+8001001	amalgnameless #1	19	39	791.21
+8010004	univmaxi #4	17	1	790.54
+7016010	corpnameless #10	19	11	789.46
+6016006	corpbrand #6	9	57	788.94
+10014014	edu packamalgamalg #14	9	18	788.12
+2002001	importoimporto #1	17	56	787.32
+4003001	exportiedu pack #1	17	18	787.00
+10016002	corpamalgamalg #2	18	8	786.90
+7014001	edu packnameless #1	8	54	786.70
+5002002	importoscholar #2	8	6	786.60
+7007004	brandbrand #4	17	43	786.04
+9014002	edu packunivamalg #2	8	18	786.00
+1001001	univamalgamalg #16	17	57	785.88
+4003002	exportiedu pack #2	18	28	785.70
+5003001	exportischolar #1	8	37	785.70
+2004001	edu packcorp #8	19	3	785.32
+8001004	amalgnameless #4	7	19	785.20
+5003001	exportischolar #1	19	29	785.15
+1003002	exportiamalg #2	6	33	784.20
+9002008	importomaxi #8	8	7	784.10
+1003001	brandbrand #6	17	27	784.00
+5001001	maxicorp #4	17	52	783.99
+1003001	brandbrand #6	8	56	783.89
+4003001	amalgexporti #2	17	20	783.44
+6001002	amalgcorp #2	17	37	782.76
+3003002	exportiexporti #2	7	37	782.13
+6013006	exportibrand #6	19	23	782.08
+5004002	edu packscholar #2	9	1	781.10
+8005005	importonameless #6	9	57	781.04
+8001009	amalgamalg #2	8	22	780.90
+2003002	exportiimporto #2	17	15	780.29
+10011009	amalgamalgamalg #9	17	2	780.29
+1002002	importoamalg #2	17	45	780.00
+6006002	corpcorp #2	18	52	779.58
+5004001	scholarnameless #6	7	11	778.94
+6005008	scholarcorp #8	7	50	778.41
+7006004	NULL	17	16	778.24
+8005008	scholarnameless #8	6	20	777.92
+1002001	importoamalg #1	7	4	777.78
+9013008	exportiunivamalg #8	18	21	777.75
+2004001	corpmaxi #8	19	25	777.70
+10006009	corpunivamalg #9	17	59	777.60
+9002008	importomaxi #8	9	34	777.40
+10008015	namelessunivamalg #15	17	40	776.30
+5001001	amalgscholar #1	18	40	776.10
+10007004	importoimporto #2	19	24	775.94
+10007012	brandunivamalg #12	18	43	774.87
+2003002	exportiimporto #2	8	29	774.75
+2001002	amalgimporto #2	17	31	774.41
+7005007	scholarbrand #7	9	13	774.20
+6004007	edu packscholar #2	19	22	773.43
+7011008	amalgnameless #8	19	36	773.24
+9016003	corpunivamalg #3	17	37	772.80
+10015001	scholaramalgamalg #1	18	40	771.88
+10003005	corpamalgamalg #6	19	26	771.75
+2004001	edu packcorp #8	9	41	771.72
+3002002	importoexporti #2	19	55	771.22
+9016006	corpunivamalg #6	19	41	771.12
+10008002	namelessunivamalg #2	18	12	770.95
+2004002	edu packimporto #2	8	55	770.40
+8003007	edu packnameless #8	17	31	769.92
+7013001	exportinameless #1	19	56	769.60
+6014005	edu packamalgamalg #8	8	44	769.56
+7006009	corpbrand #9	8	13	769.50
+5002001	exportibrand #8	8	8	769.46
+7006001	corpbrand #1	8	6	769.30
+3001002	amalgexporti #2	18	29	768.30
+5003001	importoedu pack #2	18	27	767.28
+10009013	maxiunivamalg #13	6	43	766.00
+9011008	amalgunivamalg #8	17	11	765.90
+10016003	corpamalgamalg #3	18	21	765.38
+4004002	edu packedu pack #2	8	43	764.66
+8008002	namelessnameless #2	8	46	764.61
+7006004	NULL	8	35	764.40
+10008009	namelessunivamalg #9	9	2	764.40
+2001001	importoimporto #2	7	38	763.83
+7009009	maxibrand #9	19	44	763.44
+2003001	exportiimporto #1	18	49	763.11
+7002010	importobrand #10	17	48	763.02
+9001005	importoedu pack #2	6	24	763.00
+9013009	exportiunivamalg #9	19	15	762.93
+3003001	exportiexporti #1	9	11	762.68
+1001001	amalgamalg #1	19	7	762.30
+1003001	exportiamalg #1	7	21	761.04
+8008003	namelessnameless #3	19	51	760.92
+8005003	scholarnameless #3	6	8	760.56
+3002001	importoexporti #1	17	59	760.00
+5003001	exportischolar #1	9	46	759.92
+7008009	namelessbrand #9	9	19	759.85
+7010001	univnameless #1	17	58	759.78
+8005009	scholarnameless #9	9	9	759.61
+7007010	brandbrand #10	17	48	759.36
+5001001	amalgscholar #1	8	8	759.08
+3001001	amalgexporti #1	9	38	758.55
+7012009	importonameless #9	8	4	758.11
+7015002	scholarnameless #2	18	11	757.75
+5003001	exportischolar #1	18	37	757.68
+8015006	scholarmaxi #6	6	55	757.68
+4004002	edu packedu pack #2	17	9	757.62
+3003002	exportiexporti #2	9	19	757.56
+7012010	importonameless #10	19	33	757.50
+4003001	edu packamalg #2	8	52	757.35
+4003001	exportiedu pack #1	18	39	756.45
+1003002	exportiamalg #2	19	20	756.00
+10004017	edu packunivamalg #17	18	39	755.94
+5004002	edu packscholar #2	19	21	755.82
+10016013	corpamalgamalg #13	18	35	754.65
+7006009	corpbrand #9	6	10	754.11
+6009008	maxicorp #8	18	4	754.06
+7008009	namelessbrand #9	8	9	754.00
+5004002	edu packscholar #2	17	38	753.95
+10008009	namelessunivamalg #9	8	39	753.88
+6015004	scholarbrand #4	9	10	753.84
+1004001	edu packamalg #1	19	49	753.13
+5002001	exporticorp #4	18	6	752.72
+6016001	amalgexporti #2	19	52	752.64
+7005010	scholarbrand #10	19	11	752.50
+9011009	amalgunivamalg #9	17	30	752.24
+3001002	amalgexporti #2	19	39	751.84
+1004002	edu packamalg #2	17	43	751.15
+8012004	importomaxi #4	9	43	751.08
+4003002	exportiedu pack #2	9	55	750.75
+3003002	exportiexporti #2	17	5	750.34
+3002001	importoexporti #1	19	24	750.30
+4002001	scholarmaxi #6	17	4	750.12
+10008004	namelessunivamalg #4	17	27	750.03
+3004001	edu packexporti #1	19	37	749.80
+6005001	scholarcorp #1	9	40	749.58
+1004001	importounivamalg #12	17	47	749.36
+9014002	edu packunivamalg #2	18	43	749.10
+9003008	exportimaxi #8	17	20	748.92
+6016006	corpbrand #6	18	34	748.88
+7015002	scholarnameless #2	8	41	748.88
+1001001	amalgunivamalg #13	17	52	748.48
+8003002	exportinameless #2	18	14	748.34
+6001001	amalgcorp #1	17	1	748.32
+1004001	edu packamalg #1	9	9	747.84
+3001001	amalgexporti #1	9	23	747.67
+7005007	scholarbrand #7	19	50	747.36
+9015003	scholarunivamalg #3	7	24	747.36
+4002001	importoedu pack #1	17	20	746.96
+10016003	corpamalgamalg #3	17	8	746.79
+7016001	corpnameless #1	17	59	746.38
+2002002	importoimporto #2	17	34	745.92
+6009007	importoscholar #2	18	1	745.50
+7016001	corpnameless #1	17	53	745.36
+2004001	edu packunivamalg #8	9	36	745.18
+10008015	namelessunivamalg #15	6	29	744.70
+1003002	exportiamalg #2	19	40	744.40
+9004008	edu packmaxi #8	19	7	743.24
+6016003	corpbrand #3	17	44	743.20
+6016005	corpbrand #5	19	29	742.80
+7015002	scholarnameless #2	9	27	742.72
+10010013	univamalgamalg #13	9	2	742.72
+6015006	scholarbrand #6	9	56	741.83
+8008007	namelessnameless #7	17	29	741.76
+8003007	edu packnameless #8	17	37	741.75
+2003002	exportiimporto #2	9	59	741.60
+10003016	exportiunivamalg #16	17	38	741.20
+10007015	brandunivamalg #15	19	59	740.88
+2001001	amalgimporto #1	17	10	739.11
+1003001	exportiedu pack #2	9	7	738.72
+4004001	scholarnameless #4	19	57	738.56
+10007005	brandunivamalg #5	18	36	738.24
+6008005	edu packmaxi #6	19	30	737.49
+8012005	importomaxi #5	17	19	736.84
+8008003	namelessnameless #3	9	0	736.46
+9016006	corpunivamalg #6	19	35	736.28
+5002001	amalgamalgamalg #12	6	40	735.01
+3004002	edu packexporti #2	9	43	735.00
+2001001	amalgimporto #1	19	26	734.55
+1001001	amalgamalg #1	19	45	734.38
+10008002	namelessunivamalg #2	19	55	734.14
+9015009	scholarunivamalg #9	18	13	733.36
+3001002	amalgexporti #2	19	22	732.95
+10016016	corpamalgamalg #16	8	21	731.86
+10011013	amalgunivamalg #6	17	29	731.76
+7007005	exportiamalg #2	17	49	731.38
+4004002	edu packedu pack #2	18	48	730.08
+2002002	importoimporto #2	9	19	729.95
+3004002	edu packexporti #2	7	56	729.56
+6005007	scholarcorp #7	18	59	729.45
+6011008	amalgbrand #8	18	5	728.60
+9002003	importomaxi #3	18	20	728.28
+1002002	importoamalg #2	9	9	727.56
+3003002	exportiexporti #2	18	4	727.35
+10009013	exportibrand #6	8	7	726.18
+1004001	edu packamalg #1	19	35	725.76
+10012004	importoamalgamalg #4	9	42	725.76
+7009009	exportibrand #10	9	19	725.42
+7004004	edu packbrand #4	17	42	725.21
+1003001	exportiamalg #1	17	50	725.12
+1001002	amalgamalg #2	18	31	724.79
+4003001	amalgexporti #2	17	48	724.57
+9003008	exportimaxi #8	9	58	724.56
+2002001	importoimporto #1	17	49	724.50
+10016002	corpamalgamalg #2	17	10	724.05
+2001001	amalgimporto #1	8	28	723.20
+10012004	importoamalgamalg #4	17	53	722.24
+9007005	maxinameless #10	18	18	720.96
+6009007	importoscholar #2	18	54	720.86
+9001003	amalgmaxi #3	17	53	720.00
+4002001	importoscholar #2	17	38	719.95
+1001002	amalgamalg #2	19	54	719.59
+1001002	amalgamalg #2	17	39	719.51
+3002002	importoexporti #2	17	7	719.10
+5003002	exportischolar #2	19	3	718.96
+6007007	brandcorp #7	8	11	718.08
+6014002	edu packbrand #2	7	55	717.99
+3003002	exportiexporti #2	19	22	717.75
+4003001	amalgexporti #2	9	15	717.60
+10012005	importoamalgamalg #5	17	35	717.36
+7006004	NULL	17	42	717.34
+4003002	exportiedu pack #2	18	10	717.08
+10005010	scholarunivamalg #10	17	54	716.88
+3002002	importoexporti #2	6	19	716.73
+4002002	importoedu pack #2	17	58	716.73
+1003002	exportiamalg #2	18	52	716.52
+2001002	amalgimporto #2	18	58	716.52
+4004002	edu packedu pack #2	17	55	716.26
+6007007	brandcorp #7	9	36	715.56
+6013002	exportibrand #2	18	21	715.36
+2001002	amalgimporto #2	18	48	715.35
+1001002	amalgamalg #2	7	5	715.26
+9014002	edu packunivamalg #2	17	21	714.89
+5003001	exportischolar #1	17	0	714.88
+1004001	edu packamalg #1	9	36	714.85
+1004001	edu packamalg #1	7	33	714.84
+5001002	amalgscholar #2	18	19	714.67
+1002001	importoamalg #1	9	7	714.60
+7013001	exportinameless #1	17	49	714.60
+1004001	importounivamalg #12	19	13	714.31
+1004001	edu packamalg #1	17	0	714.00
+3002002	importoexporti #2	19	25	713.58
+4004001	edu packscholar #2	19	8	712.80
+8016003	corpmaxi #3	19	7	712.62
+9013012	exportiunivamalg #12	8	24	712.56
+3003002	exportiexporti #2	18	33	712.07
+7015009	scholarnameless #9	19	23	711.45
+6010004	univbrand #4	17	23	711.22
+5001001	amalgscholar #1	18	50	710.98
+5001001	scholarunivamalg #8	19	19	709.65
+8010009	univmaxi #9	19	8	708.75
+7011008	amalgnameless #8	18	25	708.60
+10016016	corpamalgamalg #16	18	36	708.40
+6001007	amalgcorp #7	19	12	708.04
+7003005	exportiedu pack #2	17	22	708.04
+1001001	namelessunivamalg #4	18	53	707.84
+6009007	importoscholar #2	8	35	707.56
+3003001	exportiexporti #1	19	21	707.25
+10009008	maxiunivamalg #8	18	40	706.72
+5002001	importoscholar #1	8	39	706.64
+9016008	corpunivamalg #8	8	12	706.52
+2003002	exportiimporto #2	19	19	706.25
+4002001	importoedu pack #1	9	54	705.19
+2001002	amalgimporto #2	9	13	704.70
+9002003	importomaxi #3	9	25	704.50
+10014001	maxibrand #4	8	0	704.11
+2002002	importoimporto #2	17	8	703.08
+9012005	univbrand #2	9	9	703.00
+1004001	exportiunivamalg #12	9	35	702.99
+2004001	importoexporti #2	19	42	702.96
+1002002	importoamalg #2	17	30	702.00
+1001002	amalgamalg #2	6	6	701.48
+2004001	importoexporti #2	18	14	701.22
+6015008	scholarbrand #8	8	49	700.80
+1001001	amalgamalg #1	17	23	700.40
+2004001	corpmaxi #8	17	0	699.93
+4003002	exportiedu pack #2	9	44	699.93
+5001002	amalgscholar #2	17	3	699.89
+10014001	edu packamalgamalg #1	17	43	699.77
+5001001	amalgbrand #8	19	17	699.53
+4001001	amalgedu pack #1	18	14	699.52
+10005001	scholarunivamalg #1	19	16	699.21
+2002002	importoimporto #2	8	52	699.20
+9005009	scholarmaxi #9	18	49	699.20
+9011008	amalgunivamalg #8	17	51	698.88
+6001007	amalgcorp #7	19	27	698.70
+1003001	exportiamalg #1	6	55	697.29
+10004005	importounivamalg #6	17	25	697.13
+1004001	edu packscholar #2	18	34	696.54
+6016006	corpbrand #6	9	8	695.98
+10002014	importounivamalg #14	19	46	695.88
+5001001	amalgbrand #8	9	56	695.52
+4001002	amalgedu pack #2	17	48	694.28
+1002002	importoamalg #2	18	33	693.72
+4004001	importoscholar #2	19	32	692.78
+6004004	edu packcorp #4	9	52	692.30
+1004001	edu packimporto #2	8	37	692.18
+4002001	scholarmaxi #6	19	4	691.60
+1004002	edu packamalg #2	18	4	691.31
+5001002	amalgscholar #2	19	32	691.25
+4003002	exportiedu pack #2	19	22	691.20
+7006001	corpbrand #1	19	33	691.16
+5004002	edu packscholar #2	17	20	691.14
+3001001	amalgexporti #1	17	17	691.00
+1003001	exportiamalg #1	18	55	690.50
+10008013	namelessunivamalg #13	19	23	690.20
+7014008	edu packnameless #8	9	40	689.20
+10010001	univamalgamalg #1	9	32	689.04
+8003009	exportinameless #9	8	49	688.84
+10003016	exportiunivamalg #16	18	19	688.80
+8008004	namelessnameless #4	19	41	687.04
+7003005	exportiedu pack #2	19	36	686.70
+2001001	amalgimporto #1	7	57	686.49
+6009002	maxicorp #2	6	24	686.40
+3004001	edu packexporti #1	18	50	686.17
+1003002	exportiamalg #2	19	34	686.10
+9003008	exportimaxi #8	18	44	686.00
+10016016	corpamalgamalg #16	7	25	685.96
+2001002	amalgimporto #2	7	37	685.95
+5002001	importoscholar #1	19	37	685.61
+2001002	amalgimporto #2	9	11	684.76
+7001009	amalgbrand #9	18	52	684.60
+10003011	exportiunivamalg #11	17	18	684.41
+2001002	amalgimporto #2	6	39	684.00
+3004001	edu packexporti #1	8	31	683.94
+1003002	exportiamalg #2	8	58	683.28
+6006002	corpcorp #2	9	18	683.27
+5001002	amalgscholar #2	7	29	683.20
+2002002	importoimporto #2	9	42	682.50
+9009006	maximaxi #6	17	53	682.50
+10009001	maxiunivamalg #1	17	52	682.38
+1002001	importoamalg #1	9	10	681.72
+3004002	edu packexporti #2	17	45	681.24
+9016008	corpunivamalg #8	8	32	681.21
+8005005	importonameless #6	18	54	680.96
+10006009	corpunivamalg #9	18	14	680.35
+1003001	namelessunivamalg #12	8	17	678.24
+9012011	importoamalg #2	18	12	677.88
+10003004	exportiunivamalg #4	9	45	677.71
+6001002	amalgcorp #2	18	42	677.40
+7001008	amalgbrand #8	9	29	677.25
+2004002	edu packimporto #2	19	12	676.89
+10004015	edu packunivamalg #15	18	6	676.80
+7012005	importonameless #5	17	30	676.32
+6011002	amalgbrand #2	18	0	676.26
+9004008	edu packmaxi #8	9	16	675.22
+10012004	importoamalgamalg #4	9	32	674.56
+3003001	exportiexporti #1	19	9	674.10
+5002001	exportibrand #8	9	10	673.88
+1004001	edu packscholar #2	19	30	673.73
+3004001	edu packexporti #1	9	59	673.22
+6016003	corpbrand #3	19	24	672.98
+2002001	importoimporto #1	18	36	672.32
+9015009	scholarunivamalg #9	8	42	672.00
+2002001	importoimporto #1	7	29	671.97
+8010006	univmaxi #6	17	18	671.22
+1003002	exportiamalg #2	9	8	670.86
+10002009	importounivamalg #9	18	46	670.60
+5003002	exportischolar #2	7	0	670.39
+8007008	brandnameless #8	18	10	669.70
+7009005	maxibrand #5	9	12	669.53
+3003001	exportiexporti #1	18	11	669.48
+7008006	namelessbrand #6	9	37	668.99
+7008006	namelessbrand #6	9	30	668.98
+9007009	brandmaxi #9	8	17	668.71
+8003004	exportinameless #4	18	33	668.34
+3004001	edu packexporti #1	18	10	668.22
+8003004	exportinameless #4	17	49	668.22
+6012002	importobrand #2	18	37	667.10
+3003002	exportiexporti #2	18	8	666.24
+8008007	namelessnameless #7	19	18	666.12
+1001001	univamalgamalg #16	17	11	665.98
+7012005	importonameless #5	17	21	665.91
+1001001	amalgamalg #1	17	48	665.60
+1003001	exportiamalg #1	17	41	665.50
+10006017	corpunivamalg #17	9	33	663.90
+8006009	corpnameless #9	17	15	663.75
+1004002	edu packamalg #2	19	20	663.46
+10012004	importoamalgamalg #4	8	26	663.34
+6012004	importobrand #4	17	51	663.30
+8008004	namelessnameless #4	18	13	663.04
+1004001	edu packamalg #1	7	55	659.94
+6012003	importobrand #3	8	7	659.85
+10016003	corpamalgamalg #3	18	45	658.61
+8011007	amalgmaxi #7	18	44	658.58
+6008002	namelesscorp #2	9	12	658.02
+10009013	maxiunivamalg #13	17	26	658.00
+3003001	exportiexporti #1	19	17	657.72
+1004002	edu packamalg #2	18	10	657.60
+6009002	maxicorp #2	19	28	657.40
+9016008	corpunivamalg #8	17	42	657.36
+4002002	importoedu pack #2	17	34	657.28
+10003006	exportiunivamalg #6	9	36	657.02
+7013002	exportinameless #2	18	53	656.37
+6004004	edu packcorp #4	18	23	656.32
+5004001	edu packscholar #1	17	34	656.00
+9014002	edu packunivamalg #2	8	6	655.60
+2001001	amalgamalg #2	17	16	655.29
+1004001	edu packamalg #1	8	7	655.14
+9015002	scholarunivamalg #2	19	38	655.12
+1001001	exportiexporti #2	9	41	654.91
+1001001	amalgamalg #1	18	37	654.80
+6015007	scholarbrand #7	9	1	654.75
+8009009	maxinameless #9	17	46	654.00
+3001001	amalgexporti #1	6	33	653.95
+4003002	exportiedu pack #2	18	48	653.80
+8003003	exportinameless #3	9	2	653.76
+10016013	corpamalgamalg #13	17	28	653.64
+2001002	amalgimporto #2	19	17	653.18
+2004002	edu packimporto #2	8	0	652.91
+7006004	NULL	9	5	652.88
+8014005	edu packmaxi #5	18	41	652.46
+7013002	exportinameless #2	17	30	652.41
+7002010	importobrand #10	8	55	652.25
+6014002	edu packbrand #2	19	49	652.08
+8009009	maxinameless #9	19	11	651.84
+3002002	importoexporti #2	6	23	651.42
+3003001	exportiexporti #1	18	46	651.00
+6015008	scholarbrand #8	8	51	650.07
+3002001	univamalgamalg #6	18	54	649.98
+3004002	edu packexporti #2	19	15	649.44
+4004001	importoscholar #2	17	32	649.44
+1004002	edu packamalg #2	19	14	649.35
+8015008	scholarmaxi #8	18	4	648.89
+6009007	maxicorp #7	9	47	648.54
+3002002	importoexporti #2	17	23	648.51
+10011014	amalgamalgamalg #14	17	48	647.28
+7005010	scholarbrand #10	19	3	647.21
+8009009	maxinameless #9	17	20	647.04
+1003001	exportiamalg #1	18	9	647.01
+5004002	edu packscholar #2	8	14	646.85
+10004005	importounivamalg #6	8	47	646.80
+4004001	corpamalgamalg #8	8	32	646.14
+2004002	edu packimporto #2	8	27	646.07
+10006017	corpunivamalg #17	19	14	646.02
+1003001	brandbrand #6	19	34	645.84
+1003002	exportiamalg #2	18	6	645.60
+1003001	exportiamalg #1	9	47	645.54
+2001002	amalgimporto #2	19	37	645.19
+1001001	amalgamalg #1	9	3	644.59
+4004002	edu packedu pack #2	6	36	643.87
+7001009	amalgbrand #9	9	5	643.84
+7013009	exportinameless #9	17	46	643.25
+4001002	amalgedu pack #2	18	24	642.62
+4004001	edu packedu pack #1	9	38	642.60
+9001008	amalgmaxi #8	17	48	642.25
+5002002	importoscholar #2	9	24	642.06
+10014010	edu packamalgamalg #10	18	50	641.60
+4001001	amalgedu pack #1	19	46	640.90
+3002001	importoexporti #1	18	42	640.21
+9016003	corpunivamalg #3	17	10	639.94
+3002001	amalgexporti #2	6	46	639.63
+6012002	importobrand #2	9	24	639.16
+4003002	exportiedu pack #2	9	57	639.00
+8008004	namelessnameless #4	17	17	639.00
+3003002	exportiexporti #2	17	49	638.96
+8010001	univamalgamalg #5	9	17	638.48
+10002011	importounivamalg #11	9	51	638.44
+7005010	scholarbrand #10	17	19	637.98
+6016008	corpbrand #8	9	18	637.92
+9006009	corpmaxi #9	17	7	637.32
+7007010	brandbrand #10	9	13	637.20
+6010006	univbrand #6	9	3	636.75
+10009008	maxiunivamalg #8	17	23	636.58
+4003002	exportiedu pack #2	9	40	636.55
+7012010	importonameless #10	17	3	636.48
+8012010	importomaxi #10	9	27	636.48
+8010009	univmaxi #9	8	21	635.36
+1002002	importoamalg #2	8	28	635.04
+4004002	edu packedu pack #2	19	49	634.80
+9011008	amalgunivamalg #8	18	17	634.50
+2004001	exportimaxi #8	7	41	634.40
+2004002	edu packimporto #2	19	53	634.23
+7007004	brandbrand #4	9	17	633.88
+10008002	namelessunivamalg #2	7	57	633.84
+4002001	importoedu pack #1	17	6	633.36
+3001002	amalgexporti #2	7	43	632.61
+9010009	univunivamalg #9	17	38	632.32
+8004004	edu packnameless #4	19	41	632.19
+6009003	maxicorp #3	18	7	632.17
+3002001	maxibrand #4	8	20	631.74
+5003001	exportischolar #1	19	40	631.40
+2001001	importoimporto #2	8	9	630.99
+8002009	importonameless #9	18	33	630.89
+6011002	amalgbrand #2	18	2	630.84
+9010009	univunivamalg #9	18	23	630.80
+4004002	edu packedu pack #2	18	43	630.20
+5001001	amalgscholar #1	8	37	630.00
+10007012	brandunivamalg #12	7	46	629.65
+7004006	edu packbrand #6	8	34	629.10
+8001003	importoscholar #2	18	35	628.80
+7008009	namelessbrand #9	9	27	628.00
+7012010	importonameless #10	17	9	627.48
+9013002	exportiunivamalg #2	6	15	626.96
+10010004	univamalgamalg #4	7	21	625.89
+3002002	importoexporti #2	6	34	625.80
+6015008	scholarbrand #8	9	34	624.33
+3001002	amalgexporti #2	9	31	624.24
+10008009	namelessunivamalg #9	6	23	623.96
+4002002	importoedu pack #2	19	36	623.35
+4002002	importoedu pack #2	7	8	623.28
+3003002	exportiexporti #2	18	46	623.20
+8008003	namelessnameless #3	9	24	623.20
+4001001	amalgedu pack #1	17	7	622.96
+6015004	scholarbrand #4	9	23	622.82
+2002002	importoimporto #2	18	14	622.72
+9001005	importoedu pack #2	18	45	622.67
+6012007	importobrand #7	18	58	621.88
+1003001	brandbrand #6	6	53	621.44
+2004001	importoexporti #2	8	2	620.95
+8008004	namelessnameless #4	9	44	620.40
+1004001	edu packscholar #2	17	15	620.35
+6003008	exporticorp #8	17	49	620.06
+5002002	importoscholar #2	6	38	619.56
+2001002	amalgimporto #2	17	8	619.50
+7009009	maxibrand #9	17	42	618.90
+7013009	exportinameless #9	18	24	618.24
+5003002	exportischolar #2	17	58	617.85
+4003002	exportiedu pack #2	9	15	617.10
+9012003	importounivamalg #3	17	29	616.98
+1001002	amalgamalg #2	17	6	616.91
+4002001	edu packscholar #2	9	39	616.88
+4001001	amalgedu pack #1	17	21	616.86
+9005009	scholarmaxi #9	8	18	615.90
+4002001	edu packbrand #8	17	43	615.60
+7006008	corpbrand #8	18	30	614.68
+8010005	univmaxi #5	18	29	614.46
+4004001	edu packedu pack #1	19	28	613.95
+4001002	amalgedu pack #2	17	25	613.80
+2004002	edu packimporto #2	17	4	612.85
+1002002	importoamalg #2	6	22	612.54
+7010010	univnameless #10	8	34	612.36
+7006007	edu packamalg #2	19	17	612.22
+1003001	exportiamalg #1	9	51	611.82
+5003002	exportischolar #2	8	11	611.46
+10010004	univamalgamalg #4	17	41	610.80
+5001002	amalgscholar #2	7	43	610.17
+8004003	edu packnameless #3	7	50	609.84
+2001002	amalgimporto #2	8	23	609.60
+4003001	exportiedu pack #1	17	43	609.31
+10004017	edu packunivamalg #17	9	11	609.18
+1002001	importoamalg #1	19	33	609.00
+6005003	scholarcorp #3	18	56	608.76
+9016008	corpunivamalg #8	9	25	608.71
+3003002	exportiexporti #2	17	30	608.40
+6009008	maxicorp #8	17	26	608.40
+9015002	scholarunivamalg #2	18	16	607.92
+2003002	exportiimporto #2	8	44	607.89
+8010004	univmaxi #4	17	11	607.88
+7010005	corpunivamalg #6	17	46	607.65
+1003002	exportiamalg #2	17	56	607.00
+3002001	importoexporti #1	9	10	606.97
+5001001	amalgscholar #1	8	59	606.72
+9014002	edu packunivamalg #2	18	45	606.60
+1004001	exportiunivamalg #12	9	36	606.10
+9010012	univunivamalg #12	8	8	606.06
+4002002	importoedu pack #2	17	20	605.88
+5001001	amalgbrand #8	17	0	605.57
+6008005	namelesscorp #5	17	57	605.37
+7016010	corpnameless #10	17	36	605.32
+8003002	exportinameless #2	18	24	605.00
+3004002	edu packexporti #2	18	4	604.80
+7009005	amalgscholar #2	9	41	604.52
+7010003	univnameless #3	17	14	604.50
+9016009	corpunivamalg #9	19	39	603.96
+6015006	scholarbrand #6	19	50	603.60
+6016003	corpbrand #3	19	8	602.37
+4004001	edu packedu pack #1	19	13	602.00
+7014002	edu packnameless #2	9	30	601.48
+5004001	edu packscholar #1	9	6	601.29
+2003001	exportiimporto #1	7	38	601.04
+7001004	amalgbrand #4	18	27	600.48
+3002001	importoexporti #1	17	24	600.40
+1001001	univamalgamalg #16	9	54	600.30
+3002001	importoexporti #1	18	39	599.90
+7014002	edu packnameless #2	19	59	599.59
+1004001	edu packamalg #1	17	21	598.50
+10006016	corpunivamalg #16	17	47	598.00
+9004008	edu packmaxi #8	17	20	597.65
+3001001	amalgexporti #1	19	0	597.52
+9009002	maximaxi #2	17	52	597.36
+10006009	corpunivamalg #9	17	6	596.96
+8004004	edu packnameless #4	17	4	596.25
+10016016	corpamalgamalg #16	17	57	596.13
+2004002	edu packimporto #2	17	52	595.93
+5002002	importoscholar #2	18	35	595.34
+2004002	edu packimporto #2	9	54	595.00
+4001001	maxiunivamalg #16	18	8	594.86
+2004001	edu packimporto #1	8	0	594.55
+8005005	scholarnameless #5	17	29	594.12
+3003002	exportiexporti #2	19	24	593.56
+8005006	scholarnameless #6	8	1	593.32
+4002002	importoedu pack #2	17	37	592.50
+2001002	amalgimporto #2	17	45	592.45
+4004002	edu packedu pack #2	8	0	592.03
+10009013	maxiunivamalg #13	17	38	592.00
+1004002	edu packamalg #2	17	55	591.25
+2002002	importoimporto #2	18	8	591.24
+10009001	maxiunivamalg #1	8	4	591.00
+4001002	amalgedu pack #2	19	22	590.94
+10008002	namelessunivamalg #2	9	26	590.92
+3004002	edu packexporti #2	8	24	590.82
+4003001	exportiedu pack #1	9	2	590.70
+7012001	amalgamalgamalg #2	9	28	590.24
+5001001	exportinameless #8	19	33	590.07
+5001001	amalgscholar #1	18	58	589.68
+2004002	edu packimporto #2	9	55	589.44
+8008008	namelessnameless #8	19	16	588.70
+5001001	amalgscholar #2	7	14	588.69
+3002002	importoexporti #2	19	19	588.65
+6005001	scholarcorp #1	19	10	588.60
+7010008	univnameless #8	9	0	588.48
+5001002	amalgscholar #2	19	36	588.29
+1001001	amalgunivamalg #13	19	47	588.15
+7013009	exportinameless #9	6	59	588.00
+8005003	scholarnameless #3	18	3	587.94
+3002002	importoexporti #2	6	6	587.52
+8010001	univamalgamalg #5	8	17	587.40
+2003002	exportiimporto #2	19	40	587.34
+1001002	amalgamalg #2	9	18	587.17
+2003001	exportiimporto #1	19	37	586.95
+8010004	univmaxi #4	9	55	586.38
+9007005	maxinameless #10	17	37	585.50
+9006006	corpmaxi #6	17	44	585.36
+4004001	edu packedu pack #1	8	12	585.20
+1003001	namelessunivamalg #12	18	28	584.92
+6003008	exporticorp #8	18	8	584.80
+8007010	brandnameless #10	8	27	584.48
+2001002	amalgimporto #2	8	26	584.25
+8008007	namelessnameless #7	19	40	584.10
+3004002	edu packexporti #2	17	55	584.06
+6011008	amalgbrand #8	17	42	583.83
+2003002	exportiimporto #2	19	46	583.74
+3001002	amalgexporti #2	9	28	582.73
+2004001	corpmaxi #8	18	2	582.36
+6003008	exporticorp #8	19	2	582.16
+1002001	importoamalg #1	19	6	581.68
+5003001	exportischolar #1	18	7	581.68
+6016003	corpbrand #3	17	4	581.20
+3003001	exportiexporti #1	8	36	581.17
+5001002	amalgscholar #2	7	18	580.56
+8007010	brandnameless #10	18	26	580.32
+6012007	importobrand #7	19	34	579.70
+8002009	importonameless #9	18	52	579.69
+6001007	amalgcorp #7	17	48	579.60
+2001002	amalgimporto #2	19	55	579.36
+1001002	amalgamalg #2	9	20	577.92
+9002008	importomaxi #8	18	53	577.92
+1003002	exportiamalg #2	8	31	577.76
+10016001	corpamalgamalg #1	8	16	577.49
+9002003	importomaxi #3	19	21	577.12
+5001001	amalgscholar #1	18	4	576.81
+6009003	maxicorp #3	17	51	576.80
+5001002	amalgscholar #2	19	26	576.73
+1001002	amalgamalg #2	9	50	576.42
+4003001	exportiedu pack #1	9	21	576.08
+1002001	amalgscholar #2	9	48	575.96
+10003015	exportiunivamalg #15	9	20	575.40
+1001001	amalgunivamalg #13	8	17	575.05
+1001001	amalgamalg #1	8	26	574.56
+5001001	scholarunivamalg #8	9	31	574.35
+8005005	scholarnameless #5	17	45	574.20
+6003003	exporticorp #3	19	0	573.76
+7008006	namelessbrand #6	9	5	573.61
+5001001	amalgscholar #1	18	22	573.30
+8012004	importomaxi #4	8	44	573.16
+1004001	edu packamalg #1	18	46	573.04
+2004002	edu packimporto #2	19	51	573.04
+1001002	amalgamalg #2	9	3	572.94
+8007010	brandnameless #10	8	29	572.39
+5001002	amalgscholar #2	9	5	571.52
+1004002	edu packamalg #2	17	13	571.20
+3001002	amalgexporti #2	19	58	570.75
+7008008	namelessbrand #8	6	23	570.53
+2001002	amalgimporto #2	7	6	570.36
+2004001	edu packimporto #1	19	1	570.24
+3002001	importoexporti #1	18	12	569.71
+1002002	importoamalg #2	18	7	569.40
+3004001	edu packexporti #1	6	44	569.40
+8008002	namelessnameless #2	19	8	568.76
+1003001	exportiamalg #1	8	31	568.70
+2002002	importoimporto #2	8	16	568.46
+3002002	importoexporti #2	9	33	568.20
+10016001	corpamalgamalg #1	18	37	568.04
+8010004	univmaxi #4	17	45	567.70
+3001002	amalgexporti #2	17	16	567.42
+5001001	amalgscholar #1	8	3	567.00
+4001001	amalgedu pack #1	19	14	566.72
+7014002	edu packnameless #2	9	20	566.58
+5003002	exportischolar #2	18	28	566.28
+4004001	edu packscholar #2	18	32	566.10
+2003002	exportiimporto #2	19	34	565.92
+6004007	edu packscholar #2	8	20	565.76
+10012004	importoamalgamalg #4	19	38	565.75
+6011003	importobrand #4	18	37	565.50
+7002010	importobrand #10	18	8	565.11
+1004002	edu packamalg #2	17	18	564.50
+8001001	amalgnameless #1	18	39	564.24
+1001001	amalgamalg #1	17	46	563.64
+5001001	amalgscholar #1	9	54	563.40
+10003004	exportiunivamalg #4	18	24	562.68
+5001002	amalgscholar #2	19	10	562.02
+2003001	exportiimporto #1	6	10	561.68
+7002010	importobrand #10	19	31	561.26
+4001001	maxiunivamalg #16	19	36	560.89
+4004002	edu packedu pack #2	18	22	560.56
+4001002	amalgedu pack #2	18	54	560.04
+3003002	exportiexporti #2	19	30	559.35
+6006002	corpcorp #2	18	1	559.30
+8015005	scholarmaxi #5	7	30	559.04
+4001001	exportiexporti #2	18	13	559.00
+4001001	amalgedu pack #1	18	39	558.68
+4004001	edu packedu pack #1	17	57	558.22
+4002001	edu packbrand #8	17	47	557.76
+9011008	amalgunivamalg #8	18	4	557.70
+7016001	corpnameless #1	18	37	557.34
+9011008	amalgunivamalg #8	9	44	557.20
+10006016	corpunivamalg #16	7	32	557.06
+5001001	edu packexporti #2	19	5	557.04
+9004003	edu packmaxi #3	9	25	556.80
+5004001	scholarnameless #6	17	17	556.66
+2003001	scholarmaxi #12	17	47	556.56
+9014002	edu packunivamalg #2	19	41	556.53
+5001001	brandunivamalg #11	17	17	556.50
+8008009	namelessnameless #9	19	8	556.05
+6003008	exporticorp #8	19	36	555.94
+2001002	amalgimporto #2	6	3	555.75
+10014010	edu packamalgamalg #10	17	57	555.20
+5001002	amalgscholar #2	19	35	555.08
+10007002	brandunivamalg #2	9	49	554.75
+1001001	scholarnameless #2	18	53	554.54
+4001002	amalgedu pack #2	18	5	554.40
+8007008	brandnameless #8	8	25	554.40
+8010006	univmaxi #6	8	14	554.40
+10015012	scholaramalgamalg #12	19	3	554.25
+10003014	exportiunivamalg #14	8	4	553.74
+7012009	amalgamalg #2	8	57	553.52
+7008008	namelessbrand #8	18	57	553.50
+1002002	importoamalg #2	17	38	553.38
+8004001	edu packnameless #1	9	14	553.35
+7004008	edu packbrand #8	17	20	553.12
+3004002	edu packexporti #2	19	33	553.02
+4002002	importoedu pack #2	7	47	552.24
+7002006	importobrand #6	17	32	551.88
+4002001	importoscholar #2	17	12	551.76
+7008006	namelessbrand #6	19	27	551.52
+4001001	amalgedu pack #1	9	53	551.36
+8007010	brandnameless #10	17	47	550.80
+7010001	univnameless #1	7	16	550.68
+5003001	exportiamalg #2	8	17	550.42
+10009015	maxiunivamalg #15	18	6	550.29
+5002002	importoscholar #2	18	12	549.78
+9007011	importoexporti #2	17	11	549.78
+3004002	edu packexporti #2	6	50	549.46
+3003001	exportiexporti #1	19	24	549.08
+1004002	edu packamalg #2	18	57	548.80
+5002002	importoscholar #2	18	58	548.71
+6012004	importobrand #4	19	5	548.10
+9013009	exportiunivamalg #9	7	32	548.08
+4002001	edu packbrand #8	17	58	547.47
+1003002	exportiamalg #2	19	15	547.30
+2001002	amalgimporto #2	8	6	547.01
+5003001	exportischolar #1	19	14	546.78
+3001001	amalgexporti #1	17	29	546.72
+10008002	namelessunivamalg #2	18	43	546.72
+8006009	corpnameless #9	19	32	546.55
+7009004	maxibrand #4	6	34	546.48
+10001008	amalgunivamalg #8	18	55	546.00
+6006006	corpcorp #6	7	25	545.92
+7006001	corpcorp #4	17	43	545.89
+7013009	exportinameless #9	19	0	545.61
+10009015	maxiunivamalg #15	17	50	545.22
+5004002	edu packscholar #2	18	8	545.16
+10004015	edu packunivamalg #15	19	59	544.80
+10007004	brandunivamalg #4	17	53	544.61
+2001001	amalgimporto #1	18	49	544.50
+3001002	amalgexporti #2	18	37	544.32
+9007011	importoexporti #2	18	58	544.32
+4004002	edu packedu pack #2	18	57	543.80
+7005007	scholarbrand #7	19	39	543.66
+8012001	amalgexporti #2	17	31	543.04
+8014009	edu packamalg #2	18	21	542.88
+9013012	exportiunivamalg #12	6	4	542.88
+8015003	importoamalg #2	18	45	542.52
+8014005	edu packmaxi #5	17	44	542.50
+4001002	amalgedu pack #2	17	3	541.95
+10009017	maxiunivamalg #17	8	9	541.57
+2004002	edu packimporto #2	8	58	541.32
+3003001	exportiexporti #1	7	57	541.20
+8003006	exportinameless #6	9	45	541.08
+1001001	amalgunivamalg #13	17	23	540.96
+1003002	exportiamalg #2	18	5	540.96
+7002006	importobrand #6	17	30	540.73
+7002010	importobrand #10	9	27	540.56
+2004001	corpmaxi #8	17	30	540.36
+7001002	amalgbrand #2	19	59	539.71
+4001002	amalgedu pack #2	17	16	539.50
+2003002	exportiimporto #2	19	8	538.40
+9015003	scholarunivamalg #3	18	18	538.23
+5001001	amalgscholar #1	18	27	538.20
+1004002	edu packamalg #2	17	36	537.89
+7009004	maxibrand #4	18	50	537.54
+10007002	brandunivamalg #2	8	12	537.54
+6011002	amalgbrand #2	9	19	537.13
+9003003	exportimaxi #3	19	43	536.80
+8003010	exportinameless #10	9	27	536.28
+1002002	importoamalg #2	9	46	535.86
+10014014	edu packamalgamalg #14	17	15	535.84
+7003005	exportiedu pack #2	17	16	535.81
+3004002	edu packexporti #2	7	4	535.50
+10003016	exportiunivamalg #16	19	30	535.36
+4001001	amalgedu pack #1	18	31	535.08
+6004004	edu packcorp #4	17	13	534.94
+8014009	edu packamalg #2	19	28	534.92
+7008009	namelessbrand #9	19	25	533.76
+4001001	amalgedu pack #1	17	57	533.61
+10016016	corpamalgamalg #16	18	5	533.45
+1003001	exportiamalg #1	18	18	532.62
+4002001	importoedu pack #1	17	52	532.10
+1003001	exportiamalg #1	17	13	531.90
+8008002	namelessnameless #2	18	46	531.50
+6015004	scholarbrand #4	19	4	531.30
+1001001	amalgamalg #1	18	13	531.24
+2001002	amalgimporto #2	18	50	530.88
+9007008	brandmaxi #8	17	43	530.75
+8008004	namelessnameless #4	19	57	530.70
+9011008	amalgunivamalg #8	17	28	530.64
+5001001	amalgscholar #2	17	20	530.28
+5003001	exportischolar #1	9	22	529.76
+8014004	edu packmaxi #4	17	30	529.50
+9012003	importounivamalg #3	17	24	529.47
+5001002	amalgscholar #2	8	47	529.10
+2004002	edu packimporto #2	9	14	528.66
+4003002	exportiedu pack #2	8	4	528.36
+5001002	amalgscholar #2	17	5	528.19
+9006009	corpmaxi #9	8	40	528.08
+4002001	scholarmaxi #6	17	30	527.80
+7008004	namelessbrand #4	17	1	527.72
+4004001	scholarnameless #4	18	58	527.62
+4002001	importoedu pack #1	19	55	527.52
+10015009	scholaramalgamalg #9	9	54	527.52
+10009013	exportibrand #6	9	45	527.40
+4004001	scholarnameless #4	19	41	527.10
+7007005	exportiamalg #2	7	55	526.85
+9010009	univunivamalg #9	17	9	526.68
+1001002	amalgamalg #2	19	25	526.40
+10014010	edu packamalgamalg #10	8	59	526.29
+9009012	maximaxi #12	17	59	525.84
+9014006	edu packunivamalg #6	17	37	525.60
+1001001	amalgamalg #1	8	22	525.56
+1002001	importounivamalg #1	6	38	525.30
+9015009	scholarunivamalg #9	19	44	525.21
+10006003	corpunivamalg #3	9	5	524.78
+2001001	corpbrand #10	19	43	524.48
+3004001	edu packexporti #1	17	1	524.48
+10008009	namelessunivamalg #9	17	10	524.40
+1003001	exportiamalg #1	18	48	524.25
+1002001	importoamalg #1	8	13	524.00
+3003002	exportiexporti #2	9	10	523.80
+8005001	scholarnameless #1	17	43	523.02
+6010006	univbrand #6	19	7	522.72
+6003001	exportiimporto #2	17	0	522.45
+5004002	edu packscholar #2	19	53	522.24
+5002001	amalgamalg #2	9	53	522.12
+8005009	corpnameless #10	19	50	521.93
+4002002	importoedu pack #2	19	7	521.78
+1004002	edu packamalg #2	9	39	521.55
+10007015	brandunivamalg #15	17	49	521.50
+9008002	namelessmaxi #2	17	39	520.96
+4004001	edu packscholar #2	19	51	520.80
+7007004	brandbrand #4	19	6	520.41
+9009012	maximaxi #12	8	5	519.96
+6011003	importobrand #4	17	46	519.84
+7016001	corpnameless #1	6	37	519.84
+5001001	amalgbrand #8	9	50	519.82
+6008002	namelesscorp #2	19	48	519.75
+8004004	edu packnameless #4	17	42	519.57
+7010001	univnameless #1	9	36	519.05
+2002001	importoimporto #1	19	7	519.00
+3002001	importoexporti #1	9	13	518.01
+4003001	exportiedu pack #1	9	31	517.65
+10008002	namelessunivamalg #2	9	14	517.00
+1004001	edu packamalg #1	17	42	516.96
+3004001	edu packexporti #1	9	20	516.88
+4001002	amalgedu pack #2	9	5	516.78
+6014005	edu packamalgamalg #8	18	58	516.60
+8006009	corpnameless #9	19	36	516.60
+5001002	amalgscholar #2	17	46	516.46
+2004002	edu packimporto #2	17	37	516.45
+4003001	exportiedu pack #1	17	45	516.12
+7014008	edu packnameless #8	17	53	515.97
+10004004	edu packunivamalg #4	19	10	515.95
+8007008	brandnameless #8	18	57	515.85
+7009010	maxibrand #10	18	58	515.79
+10009006	maxiunivamalg #6	6	57	515.66
+3004002	edu packexporti #2	9	11	515.28
+1004002	edu packamalg #2	19	21	515.25
+8009010	maxinameless #10	18	59	515.25
+3004001	edu packexporti #1	18	3	515.14
+10007004	importoimporto #2	8	49	514.44
+9011008	amalgunivamalg #8	19	11	514.15
+8012010	importomaxi #10	18	22	514.05
+7006004	NULL	9	7	513.66
+9007003	brandmaxi #3	18	59	513.52
+3004001	edu packexporti #1	17	36	513.40
+1001002	amalgamalg #2	17	33	513.37
+10016016	corpamalgamalg #16	18	38	513.36
+6011002	amalgbrand #2	8	20	512.82
+8008007	namelessnameless #7	18	52	512.70
+1002001	scholarbrand #4	17	55	512.44
+10015013	scholaramalgamalg #13	17	29	512.38
+6008005	namelesscorp #5	9	57	512.21
+2003002	exportiimporto #2	17	1	511.60
+5002001	exportibrand #8	19	5	511.53
+1001002	amalgamalg #2	9	40	511.14
+1002001	amalgscholar #2	17	56	510.84
+5004002	edu packscholar #2	9	16	510.73
+3001002	amalgexporti #2	19	27	510.69
+8006009	corpnameless #9	19	44	510.58
+1004002	edu packamalg #2	19	11	510.51
+5001001	amalgscholar #1	6	42	510.16
+1002002	importoamalg #2	18	25	509.95
+6016006	corpbrand #6	18	58	509.76
+9011008	amalgunivamalg #8	8	21	509.64
+10006003	corpunivamalg #3	17	40	509.22
+2002001	amalgscholar #2	19	19	508.64
+6005005	maxibrand #10	8	57	508.64
+3002001	importoexporti #1	19	37	508.30
+5001001	edu packexporti #2	19	35	508.25
+9002008	importomaxi #8	18	44	507.99
+1003001	exportiamalg #1	7	46	507.78
+7016001	corpnameless #1	6	20	507.78
+9012003	importounivamalg #3	18	5	507.52
+1004001	amalgamalg #2	7	27	507.50
+8003003	exportinameless #3	8	22	507.27
+7014001	edu packnameless #1	18	38	507.15
+6015006	scholarbrand #6	7	2	506.87
+4001002	amalgedu pack #2	9	50	506.69
+9005009	scholarmaxi #9	18	53	506.40
+6001008	amalgcorp #8	8	58	506.10
+3002001	maxibrand #4	18	22	506.00
+8016003	corpmaxi #3	9	46	504.92
+3002001	importoexporti #1	17	46	504.64
+1001001	univamalgamalg #16	9	9	504.40
+10004015	edu packunivamalg #15	19	25	504.40
+10003011	exportiunivamalg #11	18	4	503.86
+5001002	amalgscholar #2	18	55	503.20
+10008009	corpcorp #8	17	52	503.20
+10008015	namelessunivamalg #15	8	17	503.10
+2001001	importoimporto #2	7	29	503.00
+9014003	edu packunivamalg #3	19	41	502.84
+2004001	edu packimporto #1	9	31	502.74
+7015009	scholarnameless #9	19	49	502.50
+6006002	corpcorp #2	19	2	502.35
+7009005	amalgscholar #2	17	8	502.32
+6003008	exporticorp #8	19	16	501.90
+9012003	importounivamalg #3	18	33	501.60
+4002001	scholarmaxi #6	18	1	501.00
+6008005	namelesscorp #5	9	55	500.94
+3002002	importoexporti #2	17	55	500.76
+10015009	scholaramalgamalg #9	7	55	500.65
+1003001	exportiamalg #1	18	21	500.16
+4004001	edu packedu pack #1	18	34	499.98
+3002002	importoexporti #2	9	20	499.80
+7006001	corpcorp #4	19	41	499.73
+10010017	univamalgamalg #17	19	26	499.66
+4003001	exportiedu pack #1	19	51	499.44
+10003011	exportiunivamalg #11	18	45	499.32
+7007004	brandbrand #4	6	18	497.71
+2004001	brandcorp #4	18	43	497.70
+3003001	amalgscholar #2	9	59	497.64
+7012010	importonameless #10	18	34	497.61
+10002014	importounivamalg #14	9	0	497.35
+9006002	corpmaxi #2	17	41	497.20
+10009013	maxiunivamalg #13	8	8	496.93
+7012010	importonameless #10	18	53	496.80
+10003004	exportiunivamalg #4	18	58	496.80
+10012004	importoamalgamalg #4	17	11	496.80
+5004002	edu packscholar #2	9	11	496.65
+10014016	edu packamalgamalg #16	7	15	496.65
+4002002	importoedu pack #2	18	13	496.29
+5002002	importoscholar #2	18	40	496.08
+3004002	edu packexporti #2	8	38	495.69
+2001002	amalgimporto #2	6	44	495.36
+2004001	edu packunivamalg #8	18	2	495.33
+9007003	brandmaxi #3	18	30	495.21
+3003001	exportiedu pack #2	17	25	494.78
+4003001	exportiedu pack #1	18	7	494.64
+10002001	importounivamalg #1	17	26	494.56
+10006016	corpunivamalg #16	19	11	493.64
+10011017	amalgamalgamalg #17	19	14	493.64
+3003002	exportiexporti #2	17	20	492.94
+6015006	scholarbrand #6	9	13	492.43
+1004002	edu packamalg #2	9	2	492.24
+10007005	brandunivamalg #5	19	57	492.06
+1002001	scholarbrand #4	6	42	492.00
+1001001	namelessunivamalg #4	18	51	491.76
+3003001	exportiexporti #1	8	5	491.68
+8008002	namelessnameless #2	19	13	491.20
+1001001	amalgamalg #1	18	48	490.77
+2004001	brandcorp #4	19	25	490.70
+5001001	amalgscholar #2	17	22	490.70
+8015003	importoamalg #2	18	11	490.56
+3002001	importoexporti #1	18	28	490.49
+10011013	amalgunivamalg #6	19	47	490.00
+5002001	importoedu pack #2	17	41	489.30
+3002002	importoexporti #2	9	13	488.88
+8001001	amalgnameless #1	17	28	488.80
+10010004	univamalgamalg #4	18	38	488.40
+5002001	importoscholar #1	8	41	487.84
+4002001	corpcorp #6	18	32	487.30
+9013009	exportiunivamalg #9	19	27	487.24
+2004002	edu packimporto #2	17	35	486.54
+8007008	brandnameless #8	17	57	486.08
+2001001	amalgimporto #1	9	30	485.98
+6011002	amalgbrand #2	17	33	485.88
+8005003	scholarnameless #3	18	18	485.45
+4002001	corpcorp #6	18	21	485.10
+1002001	importoamalg #1	17	5	484.90
+4004001	edu packscholar #2	18	44	484.83
+7016001	corpnameless #1	9	24	484.75
+8010006	univmaxi #6	18	15	484.70
+2002001	importoimporto #1	18	28	484.56
+6016006	corpbrand #6	18	12	484.40
+9015003	scholarunivamalg #3	8	33	483.75
+4004001	edu packscholar #2	8	35	482.56
+10005001	scholarunivamalg #1	19	17	482.46
+1003002	exportiamalg #2	9	43	482.13
+7012010	importonameless #10	18	22	482.04
+10016003	corpamalgamalg #3	18	38	481.95
+7007004	brandbrand #4	19	1	481.60
+1004002	edu packamalg #2	19	23	481.44
+6016005	corpbrand #5	8	41	481.32
+10008004	namelessunivamalg #4	17	51	481.28
+1004002	edu packamalg #2	18	45	481.12
+7008006	namelessbrand #6	9	50	481.12
+9003008	exportimaxi #8	19	27	480.96
+3001002	amalgexporti #2	9	55	480.27
+10007005	brandunivamalg #5	8	38	479.96
+10006002	corpunivamalg #2	18	45	479.71
+5001001	amalgscholar #1	18	19	479.70
+10015013	scholaramalgamalg #13	17	54	479.61
+10009013	maxiunivamalg #13	8	35	479.55
+4004001	edu packedu pack #1	18	28	479.52
+9012003	importounivamalg #3	17	11	479.40
+4003001	exportiedu pack #1	17	37	479.26
+4002001	importoscholar #2	19	1	479.20
+5002001	importoedu pack #2	9	43	478.80
+7001005	amalgbrand #5	17	51	478.79
+7004004	edu packbrand #4	17	13	478.45
+3003002	exportiexporti #2	19	53	478.08
+4002001	importoedu pack #1	19	15	477.84
+4002002	importoedu pack #2	7	35	477.05
+2003002	exportiimporto #2	9	43	476.84
+7010008	univnameless #8	17	26	476.82
+6005003	scholarcorp #3	8	46	476.78
+3002002	importoexporti #2	17	16	476.70
+7012009	importonameless #9	19	4	476.69
+6006002	corpcorp #2	9	13	476.42
+6011002	amalgbrand #2	19	55	476.25
+8015003	scholarmaxi #3	17	48	475.20
+7015002	scholarnameless #2	8	30	474.72
+6003003	exporticorp #3	19	3	474.24
+8016003	corpmaxi #3	19	6	473.94
+7015007	scholarnameless #7	9	56	473.77
+6002008	importocorp #8	17	23	472.70
+1003001	namelessunivamalg #12	9	0	472.31
+10009013	exportibrand #6	17	8	472.12
+10003006	exportiunivamalg #6	18	20	471.85
+10003004	exportiunivamalg #4	7	29	471.63
+6005001	scholarcorp #1	19	18	471.45
+2004002	edu packimporto #2	18	47	471.24
+4004001	edu packedu pack #1	19	17	470.81
+5004001	edu packscholar #1	17	19	470.80
+1004002	edu packamalg #2	17	12	470.39
+8010005	univmaxi #5	17	22	470.01
+8004001	edu packnameless #1	18	36	469.66
+2004001	brandcorp #4	19	30	469.60
+8002009	importonameless #9	19	52	469.26
+9001008	amalgmaxi #8	18	56	469.17
+3001002	amalgexporti #2	19	30	468.60
+6003003	exporticorp #3	9	1	468.52
+4001001	amalgedu pack #1	6	16	468.49
+1002001	amalgscholar #2	19	8	468.47
+10006009	corpunivamalg #9	19	3	467.97
+2004002	edu packimporto #2	18	35	467.56
+6008005	edu packmaxi #6	18	6	467.25
+3002002	importoexporti #2	9	32	467.20
+4001002	amalgedu pack #2	18	57	467.00
+5003002	exportischolar #2	17	1	466.25
+8012004	importomaxi #4	19	58	465.76
+7008004	namelessbrand #4	18	9	465.36
+5004002	edu packscholar #2	9	36	465.14
+2002002	importoimporto #2	6	34	464.94
+4001001	amalgedu pack #1	7	28	464.80
+5002002	importoscholar #2	17	27	464.80
+2001002	amalgimporto #2	18	18	464.20
+4003002	exportiedu pack #2	9	33	463.68
+8005009	scholarnameless #9	18	54	463.22
+4001001	amalgedu pack #1	19	10	462.99
+1002001	importounivamalg #1	9	28	462.84
+10015012	scholaramalgamalg #12	9	29	462.70
+1001001	amalgamalg #1	9	56	462.60
+5002002	importoscholar #2	18	59	462.54
+9013012	exportiunivamalg #12	7	27	462.52
+4003002	exportiedu pack #2	18	51	462.40
+7015009	scholarnameless #9	7	19	462.40
+3002002	importoexporti #2	9	3	462.02
+3001001	amalgexporti #1	19	57	461.64
+2004001	exportimaxi #8	8	51	461.58
+7009005	amalgscholar #2	7	17	461.44
+3001002	amalgexporti #2	19	26	460.46
+2003001	amalgbrand #4	19	57	460.44
+9014003	edu packunivamalg #3	18	27	460.41
+1002002	importoamalg #2	8	16	460.35
+8012001	amalgexporti #2	18	11	460.17
+6016001	amalgexporti #2	19	29	459.90
+4004002	edu packedu pack #2	6	54	459.60
+8010005	univmaxi #5	8	52	459.20
+4004002	edu packedu pack #2	18	39	459.03
+7014001	edu packnameless #1	18	44	458.50
+6013002	exportibrand #2	9	49	458.48
+5003002	exportischolar #2	17	44	457.86
+8007008	brandnameless #8	9	46	457.73
+9009003	maximaxi #3	8	57	457.59
+3004001	edu packexporti #1	18	2	457.50
+6016006	corpbrand #6	6	11	457.17
+9013012	exportiunivamalg #12	17	22	457.05
+10006017	corpunivamalg #17	8	55	456.96
+10002011	importounivamalg #11	19	7	456.74
+4004002	edu packedu pack #2	7	50	456.36
+4002002	importoedu pack #2	19	30	456.30
+2004001	exportimaxi #8	19	24	455.76
+3001001	amalgexporti #1	17	12	455.70
+3001002	amalgexporti #2	9	17	455.70
+7015002	scholarnameless #2	17	30	455.40
+2004002	edu packimporto #2	18	45	455.28
+6004007	edu packscholar #2	17	52	454.88
+3002002	importoexporti #2	8	17	454.84
+6012008	importobrand #8	17	47	454.80
+3001002	amalgexporti #2	19	23	454.76
+10007004	importoimporto #2	19	34	454.59
+9002003	importomaxi #3	9	57	454.08
+7015009	scholarnameless #9	18	4	453.71
+6008005	namelesscorp #5	9	38	453.52
+4003001	exportiedu pack #1	17	51	453.39
+10006003	corpunivamalg #3	9	41	453.08
+5003001	exportischolar #1	18	24	453.00
+4004002	edu packedu pack #2	8	28	452.92
+7005006	scholarbrand #6	18	56	452.76
+10003004	exportiunivamalg #4	8	48	452.37
+8002009	importonameless #9	17	3	452.27
+3002001	maxibrand #4	17	40	451.71
+7009005	maxibrand #5	19	31	451.49
+5002002	importoscholar #2	9	26	450.84
+6011003	amalgbrand #3	19	11	450.68
+2004002	edu packimporto #2	6	39	450.50
+7012005	importonameless #5	17	10	450.45
+2002001	importoimporto #1	8	12	450.00
+7010004	univnameless #4	19	50	449.93
+5003002	exportischolar #2	17	49	449.80
+9009006	maximaxi #6	17	34	449.80
+5001001	amalgscholar #1	9	55	449.79
+1002001	amalgscholar #2	17	2	449.68
+1004002	edu packamalg #2	9	14	449.28
+3002001	importoexporti #1	8	59	449.25
+8004009	edu packnameless #9	18	35	449.25
+5001001	amalgscholar #2	9	15	449.02
+6004002	edu packcorp #2	19	28	449.01
+2002001	amalgscholar #2	9	1	449.00
+8001004	amalgnameless #4	17	26	448.92
+2003002	exportiimporto #2	17	40	448.86
+2002002	importoimporto #2	17	52	448.65
+7015007	scholarnameless #7	9	32	447.81
+5003001	exportischolar #1	9	0	447.65
+4002002	importoedu pack #2	19	26	447.40
+4001002	amalgedu pack #2	6	49	447.22
+3003002	exportiexporti #2	8	11	446.25
+9012005	univbrand #2	17	4	446.08
+4004002	edu packedu pack #2	17	14	445.92
+8002009	importonameless #9	18	55	445.51
+2003001	exportiimporto #1	19	32	445.50
+6005005	edu packnameless #8	9	37	445.06
+9003008	exportimaxi #8	9	49	445.04
+10011014	amalgamalgamalg #14	6	15	444.85
+8010003	namelessunivamalg #5	9	0	444.36
+7002006	importobrand #6	9	30	444.15
+4003002	exportiedu pack #2	9	3	443.88
+1001001	namelessunivamalg #4	17	32	443.31
+4001001	amalgedu pack #1	8	40	442.55
+7004009	edu packbrand #9	17	48	442.06
+1002002	importoamalg #2	18	37	441.66
+3001001	amalgexporti #1	8	17	441.49
+3001002	amalgexporti #2	9	26	441.21
+10011013	amalgunivamalg #6	9	24	441.00
+10011009	amalgamalgamalg #9	18	8	440.86
+8003010	exportinameless #10	19	7	440.65
+6010002	univbrand #2	19	50	440.57
+3001002	amalgexporti #2	19	48	440.51
+6008002	namelesscorp #2	17	31	440.10
+9016003	corpunivamalg #3	9	31	439.92
+10016013	corpamalgamalg #13	9	46	439.92
+3001002	amalgexporti #2	19	3	439.91
+1001001	amalgamalg #1	17	33	439.80
+10013013	exportiamalgamalg #13	9	1	439.67
+4002002	importoedu pack #2	17	50	439.56
+10004008	edu packunivamalg #8	17	32	439.50
+10002014	importounivamalg #14	18	3	439.40
+10016002	corpamalgamalg #2	7	27	439.06
+4004002	edu packedu pack #2	19	3	438.98
+5001001	amalgscholar #2	7	58	438.90
+4004001	edu packedu pack #1	18	40	438.84
+9002008	importomaxi #8	19	6	438.75
+6011003	amalgbrand #3	18	38	438.62
+2004002	edu packimporto #2	18	15	438.34
+8012006	importomaxi #6	19	25	437.84
+8014009	edu packamalg #2	19	21	437.78
+4004001	edu packimporto #2	9	44	437.58
+4001001	maxiunivamalg #16	6	52	437.19
+4004002	edu packedu pack #2	17	38	436.86
+8002009	importonameless #9	19	4	436.80
+3001001	amalgexporti #1	19	38	436.22
+10016003	corpamalgamalg #3	19	27	435.88
+10015013	scholaramalgamalg #13	19	35	435.80
+2001001	amalgimporto #1	9	25	435.68
+7009002	maxibrand #2	19	5	435.60
+10008002	namelessunivamalg #2	8	50	435.27
+8005001	scholarnameless #1	9	2	435.00
+5003001	exportischolar #1	9	26	434.70
+7006004	NULL	18	48	434.53
+10015001	scholaramalgamalg #1	18	39	434.52
+4004001	edu packedu pack #1	17	31	434.24
+7012005	importonameless #5	9	6	434.13
+2004001	exportimaxi #8	8	52	433.75
+4002002	importoedu pack #2	19	50	433.65
+4001001	amalgedu pack #1	19	36	433.58
+3001002	amalgexporti #2	17	49	433.44
+9014006	edu packunivamalg #6	18	58	433.44
+1001001	amalgamalg #1	19	18	433.29
+9005009	scholarmaxi #9	17	28	432.96
+9002003	importomaxi #3	17	57	432.88
+1001002	amalgamalg #2	8	29	431.97
+1004001	edu packimporto #2	8	38	431.41
+1004001	amalgamalg #2	18	49	431.37
+6015006	scholarbrand #6	19	51	431.34
+7012001	scholarcorp #6	17	22	431.08
+2004001	importoexporti #2	19	52	430.94
+2003001	exportiimporto #1	7	37	430.92
+7010001	univnameless #1	19	16	430.59
+5001001	maxicorp #4	18	59	430.43
+4001002	amalgedu pack #2	7	17	430.32
+4003001	exportiedu pack #1	9	18	430.10
+7004009	edu packbrand #9	19	36	429.55
+8016004	corpmaxi #4	8	50	429.50
+7010001	univnameless #1	18	26	429.45
+10003015	exportiunivamalg #15	19	3	429.24
+4004002	edu packedu pack #2	17	7	429.22
+10016016	corpamalgamalg #16	9	52	429.20
+1001002	amalgamalg #2	18	8	429.12
+2004002	edu packimporto #2	18	54	428.74
+2001002	amalgimporto #2	17	47	428.34
+1003001	exportiamalg #1	8	55	428.16
+1002001	importounivamalg #1	19	49	427.98
+10014016	edu packamalgamalg #16	19	6	427.90
+5003002	exportischolar #2	17	16	427.75
+9004008	edu packmaxi #8	17	38	427.68
+6015006	scholarbrand #6	18	14	427.28
+3001001	amalgexporti #1	19	18	426.78
+10003015	exportiunivamalg #15	9	39	426.69
+2003002	exportiimporto #2	8	23	426.58
+3004001	edu packexporti #1	17	57	426.30
+6003003	exporticorp #3	17	20	426.24
+3002002	importoexporti #2	8	24	426.03
+3003001	exportiexporti #1	18	45	426.01
+10003005	corpamalgamalg #6	17	15	426.00
+10013015	exportiamalgamalg #15	9	27	425.76
+4002002	importoedu pack #2	17	55	425.75
+1002001	importoamalg #1	17	37	425.42
+8016010	corpmaxi #10	17	31	425.17
+3004002	edu packexporti #2	19	44	425.04
+4004002	edu packedu pack #2	18	45	425.00
+6007007	brandcorp #7	18	53	425.00
+4003001	exportiedu pack #1	17	34	424.97
+4004001	edu packedu pack #1	17	33	424.96
+3004001	edu packexporti #1	19	59	424.84
+9013009	exportiunivamalg #9	17	58	424.45
+9010009	univunivamalg #9	19	35	423.90
+4003001	exportiedu pack #1	19	18	423.72
+1004001	edu packimporto #2	18	11	423.68
+10009013	exportibrand #6	9	39	423.40
+10008013	namelessunivamalg #13	8	41	423.20
+5003002	exportischolar #2	17	15	422.56
+6014002	edu packbrand #2	8	10	422.40
+10011009	amalgamalgamalg #9	17	51	422.28
+4001002	amalgedu pack #2	17	24	422.01
+2003002	exportiimporto #2	19	32	421.74
+2002001	importoimporto #1	8	15	421.59
+8008002	namelessnameless #2	17	56	421.20
+2001002	amalgimporto #2	18	56	421.12
+1004001	edu packamalg #1	7	14	420.60
+2002001	importoimporto #1	17	54	420.50
+1002002	importoamalg #2	9	41	420.28
+1004002	edu packamalg #2	18	23	420.12
+1003001	exportiamalg #1	19	54	419.98
+5001001	amalgscholar #2	9	3	419.85
+10015013	scholaramalgamalg #13	18	33	419.76
+5003001	exportischolar #1	18	41	419.60
+10009001	maxiunivamalg #1	9	10	419.16
+10007005	brandunivamalg #5	8	40	419.10
+10016003	corpamalgamalg #3	19	22	418.60
+2004002	edu packimporto #2	19	39	417.76
+1002001	importoamalg #1	8	59	416.88
+9012011	importoamalg #2	17	29	416.85
+6009008	maxicorp #8	8	38	416.80
+4003002	exportiedu pack #2	7	50	416.43
+8003003	exportinameless #3	19	11	415.74
+8008007	namelessnameless #7	19	50	415.68
+6010004	univbrand #4	7	25	415.52
+4004002	edu packedu pack #2	19	8	415.48
+4002001	importoscholar #2	18	0	415.47
+7003002	exportibrand #2	17	30	415.20
+8008003	namelessnameless #3	17	20	415.15
+5004002	edu packscholar #2	18	23	415.03
+7014001	edu packnameless #1	19	44	414.48
+1001002	amalgamalg #2	19	44	413.44
+4004001	importoscholar #2	18	15	413.40
+5004001	edu packscholar #1	19	53	412.80
+4003001	exportiedu pack #1	7	33	412.56
+6016006	corpbrand #6	8	14	412.08
+10008009	namelessunivamalg #9	19	30	411.73
+7006001	corpbrand #1	9	4	411.68
+6012002	importobrand #2	7	39	411.48
+5001002	amalgscholar #2	18	26	411.23
+8016010	corpmaxi #10	9	41	411.00
+8005005	scholarnameless #5	17	31	410.70
+7009005	amalgscholar #2	9	32	410.65
+8007008	brandnameless #8	9	59	410.62
+7012009	importonameless #9	9	38	410.54
+10014010	edu packamalgamalg #10	19	47	410.44
+5004002	edu packscholar #2	17	33	410.24
+9007008	brandmaxi #8	19	26	409.60
+2001002	amalgimporto #2	9	4	409.50
+6016006	corpbrand #6	18	42	409.50
+2004002	edu packimporto #2	9	50	408.87
+3004001	edu packexporti #1	9	32	408.75
+10015012	scholaramalgamalg #12	19	22	408.50
+7013001	exportiimporto #2	9	20	408.03
+5001002	amalgscholar #2	6	55	408.00
+6010002	univbrand #2	17	38	407.88
+6009003	maxicorp #3	18	24	407.54
+10009001	maxiunivamalg #1	6	47	407.52
+10004017	edu packunivamalg #17	7	8	407.34
+2003001	exportiimporto #1	8	49	407.10
+5004002	edu packscholar #2	7	8	406.62
+7009002	maxibrand #2	6	49	406.50
+3003002	exportiexporti #2	18	35	406.15
+8010002	univmaxi #2	17	16	406.08
+8012004	importomaxi #4	19	16	406.05
+8010001	univamalgamalg #5	18	50	406.00
+2003001	exportiimporto #1	9	56	405.96
+10008009	namelessunivamalg #9	17	8	405.80
+5003002	exportischolar #2	17	27	405.79
+3001002	amalgexporti #2	17	59	405.48
+3002002	importoexporti #2	6	8	405.28
+4002001	edu packscholar #2	7	17	405.25
+1002001	importoamalg #1	7	57	404.64
+1002002	importoamalg #2	19	1	404.64
+7004006	edu packbrand #6	18	30	403.69
+6008002	namelesscorp #2	8	13	403.60
+10011014	amalgamalgamalg #14	18	16	402.90
+1002002	importoamalg #2	19	26	402.84
+10011017	amalgamalgamalg #17	19	35	402.80
+2002002	importoimporto #2	17	55	402.42
+1004002	edu packamalg #2	19	57	401.94
+4001002	amalgedu pack #2	18	21	401.94
+5001001	maxicorp #4	18	11	401.94
+10009017	maxiunivamalg #17	18	44	401.94
+1002002	importoamalg #2	9	47	401.62
+9007009	brandmaxi #9	9	40	401.33
+9004008	edu packmaxi #8	9	33	401.28
+10008013	namelessunivamalg #13	9	18	401.04
+2004001	importoexporti #2	18	55	400.96
+8016001	corpmaxi #1	19	28	400.80
+1001002	amalgamalg #2	9	9	400.77
+1001001	brandnameless #8	9	9	400.50
+2001001	amalgimporto #1	17	35	400.50
+6001001	amalgcorp #1	19	25	399.60
+3004002	edu packexporti #2	8	14	399.33
+9012003	importounivamalg #3	8	22	398.72
+7008009	namelessbrand #9	9	2	398.16
+2004002	edu packimporto #2	9	23	397.98
+10006017	corpunivamalg #17	7	21	397.98
+10003007	exportiunivamalg #7	19	3	397.54
+9011009	amalgunivamalg #9	19	28	396.68
+3001002	amalgexporti #2	8	17	396.63
+5004002	edu packscholar #2	8	57	395.49
+6006006	corpcorp #6	17	3	394.80
+10004005	importounivamalg #6	9	24	394.68
+1004001	edu packscholar #2	17	43	394.65
+9009002	maximaxi #2	8	17	394.65
+9010009	univunivamalg #9	17	43	394.55
+3004002	edu packexporti #2	9	38	393.96
+1001002	amalgamalg #2	8	28	393.87
+1002001	importoamalg #1	17	15	393.39
+7015009	scholarnameless #9	19	4	393.16
+9012006	importounivamalg #6	19	21	393.00
+7014002	edu packnameless #2	7	8	392.91
+5002002	importoscholar #2	18	14	392.84
+7004008	edu packbrand #8	18	2	392.59
+6006006	corpcorp #6	8	20	392.48
+2004001	importoexporti #2	19	29	392.40
+5002002	importoscholar #2	19	2	392.40
+5004002	edu packscholar #2	19	32	391.52
+1004001	edu packamalg #1	8	16	391.44
+5001002	amalgscholar #2	9	1	391.16
+10010013	univamalgamalg #13	18	31	391.04
+8005008	scholarnameless #8	17	45	391.00
+5002002	importoscholar #2	6	58	390.66
+7014002	edu packnameless #2	18	58	390.45
+6001008	amalgcorp #8	19	54	390.00
+3001002	amalgexporti #2	18	5	389.90
+8010009	univmaxi #9	18	31	389.70
+4003002	exportiedu pack #2	8	9	389.34
+10011013	amalgunivamalg #6	6	47	389.34
+10006002	corpunivamalg #2	19	24	389.18
+1001001	amalgamalg #1	18	1	389.00
+7007010	brandbrand #10	19	33	389.00
+7010008	univnameless #8	8	24	388.27
+6012002	importobrand #2	9	30	388.08
+10009008	maxiunivamalg #8	6	30	388.00
+1002001	importoamalg #1	9	49	387.84
+10012001	importoamalgamalg #1	17	15	387.48
+6005007	scholarcorp #7	17	46	386.96
+4003001	exportischolar #2	19	54	386.88
+10007012	brandunivamalg #12	18	37	386.75
+1002001	importoamalg #1	17	21	386.32
+1002002	importoamalg #2	6	10	385.80
+3001001	amalgexporti #1	17	56	385.32
+10006009	corpunivamalg #9	19	30	385.12
+10004015	edu packunivamalg #15	19	28	385.11
+1003001	exportiamalg #1	18	8	384.54
+2002001	amalgscholar #2	18	58	384.16
+7009010	maxibrand #10	8	48	383.99
+3003002	exportiexporti #2	8	8	383.90
+9010009	univunivamalg #9	7	13	383.18
+2003001	exportiimporto #1	9	19	383.16
+4002002	importoedu pack #2	9	31	382.32
+3002001	maxibrand #4	17	33	382.00
+10011013	amalgunivamalg #6	17	47	381.92
+4001001	exportiexporti #2	9	32	381.22
+1003001	exportiamalg #1	6	19	380.60
+5002001	amalgamalgamalg #12	9	44	380.60
+2003002	exportiimporto #2	8	47	380.30
+1003001	brandbrand #6	8	16	379.95
+2004001	exportimaxi #8	6	56	379.89
+2002001	importoimporto #1	9	10	379.61
+3002001	importoexporti #1	7	38	379.47
+6011008	amalgbrand #8	18	13	379.08
+6001002	amalgcorp #2	19	2	378.95
+9008008	namelessmaxi #8	17	11	378.45
+8015008	scholarmaxi #8	17	33	378.18
+1003001	exportiamalg #1	17	24	377.64
+10016003	corpamalgamalg #3	18	41	377.34
+9009002	maximaxi #2	17	27	377.20
+7006001	corpcorp #4	18	28	376.79
+1004001	edu packamalg #1	18	13	376.38
+9003003	exportimaxi #3	8	38	376.25
+7002010	importobrand #10	8	5	375.82
+6004007	edu packscholar #2	17	17	375.76
+8010008	univmaxi #8	18	49	375.68
+10012001	importoamalgamalg #1	18	27	375.25
+3001001	amalgexporti #1	18	54	375.05
+10004012	edu packunivamalg #12	19	58	374.92
+7006007	edu packamalg #2	19	5	374.85
+9016009	corpunivamalg #9	7	57	374.27
+9009002	maximaxi #2	9	5	374.22
+10011012	importoimporto #2	9	4	373.54
+10002014	importounivamalg #14	9	44	372.40
+7010004	univnameless #4	19	34	372.24
+2001002	amalgimporto #2	9	33	371.70
+3002001	amalgexporti #2	18	35	371.52
+1002002	importoamalg #2	8	14	371.28
+6016006	corpbrand #6	19	9	371.18
+7012010	importonameless #10	8	45	371.13
+10014003	edu packamalgamalg #3	19	35	371.11
+7010001	univnameless #1	19	14	371.09
+2002002	importoimporto #2	19	36	371.00
+5004002	edu packscholar #2	18	37	370.59
+1002001	amalgscholar #2	9	57	370.02
+3002001	importoexporti #1	17	52	370.00
+4003001	exportischolar #2	18	13	369.92
+3004001	edu packexporti #1	8	5	369.75
+2001002	amalgimporto #2	17	4	369.63
+5004002	edu packscholar #2	19	22	369.12
+9013008	exportiunivamalg #8	17	0	369.05
+6008002	namelesscorp #2	18	14	368.64
+4002002	importoedu pack #2	17	14	368.50
+1001001	univamalgamalg #16	19	1	368.46
+1001002	amalgamalg #2	8	50	367.92
+3003002	exportiexporti #2	19	48	367.92
+5001001	amalgscholar #2	8	52	367.71
+9016002	corpunivamalg #2	8	0	367.68
+4003001	exportischolar #2	18	23	367.56
+6003003	exporticorp #3	17	26	365.80
+7009002	maxibrand #2	17	43	365.64
+8009010	maxinameless #10	17	56	365.60
+9006006	corpmaxi #6	17	48	365.56
+5004001	amalgedu pack #2	19	2	365.04
+7015002	scholarnameless #2	8	17	364.80
+10004008	edu packunivamalg #8	9	17	364.76
+3004001	edu packexporti #1	9	17	364.53
+4001001	importobrand #2	8	39	363.96
+2004001	edu packimporto #1	7	9	363.81
+6005008	scholarcorp #8	19	32	363.78
+7015009	scholarnameless #9	17	5	363.78
+4004002	edu packedu pack #2	19	31	363.76
+3001002	amalgexporti #2	9	37	363.72
+10003004	exportiunivamalg #4	17	40	363.44
+6016006	corpbrand #6	19	34	363.40
+9005009	scholarmaxi #9	17	20	363.37
+3002002	importoexporti #2	9	47	363.09
+4001001	exportiimporto #2	9	30	363.00
+4002002	importoedu pack #2	18	17	362.97
+3004001	edu packexporti #1	6	28	362.96
+3004002	edu packexporti #2	9	22	362.95
+2002001	importoimporto #1	6	42	362.88
+1004002	edu packamalg #2	18	18	362.80
+8004009	edu packnameless #9	17	9	362.71
+6013006	exportibrand #6	8	12	362.70
+1004001	edu packamalg #1	17	57	362.61
+3002002	importoexporti #2	17	27	362.56
+9006008	corpmaxi #8	17	49	362.50
+10003006	exportiunivamalg #6	17	20	362.16
+4004002	edu packedu pack #2	19	27	361.47
+7013009	exportinameless #9	18	29	361.27
+5002001	amalgamalg #2	9	54	360.60
+2001001	amalgimporto #1	9	8	360.34
+5001002	amalgscholar #2	9	39	360.34
+7010003	univnameless #3	8	39	360.24
+8016001	corpmaxi #1	19	6	360.24
+3002002	importoexporti #2	19	13	360.18
+8015003	scholarmaxi #3	19	16	359.95
+10015012	scholaramalgamalg #12	17	51	359.85
+4003001	exportiedu pack #1	18	43	359.79
+4001001	amalgedu pack #1	17	4	359.24
+1001001	amalgamalg #1	18	28	359.17
+1003002	exportiamalg #2	19	49	359.10
+8003004	exportinameless #4	19	47	359.04
+9013012	exportiunivamalg #12	18	19	359.02
+6011002	amalgbrand #2	9	6	358.80
+7006004	corpbrand #4	17	59	358.00
+3001002	amalgexporti #2	19	36	357.72
+5001002	amalgscholar #2	18	25	356.70
+7012009	importonameless #9	17	46	356.40
+2004001	edu packimporto #1	18	8	356.31
+3002001	importoexporti #1	17	2	355.96
+6006002	corpcorp #2	18	10	355.68
+9006008	corpmaxi #8	19	34	355.68
+8004009	edu packnameless #9	17	14	355.47
+4002001	importoedu pack #1	9	57	355.32
+4001002	amalgedu pack #2	9	15	355.08
+9015002	scholarunivamalg #2	8	11	355.04
+2001001	amalgimporto #1	17	1	354.71
+7004009	importoimporto #2	17	3	354.51
+10016016	corpamalgamalg #16	17	54	353.85
+3004002	edu packexporti #2	8	8	353.28
+3002001	importoexporti #1	18	14	353.22
+4001002	amalgedu pack #2	8	34	352.95
+7008006	namelessbrand #6	17	11	352.80
+7012009	importonameless #9	8	38	352.80
+8008003	namelessnameless #3	9	48	351.96
+6011008	amalgbrand #8	19	41	351.54
+3003001	importoimporto #2	18	47	351.44
+10007015	brandunivamalg #15	18	30	350.62
+3002002	importoexporti #2	19	50	350.46
+4003001	exportiedu pack #1	18	0	350.20
+5004001	edu packscholar #1	19	59	350.14
+6015004	scholarbrand #4	8	42	350.04
+6006006	corpcorp #6	18	26	348.92
+4002002	importoedu pack #2	18	35	348.68
+1001002	amalgamalg #2	18	55	348.60
+9014008	edu packunivamalg #8	19	12	348.44
+6005005	maxibrand #10	8	12	348.00
+4004002	edu packedu pack #2	8	26	347.99
+8004001	edu packnameless #1	19	4	347.49
+7014009	edu packnameless #9	19	46	347.34
+8015005	scholarmaxi #5	17	10	347.16
+1004001	edu packimporto #2	18	21	346.80
+5003002	exportischolar #2	19	56	346.68
+10012004	importoamalgamalg #4	19	49	346.64
+3002001	univamalgamalg #6	19	15	346.45
+3002002	importoexporti #2	19	34	346.29
+1004001	edu packamalg #1	18	39	346.21
+3004002	edu packexporti #2	9	16	346.12
+5001001	amalgbrand #8	17	8	345.50
+7001009	amalgbrand #9	17	10	345.40
+2003002	exportiimporto #2	19	5	345.00
+10008009	namelessunivamalg #9	8	20	345.00
+8015006	scholarmaxi #6	18	33	344.96
+10014001	edu packamalgamalg #1	17	46	343.92
+1002001	importoamalg #1	6	53	343.53
+6015006	scholarbrand #6	8	31	342.72
+10016013	corpamalgamalg #13	7	1	342.02
+4003002	exportiedu pack #2	17	8	341.99
+5003001	importoedu pack #2	9	57	341.64
+NULL	NULL	18	10	341.20
+5001001	edu packexporti #2	9	30	340.69
+2004001	edu packcorp #8	18	52	340.56
+8010008	univmaxi #8	17	8	340.26
+4004002	edu packedu pack #2	9	12	340.20
+7005007	scholarbrand #7	19	33	339.66
+10003004	exportiunivamalg #4	19	3	339.48
+4004001	edu packedu pack #1	8	37	339.30
+5003002	exportischolar #2	8	46	339.15
+3004001	edu packexporti #1	18	38	338.14
+5003002	exportischolar #2	18	10	338.10
+4003001	exportiedu pack #1	18	27	337.80
+9014003	edu packunivamalg #3	8	30	337.59
+8015008	scholarmaxi #8	17	41	337.50
+4001001	amalgedu pack #1	17	30	337.04
+10008002	namelessunivamalg #2	17	57	336.75
+4003001	exportiedu pack #1	7	14	336.40
+3001001	amalgexporti #1	17	7	336.11
+7014009	edu packnameless #9	7	21	336.00
+8009009	maxinameless #9	19	53	336.00
+4004002	edu packedu pack #2	18	19	335.79
+7006007	edu packamalg #2	7	48	335.52
+6016006	corpbrand #6	17	20	335.34
+2002001	importoimporto #1	8	32	334.95
+10014014	edu packamalgamalg #14	18	43	334.95
+2004001	brandcorp #4	8	50	334.80
+6016001	corpbrand #1	17	22	334.60
+9013002	exportiunivamalg #2	8	0	334.40
+4004002	edu packedu pack #2	17	3	334.36
+10003007	exportiunivamalg #7	17	21	334.15
+7007005	exportiamalg #2	18	40	334.08
+2004001	importoexporti #2	9	49	333.35
+9003003	exportimaxi #3	18	20	332.78
+6015006	scholarbrand #6	18	50	332.10
+7008006	namelessbrand #6	18	40	331.52
+3003002	exportiexporti #2	17	58	331.50
+2001001	amalgamalg #2	19	12	330.98
+10009013	maxiunivamalg #13	8	12	330.82
+9002003	importomaxi #3	19	32	330.79
+6016008	corpbrand #8	8	17	330.75
+8003003	exportinameless #3	9	45	330.75
+10012005	importoamalgamalg #5	9	1	330.60
+1004002	edu packamalg #2	17	37	329.92
+6006006	corpcorp #6	18	15	329.84
+7010010	univnameless #10	6	54	329.70
+1004002	edu packamalg #2	19	25	329.53
+9006006	corpmaxi #6	9	26	329.40
+4003001	exportiedu pack #1	9	39	329.23
+4003002	exportiedu pack #2	8	53	328.90
+1001002	amalgamalg #2	19	15	328.79
+4002001	scholarmaxi #6	19	37	328.79
+6001001	amalgcorp #1	8	53	328.50
+3001001	amalgexporti #1	17	45	328.35
+8005003	scholarnameless #3	8	6	328.20
+9008008	namelessmaxi #8	18	49	328.00
+2004001	edu packimporto #1	17	11	327.85
+3001002	amalgexporti #2	17	44	327.60
+8012005	importomaxi #5	18	49	327.46
+1002002	importoamalg #2	6	12	327.32
+7005007	scholarbrand #7	9	45	327.27
+3004001	edu packexporti #1	19	31	326.80
+1004002	edu packamalg #2	18	26	326.76
+9009006	maximaxi #6	17	56	326.54
+1002001	importoamalg #1	9	24	326.25
+6008002	namelesscorp #2	19	8	325.71
+3001001	amalgexporti #1	17	46	325.60
+1003001	exportiamalg #1	18	29	325.25
+2002001	exportiexporti #2	18	27	325.08
+1003001	exportiamalg #1	6	5	324.76
+7008009	namelessbrand #9	6	55	324.70
+10007004	brandunivamalg #4	18	8	324.54
+2001002	amalgimporto #2	9	26	324.40
+5004002	edu packscholar #2	9	19	324.03
+1004001	edu packamalg #1	8	1	324.00
+4003001	corpcorp #2	9	12	323.92
+2001002	amalgimporto #2	17	0	323.80
+2002001	amalgscholar #2	17	30	323.64
+1004001	edu packamalg #1	7	16	323.61
+6005008	scholarcorp #8	9	43	323.40
+2004001	edu packunivamalg #8	9	24	322.80
+1001001	amalgamalg #1	9	50	322.74
+1003002	exportiamalg #2	7	54	322.66
+8008004	namelessnameless #4	18	12	322.63
+6012002	importobrand #2	6	54	322.56
+7003005	exportibrand #5	17	25	322.53
+10016016	corpamalgamalg #16	19	57	321.60
+7007004	brandbrand #4	9	48	320.96
+7001005	amalgbrand #5	7	32	320.76
+10016008	corpamalgamalg #8	8	21	320.58
+1004002	edu packamalg #2	6	59	320.10
+9015003	scholarunivamalg #3	18	38	319.80
+3003002	exportiexporti #2	18	56	319.50
+7008004	namelessbrand #4	19	15	319.26
+4004002	edu packedu pack #2	8	38	319.20
+3004002	edu packexporti #2	18	27	318.78
+1004001	edu packimporto #2	17	18	318.60
+9012003	importounivamalg #3	17	39	318.60
+10009013	exportibrand #6	17	59	318.23
+1002001	importoamalg #1	9	6	318.00
+2002001	importoimporto #1	17	24	317.95
+6015006	scholarbrand #6	19	44	317.52
+6005001	scholarcorp #1	17	37	317.46
+9016002	corpunivamalg #2	17	56	317.40
+3004001	edu packscholar #2	18	58	317.20
+6005003	scholarcorp #3	17	29	317.17
+6011002	amalgbrand #2	8	42	317.16
+1003001	exportiamalg #1	9	29	317.13
+2004002	edu packimporto #2	18	31	317.12
+10006003	corpunivamalg #3	18	41	316.95
+2003002	exportiimporto #2	17	33	316.91
+3004001	edu packexporti #1	18	49	316.81
+8008009	namelessnameless #9	17	8	316.68
+4003002	exportiedu pack #2	19	23	316.54
+1004002	edu packamalg #2	9	34	316.52
+4003001	exportiedu pack #1	17	33	316.20
+6008002	namelesscorp #2	18	7	316.20
+4002002	importoedu pack #2	19	12	315.75
+1004002	edu packamalg #2	9	30	315.62
+10013002	exportiamalgamalg #2	18	58	315.59
+7009009	maxibrand #9	9	25	315.52
+10014003	edu packamalgamalg #3	9	43	315.36
+6006002	corpcorp #2	17	45	314.94
+6005007	scholarcorp #7	19	46	314.93
+5002002	importoscholar #2	8	1	314.82
+10006002	corpunivamalg #2	17	17	314.16
+2004002	edu packimporto #2	8	38	314.08
+6011002	amalgbrand #2	19	22	313.92
+10014016	edu packamalgamalg #16	8	12	313.65
+9016003	corpunivamalg #3	19	1	313.11
+10011009	amalgamalgamalg #9	19	54	313.05
+1004001	edu packamalg #1	17	59	312.62
+8004001	edu packnameless #1	17	20	312.56
+10009008	maxiunivamalg #8	19	42	311.92
+5001002	amalgscholar #2	18	23	311.85
+2003001	amalgbrand #4	18	9	311.64
+2001002	amalgimporto #2	19	30	311.40
+3003001	exportiexporti #1	17	17	311.30
+10008004	namelessunivamalg #4	17	53	311.10
+3002001	importounivamalg #7	8	50	310.78
+7014009	edu packnameless #9	18	2	310.56
+1001002	amalgamalg #2	18	30	310.50
+8005005	scholarnameless #5	17	4	310.38
+3004001	edu packexporti #1	19	46	310.08
+7006001	corpbrand #1	9	39	310.08
+1002002	importoamalg #2	8	7	310.06
+4003001	exportiedu pack #1	18	42	309.98
+1004001	edu packamalg #1	9	53	309.96
+9011008	amalgunivamalg #8	19	17	309.96
+8005010	scholarnameless #10	8	24	309.54
+3002002	importoexporti #2	17	12	309.40
+10007015	brandunivamalg #15	19	48	309.40
+2002002	importoimporto #2	9	54	309.32
+10015017	scholaramalgamalg #17	19	4	308.87
+10002012	importounivamalg #12	17	3	308.80
+6015004	scholarbrand #4	17	31	308.52
+9014008	edu packunivamalg #8	17	59	308.49
+1003002	exportiamalg #2	9	58	308.28
+10006017	corpunivamalg #17	8	42	308.04
+3004001	edu packexporti #1	9	51	308.00
+6010006	univbrand #6	19	24	308.00
+9001008	amalgmaxi #8	18	10	308.00
+9014002	edu packunivamalg #2	19	35	307.44
+6012002	importobrand #2	19	29	307.43
+4001001	importobrand #2	6	15	306.96
+10016008	corpamalgamalg #8	17	55	306.90
+7007004	brandbrand #4	19	8	306.74
+8002009	importonameless #9	8	49	306.56
+7002006	importobrand #6	9	9	306.47
+4002001	exportiimporto #2	8	14	306.42
+9011009	amalgunivamalg #9	19	21	306.01
+10003016	exportiunivamalg #16	8	52	305.90
+10015009	scholaramalgamalg #9	19	9	305.85
+6016006	corpbrand #6	19	18	305.64
+3004001	edu packexporti #1	19	17	305.61
+4001001	maxiunivamalg #16	9	59	305.56
+6015006	scholarbrand #6	18	4	305.50
+6011003	amalgbrand #3	17	36	305.44
+3001002	amalgexporti #2	9	10	305.37
+9014002	edu packunivamalg #2	9	22	305.20
+10015001	scholaramalgamalg #1	19	53	304.80
+2001002	amalgimporto #2	9	15	304.52
+6008005	edu packmaxi #6	8	0	304.48
+7001005	amalgbrand #5	9	8	303.52
+6015002	scholarbrand #2	17	27	303.36
+4004001	edu packscholar #2	19	48	303.12
+8002009	importonameless #9	9	2	302.52
+2002001	amalgscholar #2	18	19	302.28
+7001009	amalgbrand #9	8	17	301.68
+6014004	edu packbrand #4	19	27	301.53
+3003001	importoimporto #2	18	0	301.50
+1001001	brandnameless #8	17	14	301.40
+5003001	exportischolar #1	18	33	301.40
+10012004	importoamalgamalg #4	17	12	300.96
+6001001	amalgcorp #1	8	59	300.72
+10009001	maxiunivamalg #1	17	10	300.60
+3002002	importoexporti #2	19	14	300.30
+10013002	exportiamalgamalg #2	19	20	300.24
+6012007	importobrand #7	17	39	300.08
+6003001	exportiimporto #2	19	56	300.02
+8004001	importonameless #2	17	34	299.71
+3003002	exportiexporti #2	18	5	299.00
+4004002	edu packedu pack #2	8	42	297.99
+7013009	exportinameless #9	18	32	297.88
+9002008	importomaxi #8	19	43	297.57
+7005007	scholarbrand #7	17	15	296.78
+5003001	importoedu pack #2	9	23	296.67
+8009009	maxinameless #9	9	39	296.45
+6016006	corpbrand #6	8	18	296.10
+9007009	brandmaxi #9	9	25	296.10
+6003001	exportiimporto #2	18	46	296.01
+4001001	amalgedu pack #1	18	28	296.00
+4004002	edu packedu pack #2	17	28	296.00
+1003002	exportiamalg #2	7	36	295.25
+4002002	importoedu pack #2	17	47	294.96
+4003002	exportiedu pack #2	8	43	294.40
+3004002	edu packexporti #2	17	35	294.32
+3002002	importoexporti #2	18	56	294.10
+4001001	maxiunivamalg #16	17	35	294.00
+4004001	corpamalgamalg #8	18	58	293.93
+2002001	importoimporto #1	17	13	293.92
+1001001	univamalgamalg #16	17	7	293.19
+10010006	univamalgamalg #6	19	22	293.10
+10009006	maxiunivamalg #6	17	27	292.33
+8005009	scholarnameless #9	8	17	292.12
+7015009	scholarnameless #9	9	48	291.83
+6014002	edu packbrand #2	17	43	291.41
+9016003	corpunivamalg #3	18	38	291.24
+6010004	univbrand #4	17	39	291.08
+2002001	importoimporto #1	6	41	291.00
+1004001	edu packamalg #1	19	44	290.56
+10011013	amalgunivamalg #6	17	35	290.51
+8015005	scholarmaxi #5	19	30	290.10
+3002002	importoexporti #2	17	3	289.77
+4003001	exportischolar #2	7	54	289.46
+9002003	importomaxi #3	17	3	289.35
+9001008	amalgmaxi #8	18	1	289.08
+10014010	edu packamalgamalg #10	19	19	289.00
+7014008	edu packnameless #8	19	40	288.80
+4001002	amalgedu pack #2	8	46	288.60
+3003001	univamalgamalg #6	9	23	288.56
+6011003	importobrand #4	19	32	288.53
+9011009	amalgunivamalg #9	19	1	288.47
+8015006	scholarmaxi #6	19	58	288.25
+8016006	corpmaxi #6	18	2	287.91
+10008009	corpcorp #8	9	16	287.79
+1002002	importoamalg #2	9	58	287.64
+1001001	namelessunivamalg #4	18	27	287.50
+7004009	edu packbrand #9	18	43	287.30
+9015002	scholarunivamalg #2	19	46	287.28
+2004001	edu packimporto #1	19	35	287.25
+2004002	edu packimporto #2	9	41	286.38
+6008002	namelesscorp #2	19	11	286.28
+9006009	corpmaxi #9	17	46	285.72
+7006001	corpcorp #4	18	39	285.28
+8009009	maxinameless #9	7	48	285.04
+10007004	brandunivamalg #4	9	39	284.90
+3002001	univamalgamalg #6	9	34	284.44
+7004008	edu packbrand #8	8	2	284.40
+10004015	edu packunivamalg #15	7	9	284.40
+7010006	univnameless #6	17	28	283.80
+4004001	scholarnameless #4	8	17	283.58
+4002001	importoedu pack #1	17	48	283.55
+1003001	exportiamalg #1	19	21	283.53
+4003001	exportiedu pack #1	18	47	283.29
+6009003	maxicorp #3	9	16	283.26
+5002001	exportibrand #8	9	48	283.25
+7009002	maxibrand #2	17	22	283.20
+6015007	scholarbrand #7	9	53	283.14
+3003001	amalgscholar #2	17	45	282.82
+9012003	importounivamalg #3	18	7	282.73
+1003001	brandbrand #6	7	31	282.72
+5004002	edu packscholar #2	19	10	282.20
+1003002	exportiamalg #2	9	16	282.15
+6010006	univbrand #6	17	24	282.00
+6009003	maxicorp #3	19	52	281.78
+9003003	exportimaxi #3	19	11	281.60
+9011008	amalgunivamalg #8	9	30	281.60
+7007004	brandbrand #4	19	31	280.98
+8010008	univmaxi #8	19	5	280.80
+3002002	importoexporti #2	18	55	280.50
+7014002	edu packnameless #2	8	42	280.32
+10001008	amalgunivamalg #8	8	58	279.84
+8008005	namelessnameless #5	19	35	279.60
+2004001	exportimaxi #8	8	57	279.45
+7015007	scholarnameless #7	17	10	279.36
+7014001	edu packnameless #1	18	57	279.27
+3003001	exportiexporti #1	9	51	279.12
+2004001	edu packunivamalg #8	17	56	278.54
+1001002	amalgamalg #2	19	55	278.25
+10006002	corpunivamalg #2	17	28	278.07
+6014002	edu packbrand #2	9	23	277.86
+9011009	amalgunivamalg #9	7	53	277.80
+4004001	edu packedu pack #1	18	55	277.74
+10012005	importoamalgamalg #5	17	50	277.56
+3003001	univamalgamalg #6	19	31	277.29
+9016009	corpunivamalg #9	9	50	276.99
+8010001	univamalgamalg #5	7	45	276.92
+4003001	edu packamalg #2	18	3	276.64
+8010009	univmaxi #9	19	11	276.54
+10003007	exportiunivamalg #7	18	36	276.48
+6003008	exporticorp #8	19	0	276.36
+7001001	importoexporti #2	7	14	276.36
+7013001	exportinameless #1	9	4	276.08
+9010012	univunivamalg #12	7	28	276.00
+8002009	importonameless #9	17	15	275.88
+2004001	corpmaxi #8	17	51	274.92
+8010009	univmaxi #9	19	10	274.91
+4002002	importoedu pack #2	9	23	274.50
+2004001	importoexporti #2	17	5	274.32
+2004002	edu packimporto #2	18	16	273.90
+3004001	edu packexporti #1	9	26	273.87
+6010006	univbrand #6	9	26	273.76
+5002002	importoscholar #2	17	48	273.48
+5001001	edu packexporti #2	18	41	273.28
+8005006	scholarnameless #6	17	0	273.00
+7007004	brandbrand #4	19	55	272.91
+7013002	exportinameless #2	17	20	272.64
+9006002	corpmaxi #2	9	53	272.62
+10014001	maxibrand #4	17	40	271.44
+8014004	edu packmaxi #4	8	0	271.35
+9011008	amalgunivamalg #8	9	52	271.04
+10009015	maxiunivamalg #15	19	1	270.94
+1004001	edu packamalg #1	19	20	270.90
+5004002	edu packscholar #2	19	46	270.88
+6005005	maxibrand #10	8	17	270.86
+4002001	scholarmaxi #6	19	55	270.48
+8009009	maxinameless #9	7	50	270.48
+9008002	namelessmaxi #2	19	30	270.27
+9006009	corpmaxi #9	9	1	269.80
+10008004	namelessunivamalg #4	17	24	269.80
+10009013	maxiunivamalg #13	18	41	269.67
+5004001	scholarnameless #6	18	2	269.46
+3003001	exportiexporti #1	8	40	269.34
+10014010	edu packamalgamalg #10	18	54	269.22
+3003002	exportiexporti #2	9	25	268.95
+2004002	edu packimporto #2	8	47	268.92
+7006009	corpbrand #9	8	52	268.38
+8008003	namelessnameless #3	6	0	268.30
+10008012	namelessunivamalg #12	19	19	268.25
+10003011	exportiunivamalg #11	9	57	268.20
+5003001	exportiamalg #2	8	42	268.18
+8010004	univmaxi #4	17	46	267.80
+1001002	amalgamalg #2	8	35	267.75
+6016001	corpbrand #1	6	33	267.75
+1002002	importoamalg #2	9	56	267.74
+4002001	importoedu pack #1	17	10	267.36
+8001004	amalgnameless #4	19	11	267.24
+4003001	exportiedu pack #1	18	34	267.15
+10008004	namelessunivamalg #4	18	4	267.05
+5001002	amalgscholar #2	18	24	267.00
+3003002	exportiexporti #2	19	59	266.89
+10014016	edu packamalgamalg #16	7	56	266.84
+3002002	importoexporti #2	19	33	266.21
+4002002	importoedu pack #2	7	30	265.68
+9015009	scholarunivamalg #9	8	56	265.68
+2001002	amalgimporto #2	8	3	265.60
+8010005	univmaxi #5	9	16	265.35
+9006009	corpmaxi #9	18	59	265.35
+10013002	exportiamalgamalg #2	17	19	265.00
+10015013	scholaramalgamalg #13	19	11	264.85
+1003001	corpunivamalg #12	17	24	264.60
+4004001	edu packedu pack #1	18	44	264.45
+3004002	edu packexporti #2	6	11	264.40
+5002001	amalgamalgamalg #12	17	4	264.35
+4003002	exportiedu pack #2	7	15	264.32
+2004001	edu packcorp #8	9	3	264.30
+2003001	exportiimporto #1	9	0	263.97
+5003002	exportischolar #2	17	19	263.34
+7005006	scholarbrand #6	18	13	262.80
+8005005	scholarnameless #5	6	48	262.80
+2004002	edu packimporto #2	18	3	262.77
+6015006	scholarbrand #6	18	58	262.32
+5001002	amalgscholar #2	9	45	262.18
+3002001	importoexporti #1	18	17	262.08
+7002008	importobrand #8	8	41	261.80
+10010006	univamalgamalg #6	9	58	261.80
+6014005	edu packamalgamalg #8	19	12	261.66
+10003011	exportiunivamalg #11	19	10	261.58
+3003001	exportiexporti #1	17	36	261.45
+8003002	exportinameless #2	8	24	261.33
+5003002	exportischolar #2	9	49	261.00
+10009009	maxiunivamalg #9	6	47	260.80
+6004007	edu packscholar #2	19	15	260.48
+6001001	amalgcorp #1	19	23	260.46
+3004002	edu packexporti #2	6	23	260.40
+1001001	brandnameless #8	17	47	260.36
+7010001	univnameless #1	8	43	259.00
+8003003	exportinameless #3	9	42	258.68
+1001002	amalgamalg #2	18	46	258.60
+3004001	edu packexporti #1	19	55	258.42
+6016003	corpbrand #3	18	42	258.40
+9014002	edu packunivamalg #2	17	14	258.40
+3001002	amalgexporti #2	7	11	258.31
+4004001	edu packedu pack #1	18	38	258.00
+9009009	maximaxi #9	18	51	257.95
+3003001	exportiexporti #1	18	53	257.74
+2001001	amalgimporto #1	8	37	257.64
+3001002	amalgexporti #2	19	47	257.64
+2003001	exportiimporto #1	19	6	257.60
+2003002	exportiimporto #2	18	54	257.32
+6001008	amalgcorp #8	9	55	256.78
+8012001	amalgexporti #2	8	50	256.70
+4001001	exportiimporto #2	19	57	256.66
+3004001	edu packexporti #1	17	35	256.20
+3004002	edu packexporti #2	18	17	255.78
+6009003	maxicorp #3	18	50	255.78
+6005001	scholarcorp #1	19	5	255.75
+6016001	amalgexporti #2	18	13	255.75
+10012001	importoamalgamalg #1	17	35	255.60
+10015009	scholaramalgamalg #9	19	33	255.42
+2002001	importoimporto #1	8	0	255.34
+8005009	scholarnameless #9	7	30	254.40
+5004002	edu packscholar #2	17	1	254.22
+8003004	exportinameless #4	19	26	254.22
+5002001	amalgamalgamalg #12	8	2	254.15
+3004002	edu packexporti #2	7	17	254.00
+10004017	edu packunivamalg #17	17	31	253.76
+4002001	importoedu pack #1	6	42	253.40
+7005010	scholarbrand #10	6	23	253.30
+9002008	importomaxi #8	9	49	253.08
+5001001	edu packexporti #2	19	20	252.90
+3002001	namelessunivamalg #15	18	11	252.84
+5001001	brandunivamalg #11	8	45	252.12
+7014001	edu packnameless #1	8	29	252.08
+1001001	namelessunivamalg #4	19	47	251.46
+9012006	importounivamalg #6	18	54	251.28
+5002001	importoscholar #1	18	12	251.14
+6010006	univbrand #6	17	51	250.80
+10015013	scholaramalgamalg #13	8	7	250.80
+2001001	amalgimporto #1	19	19	250.47
+2004002	edu packimporto #2	17	33	250.40
+8010009	univmaxi #9	19	35	250.26
+5004002	edu packscholar #2	19	3	250.24
+7014009	edu packnameless #9	17	30	250.08
+7016001	corpnameless #1	19	18	250.08
+2001002	amalgimporto #2	9	0	249.96
+3002002	importoexporti #2	18	33	249.83
+6011003	importobrand #4	9	8	249.48
+10003011	exportiunivamalg #11	8	41	249.48
+8016010	corpmaxi #10	8	15	249.08
+9010009	univunivamalg #9	9	55	248.88
+8008007	namelessnameless #7	6	35	248.85
+8015003	importoamalg #2	19	6	248.85
+7016001	corpnameless #1	18	14	248.82
+3003002	exportiexporti #2	19	37	248.71
+8004001	importonameless #2	19	5	248.54
+8014005	edu packmaxi #5	8	12	248.52
+3003002	exportiexporti #2	17	39	248.40
+5004002	edu packscholar #2	19	30	248.04
+4003001	exportiedu pack #1	19	25	247.94
+3003002	exportiexporti #2	7	16	247.92
+10009008	maxiunivamalg #8	19	56	247.92
+4003001	exportiedu pack #1	18	12	247.86
+7012009	importonameless #9	17	56	247.80
+10003014	exportiunivamalg #14	19	31	247.71
+5004002	edu packscholar #2	7	21	247.17
+3002002	importoexporti #2	17	38	247.06
+5002002	importoscholar #2	9	53	246.96
+10012001	importoamalgamalg #1	19	37	246.84
+7008004	namelessbrand #4	17	39	246.50
+10002011	importounivamalg #11	8	47	246.50
+3004002	edu packexporti #2	18	34	246.45
+9008008	namelessmaxi #8	19	26	246.21
+6012004	importobrand #4	18	29	245.96
+2004002	edu packimporto #2	9	33	245.91
+7009009	maxibrand #9	9	20	245.84
+6010002	univbrand #2	17	41	245.70
+7010009	univnameless #9	8	30	245.67
+9012008	importounivamalg #8	9	0	245.67
+3003001	amalgscholar #2	6	55	245.60
+8005010	scholarnameless #10	8	50	245.00
+5003002	exportischolar #2	9	54	244.98
+1002002	importoamalg #2	18	54	244.62
+1004001	edu packamalg #1	8	24	244.00
+9015011	exportiamalg #2	9	57	243.96
+10009013	maxiunivamalg #13	17	50	243.95
+10002001	importounivamalg #1	9	24	243.60
+10012001	importoamalgamalg #1	18	9	243.60
+2001002	amalgimporto #2	8	40	243.36
+8005009	corpnameless #10	19	59	243.36
+1004001	importounivamalg #12	17	57	243.32
+1003002	exportiamalg #2	17	4	242.64
+10010013	univamalgamalg #13	9	32	242.42
+6006004	corpcorp #4	8	14	242.40
+8012005	importomaxi #5	8	6	242.40
+7010005	corpunivamalg #6	19	8	242.35
+1004001	exportiunivamalg #12	19	13	242.34
+3004001	edu packexporti #1	18	16	242.25
+3004002	edu packexporti #2	19	52	242.25
+6015002	scholarbrand #2	17	42	242.19
+9013008	exportiunivamalg #8	18	59	242.01
+6009004	maxicorp #4	9	26	241.92
+7012009	importonameless #9	19	15	241.75
+9013012	exportiunivamalg #12	19	46	241.74
+5001002	amalgscholar #2	18	9	241.60
+5001002	amalgscholar #2	18	54	241.35
+8005006	scholarnameless #6	17	9	241.20
+4004002	edu packedu pack #2	19	55	241.11
+1003001	exportiamalg #1	9	41	240.90
+7016007	corpnameless #7	17	19	240.72
+2002001	importoimporto #1	19	56	240.38
+9013008	exportiunivamalg #8	19	56	240.34
+7009002	maxibrand #2	18	57	240.16
+10008002	namelessunivamalg #2	18	24	239.76
+5002002	importoscholar #2	18	1	239.25
+5001001	scholarunivamalg #8	8	14	239.04
+8003006	exportinameless #6	17	31	239.00
+1002002	importoamalg #2	8	36	238.90
+1001002	amalgamalg #2	17	0	238.80
+3001002	amalgexporti #2	17	5	238.77
+10015017	scholaramalgamalg #17	8	1	238.76
+7011001	amalgnameless #1	18	2	238.59
+3004002	edu packexporti #2	19	18	238.26
+3003001	exportiexporti #1	19	13	237.93
+4002001	importoedu pack #1	6	39	237.84
+4004001	edu packimporto #2	18	44	237.84
+4001002	amalgedu pack #2	6	14	237.77
+4001002	amalgedu pack #2	18	16	237.61
+10003006	exportiunivamalg #6	19	17	237.60
+2002001	importoimporto #1	9	38	237.26
+7005010	scholarbrand #10	9	4	236.64
+10016002	corpamalgamalg #2	19	16	236.34
+1003001	corpunivamalg #12	17	10	235.92
+5003002	exportischolar #2	19	51	235.62
+5004001	edu packscholar #1	17	51	235.62
+5001002	amalgscholar #2	8	51	235.52
+2003001	exportiimporto #1	17	5	235.20
+9008008	namelessmaxi #8	7	17	235.14
+7015007	scholarnameless #7	17	55	234.95
+3001002	amalgexporti #2	9	49	234.57
+7009009	exportibrand #10	17	39	234.21
+7006009	corpbrand #9	17	42	233.87
+1004002	edu packamalg #2	17	14	233.10
+7011008	amalgnameless #8	9	42	233.06
+4003002	exportiedu pack #2	6	53	232.89
+9009009	maximaxi #9	9	25	232.70
+6012007	importobrand #7	7	46	232.65
+7009005	amalgscholar #2	8	14	232.44
+3003002	exportiexporti #2	17	40	232.26
+3003001	exportiexporti #1	9	42	232.20
+1004001	amalgunivamalg #6	19	23	231.66
+3001002	amalgexporti #2	6	44	231.66
+5002001	importoscholar #1	18	52	231.42
+9011008	amalgunivamalg #8	18	43	231.40
+7006009	corpbrand #9	18	50	231.24
+5002001	importoscholar #1	17	39	231.00
+9001003	amalgmaxi #3	18	37	230.64
+4004002	edu packedu pack #2	6	38	230.58
+5001001	edu packexporti #2	8	41	230.56
+8009009	maxinameless #9	6	37	230.28
+3004002	edu packexporti #2	8	30	230.18
+9004008	edu packmaxi #8	18	56	230.16
+8005003	scholarnameless #3	8	26	229.86
+8008009	namelessnameless #9	18	32	229.76
+1003001	exportiamalg #1	17	15	229.74
+9012006	importounivamalg #6	18	31	229.66
+9014002	edu packunivamalg #2	9	44	229.18
+4004002	edu packedu pack #2	18	29	229.14
+4003001	exportiedu pack #1	17	0	229.05
+6006006	corpcorp #6	19	5	229.02
+5004001	edu packscholar #1	17	48	228.80
+4001001	amalgedu pack #1	18	23	228.69
+9016002	corpunivamalg #2	18	20	228.20
+10005014	scholarunivamalg #14	17	6	228.00
+4002001	importoedu pack #1	17	31	227.76
+2001002	amalgimporto #2	17	42	227.43
+3003002	exportiexporti #2	9	12	227.13
+7004004	edu packbrand #4	17	58	226.80
+10009013	exportibrand #6	19	6	226.32
+10009013	maxiunivamalg #13	17	32	226.25
+7009009	maxibrand #9	17	27	226.10
+6007007	brandcorp #7	18	49	226.05
+5004002	edu packscholar #2	8	42	226.00
+5001001	amalgscholar #1	9	37	225.83
+6012002	importobrand #2	8	33	225.75
+10008013	namelessunivamalg #13	9	5	225.72
+4001001	amalgedu pack #1	17	37	225.54
+1002002	importoamalg #2	9	8	225.39
+7002006	importobrand #6	19	47	225.36
+8003002	exportinameless #2	19	8	225.12
+10012001	importoamalgamalg #1	18	1	224.64
+NULL	NULL	18	55	224.60
+7016001	amalgamalg #2	9	2	224.50
+8016001	corpmaxi #1	18	3	224.28
+8003002	exportinameless #2	9	14	223.78
+9009009	maximaxi #9	9	0	223.59
+3003002	exportiexporti #2	19	17	223.57
+10016013	corpamalgamalg #13	8	50	223.56
+3004002	edu packexporti #2	17	31	223.14
+10005010	scholarunivamalg #10	7	24	222.87
+6003008	exporticorp #8	19	6	222.78
+4002002	importoedu pack #2	17	43	222.41
+9010009	univunivamalg #9	17	21	222.39
+6006002	corpcorp #2	18	8	222.37
+7012009	importonameless #9	17	57	221.94
+3004001	edu packexporti #1	8	17	221.76
+2004002	edu packimporto #2	9	21	221.72
+9006009	corpmaxi #9	17	27	221.26
+1002002	importoamalg #2	8	39	221.13
+6007007	brandcorp #7	18	27	221.10
+2001002	amalgimporto #2	17	40	220.98
+6009007	maxicorp #7	8	43	220.95
+1004001	edu packamalg #1	17	31	220.88
+9013009	exportiunivamalg #9	18	14	220.88
+1001002	amalgamalg #2	19	50	220.80
+7002008	importobrand #8	17	41	220.80
+8014004	edu packmaxi #4	19	56	220.80
+3001001	amalgexporti #1	18	25	220.72
+1001002	amalgamalg #2	19	40	220.64
+7011008	amalgnameless #8	9	20	220.34
+7016001	corpnameless #1	18	19	220.20
+10004015	edu packunivamalg #15	18	10	220.16
+1004001	edu packimporto #2	7	22	220.10
+3003001	exportiexporti #1	17	49	219.76
+9016006	corpunivamalg #6	18	51	219.73
+1001001	namelessunivamalg #4	18	42	219.56
+5001001	amalgscholar #1	9	0	219.41
+1003002	exportiamalg #2	19	39	219.30
+7010006	univnameless #6	17	16	219.17
+10015005	scholaramalgamalg #5	17	34	219.12
+5001002	amalgscholar #2	9	6	218.90
+8008007	namelessnameless #7	18	6	218.89
+6014004	edu packbrand #4	19	38	218.64
+8001007	amalgamalg #2	18	53	218.54
+4003001	exportiedu pack #1	8	4	218.42
+6016001	amalgexporti #2	9	24	218.29
+9016003	corpunivamalg #3	9	18	217.89
+5002001	importoedu pack #2	8	10	217.60
+5001001	exportinameless #8	18	12	217.36
+3002001	namelessunivamalg #15	19	26	217.00
+4002002	importoedu pack #2	18	41	217.00
+2002001	exportiexporti #2	18	13	216.96
+8010004	univmaxi #4	19	48	216.96
+9014002	edu packunivamalg #2	18	55	216.96
+3003002	exportiexporti #2	8	19	216.92
+6004004	edu packcorp #4	19	43	216.90
+2003001	amalgbrand #4	6	11	216.75
+6016006	corpbrand #6	9	21	216.74
+7011001	amalgnameless #1	9	51	216.72
+10013015	exportiamalgamalg #15	18	36	216.52
+10011017	amalgamalgamalg #17	7	23	216.48
+10003015	exportiunivamalg #15	19	10	216.36
+10005010	scholarunivamalg #10	8	10	216.32
+3001002	amalgexporti #2	7	38	216.25
+4004001	maxinameless #8	19	35	216.25
+9009006	maximaxi #6	9	44	216.05
+8004003	edu packnameless #3	19	35	215.80
+3002001	univamalgamalg #6	9	11	215.40
+3004002	edu packexporti #2	19	27	215.04
+2002001	importoimporto #1	18	46	215.00
+1003001	exportiamalg #1	9	38	214.89
+3002001	importoexporti #1	17	47	214.32
+9008008	namelessmaxi #8	17	10	214.23
+4001002	amalgedu pack #2	8	26	213.96
+3003001	importoimporto #2	8	58	213.90
+7016007	corpnameless #7	19	46	213.71
+4003001	exportiedu pack #1	17	25	213.25
+5003002	exportischolar #2	18	18	212.94
+1003002	exportiamalg #2	17	21	212.80
+10008004	namelessunivamalg #4	9	19	212.59
+4001001	exportiexporti #2	8	53	212.00
+7013007	exportinameless #7	7	13	211.70
+5001002	amalgscholar #2	19	18	211.64
+4001002	amalgedu pack #2	9	45	211.20
+5001002	amalgscholar #2	19	5	211.02
+8008008	namelessnameless #8	17	3	210.64
+7008008	namelessbrand #8	18	53	210.60
+8010004	univmaxi #4	18	24	210.14
+7009005	amalgscholar #2	17	37	209.77
+8015006	scholarmaxi #6	17	0	209.66
+9015002	scholarunivamalg #2	18	49	209.66
+6004007	edu packscholar #2	17	50	209.43
+5004002	edu packscholar #2	9	17	209.28
+1001001	amalgunivamalg #13	17	29	209.00
+4004001	scholarnameless #4	7	57	208.40
+10003007	exportiunivamalg #7	17	43	208.32
+10007004	brandunivamalg #4	17	12	208.26
+2002001	importoimporto #1	9	30	207.66
+4002002	importoedu pack #2	9	12	207.50
+7014009	edu packnameless #9	17	32	207.27
+6005005	edu packnameless #8	9	55	207.15
+7012010	importonameless #10	19	6	207.06
+1003001	exportiamalg #1	6	49	206.70
+3004002	edu packexporti #2	6	39	206.55
+9014003	edu packunivamalg #3	17	11	206.40
+1001001	scholarnameless #2	19	35	206.14
+6014002	edu packbrand #2	19	6	205.92
+8006009	corpnameless #9	8	45	205.16
+7004004	edu packbrand #4	9	53	204.88
+2001001	amalgimporto #1	19	14	204.75
+3002002	importoexporti #2	6	35	204.12
+7016001	amalgamalg #2	18	3	203.71
+7001001	importoexporti #2	8	53	203.52
+8015003	scholarmaxi #3	17	22	203.49
+7002006	importobrand #6	9	53	203.42
+3004002	edu packexporti #2	17	44	203.35
+3003002	exportiexporti #2	19	31	203.34
+1003002	exportiamalg #2	17	32	203.19
+8008005	namelessnameless #5	18	0	202.86
+8001003	importoscholar #2	17	32	202.72
+7013001	exportinameless #1	9	30	202.64
+2004001	edu packimporto #1	17	17	202.20
+10007002	brandunivamalg #2	18	9	201.81
+2004001	edu packimporto #1	19	10	201.74
+9014006	edu packunivamalg #6	18	4	201.48
+4004002	edu packedu pack #2	18	23	201.42
+9007009	brandmaxi #9	9	57	201.11
+9014002	edu packunivamalg #2	17	56	200.94
+1004002	edu packamalg #2	19	36	199.89
+3001002	amalgexporti #2	19	20	199.87
+10009013	maxiunivamalg #13	18	58	199.24
+6008005	namelesscorp #5	19	17	199.16
+4001001	importobrand #2	9	57	198.95
+5001002	amalgscholar #2	18	11	198.83
+5002001	amalgamalg #2	8	2	198.72
+5002002	importoscholar #2	18	47	198.72
+5004002	edu packscholar #2	18	26	198.37
+5003001	exportischolar #1	17	25	198.24
+10003011	exportiunivamalg #11	17	53	198.10
+4002002	importoedu pack #2	8	34	197.95
+4002001	importoedu pack #1	8	2	197.89
+8009009	maxinameless #9	17	30	197.65
+7012001	amalgamalgamalg #2	17	9	197.60
+8001001	amalgnameless #1	18	53	197.40
+7010006	univnameless #6	17	1	197.34
+9004008	edu packmaxi #8	17	44	197.12
+1004001	edu packamalg #1	19	34	197.05
+6016005	corpbrand #5	7	9	196.47
+10016001	corpamalgamalg #1	17	30	196.38
+2001001	amalgimporto #1	7	5	196.18
+7001001	importoexporti #2	6	47	196.16
+6009003	maxicorp #3	17	55	195.93
+8003004	exportinameless #4	17	20	195.88
+7004009	importoimporto #2	19	9	195.64
+6006006	corpcorp #6	18	43	195.50
+3003001	exportiexporti #1	18	14	195.30
+6009003	maxicorp #3	8	30	195.30
+10015013	scholaramalgamalg #13	9	16	195.04
+1001002	amalgamalg #2	18	44	194.94
+7015009	scholarnameless #9	7	18	194.94
+9009002	maximaxi #2	17	18	194.94
+1004001	edu packamalg #1	19	37	194.37
+2001001	amalgimporto #1	18	9	194.20
+7016001	corpnameless #1	8	21	193.68
+6014005	edu packamalgamalg #8	17	36	193.48
+9007011	importoexporti #2	18	40	193.30
+7009002	maxibrand #2	19	7	193.12
+9016006	corpunivamalg #6	17	28	193.06
+6011003	importobrand #4	18	56	192.85
+7002008	importobrand #8	17	11	192.66
+1001002	amalgamalg #2	7	21	192.50
+6007007	brandcorp #7	8	29	192.50
+10004008	edu packunivamalg #8	18	3	192.44
+2003002	exportiimporto #2	18	53	192.08
+4003001	amalgexporti #2	19	1	192.00
+2003001	exportiimporto #1	19	16	191.70
+8007008	brandnameless #8	19	13	191.10
+6012007	importobrand #7	18	41	190.96
+8003003	exportinameless #3	18	22	190.95
+1004001	edu packscholar #2	19	22	190.76
+3002001	importoexporti #1	17	48	190.58
+6011003	importobrand #4	19	56	190.57
+3004002	edu packexporti #2	8	17	190.50
+10009001	maxiunivamalg #1	17	4	190.32
+3001002	amalgexporti #2	9	40	190.26
+9011008	amalgunivamalg #8	7	4	190.08
+10004015	edu packunivamalg #15	17	10	189.75
+7013002	exportinameless #2	17	18	189.71
+5001001	amalgscholar #1	9	10	189.68
+8004004	edu packnameless #4	6	31	189.54
+9012008	importounivamalg #8	17	31	189.28
+10014003	edu packamalgamalg #3	19	15	189.21
+9008008	namelessmaxi #8	9	56	188.70
+5001001	amalgscholar #1	9	1	188.65
+3003001	exportiexporti #1	9	25	188.60
+8003006	exportinameless #6	19	48	188.50
+5003002	exportischolar #2	7	49	188.40
+7003005	exportibrand #5	17	59	188.40
+9005009	scholarmaxi #9	19	38	188.19
+2003002	exportiimporto #2	17	52	187.98
+7011008	amalgnameless #8	8	46	187.96
+10015009	scholaramalgamalg #9	17	45	187.62
+4003001	exportiedu pack #1	17	36	187.52
+8010004	univmaxi #4	17	7	187.11
+1004001	edu packscholar #2	19	36	186.96
+3001002	amalgexporti #2	8	33	186.76
+4001001	amalgedu pack #1	17	2	186.76
+10015017	scholaramalgamalg #17	9	31	186.69
+3002001	univamalgamalg #6	17	37	186.59
+7003005	exportiedu pack #2	19	40	186.55
+10015017	scholaramalgamalg #17	19	51	186.55
+2003001	amalgbrand #4	17	34	186.48
+4004002	edu packedu pack #2	19	7	186.48
+7001004	amalgbrand #4	19	19	185.90
+10015012	scholaramalgamalg #12	18	10	185.85
+7010009	univnameless #9	18	18	185.15
+4004002	edu packedu pack #2	18	36	184.86
+10012004	importoamalgamalg #4	19	17	184.83
+2001001	amalgimporto #1	17	57	184.56
+1002001	importoamalg #1	8	8	184.10
+8009010	maxinameless #10	6	35	184.08
+9007011	importoexporti #2	17	44	184.03
+6003008	exporticorp #8	9	19	183.96
+5002002	importoscholar #2	17	13	183.94
+10014001	edu packamalgamalg #1	6	3	183.90
+6004002	edu packcorp #2	8	17	183.52
+7007010	brandbrand #10	17	46	183.40
+6003008	exporticorp #8	8	38	183.27
+9007003	brandmaxi #3	19	6	183.15
+1004001	amalgunivamalg #6	18	30	183.12
+4004002	edu packedu pack #2	19	32	182.76
+4003001	exportischolar #2	18	30	182.75
+5001001	scholarunivamalg #8	19	23	182.72
+4002001	importoedu pack #1	18	23	182.52
+3002001	amalgexporti #2	17	5	182.40
+4003002	exportiedu pack #2	9	46	182.40
+8013004	exportimaxi #4	19	41	182.40
+7006001	corpbrand #1	17	23	182.34
+2003002	exportiimporto #2	17	25	182.00
+10010006	univamalgamalg #6	18	58	182.00
+10008004	namelessunivamalg #4	19	11	181.92
+10015012	scholaramalgamalg #12	9	43	181.92
+5003002	exportischolar #2	7	3	181.86
+4002001	importoedu pack #1	19	13	181.56
+10003007	exportiunivamalg #7	19	21	181.56
+9015002	scholarunivamalg #2	17	15	181.50
+5001002	amalgscholar #2	17	43	181.23
+6012003	importobrand #3	17	27	181.20
+9004008	edu packmaxi #8	9	0	181.20
+1002002	importoamalg #2	17	21	181.17
+8015003	scholarmaxi #3	6	23	181.02
+6015007	scholarbrand #7	18	1	181.01
+3002002	importoexporti #2	6	59	180.84
+8003004	exportinameless #4	17	40	180.70
+8004009	edu packnameless #9	8	5	180.63
+6005008	scholarcorp #8	18	3	180.60
+8006008	corpnameless #8	9	20	180.60
+7016007	corpnameless #7	17	3	180.57
+10014016	edu packamalgamalg #16	18	17	180.37
+9016003	corpunivamalg #3	17	30	180.19
+8009010	maxinameless #10	18	9	180.12
+9007003	brandmaxi #3	9	24	179.64
+5004002	edu packscholar #2	19	52	179.36
+10004004	edu packunivamalg #4	8	31	179.36
+4004001	edu packscholar #2	19	2	179.25
+2004002	edu packimporto #2	19	15	179.22
+7001008	amalgbrand #8	8	36	179.04
+10011013	amalgunivamalg #6	18	41	178.88
+2001002	amalgimporto #2	9	19	178.80
+9007005	maxinameless #10	8	17	178.64
+10012004	importoamalgamalg #4	19	48	178.62
+1003002	exportiamalg #2	18	3	178.50
+5003002	exportischolar #2	19	41	178.40
+6015007	scholarbrand #7	7	8	178.36
+10007004	importoimporto #2	18	11	178.36
+6007007	brandcorp #7	17	39	178.35
+2003002	exportiimporto #2	19	26	178.20
+3004002	edu packexporti #2	19	31	178.08
+5002002	importoscholar #2	17	23	178.08
+2004002	edu packimporto #2	18	46	178.02
+9012003	importounivamalg #3	18	37	178.02
+10009008	maxiunivamalg #8	9	14	177.63
+4003001	exportiedu pack #1	19	41	177.60
+5001001	amalgscholar #1	19	31	177.60
+9015003	scholarunivamalg #3	9	20	177.44
+9015002	scholarunivamalg #2	8	18	177.32
+2002001	importoimporto #1	19	19	177.30
+10015017	scholaramalgamalg #17	19	44	177.19
+10014014	edu packamalgamalg #14	9	46	176.96
+8010005	univmaxi #5	19	31	176.89
+10003011	exportiunivamalg #11	9	23	176.70
+4003001	exportiedu pack #1	6	41	176.56
+6009003	maxicorp #3	17	12	176.40
+9014002	edu packunivamalg #2	17	10	176.40
+10011014	amalgamalgamalg #14	17	17	176.40
+8010008	univmaxi #8	17	14	176.28
+2002001	importoimporto #1	17	48	176.02
+4004002	edu packedu pack #2	18	59	175.90
+8015005	scholarmaxi #5	17	18	175.50
+9011008	amalgunivamalg #8	9	23	175.42
+2001002	amalgimporto #2	17	48	175.33
+8016003	corpmaxi #3	17	44	175.16
+5001001	amalgscholar #2	7	30	175.04
+8003007	edu packnameless #8	8	15	174.90
+3002002	importoexporti #2	17	30	174.87
+6009003	maxicorp #3	19	14	174.76
+6015002	scholarbrand #2	19	3	174.46
+1002002	importoamalg #2	19	3	174.40
+1002001	importoamalg #1	7	38	174.36
+1004001	edu packamalg #1	18	28	174.24
+6003008	exporticorp #8	17	1	174.15
+6003003	exporticorp #3	18	0	174.00
+5004001	scholarnameless #6	19	41	173.91
+1001002	amalgamalg #2	17	36	173.88
+9015003	scholarunivamalg #3	8	14	173.88
+10004012	edu packunivamalg #12	8	18	173.85
+9009002	maximaxi #2	17	29	173.74
+1001002	amalgamalg #2	7	26	173.70
+4002001	corpcorp #6	7	3	173.61
+8013004	exportimaxi #4	17	4	173.48
+9008002	namelessmaxi #2	7	55	173.46
+4002001	exportiimporto #2	17	49	172.96
+2002001	exportiexporti #2	8	10	172.92
+4002001	importoedu pack #1	19	11	172.80
+4001001	maxiunivamalg #16	19	34	172.32
+7010010	univnameless #10	9	54	172.20
+7012009	importonameless #9	6	49	171.68
+7012009	amalgamalg #2	19	18	171.60
+5001001	exportinameless #8	18	27	171.36
+9016003	corpunivamalg #3	8	42	171.20
+8004004	edu packnameless #4	9	21	170.94
+7006007	edu packamalg #2	9	9	170.61
+1003001	exportiamalg #1	17	10	170.52
+8010004	univmaxi #4	9	29	170.25
+9001003	amalgmaxi #3	19	29	170.04
+10011012	importoimporto #2	8	40	170.00
+9016003	corpunivamalg #3	17	48	169.86
+2004001	importoexporti #2	9	35	169.68
+3003002	exportiexporti #2	8	17	169.65
+9002003	importomaxi #3	19	12	169.65
+1004002	edu packamalg #2	8	22	169.40
+1004001	edu packamalg #1	18	50	169.12
+3002001	importoexporti #1	19	42	169.12
+2003002	exportiimporto #2	17	54	169.00
+5003002	exportischolar #2	6	56	168.48
+10005001	scholarunivamalg #1	9	1	168.35
+6010002	univbrand #2	17	51	167.96
+1004001	edu packscholar #2	19	39	167.69
+7007005	exportiamalg #2	19	32	167.46
+9014002	edu packunivamalg #2	17	12	167.44
+3001002	amalgexporti #2	18	9	167.20
+4003002	exportiedu pack #2	19	45	167.04
+2003002	exportiimporto #2	8	28	166.93
+10008006	namelessunivamalg #6	9	12	166.80
+10016016	corpamalgamalg #16	19	20	166.68
+8012010	importomaxi #10	17	10	166.23
+3004001	edu packscholar #2	17	21	166.08
+7011008	amalgnameless #8	8	3	166.04
+6012001	importobrand #1	19	33	165.90
+7016007	corpnameless #7	17	30	165.70
+6012001	importobrand #1	19	0	165.54
+6003003	exporticorp #3	19	45	165.44
+9014008	edu packunivamalg #8	18	25	165.42
+8001001	amalgnameless #1	18	37	165.25
+1004002	edu packamalg #2	19	34	165.24
+6005005	edu packnameless #8	19	30	164.96
+3002001	importoexporti #1	18	32	164.90
+1001002	amalgamalg #2	7	46	164.75
+2004002	edu packimporto #2	6	4	164.65
+2004001	corpmaxi #8	17	46	164.64
+5001001	amalgbrand #8	18	37	163.84
+7007005	exportiamalg #2	17	2	163.80
+10010013	univamalgamalg #13	17	13	163.54
+9007008	brandmaxi #8	17	41	163.40
+5004001	scholarnameless #6	9	24	163.10
+3001002	amalgexporti #2	17	38	161.94
+7016001	amalgamalg #2	18	43	161.70
+8015008	scholarmaxi #8	19	56	161.60
+9009002	maximaxi #2	9	6	161.51
+7003005	exportiedu pack #2	8	36	161.16
+10013013	exportiamalgamalg #13	19	21	160.95
+1001002	amalgamalg #2	17	15	160.82
+8004009	edu packnameless #9	19	49	160.72
+5001002	amalgscholar #2	19	14	160.38
+3001002	amalgexporti #2	6	54	160.32
+3003001	exportiexporti #1	8	1	160.20
+8005008	scholarnameless #8	6	34	160.20
+8005008	scholarnameless #8	9	0	160.08
+8014005	edu packmaxi #5	17	42	160.00
+2003002	exportiimporto #2	19	54	159.96
+3002001	importoexporti #1	9	39	159.60
+7005007	scholarbrand #7	8	12	159.52
+8016004	corpmaxi #4	17	11	159.12
+7013007	exportinameless #7	17	13	159.10
+7011008	amalgnameless #8	18	50	158.93
+2001002	amalgimporto #2	17	28	158.27
+10016013	corpamalgamalg #13	19	25	158.24
+6008002	namelesscorp #2	8	56	158.11
+1002001	importoamalg #1	19	8	157.89
+1004001	edu packamalg #1	9	26	157.88
+5004001	amalgedu pack #2	7	39	157.75
+5003002	exportischolar #2	19	10	157.12
+9004008	edu packmaxi #8	8	47	157.00
+10002009	importounivamalg #9	19	18	156.94
+7010004	univnameless #4	8	44	156.86
+7011008	amalgnameless #8	8	1	156.78
+5003002	exportischolar #2	19	29	156.75
+3004002	edu packexporti #2	6	7	156.60
+6016001	amalgexporti #2	18	6	155.48
+4003001	exportiedu pack #1	8	37	155.17
+9007003	brandmaxi #3	9	27	155.05
+9014002	edu packunivamalg #2	7	23	154.98
+6008005	edu packmaxi #6	17	6	154.71
+6006003	corpcorp #3	19	56	154.56
+3001002	amalgexporti #2	9	47	154.50
+7009010	maxibrand #10	6	14	154.38
+1004002	edu packamalg #2	9	52	154.00
+10015005	scholaramalgamalg #5	8	6	154.00
+1004002	edu packamalg #2	8	52	153.99
+6003008	exporticorp #8	19	35	153.90
+9011008	amalgunivamalg #8	17	49	153.56
+8009010	maxinameless #10	17	44	153.43
+9003003	exportimaxi #3	17	56	153.12
+2001001	importoimporto #2	6	52	152.60
+3004001	edu packscholar #2	8	41	152.55
+3004001	edu packexporti #1	18	25	152.49
+2001002	amalgimporto #2	9	8	152.46
+8003006	exportinameless #6	18	48	152.16
+4004002	edu packedu pack #2	17	5	152.10
+6006004	corpcorp #4	17	57	151.93
+7001004	amalgbrand #4	9	57	151.90
+3002002	importoexporti #2	9	6	151.80
+10016008	corpamalgamalg #8	19	57	151.80
+7006005	corpbrand #5	18	12	151.70
+4002002	importoedu pack #2	9	42	151.56
+7013007	exportinameless #7	17	2	151.27
+5004001	amalgedu pack #2	17	8	151.02
+2002001	importoimporto #1	8	38	150.50
+3004001	edu packexporti #1	17	19	150.00
+7015007	scholarnameless #7	19	12	149.76
+4004001	edu packedu pack #1	17	23	149.56
+3002001	importoexporti #1	19	4	149.20
+2001002	amalgimporto #2	17	35	149.12
+4002002	importoedu pack #2	9	5	148.80
+6011008	amalgbrand #8	9	25	148.74
+10005010	scholarunivamalg #10	7	37	148.68
+10010006	univamalgamalg #6	9	10	148.61
+1004001	exportiunivamalg #12	6	8	148.48
+1002002	importoamalg #2	9	45	148.28
+9003003	exportimaxi #3	18	0	148.28
+10001008	amalgunivamalg #8	9	34	148.26
+5004001	scholarnameless #6	19	12	148.20
+5004002	edu packscholar #2	17	52	147.87
+5003001	exportischolar #1	7	28	147.84
+9012003	importounivamalg #3	19	18	147.49
+8005009	scholarnameless #9	19	52	147.34
+8009009	maxinameless #9	19	37	147.20
+6015002	scholarbrand #2	17	30	147.12
+5002001	importoscholar #1	9	25	146.88
+2003001	exportiimporto #1	18	20	146.76
+3002001	importoexporti #1	17	54	146.73
+3003002	exportiexporti #2	17	13	146.30
+8008004	namelessnameless #4	9	39	146.30
+9009002	maximaxi #2	9	30	146.16
+7012010	importonameless #10	17	19	146.08
+3001002	amalgexporti #2	17	41	145.92
+2002001	importoimporto #1	8	55	145.70
+7005007	scholarbrand #7	9	59	145.36
+5001002	amalgscholar #2	19	19	145.08
+5002002	importoscholar #2	17	42	145.08
+6016003	corpbrand #3	6	33	144.30
+3002002	importoexporti #2	18	7	144.16
+4001001	exportiimporto #2	19	55	144.04
+4003002	exportiedu pack #2	9	5	143.83
+7014001	edu packnameless #1	18	40	143.82
+6005008	scholarcorp #8	18	13	143.55
+2001002	amalgimporto #2	19	20	143.32
+9001005	importoedu pack #2	17	56	143.26
+1003001	exportiamalg #1	17	5	143.20
+10007004	importoimporto #2	9	47	143.00
+8010008	univmaxi #8	9	47	142.92
+4002001	edu packscholar #2	8	14	142.88
+10014016	edu packamalgamalg #16	17	24	142.60
+1002001	importoamalg #1	9	53	142.59
+4001002	amalgedu pack #2	6	35	141.84
+1001002	amalgamalg #2	18	4	141.27
+9006002	corpmaxi #2	6	11	141.00
+10016013	corpamalgamalg #13	19	19	140.91
+10006016	corpunivamalg #16	6	12	140.80
+2003002	exportiimporto #2	18	29	140.58
+6011003	importobrand #4	18	51	140.58
+10009013	maxiunivamalg #13	17	10	140.42
+3004002	edu packexporti #2	18	45	140.16
+8015007	scholarmaxi #7	17	39	140.14
+10003015	exportiunivamalg #15	9	0	139.86
+5001001	amalgscholar #1	19	42	139.78
+7005006	scholarbrand #6	19	21	139.68
+7010009	univnameless #9	17	37	139.36
+7010001	univnameless #1	19	3	139.28
+2002001	importoimporto #1	19	50	139.23
+4002002	importoedu pack #2	8	8	139.20
+10010001	univamalgamalg #1	17	55	139.12
+10016003	corpamalgamalg #3	9	26	139.08
+10009001	maxiunivamalg #1	18	39	138.88
+10015001	scholaramalgamalg #1	18	3	138.47
+2004002	edu packimporto #2	19	49	138.28
+9015003	scholarunivamalg #3	6	51	138.24
+2004002	edu packimporto #2	17	43	137.50
+6006002	corpcorp #2	19	23	137.50
+9009002	maximaxi #2	18	9	137.34
+1002002	importoamalg #2	18	35	137.32
+2004002	edu packimporto #2	6	0	137.28
+2004001	edu packimporto #1	9	11	137.25
+6012002	importobrand #2	9	10	136.92
+4004001	edu packedu pack #1	8	43	136.85
+5003002	exportischolar #2	9	55	136.85
+4001001	importobrand #2	6	51	136.80
+8015005	scholarmaxi #5	17	16	136.60
+10010004	univamalgamalg #4	19	59	135.87
+1004001	edu packamalg #1	19	19	135.73
+6016005	corpbrand #5	7	36	135.50
+4001002	amalgedu pack #2	19	57	135.45
+6012007	importobrand #7	9	40	135.36
+9014002	edu packunivamalg #2	18	52	135.24
+5002001	exporticorp #4	8	12	135.20
+6006003	corpcorp #3	19	29	135.18
+10007012	brandunivamalg #12	19	23	135.02
+5004002	edu packscholar #2	17	40	134.67
+7009004	maxibrand #4	19	15	134.64
+4002002	importoedu pack #2	18	7	134.59
+7009010	maxibrand #10	17	20	134.55
+4003002	exportiedu pack #2	19	44	134.42
+8011008	amalgmaxi #8	18	52	134.42
+7007010	brandbrand #10	19	27	134.00
+10003016	exportiunivamalg #16	8	51	133.90
+6012001	importobrand #1	9	41	133.86
+10005001	scholarunivamalg #1	9	17	133.76
+7009004	maxibrand #4	18	30	133.48
+4004001	edu packedu pack #1	19	43	133.28
+5002001	exporticorp #4	18	26	133.28
+6001007	amalgcorp #7	17	0	133.25
+4004001	edu packedu pack #1	19	59	133.12
+6001002	amalgcorp #2	9	34	133.04
+9005009	scholarmaxi #9	17	27	132.96
+7014009	edu packnameless #9	18	46	132.84
+9008008	namelessmaxi #8	17	21	132.84
+8008003	namelessnameless #3	8	3	132.48
+3002002	importoexporti #2	9	27	132.33
+5001002	amalgscholar #2	17	9	132.30
+10006016	corpunivamalg #16	17	34	132.24
+7011001	amalgnameless #1	17	17	132.22
+10005014	scholarunivamalg #14	19	54	131.84
+5004001	amalgedu pack #2	19	43	131.50
+10014001	maxibrand #4	9	36	131.49
+8016010	corpmaxi #10	19	11	131.37
+3001001	amalgexporti #1	18	30	130.95
+10004015	edu packunivamalg #15	18	46	130.95
+6003008	exporticorp #8	18	13	130.91
+8003010	exportinameless #10	17	6	130.60
+1001001	amalgunivamalg #13	19	44	130.56
+5001001	amalgbrand #8	8	34	130.56
+6015007	scholarbrand #7	19	20	130.40
+5003002	exportischolar #2	17	52	130.32
+10015009	scholaramalgamalg #9	18	31	130.14
+3002002	importoexporti #2	7	11	130.05
+6012008	importobrand #8	9	2	130.02
+6005003	scholarcorp #3	9	58	129.91
+10006009	corpunivamalg #9	19	33	129.87
+2001002	amalgimporto #2	18	20	129.60
+1003001	exportiamalg #1	8	3	129.56
+9016006	corpunivamalg #6	7	36	129.54
+9015003	scholarunivamalg #3	9	11	129.50
+7010006	univnameless #6	18	6	129.34
+9005009	scholarmaxi #9	19	56	129.31
+8001009	amalgamalg #2	17	35	129.20
+9003008	exportimaxi #8	9	5	128.80
+4003001	exportiedu pack #1	18	32	128.79
+8015003	scholarmaxi #3	18	55	128.70
+2003002	exportiimporto #2	9	23	128.52
+8004004	edu packnameless #4	9	13	128.32
+1002002	importoamalg #2	17	2	128.04
+1004002	edu packamalg #2	8	2	127.50
+8004009	edu packnameless #9	9	11	127.50
+3002001	importoexporti #1	18	25	127.20
+4001002	amalgedu pack #2	19	31	127.14
+7004008	edu packbrand #8	7	4	126.88
+3003002	exportiexporti #2	17	45	126.75
+3003001	exportiexporti #1	8	4	126.50
+7016001	corpnameless #1	18	54	126.40
+6012007	importobrand #7	19	58	126.14
+5004002	edu packscholar #2	19	2	125.80
+2003002	exportiimporto #2	19	24	125.40
+4002002	importoedu pack #2	18	6	125.28
+5003002	exportischolar #2	6	3	125.24
+NULL	NULL	17	33	125.02
+3002001	maxibrand #4	19	15	124.82
+5002002	importoscholar #2	9	34	124.56
+7016006	corpnameless #6	9	7	124.27
+2002001	importoimporto #1	7	42	123.84
+5003001	exportischolar #1	17	31	123.84
+9012008	importounivamalg #8	7	28	123.83
+3004002	edu packexporti #2	19	34	123.75
+1004002	edu packamalg #2	17	57	123.56
+6012007	importobrand #7	17	57	123.20
+8010001	univamalgamalg #5	8	43	123.20
+3001002	amalgexporti #2	9	57	123.12
+9004008	edu packmaxi #8	9	20	123.00
+1002002	importoamalg #2	17	6	122.74
+7012010	importonameless #10	8	48	122.74
+2004001	importoexporti #2	17	52	122.70
+2003002	exportiimporto #2	8	58	122.50
+4003001	exportiedu pack #1	18	24	122.50
+6016006	corpbrand #6	17	19	122.22
+6010006	univbrand #6	7	15	122.05
+3003001	amalgscholar #2	17	38	121.89
+3002002	importoexporti #2	17	1	121.87
+3002002	importoexporti #2	18	44	121.50
+9013008	exportiunivamalg #8	8	6	121.30
+10009017	maxiunivamalg #17	18	46	121.17
+5004001	edu packscholar #1	19	49	121.04
+10007004	importoimporto #2	17	28	120.90
+6004002	edu packcorp #2	17	43	120.75
+10016001	corpamalgamalg #1	17	5	120.72
+5003001	exportischolar #1	8	7	120.50
+9009006	maximaxi #6	19	17	120.36
+4001001	amalgedu pack #1	19	25	120.34
+1004002	edu packamalg #2	19	49	120.06
+3004001	edu packexporti #1	8	42	120.06
+7007004	brandbrand #4	7	41	119.88
+6005007	scholarcorp #7	17	16	119.70
+8015006	scholarmaxi #6	9	23	119.70
+3003002	exportiexporti #2	18	34	119.68
+7008006	namelessbrand #6	18	43	119.24
+7008009	namelessbrand #9	19	43	119.04
+4002002	importoedu pack #2	8	3	119.00
+7009002	maxibrand #2	18	46	118.86
+10002011	importounivamalg #11	9	20	118.80
+8005009	corpnameless #10	9	23	118.71
+10004015	edu packunivamalg #15	18	39	118.68
+10016016	corpamalgamalg #16	18	17	118.56
+5001001	amalgscholar #2	17	54	118.49
+1004001	edu packimporto #2	18	38	118.44
+9009003	maximaxi #3	8	10	118.30
+1001001	amalgamalg #1	19	20	118.25
+9015009	scholarunivamalg #9	17	31	118.14
+8010001	univamalgamalg #5	9	50	118.00
+9006008	corpmaxi #8	9	55	117.90
+10016001	corpamalgamalg #1	18	45	117.88
+2001002	amalgimporto #2	9	42	117.84
+6011003	importobrand #4	17	58	117.66
+9006009	corpmaxi #9	8	17	117.54
+4003002	exportiedu pack #2	18	41	117.39
+1003001	exportiamalg #1	17	48	117.15
+3002001	importoexporti #1	17	14	116.96
+3002001	importoexporti #1	18	8	116.82
+4002002	importoedu pack #2	19	51	116.82
+4003002	exportiedu pack #2	9	16	116.80
+8010003	namelessunivamalg #5	7	20	116.80
+7013007	exportinameless #7	19	50	116.62
+10012004	importoamalgamalg #4	8	58	116.38
+2004001	edu packimporto #1	18	13	116.00
+5001001	scholarunivamalg #8	9	35	115.72
+8008009	namelessnameless #9	19	27	115.63
+5003001	exportischolar #1	19	4	115.56
+4001002	amalgedu pack #2	18	39	114.80
+2003001	amalgbrand #4	9	2	114.57
+1001002	amalgamalg #2	8	58	113.94
+7006001	corpcorp #4	9	4	113.64
+8003010	exportinameless #10	19	39	113.62
+7007004	brandbrand #4	19	41	113.60
+10008006	namelessunivamalg #6	17	40	113.56
+1001002	amalgamalg #2	19	57	113.20
+6001001	amalgcorp #1	19	38	113.19
+4002002	importoedu pack #2	7	15	113.13
+1001002	amalgamalg #2	18	57	113.10
+3003002	exportiexporti #2	19	54	112.88
+9001008	amalgmaxi #8	9	18	112.88
+1002002	importoamalg #2	19	44	112.14
+10003007	exportiunivamalg #7	17	37	112.10
+7014002	edu packnameless #2	17	57	111.93
+8005006	scholarnameless #6	17	8	111.65
+4002001	importoedu pack #1	6	18	111.45
+1003002	exportiamalg #2	8	34	111.42
+10011014	amalgamalgamalg #14	8	53	111.37
+4003002	exportiedu pack #2	19	13	110.75
+9006009	corpmaxi #9	8	43	110.52
+2002001	exportiexporti #2	18	30	110.50
+3003002	exportiexporti #2	7	0	110.40
+7009010	maxibrand #10	19	5	110.16
+4004001	edu packedu pack #1	8	3	109.88
+6011002	amalgbrand #2	17	36	109.88
+5003002	exportischolar #2	6	32	109.68
+4004001	edu packedu pack #1	19	33	109.65
+4004002	edu packedu pack #2	9	31	109.62
+9011008	amalgunivamalg #8	9	36	109.57
+3002002	importoexporti #2	19	42	109.56
+1001002	amalgamalg #2	19	17	109.44
+8008009	namelessnameless #9	17	58	109.44
+3002002	importoexporti #2	17	32	109.32
+4001001	exportiimporto #2	17	3	109.20
+9008002	namelessmaxi #2	19	4	109.14
+7006005	corpbrand #5	9	9	108.90
+9014006	edu packunivamalg #6	17	6	108.90
+10009006	maxiunivamalg #6	19	7	108.90
+9016002	corpunivamalg #2	6	55	108.57
+8005009	scholarnameless #9	8	42	108.30
+6014005	edu packamalgamalg #8	9	25	107.92
+4004001	edu packimporto #2	18	37	107.88
+6016001	corpbrand #1	6	27	107.64
+4004002	edu packedu pack #2	18	7	107.47
+10007012	brandunivamalg #12	7	33	107.38
+9001005	importoedu pack #2	19	22	107.30
+5001002	amalgscholar #2	8	45	107.25
+1004002	edu packamalg #2	9	57	107.18
+2001002	amalgimporto #2	17	22	107.16
+2001002	amalgimporto #2	9	54	107.13
+5002002	importoscholar #2	7	29	106.64
+9012003	importounivamalg #3	9	23	106.60
+1004001	edu packamalg #1	6	26	106.56
+2004001	importoexporti #2	19	28	106.40
+8003004	exportinameless #4	9	48	106.30
+4001002	amalgedu pack #2	19	54	106.25
+7007010	brandbrand #10	18	56	105.98
+5003001	exportischolar #1	18	40	105.90
+10012004	importoamalgamalg #4	18	44	105.84
+10016001	corpamalgamalg #1	17	59	105.80
+1001001	exportiexporti #2	18	13	105.54
+5003001	exportischolar #1	17	21	105.48
+7007010	brandbrand #10	18	39	105.39
+7008006	namelessbrand #6	17	9	105.28
+10009006	maxiunivamalg #6	18	21	105.05
+2002002	importoimporto #2	18	48	105.00
+5001001	amalgscholar #1	17	31	104.58
+1001002	amalgamalg #2	19	45	104.42
+5003001	exportiamalg #2	18	42	104.25
+4002002	importoedu pack #2	9	0	103.87
+8012001	amalgexporti #2	17	38	103.82
+1001002	amalgamalg #2	19	36	103.61
+10003007	exportiunivamalg #7	19	27	103.29
+4003002	exportiedu pack #2	19	49	103.24
+7012005	importonameless #5	19	54	103.11
+10011014	amalgamalgamalg #14	18	5	102.96
+10008015	namelessunivamalg #15	17	29	102.60
+9007003	brandmaxi #3	9	49	102.44
+7005006	scholarbrand #6	17	7	102.30
+9016009	corpunivamalg #9	6	53	102.30
+4002002	importoedu pack #2	17	38	101.70
+4003001	exportiedu pack #1	9	17	101.66
+6010006	univbrand #6	18	44	101.64
+9008008	namelessmaxi #8	9	4	101.52
+6012007	importobrand #7	9	13	101.25
+10016002	corpamalgamalg #2	18	21	101.25
+4001001	amalgedu pack #1	18	0	101.15
+5004001	edu packscholar #1	9	26	101.04
+6005001	scholarcorp #1	8	0	100.98
+1004002	edu packamalg #2	19	15	100.88
+5001001	scholarunivamalg #8	9	15	100.85
+1004001	edu packamalg #1	19	1	100.54
+9001008	amalgmaxi #8	18	2	100.40
+8010001	univmaxi #1	18	55	100.38
+9009012	maximaxi #12	8	23	100.34
+2002002	importoimporto #2	9	15	100.32
+2001001	amalgimporto #1	17	17	100.10
+10015005	scholaramalgamalg #5	18	24	100.10
+7015009	scholarnameless #9	8	30	100.00
+3003002	exportiexporti #2	17	38	99.90
+6015007	scholarbrand #7	19	26	99.90
+4001001	amalgedu pack #1	17	48	99.88
+1002001	importoamalg #1	18	17	99.84
+3002001	univamalgamalg #6	18	18	99.76
+1002001	importounivamalg #1	19	3	99.20
+9012003	importounivamalg #3	17	12	98.90
+10004015	edu packunivamalg #15	9	3	98.75
+5003001	exportischolar #1	7	3	98.64
+2001001	amalgimporto #1	17	20	98.60
+4001001	amalgedu pack #1	8	26	98.56
+3002001	importoexporti #1	18	55	98.43
+6008002	namelesscorp #2	18	4	98.40
+3003001	univamalgamalg #6	18	3	98.04
+5004001	scholarnameless #6	18	43	97.65
+5004002	edu packscholar #2	7	15	97.65
+2001002	amalgimporto #2	8	56	97.48
+1001002	amalgamalg #2	9	22	97.29
+10004015	edu packunivamalg #15	7	11	97.28
+9001008	amalgmaxi #8	18	14	97.20
+9011009	amalgunivamalg #9	9	3	97.18
+7014009	edu packnameless #9	19	12	96.84
+4003002	exportiedu pack #2	17	45	96.76
+7003005	exportibrand #5	19	14	96.73
+9015003	scholarunivamalg #3	9	38	96.60
+10002009	importounivamalg #9	9	38	96.41
+4001002	amalgedu pack #2	19	16	96.30
+1003001	exportiamalg #1	18	57	96.05
+4002001	corpcorp #6	19	54	96.05
+7010004	univnameless #4	9	53	95.95
+9001008	amalgmaxi #8	18	25	95.88
+8010001	univamalgamalg #5	18	0	95.76
+4004002	edu packedu pack #2	17	58	95.68
+9014002	edu packunivamalg #2	8	35	95.68
+1002001	amalgscholar #2	8	45	95.59
+9007005	maxinameless #10	7	54	95.40
+7012009	importonameless #9	8	53	95.25
+2004001	exportimaxi #8	18	14	95.20
+8005009	corpnameless #10	17	50	95.20
+4004002	edu packedu pack #2	8	46	94.92
+10005001	scholarunivamalg #1	19	13	94.80
+6007007	brandcorp #7	17	25	94.77
+10009001	maxiunivamalg #1	9	16	94.74
+6014004	edu packbrand #4	18	42	94.71
+6009003	maxicorp #3	19	32	94.44
+8005008	scholarnameless #8	6	52	94.36
+6015004	scholarbrand #4	19	51	94.30
+1003002	exportiamalg #2	19	4	94.20
+3003001	exportiexporti #1	8	45	93.93
+10009006	maxiunivamalg #6	9	59	93.84
+5003002	exportischolar #2	8	13	93.65
+NULL	NULL	7	3	93.60
+8009003	maxinameless #3	9	26	93.60
+9015003	scholarunivamalg #3	18	47	93.60
+2002002	importoimporto #2	17	20	93.54
+2003002	exportiimporto #2	8	16	93.50
+10015001	scholaramalgamalg #1	17	19	93.48
+7012010	importonameless #10	6	10	93.17
+7010006	univnameless #6	17	36	92.96
+4003001	exportiedu pack #1	19	4	92.88
+3001001	amalgexporti #1	8	26	92.82
+7007004	brandbrand #4	19	17	92.78
+10014016	edu packamalgamalg #16	17	27	92.62
+7008004	namelessbrand #4	17	47	92.52
+6007007	brandcorp #7	17	22	92.47
+8014004	edu packmaxi #4	6	6	92.34
+4001002	amalgedu pack #2	18	6	92.14
+1003002	exportiamalg #2	6	54	91.93
+1003001	exportiamalg #1	19	10	91.84
+4001002	amalgedu pack #2	9	2	91.77
+4003001	exportiedu pack #1	8	31	91.35
+3001002	amalgexporti #2	19	9	91.00
+7013007	exportinameless #7	17	25	90.72
+4002002	importoedu pack #2	6	35	90.69
+10008002	namelessunivamalg #2	19	40	90.45
+1004002	edu packamalg #2	17	47	90.44
+6016006	corpbrand #6	17	48	90.36
+7006008	corpbrand #8	19	43	90.18
+1003001	exportiamalg #1	9	7	90.09
+2004001	edu packimporto #1	9	5	89.90
+2002001	amalgscholar #2	17	14	89.88
+8005006	scholarnameless #6	19	43	89.84
+3004001	edu packexporti #1	18	41	89.83
+2004002	edu packimporto #2	8	17	89.70
+10010004	univamalgamalg #4	17	34	89.55
+5001002	amalgscholar #2	9	26	89.28
+4004001	corpamalgamalg #8	9	10	89.18
+8003004	exportinameless #4	17	34	89.10
+10003015	exportiunivamalg #15	9	10	88.92
+10008002	namelessunivamalg #2	7	3	88.92
+6014002	edu packbrand #2	17	13	88.80
+2001002	amalgimporto #2	18	49	88.70
+9003008	exportimaxi #8	17	37	88.66
+7013002	exportinameless #2	19	41	88.62
+7014002	edu packnameless #2	19	22	88.56
+3001002	amalgexporti #2	6	21	88.40
+4004001	edu packscholar #2	7	35	88.27
+10003006	exportiunivamalg #6	17	58	88.20
+10006008	corpunivamalg #8	9	58	87.84
+5002002	importoscholar #2	9	54	87.75
+9012003	importounivamalg #3	18	15	87.75
+10003011	exportiunivamalg #11	8	58	87.66
+6007007	brandcorp #7	8	37	87.57
+8008008	namelessnameless #8	19	48	87.45
+2004002	edu packimporto #2	7	52	87.36
+7010005	corpunivamalg #6	19	29	87.36
+6013006	exportibrand #6	17	38	87.30
+1003001	exportiamalg #1	8	59	87.29
+8013004	exportimaxi #4	18	34	87.29
+9015003	scholarunivamalg #3	8	11	87.15
+5001002	amalgscholar #2	19	23	86.97
+3002001	amalgexporti #2	17	53	86.95
+1002001	importounivamalg #1	6	37	86.86
+2003002	exportiimporto #2	18	58	86.50
+10004004	edu packunivamalg #4	19	21	86.16
+6015002	scholarbrand #2	19	39	85.85
+9016009	corpunivamalg #9	8	41	85.80
+4003001	exportiedu pack #1	19	52	85.75
+10011017	amalgamalgamalg #17	19	11	85.44
+7002008	importobrand #8	19	32	85.39
+1001002	amalgamalg #2	6	14	85.36
+5002002	importoscholar #2	17	26	85.28
+7006007	edu packamalg #2	8	15	84.96
+1002001	importoamalg #1	9	41	84.76
+5002001	amalgamalg #2	8	54	84.28
+6004002	edu packcorp #2	19	30	84.25
+2004002	edu packimporto #2	18	32	84.06
+1001001	amalgamalg #1	7	52	83.98
+8010003	namelessunivamalg #5	17	15	83.46
+7009005	maxibrand #5	7	56	83.20
+4004002	edu packedu pack #2	17	21	83.08
+9011008	amalgunivamalg #8	17	2	83.08
+3003001	exportiexporti #1	8	58	82.80
+5001002	amalgscholar #2	17	36	82.74
+6001002	amalgcorp #2	17	10	82.72
+8009010	maxinameless #10	18	42	82.65
+5004002	edu packscholar #2	17	16	82.56
+4001001	maxiunivamalg #16	19	48	82.32
+7001005	amalgbrand #5	18	24	82.20
+10007002	brandunivamalg #2	9	37	82.04
+8005009	scholarnameless #9	9	32	81.95
+9014003	edu packunivamalg #3	18	30	81.92
+4004002	edu packedu pack #2	18	25	81.84
+10016016	corpamalgamalg #16	17	14	81.78
+2004002	edu packimporto #2	17	15	81.70
+8008004	namelessnameless #4	17	41	81.66
+2004001	exportimaxi #8	17	59	81.34
+3002002	importoexporti #2	18	14	81.30
+8015007	scholarmaxi #7	17	49	81.26
+9014002	edu packunivamalg #2	19	36	81.12
+7012009	amalgamalg #2	17	22	81.00
+2001001	amalgimporto #1	9	56	80.64
+4003001	exportiedu pack #1	17	29	80.64
+9010009	univunivamalg #9	17	13	80.55
+10004008	edu packunivamalg #8	18	16	80.52
+1002002	importoamalg #2	19	38	80.08
+7004004	edu packbrand #4	9	21	80.03
+5002001	importoscholar #1	17	23	79.98
+7010010	univnameless #10	17	43	79.98
+9014008	edu packunivamalg #8	8	24	79.92
+10009009	maxiunivamalg #9	18	49	79.92
+8007010	brandnameless #10	8	22	79.75
+6014004	edu packbrand #4	17	4	79.56
+10008013	namelessunivamalg #13	9	31	79.56
+8014004	edu packmaxi #4	19	8	79.50
+10008002	namelessunivamalg #2	17	10	79.30
+9015002	scholarunivamalg #2	18	8	79.20
+8008002	namelessnameless #2	7	5	79.17
+8010002	univmaxi #2	19	51	79.14
+9006002	corpmaxi #2	18	51	79.10
+1003002	exportiamalg #2	8	1	79.04
+10012004	importoamalgamalg #4	9	33	78.89
+7009002	maxibrand #2	8	28	78.66
+6014002	edu packbrand #2	9	15	78.65
+10014003	edu packamalgamalg #3	17	48	78.57
+1003001	corpunivamalg #12	7	40	78.55
+4002002	importoedu pack #2	7	55	78.54
+7013007	exportinameless #7	9	21	78.33
+3004001	edu packexporti #1	19	16	78.26
+5003001	importoedu pack #2	9	9	78.00
+2001002	amalgimporto #2	17	6	77.72
+8014004	edu packmaxi #4	19	5	77.52
+6011003	amalgbrand #3	19	56	77.35
+2002001	importoimporto #1	17	40	77.20
+2003001	exportiimporto #1	19	59	77.04
+6015007	scholarbrand #7	7	32	77.01
+7010001	univnameless #1	19	8	77.00
+3003002	exportiexporti #2	8	55	76.95
+4004001	scholarnameless #4	17	29	76.86
+7015002	scholarnameless #2	6	34	76.68
+8012006	importomaxi #6	9	41	76.65
+10009009	maxiunivamalg #9	19	18	76.64
+8005006	scholarnameless #6	17	37	76.56
+3002002	importoexporti #2	19	37	76.44
+3002001	importoexporti #1	8	6	76.30
+9009012	maximaxi #12	17	52	76.16
+4004002	edu packedu pack #2	17	15	75.96
+7007004	brandbrand #4	17	58	75.80
+10010013	univamalgamalg #13	9	21	75.79
+9011008	amalgunivamalg #8	17	45	75.60
+3004002	edu packexporti #2	19	58	75.48
+3003002	exportiexporti #2	8	28	75.44
+4004001	edu packscholar #2	9	52	75.30
+4004001	edu packedu pack #1	19	12	75.25
+6010006	univbrand #6	17	18	75.24
+10008015	namelessunivamalg #15	8	58	75.20
+4004002	edu packedu pack #2	6	37	75.04
+8010004	univmaxi #4	19	11	74.88
+7002008	importobrand #8	8	33	74.82
+6005001	scholarcorp #1	19	36	74.58
+4004001	edu packedu pack #1	7	42	74.55
+9011008	amalgunivamalg #8	17	6	74.48
+7004009	importoimporto #2	17	42	74.40
+7001001	importoexporti #2	9	6	74.26
+2001001	corpbrand #10	8	54	73.92
+4002001	scholarmaxi #6	8	31	73.92
+2004001	importoexporti #2	19	44	73.70
+7009009	maxibrand #9	18	35	73.32
+8008008	namelessnameless #8	18	36	73.32
+10007015	brandunivamalg #15	17	23	73.30
+2002002	importoimporto #2	8	35	73.24
+2001001	amalgamalg #2	8	33	72.96
+3002002	importoexporti #2	19	8	72.74
+6004004	edu packcorp #4	18	18	72.73
+9012006	importounivamalg #6	19	20	72.60
+2001002	amalgimporto #2	19	24	72.52
+6013002	exportibrand #2	17	5	72.40
+3004002	edu packexporti #2	19	49	72.36
+4002002	importoedu pack #2	17	2	72.36
+8011008	amalgmaxi #8	19	20	72.08
+1002001	amalgscholar #2	9	47	72.00
+10004005	importounivamalg #6	6	39	71.88
+9002003	importomaxi #3	9	9	71.82
+4003002	exportiedu pack #2	7	7	71.78
+1003001	exportiamalg #1	8	57	71.74
+9016008	corpunivamalg #8	19	11	71.70
+8004003	edu packnameless #3	8	22	71.53
+4004001	edu packedu pack #1	17	8	71.30
+7005010	scholarbrand #10	19	19	71.30
+7013001	exportinameless #1	18	10	71.19
+7007010	brandbrand #10	19	21	71.04
+2002001	importoimporto #1	8	34	70.92
+10002014	importounivamalg #14	8	56	70.84
+8008003	namelessnameless #3	18	42	70.74
+7013001	exportinameless #1	18	15	70.62
+7016001	corpnameless #1	19	14	70.40
+1004002	edu packamalg #2	17	44	70.37
+6015004	scholarbrand #4	9	44	70.35
+10009015	maxiunivamalg #15	19	57	70.20
+10002009	importounivamalg #9	18	38	70.00
+8008007	namelessnameless #7	17	35	69.90
+8010006	univmaxi #6	17	10	69.84
+7016009	univnameless #10	9	22	69.62
+10009017	maxiunivamalg #17	19	14	69.60
+2003001	exportiimporto #1	18	17	69.52
+10015001	scholaramalgamalg #1	17	26	69.45
+4002002	importoedu pack #2	19	10	69.42
+10009008	maxiunivamalg #8	9	59	69.30
+8016003	corpmaxi #3	9	53	69.12
+8015003	scholarmaxi #3	18	4	68.92
+8010004	univmaxi #4	6	12	68.90
+7004006	edu packbrand #6	9	25	68.89
+8001004	amalgnameless #4	17	22	68.88
+8005005	importonameless #6	9	45	68.73
+4001001	amalgedu pack #1	18	51	68.70
+1004001	edu packamalg #1	17	25	68.67
+6009004	maxicorp #4	18	47	68.64
+7003005	exportibrand #5	9	0	68.47
+6014004	edu packbrand #4	7	37	68.40
+6016001	amalgexporti #2	18	44	68.34
+8003004	exportinameless #4	18	26	68.08
+3004002	edu packexporti #2	7	23	68.00
+2002002	importoimporto #2	18	50	67.92
+4004001	edu packedu pack #1	18	21	67.89
+10005010	scholarunivamalg #10	18	40	67.87
+7005007	scholarbrand #7	18	15	67.84
+5003001	exportischolar #1	9	27	67.65
+2001001	amalgamalg #2	18	5	67.64
+3002002	importoexporti #2	18	59	67.50
+4003002	exportiedu pack #2	17	48	67.43
+7015002	scholarnameless #2	9	39	67.43
+7004004	edu packbrand #4	17	47	67.32
+9003008	exportimaxi #8	18	1	67.16
+9006009	corpmaxi #9	9	51	67.07
+7009010	maxibrand #10	8	27	66.93
+8006009	corpnameless #9	19	19	66.78
+6011008	amalgbrand #8	9	21	66.72
+4004001	scholarnameless #4	6	58	66.50
+2002002	importoimporto #2	18	38	66.43
+7009009	maxibrand #9	8	16	66.42
+8008008	namelessnameless #8	18	43	66.39
+9013008	exportiunivamalg #8	19	45	66.32
+1003001	exportiamalg #1	17	45	66.30
+6001001	amalgcorp #1	8	7	66.24
+8010004	univmaxi #4	17	55	66.24
+8005009	corpnameless #10	7	30	66.20
+7015002	scholarnameless #2	18	17	65.91
+6016006	corpbrand #6	19	31	65.89
+2002002	importoimporto #2	9	35	65.88
+7010008	univnameless #8	17	40	65.80
+1004002	edu packamalg #2	19	42	65.65
+5002001	amalgamalg #2	18	9	65.61
+7001009	amalgbrand #9	18	35	65.28
+1001002	amalgamalg #2	19	28	65.25
+7008008	namelessbrand #8	18	4	65.10
+5001001	edu packexporti #2	9	28	65.04
+6001008	amalgcorp #8	18	55	64.96
+7016007	corpnameless #7	18	14	64.90
+4002002	importoedu pack #2	8	48	64.79
+9009002	maximaxi #2	18	58	64.67
+7001008	amalgbrand #8	18	8	64.41
+6016003	corpbrand #3	19	23	64.24
+9013008	exportiunivamalg #8	18	10	64.09
+10015017	scholaramalgamalg #17	17	9	63.91
+6008005	namelesscorp #5	18	52	63.90
+10012004	importoamalgamalg #4	9	13	63.81
+9008008	namelessmaxi #8	6	24	63.70
+3001002	amalgexporti #2	19	4	63.44
+5003001	exportischolar #1	19	21	63.28
+7006008	corpbrand #8	7	54	63.24
+7014002	edu packnameless #2	9	39	63.14
+2004001	brandcorp #4	17	23	63.00
+9001003	amalgmaxi #3	19	8	63.00
+9013008	exportiunivamalg #8	19	21	63.00
+9014002	edu packunivamalg #2	18	1	62.22
+8008007	namelessnameless #7	8	53	62.16
+7014002	edu packnameless #2	17	9	62.15
+6010004	univbrand #4	17	27	61.70
+9016002	corpunivamalg #2	17	20	61.38
+4002002	importoedu pack #2	8	15	61.36
+2002002	importoimporto #2	9	13	61.16
+10008006	namelessunivamalg #6	17	46	61.06
+2004001	edu packimporto #1	19	16	61.05
+10015012	scholaramalgamalg #12	18	36	60.96
+3001002	amalgexporti #2	18	1	60.84
+10008009	corpcorp #8	9	45	60.48
+7011008	amalgnameless #8	17	37	60.32
+8008002	namelessnameless #2	19	53	60.28
+5002001	exportibrand #8	19	12	60.26
+10008002	namelessunivamalg #2	18	45	59.85
+9010009	univunivamalg #9	9	38	59.84
+10006002	corpunivamalg #2	19	31	59.78
+9007011	importoexporti #2	19	25	59.67
+2004001	brandcorp #4	17	53	59.57
+10016002	corpamalgamalg #2	8	54	59.47
+5003002	exportischolar #2	19	4	59.40
+6003001	exportiimporto #2	19	43	59.40
+1003001	exportiamalg #1	17	44	59.36
+9009003	maximaxi #3	17	58	59.17
+10009013	exportibrand #6	9	9	59.04
+4004001	edu packedu pack #1	18	32	58.80
+8005001	scholarnameless #1	19	2	58.80
+9015009	scholarunivamalg #9	18	59	58.56
+6008002	namelesscorp #2	7	30	58.20
+1003002	exportiamalg #2	19	23	58.13
+3002001	univamalgamalg #6	17	56	58.05
+3001001	amalgexporti #1	17	22	57.98
+6003003	exporticorp #3	17	18	57.68
+5004001	edu packscholar #1	18	31	57.60
+8007008	brandnameless #8	19	49	57.38
+8007001	brandnameless #1	9	37	57.33
+10009013	maxiunivamalg #13	19	42	57.20
+2001002	amalgimporto #2	7	56	57.14
+8006008	corpnameless #8	19	59	57.00
+5002001	importoedu pack #2	9	3	56.80
+7013001	exportiimporto #2	17	41	56.70
+10013015	exportiamalgamalg #15	17	56	56.69
+7004009	importoimporto #2	8	30	56.65
+8011008	amalgmaxi #8	18	51	56.35
+6009007	importoscholar #2	17	50	56.26
+8010009	univmaxi #9	18	56	56.24
+9015002	scholarunivamalg #2	8	51	56.10
+10007002	brandunivamalg #2	8	42	55.44
+2001002	amalgimporto #2	8	59	55.07
+7008006	namelessbrand #6	8	45	55.00
+6006004	corpcorp #4	17	44	54.74
+6015007	scholarbrand #7	17	39	54.72
+7013007	exportinameless #7	9	30	54.60
+7006001	corpbrand #1	17	41	54.28
+1003001	exportiamalg #1	8	43	54.27
+8003010	exportinameless #10	7	1	54.25
+4001001	exportiexporti #2	17	38	54.24
+7003005	exportiedu pack #2	19	17	54.24
+10014016	edu packamalgamalg #16	19	13	53.96
+4002001	importoedu pack #1	18	57	53.73
+5004001	edu packscholar #1	18	10	53.65
+2002002	importoimporto #2	9	39	53.57
+4004001	corpamalgamalg #8	19	44	53.56
+6003008	exporticorp #8	18	5	53.40
+6009002	maxicorp #2	7	7	53.32
+2002001	importoimporto #1	18	17	53.20
+7010004	univnameless #4	19	3	53.10
+6015002	scholarbrand #2	19	20	52.92
+10005014	scholarunivamalg #14	7	49	52.90
+7003002	exportibrand #2	18	46	52.88
+7001009	amalgbrand #9	19	21	52.80
+8012001	amalgexporti #2	9	23	52.72
+7011008	amalgnameless #8	17	7	52.68
+9014002	edu packunivamalg #2	8	43	52.64
+1002001	importoamalg #1	8	26	52.56
+7008004	namelessbrand #4	19	31	52.48
+4003001	exportiedu pack #1	7	48	52.44
+6001007	amalgcorp #7	17	28	52.36
+7007004	brandbrand #4	17	3	52.32
+6005008	scholarcorp #8	8	57	52.20
+10014016	edu packamalgamalg #16	9	45	52.16
+5001001	amalgscholar #1	17	45	52.08
+1004002	edu packamalg #2	19	32	51.94
+10003011	exportiunivamalg #11	9	4	51.94
+3002002	importoexporti #2	17	39	51.92
+9014003	edu packunivamalg #3	17	43	51.87
+4004001	edu packedu pack #1	18	26	51.84
+3004002	edu packexporti #2	9	57	51.60
+6009007	maxicorp #7	18	2	51.60
+7008009	namelessbrand #9	19	9	51.59
+7016001	amalgamalg #2	9	48	51.57
+6015006	scholarbrand #6	18	17	51.46
+8002009	importonameless #9	17	49	51.45
+3003002	exportiexporti #2	9	36	51.20
+4001001	amalgedu pack #1	17	9	51.18
+9011008	amalgunivamalg #8	19	45	51.03
+5003002	exportischolar #2	19	36	50.94
+1003002	exportiamalg #2	9	35	50.80
+2003001	exportiimporto #1	9	22	50.75
+4004001	edu packimporto #2	18	33	50.60
+7004009	edu packbrand #9	18	33	50.56
+4001002	amalgedu pack #2	17	11	50.50
+1001002	amalgamalg #2	9	25	50.40
+8001001	amalgnameless #1	9	27	50.40
+5003001	importoedu pack #2	19	10	50.19
+7012009	importonameless #9	17	31	50.16
+5002001	importoedu pack #2	17	32	49.95
+7008009	namelessbrand #9	8	44	49.66
+2004001	brandcorp #4	18	7	49.55
+6012002	importobrand #2	17	45	49.49
+5004002	edu packscholar #2	17	50	49.28
+9006002	corpmaxi #2	18	35	49.20
+6012001	importobrand #1	17	42	49.14
+10010017	univamalgamalg #17	18	23	48.80
+1001001	univamalgamalg #16	17	46	48.65
+10002012	importounivamalg #12	18	47	48.60
+1001001	amalgunivamalg #13	19	55	48.51
+3003001	univamalgamalg #6	19	50	48.32
+10006009	corpunivamalg #9	9	26	48.16
+8006008	corpnameless #8	19	19	48.00
+4002001	edu packbrand #8	17	5	47.68
+2001002	amalgimporto #2	6	7	47.64
+6014005	edu packamalgamalg #8	18	59	47.58
+10005014	scholarunivamalg #14	18	8	47.53
+4003001	exportischolar #2	6	30	47.46
+1003001	namelessunivamalg #12	17	35	47.04
+6002004	importocorp #4	8	51	46.98
+4003001	exportiedu pack #1	9	43	46.97
+4002001	importoedu pack #1	18	42	46.85
+7001002	amalgbrand #2	17	48	46.80
+10002012	importounivamalg #12	9	12	46.74
+10013015	exportiamalgamalg #15	18	14	46.20
+10016016	corpamalgamalg #16	7	16	46.06
+9015003	scholarunivamalg #3	9	42	45.79
+8003009	exportinameless #9	19	34	45.77
+10016016	corpamalgamalg #16	9	20	45.50
+10009001	maxiunivamalg #1	19	11	45.45
+1001002	amalgamalg #2	19	12	45.22
+7007005	exportiamalg #2	19	8	45.12
+4004001	edu packedu pack #1	17	4	45.08
+9007008	brandmaxi #8	9	19	44.99
+7016006	corpnameless #6	17	46	44.88
+5002002	importoscholar #2	8	36	44.84
+4003002	exportiedu pack #2	19	40	44.80
+7010010	univnameless #10	9	46	44.80
+10008002	namelessunivamalg #2	17	14	44.80
+7008004	namelessbrand #4	19	10	44.77
+4003002	exportiedu pack #2	17	0	44.72
+1004001	amalgunivamalg #6	17	34	43.90
+10002012	importounivamalg #12	18	23	43.89
+10009013	maxiunivamalg #13	19	57	43.86
+6010005	univbrand #5	19	9	43.67
+4001001	amalgedu pack #1	6	51	43.63
+5002002	importoscholar #2	19	5	43.56
+8005009	scholarnameless #9	18	3	43.52
+1002001	importoamalg #1	8	57	43.50
+3002001	importoexporti #1	19	15	43.36
+9013012	exportiunivamalg #12	17	50	43.20
+10005014	scholarunivamalg #14	9	54	43.20
+2002001	importoimporto #1	19	28	43.16
+6012007	importobrand #7	18	48	43.00
+2003001	amalgbrand #4	17	29	42.86
+6011001	amalgbrand #1	18	28	42.75
+5004002	edu packscholar #2	19	24	42.70
+10013002	exportiamalgamalg #2	8	40	42.48
+9006009	corpmaxi #9	17	36	42.39
+6008002	namelesscorp #2	7	28	42.22
+6001008	amalgcorp #8	9	23	42.09
+7011008	amalgnameless #8	19	19	42.05
+3002001	importoexporti #1	17	15	42.00
+1004001	edu packamalg #1	17	41	41.88
+7016007	corpnameless #7	17	51	41.78
+3001001	amalgexporti #1	8	19	41.49
+6012004	importobrand #4	8	9	41.44
+9016009	corpunivamalg #9	18	6	41.44
+5001002	amalgscholar #2	17	28	41.42
+8009010	maxinameless #10	9	13	41.26
+8001004	amalgnameless #4	17	28	41.14
+6008005	edu packmaxi #6	19	29	41.04
+10005010	scholarunivamalg #10	9	12	40.83
+3002002	importoexporti #2	17	9	40.80
+3004001	edu packscholar #2	8	2	40.74
+1003002	exportiamalg #2	19	38	40.28
+1004001	edu packamalg #1	9	20	40.12
+3004002	edu packexporti #2	9	10	40.12
+3001001	amalgexporti #1	17	19	40.08
+3002001	importoexporti #1	9	7	40.02
+6010005	univbrand #5	9	32	40.02
+10012001	importoamalgamalg #1	18	55	39.90
+4001001	maxiunivamalg #16	19	53	39.84
+6005008	scholarcorp #8	18	49	39.72
+1001002	amalgamalg #2	18	41	39.60
+10016001	corpamalgamalg #1	8	59	39.60
+6015004	scholarbrand #4	9	11	39.54
+5001001	maxicorp #4	9	50	39.52
+1002002	importoamalg #2	17	53	39.50
+7003005	exportibrand #5	18	18	39.00
+2004001	edu packcorp #8	17	28	38.88
+7006004	NULL	19	34	38.72
+4003002	exportiedu pack #2	18	54	38.70
+5001001	maxicorp #4	18	42	38.44
+9002003	importomaxi #3	9	11	38.41
+3002001	importoexporti #1	9	31	38.16
+9014008	edu packunivamalg #8	18	55	38.04
+10002001	importounivamalg #1	6	44	37.96
+1002001	importoamalg #1	9	29	37.95
+6001001	amalgcorp #1	17	12	37.72
+6001002	amalgcorp #2	17	6	37.64
+4004001	edu packedu pack #1	9	49	37.62
+7007010	brandbrand #10	17	34	37.62
+1002001	importounivamalg #1	18	23	37.41
+4004002	edu packedu pack #2	18	54	37.35
+4004001	corpamalgamalg #8	17	29	37.20
+10012004	importoamalgamalg #4	17	22	37.19
+8010003	namelessunivamalg #5	17	34	37.17
+1004001	edu packamalg #1	7	13	37.05
+2004002	edu packimporto #2	8	5	37.00
+1004002	edu packamalg #2	17	35	36.96
+7001009	amalgbrand #9	18	54	36.92
+5003002	exportischolar #2	19	21	36.72
+7004008	edu packbrand #8	18	23	36.60
+10012004	importoamalgamalg #4	19	28	36.49
+10006017	corpunivamalg #17	19	33	36.32
+3002002	importoexporti #2	8	57	36.30
+8010004	univmaxi #4	8	10	36.24
+8005005	importonameless #6	17	13	36.12
+6010006	univbrand #6	17	20	36.08
+9010009	univunivamalg #9	7	50	36.03
+2002001	importoimporto #1	17	11	36.01
+6012003	univamalgamalg #14	9	35	35.90
+8002009	importonameless #9	19	11	35.60
+7010004	univnameless #4	19	43	35.46
+3001002	amalgexporti #2	19	32	35.37
+5001001	amalgscholar #2	9	10	35.28
+1001001	amalgunivamalg #13	8	7	35.25
+7008004	namelessbrand #4	19	32	35.24
+6008005	namelesscorp #5	17	8	35.19
+3001002	amalgexporti #2	19	16	34.84
+5004001	edu packscholar #1	8	47	34.84
+4003001	exportiedu pack #1	8	47	34.74
+6005007	scholarcorp #7	6	50	34.71
+4002002	importoedu pack #2	19	53	34.68
+3002001	importoexporti #1	9	20	34.56
+4001002	amalgedu pack #2	17	9	34.50
+6002004	importocorp #4	9	31	34.40
+8005005	scholarnameless #5	19	8	34.32
+6005003	scholarcorp #3	8	12	34.24
+10002001	importounivamalg #1	8	54	34.20
+6009007	importoscholar #2	8	5	34.02
+7013007	exportinameless #7	8	17	34.02
+8015008	scholarmaxi #8	8	33	34.02
+2001002	amalgimporto #2	9	25	34.00
+1004002	edu packamalg #2	19	27	33.98
+1003002	exportiamalg #2	9	2	33.84
+1004002	edu packamalg #2	9	12	33.75
+6007007	brandcorp #7	19	42	33.67
+6010002	univbrand #2	7	15	33.58
+10014010	edu packamalgamalg #10	9	8	33.54
+3002001	importounivamalg #7	17	6	33.40
+1003002	exportiamalg #2	18	17	33.25
+7002007	maxicorp #2	19	12	33.21
+1001001	namelessunivamalg #4	9	46	33.12
+6003008	exporticorp #8	9	23	32.76
+2002002	importoimporto #2	17	30	32.64
+7004006	edu packbrand #6	18	14	32.55
+9005009	scholarmaxi #9	8	6	32.44
+2001001	importoimporto #2	6	35	32.04
+10006003	corpunivamalg #3	19	20	31.92
+10010013	univamalgamalg #13	9	16	31.92
+6015007	scholarbrand #7	19	45	31.54
+2002002	importoimporto #2	18	9	31.52
+4003001	exportiedu pack #1	19	53	31.27
+6016003	corpbrand #3	9	44	31.26
+7014008	edu packnameless #8	8	29	31.20
+8001007	amalgamalg #2	17	26	31.20
+8008003	namelessnameless #3	9	22	31.20
+6009004	maxicorp #4	9	3	31.15
+10008006	namelessunivamalg #6	18	31	31.08
+10007004	brandunivamalg #4	19	53	30.96
+8012010	importomaxi #10	8	4	30.81
+2002001	exportiexporti #2	17	37	30.70
+1003001	exportiamalg #1	8	12	30.48
+1002002	importoamalg #2	6	3	30.44
+4003002	exportiedu pack #2	6	26	30.44
+8010006	univmaxi #6	18	7	30.06
+7010001	univnameless #1	19	33	29.76
+8005006	scholarnameless #6	17	40	29.70
+6009004	maxicorp #4	9	24	29.68
+8014005	edu packmaxi #5	18	46	29.28
+6009007	importoscholar #2	9	15	29.16
+10002014	importounivamalg #14	19	41	28.90
+6001007	amalgcorp #7	7	29	28.86
+6001002	amalgcorp #2	9	31	28.49
+8010001	univamalgamalg #5	9	53	28.44
+4002002	importoedu pack #2	17	12	28.40
+2002002	importoimporto #2	9	12	28.20
+4002001	scholarmaxi #6	9	35	28.16
+6003008	exporticorp #8	8	53	28.10
+4003002	exportiedu pack #2	19	7	28.08
+5004002	edu packscholar #2	17	15	28.05
+1001001	amalgamalg #1	17	25	27.93
+5004002	edu packscholar #2	18	13	27.72
+1004001	edu packimporto #2	18	23	27.69
+6005001	scholarcorp #1	8	30	27.60
+9015011	exportiamalg #2	17	27	27.55
+10016001	corpamalgamalg #1	19	14	27.36
+9012005	univbrand #2	8	19	27.18
+2003002	exportiimporto #2	19	28	27.09
+6011008	amalgbrand #8	19	57	27.09
+4001001	namelessmaxi #6	17	0	27.00
+6008007	namelesscorp #7	9	13	27.00
+7008006	namelessbrand #6	19	43	26.56
+4002002	importoedu pack #2	8	18	26.47
+8003002	exportinameless #2	19	23	26.32
+10007005	brandunivamalg #5	18	53	26.22
+8008008	namelessnameless #8	6	28	26.10
+3004001	edu packexporti #1	17	40	26.07
+5001001	amalgscholar #1	9	11	26.00
+7010001	univnameless #1	8	30	25.65
+6006003	corpcorp #3	18	23	25.52
+5004002	edu packscholar #2	18	22	25.41
+1002001	importoamalg #1	18	51	25.32
+10004005	importounivamalg #6	17	47	25.30
+7001004	amalgbrand #4	9	4	25.14
+1004002	edu packamalg #2	9	40	25.11
+1004002	edu packamalg #2	17	16	25.08
+8010006	univmaxi #6	19	49	24.84
+1003001	corpunivamalg #12	7	25	24.64
+5004001	edu packscholar #1	8	49	24.61
+7004009	importoimporto #2	19	5	24.60
+9009009	maximaxi #9	18	3	24.32
+2001001	amalgimporto #1	17	45	24.31
+9016008	corpunivamalg #8	18	54	24.18
+2001001	importoimporto #2	17	25	24.15
+3001002	amalgexporti #2	8	43	23.76
+4002001	importoedu pack #1	17	42	23.68
+1003002	exportiamalg #2	19	7	23.67
+3001002	amalgexporti #2	19	29	23.66
+10009013	exportibrand #6	8	37	23.65
+3002002	importoexporti #2	18	29	23.60
+4002001	importoedu pack #1	17	37	23.46
+8002009	importonameless #9	7	39	23.43
+6008002	namelesscorp #2	17	6	23.40
+8002009	importonameless #9	18	53	23.36
+1001001	amalgamalg #1	17	59	23.27
+2004001	importoexporti #2	19	38	23.25
+5001001	amalgscholar #1	18	55	23.22
+5001002	amalgscholar #2	17	32	23.03
+5004002	edu packscholar #2	9	0	22.96
+10002012	importounivamalg #12	19	3	22.80
+2002002	importoimporto #2	19	33	22.68
+3001002	amalgexporti #2	19	49	22.56
+9012005	univbrand #2	8	56	22.50
+7006001	corpbrand #1	19	3	22.40
+4003001	exportiedu pack #1	19	43	22.35
+7006008	corpbrand #8	9	21	22.29
+2002001	importoimporto #1	8	48	22.20
+2004001	brandcorp #4	17	35	22.20
+8010004	univmaxi #4	19	54	22.20
+10008002	namelessunivamalg #2	18	50	21.86
+6011002	amalgbrand #2	18	9	21.60
+8008008	namelessnameless #8	17	21	21.60
+9015002	scholarunivamalg #2	8	53	21.34
+10007004	importoimporto #2	8	55	21.32
+7008006	namelessbrand #6	18	55	21.30
+3003001	importoimporto #2	8	11	21.24
+8005005	scholarnameless #5	17	42	21.08
+7004009	importoimporto #2	7	38	20.93
+2003002	exportiimporto #2	8	26	20.80
+7009004	maxibrand #4	18	16	20.74
+2002001	importoimporto #1	19	43	20.58
+9015009	scholarunivamalg #9	8	39	20.56
+8010004	univmaxi #4	17	47	20.46
+1003001	exportiamalg #1	17	7	20.32
+1001002	amalgamalg #2	19	35	20.25
+3004002	edu packexporti #2	9	37	20.05
+9015009	scholarunivamalg #9	9	11	20.05
+1003001	exportiamalg #1	8	37	19.98
+8003009	exportinameless #9	6	10	19.96
+2004002	edu packimporto #2	8	37	19.93
+2004001	importoexporti #2	17	31	19.80
+8008009	namelessnameless #9	19	31	19.62
+3003002	exportiexporti #2	18	19	19.44
+3003001	exportiexporti #1	18	38	19.40
+6008005	namelesscorp #5	8	2	19.39
+9011008	amalgunivamalg #8	6	23	19.35
+7009004	maxibrand #4	18	43	19.24
+2001002	amalgimporto #2	19	56	19.22
+3001001	amalgexporti #1	7	2	19.20
+7016001	corpnameless #1	8	40	19.18
+10009017	maxiunivamalg #17	18	22	19.00
+6010002	univbrand #2	6	5	18.86
+10014014	edu packamalgamalg #14	8	16	18.86
+6006002	corpcorp #2	18	26	18.84
+8003006	exportinameless #6	8	19	18.27
+4004001	importoscholar #2	18	25	17.67
+9011009	amalgunivamalg #9	8	40	17.67
+10007012	brandunivamalg #12	8	29	17.64
+1003001	brandbrand #6	19	46	17.60
+1004001	edu packamalg #1	17	20	17.48
+8007001	brandnameless #1	8	7	17.43
+10008002	namelessunivamalg #2	9	58	17.25
+10008009	corpcorp #8	8	40	17.01
+8012001	amalgexporti #2	18	23	17.00
+6005001	scholarcorp #1	17	31	16.88
+5002001	exporticorp #4	7	52	16.87
+1003001	brandbrand #6	17	4	16.86
+6008005	namelesscorp #5	17	52	16.83
+7009009	maxibrand #9	18	52	16.72
+7002007	maxicorp #2	18	46	16.49
+9011008	amalgunivamalg #8	9	39	16.47
+1004001	edu packamalg #1	18	23	16.29
+1003001	exportiamalg #1	19	36	16.25
+8002009	importonameless #9	17	9	16.20
+4003001	exportiedu pack #1	8	19	16.17
+8016003	corpmaxi #3	9	9	15.95
+2002001	importoimporto #1	17	28	15.68
+8016010	corpmaxi #10	9	54	15.55
+2001002	amalgimporto #2	19	40	15.42
+1001001	namelessunivamalg #4	17	16	15.41
+4002001	importoedu pack #1	9	26	15.30
+4004002	edu packedu pack #2	19	33	15.16
+2001002	amalgimporto #2	18	35	15.12
+5003001	exportischolar #1	17	53	14.80
+8003009	exportinameless #9	17	27	14.80
+4001001	amalgedu pack #1	19	6	14.78
+4004001	edu packedu pack #1	9	8	14.72
+7001001	importoexporti #2	19	24	14.34
+3002001	importoexporti #1	17	11	14.22
+2003001	exportiimporto #1	17	42	13.72
+8014004	edu packmaxi #4	9	4	13.70
+6008005	namelesscorp #5	19	13	13.52
+9015011	exportiamalg #2	17	5	13.51
+8014005	edu packmaxi #5	7	21	13.50
+5002002	importoscholar #2	8	2	13.44
+2003002	exportiimporto #2	18	2	13.40
+6009004	maxicorp #4	19	49	13.32
+2003002	exportiimporto #2	18	22	12.96
+5001002	amalgscholar #2	17	57	12.92
+1003002	exportiamalg #2	8	46	12.90
+7007004	brandbrand #4	6	29	12.81
+10008002	namelessunivamalg #2	17	53	12.80
+5002002	importoscholar #2	18	25	12.49
+6016003	corpbrand #3	18	15	12.49
+6015006	scholarbrand #6	9	35	12.40
+4002002	importoedu pack #2	8	53	12.24
+1002002	importoamalg #2	19	16	12.21
+10010004	univamalgamalg #4	9	36	11.94
+9011008	amalgunivamalg #8	19	24	11.88
+2004001	edu packimporto #1	9	12	11.85
+10012004	importoamalgamalg #4	17	5	11.81
+9016006	corpunivamalg #6	17	47	11.47
+10016013	corpamalgamalg #13	19	26	11.21
+10015012	scholaramalgamalg #12	17	25	11.20
+7013002	exportinameless #2	19	33	11.13
+4004001	edu packedu pack #1	9	32	11.06
+4004002	edu packedu pack #2	7	11	11.05
+2001001	corpbrand #10	8	26	11.03
+9014008	edu packunivamalg #8	9	57	10.99
+3002002	importoexporti #2	17	26	10.98
+3001002	amalgexporti #2	19	38	10.95
+10007012	brandunivamalg #12	9	26	10.92
+1004001	exportiunivamalg #12	19	9	10.86
+10003015	exportiunivamalg #15	17	12	10.65
+1004001	edu packamalg #1	18	34	10.62
+10007004	importoimporto #2	9	25	10.62
+6014002	edu packbrand #2	18	11	10.50
+6005007	scholarcorp #7	19	38	10.48
+6006003	corpcorp #3	19	10	10.46
+8008009	namelessnameless #9	17	32	10.46
+9009012	maximaxi #12	19	12	10.45
+3001001	amalgexporti #1	8	38	10.22
+3003002	exportiexporti #2	17	10	10.00
+5001002	amalgscholar #2	19	22	9.75
+10003005	corpamalgamalg #6	9	3	9.70
+2004001	edu packimporto #1	17	7	9.66
+7009010	maxibrand #10	8	14	9.65
+4003002	exportiedu pack #2	7	11	9.35
+6007007	brandcorp #7	7	0	9.12
+8004001	importonameless #2	19	35	9.08
+10011013	amalgunivamalg #6	8	54	9.02
+1003002	exportiamalg #2	9	26	8.88
+4002001	scholarmaxi #6	7	5	8.82
+4004001	edu packimporto #2	8	14	8.61
+10003011	exportiunivamalg #11	17	9	8.50
+10007012	brandunivamalg #12	17	17	8.49
+4001002	amalgedu pack #2	17	4	8.47
+10014010	edu packamalgamalg #10	18	46	8.31
+1001002	amalgamalg #2	19	49	8.28
+2004002	edu packimporto #2	9	58	8.26
+9009009	maximaxi #9	18	4	8.20
+6004002	edu packcorp #2	7	22	8.02
+3003002	exportiexporti #2	17	37	8.00
+9008002	namelessmaxi #2	8	53	7.93
+7010009	univnameless #9	9	48	7.86
+7008006	namelessbrand #6	19	44	7.83
+2003001	exportiimporto #1	19	42	7.80
+3003001	importoimporto #2	8	28	7.67
+1001001	amalgamalg #1	8	44	7.56
+4002002	importoedu pack #2	8	37	7.41
+1002001	amalgscholar #2	17	38	7.38
+1002002	importoamalg #2	8	24	7.38
+3003001	importoimporto #2	18	51	7.38
+5004002	edu packscholar #2	19	42	7.20
+10003005	corpamalgamalg #6	9	26	7.14
+2003002	exportiimporto #2	7	21	7.02
+4001001	amalgedu pack #1	7	11	7.02
+6007007	brandcorp #7	9	2	7.02
+7013002	exportinameless #2	18	12	6.93
+10016003	corpamalgamalg #3	9	25	6.77
+9016006	corpunivamalg #6	18	14	6.75
+6008005	namelesscorp #5	18	17	6.72
+8015006	scholarmaxi #6	9	35	6.56
+7003005	exportiedu pack #2	18	15	6.48
+3004001	edu packexporti #1	17	18	6.45
+9005009	scholarmaxi #9	17	24	6.44
+10003011	exportiunivamalg #11	18	11	6.44
+8004003	edu packnameless #3	18	53	6.30
+8015003	importoamalg #2	17	45	6.27
+8006009	corpnameless #9	18	9	6.25
+7013002	exportinameless #2	18	25	5.76
+10010017	univamalgamalg #17	17	28	5.66
+1002001	importoamalg #1	17	46	5.60
+6005003	scholarcorp #3	9	59	5.50
+4004001	edu packedu pack #1	18	0	5.45
+1003001	exportiamalg #1	8	23	5.44
+5001002	amalgscholar #2	19	42	5.30
+9014003	edu packunivamalg #3	18	3	5.30
+1003001	exportiedu pack #2	8	8	5.28
+1003002	exportiamalg #2	17	47	5.25
+8002009	importonameless #9	17	36	5.13
+5002002	importoscholar #2	17	51	4.65
+3001002	amalgexporti #2	6	52	4.54
+6003003	exporticorp #3	19	36	4.53
+4004001	edu packedu pack #1	9	43	4.50
+8004003	edu packnameless #3	18	1	4.45
+7010010	univnameless #10	19	54	4.41
+8015008	scholarmaxi #8	17	3	4.41
+7016001	corpnameless #1	18	22	4.40
+7013007	exportinameless #7	9	53	4.38
+8013004	exportimaxi #4	17	42	4.27
+8008008	namelessnameless #8	19	52	4.20
+2004001	edu packcorp #8	9	17	4.14
+4002002	importoedu pack #2	9	18	4.01
+2002001	importoimporto #1	8	33	3.93
+2001002	amalgimporto #2	17	54	3.90
+1001002	amalgamalg #2	18	28	3.89
+7012001	amalgamalgamalg #2	18	3	3.70
+3003002	exportiexporti #2	19	14	3.66
+1004002	edu packamalg #2	8	47	3.59
+2003002	exportiimporto #2	17	45	3.48
+2001001	amalgimporto #1	19	51	3.35
+5004002	edu packscholar #2	17	39	3.29
+5003002	exportischolar #2	19	25	3.22
+1003002	exportiamalg #2	17	17	3.10
+4003001	exportiedu pack #1	18	40	2.90
+3001002	amalgexporti #2	19	46	2.88
+1004001	exportiunivamalg #12	9	47	2.50
+8001003	importoscholar #2	17	15	2.49
+10003004	exportiunivamalg #4	9	16	2.34
+9004003	edu packmaxi #3	6	24	2.31
+1003001	corpunivamalg #12	9	5	2.28
+6015008	scholarbrand #8	17	59	2.24
+8012005	importomaxi #5	17	58	2.18
+10004015	edu packunivamalg #15	17	47	2.17
+3001002	amalgexporti #2	7	13	2.15
+9012011	importoamalg #2	19	42	2.07
+9014008	edu packunivamalg #8	18	26	2.04
+8010003	namelessunivamalg #5	19	41	1.96
+3001001	amalgexporti #1	17	5	1.87
+2003001	exportiimporto #1	18	24	1.86
+4002001	importoedu pack #1	19	26	1.81
+1004001	edu packamalg #1	19	24	1.68
+7013001	exportiimporto #2	18	56	1.47
+2004001	importoexporti #2	9	53	1.32
+10015012	scholaramalgamalg #12	19	31	1.13
+5002002	importoscholar #2	18	17	1.04
+1002001	importoamalg #1	17	30	0.93
+2002002	importoimporto #2	19	42	0.90
+8006009	corpnameless #9	17	2	0.74
+1002001	importounivamalg #1	19	20	0.69
+1001001	amalgamalg #1	8	43	0.66
+8011008	amalgmaxi #8	17	48	0.53
+6009004	maxicorp #4	18	7	0.52
+9001008	amalgmaxi #8	9	43	0.45
+4003002	exportiedu pack #2	9	13	0.32
+4003001	exportiedu pack #1	8	12	0.27
+2004001	brandcorp #4	18	56	0.22
+NULL	NULL	6	1	0.00
+1001001	brandnameless #8	7	16	0.00
+1001001	amalgamalg #1	9	2	0.00
+1002001	importounivamalg #1	17	36	0.00
+1003001	exportiamalg #1	19	25	0.00
+1003001	exportiamalg #1	19	48	0.00
+2001001	amalgimporto #1	19	0	0.00
+2001001	amalgimporto #1	6	58	0.00
+2001002	amalgimporto #2	19	58	0.00
+2001002	amalgimporto #2	9	50	0.00
+2001002	amalgimporto #2	8	30	0.00
+2001002	amalgimporto #2	9	51	0.00
+2001002	amalgimporto #2	17	53	0.00
+2001002	amalgimporto #2	19	3	0.00
+2002002	importoimporto #2	19	44	0.00
+2003001	scholarmaxi #12	19	17	0.00
+2003001	exportiimporto #1	19	53	0.00
+2004002	edu packimporto #2	9	28	0.00
+2004002	edu packimporto #2	19	8	0.00
+2004002	edu packimporto #2	17	16	0.00
+2004002	edu packimporto #2	17	55	0.00
+3001002	amalgexporti #2	9	34	0.00
+3002001	namelessunivamalg #15	17	15	0.00
+3002002	importoexporti #2	17	19	0.00
+3002002	importoexporti #2	17	59	0.00
+3002002	importoexporti #2	7	15	0.00
+3004001	edu packexporti #1	19	12	0.00
+3004002	edu packexporti #2	19	28	0.00
+3004002	edu packexporti #2	9	13	0.00
+3004002	edu packexporti #2	17	28	0.00
+3004002	edu packexporti #2	9	28	0.00
+4001001	exportiexporti #2	19	28	0.00
+4001001	amalgedu pack #1	19	15	0.00
+4001002	amalgedu pack #2	17	38	0.00
+4002001	importoedu pack #1	9	44	0.00
+4002001	importoscholar #2	7	29	0.00
+4002001	scholarmaxi #6	17	43	0.00
+4002001	importoedu pack #1	6	59	0.00
+4002002	importoedu pack #2	7	10	0.00
+4002002	importoedu pack #2	17	28	0.00
+4003001	edu packamalg #2	19	20	0.00
+4003001	exportiedu pack #1	18	8	0.00
+4004002	edu packedu pack #2	19	37	0.00
+4004002	edu packedu pack #2	18	38	0.00
+5001002	amalgscholar #2	7	17	0.00
+5001002	amalgscholar #2	6	51	0.00
+5002002	importoscholar #2	18	38	0.00
+5003002	exportischolar #2	18	13	0.00
+5004002	edu packscholar #2	18	17	0.00
+6002008	importocorp #8	18	38	0.00
+6003003	exporticorp #3	18	35	0.00
+6004007	edu packscholar #2	19	48	0.00
+6009008	maxicorp #8	19	54	0.00
+6012003	univamalgamalg #14	19	9	0.00
+6012007	importobrand #7	9	19	0.00
+6014005	edu packamalgamalg #8	8	4	0.00
+6015004	scholarbrand #4	18	1	0.00
+6016001	corpbrand #1	18	59	0.00
+7002008	importobrand #8	9	20	0.00
+7002008	importobrand #8	18	0	0.00
+7006007	edu packamalg #2	17	27	0.00
+7007004	brandbrand #4	8	51	0.00
+7009009	exportibrand #10	8	13	0.00
+7010004	univnameless #4	8	22	0.00
+7010004	univnameless #4	17	55	0.00
+7010005	corpunivamalg #6	19	7	0.00
+7010010	univnameless #10	17	44	0.00
+7012009	amalgamalg #2	7	52	0.00
+8001001	amalgnameless #1	9	7	0.00
+8001004	amalgnameless #4	8	40	0.00
+8005005	scholarnameless #5	17	48	0.00
+8006009	corpnameless #9	19	0	0.00
+8008002	namelessnameless #2	18	44	0.00
+8008003	namelessnameless #3	17	2	0.00
+8008008	namelessnameless #8	17	29	0.00
+8009003	maxinameless #3	7	31	0.00
+8010001	univmaxi #1	17	58	0.00
+8010001	univamalgamalg #5	17	12	0.00
+8010001	univamalgamalg #5	9	32	0.00
+8012005	importomaxi #5	7	42	0.00
+8012006	importomaxi #6	8	20	0.00
+9001003	amalgmaxi #3	18	7	0.00
+9001005	importoedu pack #2	18	44	0.00
+9002008	importomaxi #8	8	0	0.00
+9007003	brandmaxi #3	17	28	0.00
+9009012	maximaxi #12	18	8	0.00
+9009012	maximaxi #12	19	21	0.00
+9011008	amalgunivamalg #8	9	10	0.00
+9011009	amalgunivamalg #9	19	23	0.00
+9013008	exportiunivamalg #8	9	32	0.00
+9014003	edu packunivamalg #3	7	25	0.00
+10002012	importounivamalg #12	19	18	0.00
+10003011	exportiunivamalg #11	9	25	0.00
+10004008	edu packunivamalg #8	7	24	0.00
+10004017	edu packunivamalg #17	19	50	0.00
+10006002	corpunivamalg #2	8	4	0.00
+10006016	corpunivamalg #16	7	6	0.00
+10008002	namelessunivamalg #2	9	52	0.00
+10008004	namelessunivamalg #4	17	56	0.00
+10008013	namelessunivamalg #13	8	17	0.00
+10014001	maxibrand #4	7	35	0.00
+10016001	corpamalgamalg #1	17	22	0.00
+10016003	corpamalgamalg #3	17	50	0.00
+10016013	corpamalgamalg #13	9	48	0.00
+10016016	corpamalgamalg #16	19	44	0.00
+1001001	amalgamalg #1	17	49	NULL
+1002002	importoamalg #2	18	58	NULL
+1003001	exportiamalg #1	17	26	NULL
+2003001	scholarmaxi #12	18	16	NULL
+2003001	amalgbrand #4	17	19	NULL
+2003001	amalgbrand #4	9	43	NULL
+2004001	importoexporti #2	18	31	NULL
+2004002	edu packimporto #2	17	3	NULL
+3001001	amalgexporti #1	17	25	NULL
+3001001	amalgexporti #1	19	19	NULL
+3001002	amalgexporti #2	19	34	NULL
+3001002	amalgexporti #2	17	2	NULL
+3002002	importoexporti #2	8	2	NULL
+3003001	exportiexporti #1	19	40	NULL
+3003001	exportiexporti #1	9	16	NULL
+3003001	importoimporto #2	17	24	NULL
+3003001	importoimporto #2	17	28	NULL
+3003002	exportiexporti #2	19	10	NULL
+3004001	edu packexporti #1	17	24	NULL
+3004002	edu packexporti #2	8	2	NULL
+4001001	importobrand #2	19	16	NULL
+4001001	exportiimporto #2	17	13	NULL
+4001002	amalgedu pack #2	18	0	NULL
+4001002	amalgedu pack #2	19	29	NULL
+4001002	amalgedu pack #2	19	13	NULL
+4002002	importoedu pack #2	17	41	NULL
+4002002	importoedu pack #2	18	15	NULL
+4002002	importoedu pack #2	9	27	NULL
+4003002	exportiedu pack #2	19	0	NULL
+4004001	edu packimporto #2	18	0	NULL
+4004001	edu packedu pack #1	9	51	NULL
+5001001	amalgscholar #1	18	14	NULL
+5002001	importoscholar #1	17	45	NULL
+5002001	exporticorp #4	17	0	NULL
+5002002	importoscholar #2	9	0	NULL
+5003001	exportischolar #1	9	29	NULL
+5003001	exportiamalg #2	17	55	NULL
+5004002	edu packscholar #2	17	27	NULL
+6007007	brandcorp #7	19	15	NULL
+6009007	importoscholar #2	9	50	NULL
+6010002	univbrand #2	17	32	NULL
+6010006	univbrand #6	17	10	NULL
+6011003	importobrand #4	18	18	NULL
+6011008	amalgbrand #8	9	36	NULL
+6012002	importobrand #2	9	22	NULL
+7001002	amalgbrand #2	19	5	NULL
+7005006	scholarbrand #6	18	26	NULL
+7012001	scholarcorp #6	9	10	NULL
+7012010	importonameless #10	17	2	NULL
+7013001	exportinameless #1	8	26	NULL
+7016009	univnameless #10	19	24	NULL
+8004001	importonameless #2	17	24	NULL
+8007001	brandnameless #1	18	34	NULL
+8008004	namelessnameless #4	17	49	NULL
+8008007	namelessnameless #7	19	57	NULL
+8008009	namelessnameless #9	9	54	NULL
+8009003	maxinameless #3	18	7	NULL
+8010004	univmaxi #4	18	43	NULL
+8015003	scholarmaxi #3	17	19	NULL
+9007005	maxinameless #10	18	51	NULL
+9009009	maximaxi #9	18	49	NULL
+9010012	univunivamalg #12	18	19	NULL
+9011008	amalgunivamalg #8	9	0	NULL
+9012003	importounivamalg #3	17	43	NULL
+9013012	exportiunivamalg #12	18	26	NULL
+10006016	corpunivamalg #16	17	24	NULL
+10008012	namelessunivamalg #12	18	0	NULL
+10009013	exportibrand #6	17	39	NULL
+10012001	importoamalgamalg #1	8	28	NULL
+10016003	corpamalgamalg #3	19	0	NULL

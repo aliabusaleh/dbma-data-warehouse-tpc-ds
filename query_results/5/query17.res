@@ -1,3 +1,0 @@
-i_item_id	i_item_desc	s_state	store_sales_quantitycount	store_sales_quantityave	store_sales_quantitystdev	store_sales_quantitycov	store_returns_quantitycount	store_returns_quantityave	store_returns_quantitystdev	store_returns_quantitycov	catalog_sales_quantitycount	catalog_sales_quantityave	catalog_sales_quantitystdev	catalog_sales_quantitycov
-AAAAAAAAEEMCAAAA	Extra, annual kinds produce other lights. Successful pp. should not tell home in a husbands. Centres ho	TN	1	70.0000	NULL	NULL	1	18.0000	NULL	NULL	1	83.0000	NULL	NULL
-AAAAAAAAFOOHAAAA	Considerable, native members might speak firmly then formal germans. Yesterday outer words believe however; now white discussions avoid hard dogs	TN	1	33.0000	NULL	NULL	1	12.0000	NULL	NULL	1	48.0000	NULL	NULL

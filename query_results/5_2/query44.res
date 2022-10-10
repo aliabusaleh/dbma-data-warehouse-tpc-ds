@@ -1,0 +1,11 @@
+rnk	best_performing	worst_performing
+1	ationoughtbareseable	ableesebaroughtpri
+2	oughtantiprin stought	callyn stablebarese
+3	antiationableoughtought	callyeingationantiought
+4	ableoughtantibarpri	eingbarcallyese
+5	antiableeingn st	antiationationanti
+6	callyantiesecallypri	barablen stbarought
+7	antiantiantibarese	barableationeingought
+8	ablecallyablen stese	esen stoughtcallyought
+9	pribarantin stpri	barn stantiationpri
+10	ableoughteingableanti	barn stbarcally

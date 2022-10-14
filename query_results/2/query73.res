@@ -1,0 +1,13 @@
+c_last_name	c_first_name	c_salutation	c_preferred_cust_flag	ss_ticket_number	cnt
+NULL	NULL	Mrs.	NULL	352386	5
+Deluca	Carrie	Ms.	Y	92639	5
+Greer	Ethel	Mrs.	Y	47551	5
+Hayes	Charles	Dr.	N	86207	5
+King	Thomas	Mr.	Y	104962	5
+Obrien	Scott	Mr.	N	283353	5
+Pacheco	Elizabeth	Mrs.	N	131068	5
+Regalado	Michael	Dr.	N	203358	5
+Rigby	Eric	Sir	Y	464525	5
+Slade	Justin	Sir	N	86396	5
+Villegas	Troy	Sir	N	139138	5
+Randall	David	Mr.	N	113766	4

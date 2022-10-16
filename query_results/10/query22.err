@@ -1,2 +1,1 @@
 mysql: [Warning] Using a password on the command line interface can be insecure.
-ERROR 3 (HY000) at line 2: Error writing file '/tmp/MYfd=52' (OS errno 28 - No space left on device)

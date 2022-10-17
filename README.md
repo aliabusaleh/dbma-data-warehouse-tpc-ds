@@ -11,10 +11,10 @@ applicable aspects of a decision support system, including queries
 and data maintenance.
 
 This project is done by: <br />
-* <b>Ali AbuSaleh
-* Muhammad Rizwan Khalid 
-* Liliia Aliakberova 
-* Mariana Mayorga Llano </b> <br/>
+* <b>[Ali AbuSaleh](https://github.com/aliabusaleh)
+* [Muhammad Rizwan Khalid](https://github.com/mrizwank97)
+* [Aliakberova, Liliia](https://github.com/Liliia-Aliakberova)
+* [Mayorga Llano, Mariana](https://github.com/marianamllano) </b> <br/>
 
  Under supervision of professor <b>Esteban Zimanyi</b>
 

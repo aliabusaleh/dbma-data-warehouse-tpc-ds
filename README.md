@@ -71,8 +71,8 @@ The dependencies of the project.
 <hr>
 
 ## How to run the project
-1. Generate the data
-2. You need to add the following local variables:  
+1. Generate the data using TPC tool
+2. You need to add the following local variables(export in case of shell):  
    1. Schema root directory ->  *DB_SCHEMA_PATH*
    2. Schema file name (.SQL) -> *DB_SCHEMA_FILE_NAME*
    3. Generated data root path -> *DATA_ROOT_PATH*
@@ -81,6 +81,13 @@ The dependencies of the project.
       2. port -> *DB_PORT* 
       3. username -> *DB_USERNAME*
       4. password -> *DB_PASSWORD* 
+5. Run main.py 
+6. Check the loaded Data and the created schema
+7. Generate the Queries (using TPC tool)
+8. Modify *mysql_execute_queries.sh* with your correct directory of the queries
+9. Modify *mysql_execute_query.sh* with correct USERNAME and PASSWORD for mysql
+10. RUN *mysql_execute_queries.sh* "usage described in the comment inside the file"
+
 
 
 [//]: <> (more info to be added)

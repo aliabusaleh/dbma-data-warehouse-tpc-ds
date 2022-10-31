@@ -87,7 +87,8 @@ The dependencies of the project.
 8. Modify *mysql_execute_queries.sh* with your correct directory of the queries
 9. Modify *mysql_execute_query.sh* with correct USERNAME and PASSWORD for mysql
 10. RUN *mysql_execute_queries.sh* "usage described in the comment inside the file"
+11. When Step 8 is done, run *mysql_result_summary.sh* 
 
-
+<u>All Bash scripts has usage description on the files.</u>
 
 [//]: <> (more info to be added)

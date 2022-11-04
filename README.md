@@ -90,5 +90,6 @@ The dependencies of the project.
 11. When Step 8 is done, run *mysql_result_summary.sh* 
 
 <u>All Bash scripts has usage description on the files.</u>
-
+### Results
+final report attached in the repo
 [//]: <> (more info to be added)
